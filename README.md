@@ -4,4 +4,4 @@
 
 'Hdef Icons' contains circle icons (standardized size 400x400 px)
 
-'Images Links' contains the links from Gallica to download the images again/identify the artists if needed
+'Img links from Gallica' contains the links from Gallica to download the images again/identify the artists if needed
