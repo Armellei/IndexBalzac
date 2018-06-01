@@ -12,7 +12,7 @@
 - dutocq.py instantly generates an index in html and debugs the txt databases
 - txt2json.awk transforms txt databases into proper json files for web integration
   
- 'Heralrdy' contains the coats-of-arms (svg, jpeg icons & jpeg hdef files)
+ 'Heraldry' contains the coats-of-arms (svg, jpeg icons & jpeg hdef files)
 
 'Identification' reports the names of the engravers and/or draughtsman for each illustration, if known
 
