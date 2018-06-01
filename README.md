@@ -5,9 +5,9 @@
 'Hdef Icons' contains circle icons (standardized size 400x400 px)
 
 'Indexing scripts' contains awk & python scripts :
-  >rabourdin.py adds <persName> tags to any XML-TEI file from the txt databases
-  >dutocq.py instantly generates an index in html and debugs the txt databases
-  >txt2json.awk transforms txt databases into proper json files for web integration
+  rabourdin.py adds <persName> tags to any XML-TEI file from the txt databases
+  dutocq.py instantly generates an index in html and debugs the txt databases
+  txt2json.awk transforms txt databases into proper json files for web integration
   
  'Heralrdy' contains the coats-of-arms (svg, jpeg icons & jpeg hdef files)
 
