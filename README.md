@@ -1,5 +1,7 @@
 # IndexBalzac
 
+'Database' contains txt files for each book to be converted into pretty json files.
+
 'Hdef Gallica' contains the engravings (standardized size 1350x2000 px)
 
 'Hdef Icons' contains circle icons (standardized size 400x400 px)
