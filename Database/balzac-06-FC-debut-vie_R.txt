@@ -1,0 +1,212 @@
+3>Cuvier (Jean Léopold Nicolas Frédéric)>>>1>C
+Cuvier
+
+27>Henry-Jude Toulouse>Entrepreneur de messageries.>>1>T
+Toulouse
+
+30>Bourbon-Conti (les)>Famille noble.>>3>B
+Bourbon-Conti
+princes de Conti
+
+57>François Ier>Roi de France>>1>F
+
+28>Napoléon>>France>1>N
+
+63>Louis XVIII>roi>France>1>L
+
+82>Bourbon (maison de)>Famille noble.>>3>B
+Bourbons
+
+125>Danton>>>1>D
+
+149>Roberspierre>>>1>R
+
+165>Conti (prince de)>>>1>C
+prince de Conti
+
+200>Aspasie>Compagne de Périclès.>Grèce>2>A
+
+123>Rousseau (Jean-Jacques)>philosphe et écrivain>France>1>R
+Rousseau
+
+308>Venture>Ami de Rousseau>>1>V
+
+309>Bacle>Ami de Rousseau>>1>B
+
+242>Voltaire>Ecrivain français.>France>1>V
+François-Marie Arouet, dit Voltaire
+
+145>Figaro>personnage de monsieur de Beaumarchais>>1>F
+
+297>Henri IV>Roi de Navarre>>1>H
+
+247>Béranger (Pierre-Jean de)>Chansonnier français.>France>1>B
+Béranger
+
+311>Ney (Michel)>Duc d'Elchingen, maréchal d'Empire.>>1>N
+maréchal Ney
+
+312>Alexandre Ier>Empereur de Russie>Russie>1>A
+l'empereur Alexandre
+
+313>Cousin (Victor)>Professeur de philosophie.>>1>C
+
+74>Byron (lord)>poète>Angleterre>1>B
+lord Byron
+
+314>Pacha de Janina>>>1>P
+Ali
+Tébélen
+Ali de Tébélen
+monsieur de Tébélen
+Ali, Pacha de Janina
+Ali pacha de Janina
+
+315>Soult (Nicolas-Jean-de-Dieu)>Militaire français.>France>1>S
+maréchal Soult
+
+316>Vernet (Horace)>Peintre.>France>1>V
+
+317>Seve (Joseph)>>>1>S
+Selves
+Soliman Pacha, né Joseph Seve
+
+318>Besson (Nicolas)>Amiral.S>>1>B
+
+319>Ali Pacha (Mohammed)>Vice Roi d'Égypte>>1>M
+pacha Mohammed
+
+320>Czerni-Georges>Militaire serbe.>Serbie>1>C
+Ðorde Petrovic, dit Karadorde
+
+322>Chosrew-Pacha>Turc.>>1>C
+Chosrew
+Chaureff
+Cossereu
+
+218>Murat (Joachim)>personnage politique italien>>1>M
+Murat
+Joachim Murat
+
+323>Rivière (duc de)>Duc.>>1>R
+Charles François Riffardeau de Rivière
+
+325>Mahmoud II>Sultan de l'empire ottoman.>>1>M
+Padischa
+Padischah Mahmoud
+
+164>Hobbéma>peintre>>1>H
+
+326>Lorrain (Claude)>Peintre>>1>L
+Claude Lorrain
+Claude Gellée, dit le Lorrain
+327>>>>>
+
+328>Ruysdaël (Jacob van)>Peintre néerlandais>>1>R
+Ruysdaël
+
+329>Poussin (Nicolas)>Peintre>>1>P
+Poussin
+
+47>Raphaël>peintre>>1>R
+Raffaello Sanzio
+
+49>David (Jacques-Louis)>peintre>>1>D
+David
+
+330>Diafoirus>Personnage de Molière>>1>D
+
+331>Allah>>>1>A
+
+332>Andrieux (François)>Poète et auteur dramatique français.>France>1>A
+François Andrieux
+monsieur Andrieux de l'Académie française
+François-Guillaume-Jean-Stanislas Andrieux
+
+333>Royer-Collard (Pierre-Paul)>Homme politique français.>France>1>R
+monsieur Royer-Collard
+Pierre-Paul Royer-Collard
+
+334>Alibert (Jean-Louis)>Médecin français>France>1>A
+docteur Alibert
+
+230>Montesquieu>Ecrivain et philosophe>>1>M
+Charles de Secondat, baron de Montesquieu
+
+335>Arnolphe>Personnage de Molière>>1>A
+
+336>Bergeret de Grancourt>Père du fermier général François Bergeret>>1>B
+Pierre-Jacques-Onésime Bergeret de Grandcourt
+Bergeret
+
+337>Baudard (Claude)>Fermier général>>1>B
+Bodard
+Claude Baudard de Vaudésir
+
+338>Bouret (Étienne-Michel)>Fermier-général>>1>B
+Bouret
+
+339>Pâris>Frères, financiers français.>France>3>P
+les Pâris
+
+86>Louis XV>roi de France>France>1>L
+
+340>Nattier (madame)>Plumassière et fleuriste parisienne.>Paris>2>N
+
+341>Laforêt>Servante de Molière>>2>L
+
+101>Ève>>>2>E
+
+234>Don Quichotte>Personnage de Cervantès>>1>D
+
+342>Piron (Alexis)>Auteur.>France>1>P
+Piron
+
+343>Vadé (Jean-Joseph)>Chansonnier français.>France>1>V
+Vadé
+
+344>Collé (Charles)>Chansonnier français.>>1>C
+Collé
+
+310>Gaudichon (mère)>Personnage de chanson populaire française.>>2>G
+mère Gaudichon
+Mère Godichon
+
+345>Talma (François-Joseph)>Acteur frnaçais.>France>1>T
+
+346>Terrasse (Nicolas François)>Archiviste français.>France>1>T
+Terrasse
+
+347>Duclos (Charles-Louis-Antoine Jacquet)>Sous-chef de section aux archives, entré dans l'étude de Guillonet-Merville. A rencontré Balzac.>Paris>1>D
+Duclos
+
+348>Jacques II>Roi d'Angleterre.>Angleterre>1>J
+James Stuart
+
+353>Coulon>Professeur de danse.>Paris>1>C
+
+354>Vestris>Danseur à l'opéra de Paris.>Paris>1>V
+
+355>Judas>Apôtre>>1>J
+
+349>Borrel>Restaurateur parisien.>Paris>1>B
+
+350>Balaine>Restaurateur parisien.>Paris>1>B
+
+351>Dundas (Henry)>>>1>D
+Dundas
+
+352>Pitt (William)>Homme d'état anglais.>Angleterre>1>P
+Pitt
+
+356>Armide>Personnage de Torquato Tasso.>>2>A
+
+357>Chevet (Germain-Charles)>Restaurateur.>Paris>1>C
+Chevet
+
+67>Lafayette>>France>1>L
+La Fayette
+Gilbert du Motier de La Fayette
+
+358>Fieschi (Giuseppe)>Conspirateur.>>1>F
+Fieschi

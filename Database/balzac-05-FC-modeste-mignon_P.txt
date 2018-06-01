@@ -1,0 +1,454 @@
+176>Latournelle (Simon Babylas)>Notaire du Havre>Normandie>1>L
+@marié à:177
+@père de:178
+Latournelle
+Babylas Latournelle
+Simon Babylas Latournelle
+
+177>Latournelle (Agnès)>Femme de notaire, fille du greffier du tribunal de première instance. Roide comme un pieu, prend du tabac, couperosée, se pose en femme considérable. Possède une voix aigre.>Normandie>2>L
+@mariée à:176
+@mère de:178
+Agnès
+Agnès Latournelle
+mademoiselle Agnès
+madame Latournelle
+Madame Latournelle
+
+178>Latournelle (Exupère)>Fils de notaire, doit commencer son droit en 1829>Normandie>1>L
+@fils de:176,177
+Exupère
+petit Latournelle
+Exupère Latournelle
+le petit Latournelle
+
+179>Butscha (Jean)>Premier clerc d’Étude, petit et bossu. Surnommé le nain mystérieux par Modeste Mignon, le clerc obscur par lui-même.>Normandie>1>B
+Butscha
+maître Jean
+Jean Butscha
+
+180>Mignon (Bettina, née Wallenrod)>Fille unique d’un banquier de Francfort-sur-le-Main, allemande. Perd ses deux enfants en bas-âge et deviendra aveugle.>>2>M
+@mère de:181,199,200
+@mariée à:189
+@fille de:198
+Bettina
+madame Mignon
+Madame Mignon
+Bettina Wallenrod
+
+181>Mignon (Modeste)>>>2>M
+@fille de:180,189
+@soeur de:181,199
+Modeste
+O. d’Este-M.
+Modeste Mignon
+mademoiselle Mignon
+mademoiselle Modeste
+mademoiselle d’Este
+mademoiselle de La Bastie
+mademoiselle O. d’Este-M.
+madame de La Brière-La Bastie
+
+182>Dumay (madame, née Grummer)>Américaine, petite femme, âgée de 36 ans en 1829.>Normandie>2>D
+@mariée à:183
+Madame Dumay
+Miss Grummer
+madame Dumay
+
+183>Dumay (Anne-François-Bernard)>Né à Vannes, partit soldat en 1799, à l’armée d’Italie. Deviendra lieutenant. Ancien caissier de la maison Mignon. Breton petit, trapu, grêlé.>Normandie>1>D
+@marié à:182
+@fils de:193,195
+Anne
+Dumay
+Anne Dumay
+monsieur Dumay
+Anne-François-Bernard Dumay
+
+184>Gobenheim>Ancien commis, parent de Gobenheim-Keller.>>1>G
+@neveu de: 191
+monsieur Gobenheim
+
+185>Labrosse (Exupère)>Greffier ayant pris soin de Jean Butscha>Normandie>1>L
+Labrosse
+Exupère Labrosse
+
+186>Labrosse (Agnès)>Fille de greffier>Normandie>2>L
+Agnès Labrosse
+
+187>famille Latournelle>>Normandie>3>L
+@composée de:177,176,178
+les Latournelle
+
+188>Vilquin (monsieur)>Propriétaire d'une villa, le Chalet d'Ingouville.>Ingouville, Normandie>1>V
+@père de:207,211
+@marié à:208
+Vilquin
+monsieur Vilquin
+Monsieur Vilquin
+
+189>Mignon (Charles)>Officier de la Légion-d’Honneur, lieutenant-colonel dans les cuirassiers de la Garde, et major d’un régiment de cavalerie en 1812.>Normandie>1>M
+@marié à:180
+@père de:181,199
+@fils de:194,196
+Charles
+Charles Mignon
+CHARLES MIGNON
+colonel Mignon
+Monsieur Mignon
+
+190>famille Mignon>>Normandie>3>M
+@composée de:180,189,181
+maison Mignon
+
+191>famille Vilquin>>Normandie>3>V
+@composée de:188,207,208,243
+les Vilquin
+
+192>Gobenheim-Keller>Chef de la grande maison de banque parisienne Gobenheim-Keller.>Paris>1>G
+@oncle de:184
+
+193>Dumay (père)>Président du tribunal révolutionnaire, assez méchant avocat, mort sur l'échafaud après le 9 thermidor.>>1>D
+@père de:183
+Monsieur Dumay (père)
+
+195>Dumay (mère)>Femme d'avocat, morte de chagrin après la mort de son mari.>>2>D
+@mère de:183
+Madame Dumay (mère)
+
+194>Mignon de la Bastie (comte)>Comte, massacré avec femme et enfants, à l'exception de Charles Mignon, après avoir été découvert à Orange.>>1>M
+@père de:189
+@marié à:196
+comte de la Bastie
+Mignon de la Bastie
+Comte Mignon de la Bastie
+
+196>Mignon de la Bastie (comtesse)>Comtesse>>1>M
+@mariée à:194
+@mère de:189
+Comtesse Mignon de la Bastie
+madame la comtesse de La Bastie
+
+197>famille Mignon de la Bastie>>>3>M
+@composée de:196,194,189
+
+198>Wallenrod-Tustall-Bartenstild (baron de)>Baron allemand déchu, banquier de Francfort-sur-le-Main.>>1>W
+@père de:180
+baron de Wallenrod-Tustall-Bartenstild
+
+199>Mignon (Bettina-Caroline)>Née en 1805.>>2>M
+@fille de:180,189
+@soeur de:200,181
+Caroline
+Caroline Mignon
+Bettina-Caroline
+mademoiselle Caroline
+BETTINA-CAROLINE MIGNON
+Bettina-Caroline Mignon
+
+200>Mignon (Marie-Modeste)>Née en 1808>>2>M
+@soeur de:199,181
+@fille de:180,189
+Marie-Modeste
+Marie-Modeste Mignon
+
+201>famille Goriot>>>3>G
+Goriot
+
+202>Estourny (Georges d’)>Condamné pour de constantes fraudes au jeu par la Police correctionnelle.>>1>E
+Georges
+d’Estourny
+Georges d’Estourny
+
+203>Troussenard (docteur)>Docteur de la famille Mignon.>>1>T
+docteur Troussenard
+
+204>Gobet (madame)>Cordonnière>>2>G
+madame Gobet
+
+205>Althor (Francisque)>Dandy du Havre, fils d'un riche banquier Hambourgeois établi au Havre depuis 1815.>>1>A
+@fils de:242
+Francisque
+le fils Althor
+Francisque Althor
+monsieur Althor fils
+
+206>famille Dumay>>>3>D
+@composée de:182,183,193,195
+les Dumay
+Les Dumay
+
+207>Vilquin (mademoiselle)>Aînée de la famille Vilquin>>2>V
+@fille de:188,208
+@soeur de:211,243
+mademoiselle Vilquin
+
+208>Vilquin (madame)>>>2>V
+@mariée à:188
+@mère de:207,211
+madame Vilquin
+
+209>Cochet (Françoise)>Fidèle servante de Bettina-Caroline Mignon, créature assez disgrâciée.>Normandie>2>C
+F. Cochet
+Françoise
+Françoise Cochet
+mademoiselle Françoise
+
+210>Sophie Grignoux (dite Florine)>Artiste lyrique>>2>F
+Florine
+
+211>Vilquin (fils)>>>>V
+@frère de:207,243
+@fils de:188,208
+
+128>Canalis (monsieur de)>Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.>Paris>1>C
+@emploie:230
+Monsieur le baron de Canalis
+Constant Cyr Melchior
+Monsieur de Canalis
+Canalis (baron de)
+baron de Canalis
+de Canalis
+Canalis
+Melchior
+
+151>Arthez (Daniel d’)>écrivain>>1>A
+d’Arthez
+D’Arthez
+
+212>Dauriat>Editeur des poésies de Canalis>>1>D
+
+173>Bixiou>Faiseur de caricatures.>Paris>1>B
+
+316>Bridau (Joseph)>Peintre. Envoyé par Schinner avec Mistrigris peindre chez le comte de Sérisy. Portera la rosette de la Légion-d’Honneur 14 ans plus tard. Epousa mademoiselle Léger en 1838.>>1>B
+Joseph Bridau
+
+165>Schinner (Hippolyte)>Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.>Paris>1>S
+Schinner
+
+213>Sommervieux (Théodore de)>Baron.>France>1>S
+Sommervieux
+Théodore de Sommervieux
+
+214>Nathan (Raoul)>Journaliste et auteur.>>1>N
+Nathan
+Raoul Nathan
+
+215>famille de Navarreins>>>3>N
+les Navarreins
+
+216>famille de Cadignan>>>3>C
+les Cadignan
+
+217>famille de Grandlieu>>>3>G
+
+219>famille de Nègrepelisse>>>3>N
+
+138>Marsay (Henri de)>comte>Paris>1>M
+de Marsay
+De Marsay
+
+107>Chaulieu (monsieur de)>Noble diplomate, duc. A cinquante ans en 1823, blond, bien fait, il possède une taille jeune et a une tournure et des grâces exquises. Refuse un ministère la même année, préférant une ambassade.>Paris>1>C
+duc de Chaulieu
+Henri
+
+104>Chaulieu (duchesse de)>Duchesse âgée de 38 ans en 1823, elle a une loge aux Italiens.>Paris>2>C
+@mère de:101,100,109
+@mariée à:107
+Éléonore
+madame de Chaulieu
+Éléonore de Chaulieu
+duchesse de Chaulieu
+madame la duchesse de Chaulieu
+
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>marquise>Paris>2>E
+Jeanne-Clémentine-Athénaïs
+madame d’Espard
+
+218>La Brière (Ernest de)>Né d'une bonne famille de Toulouse, de taille ordinaire, la figure fine relevée par de petites moustaches et par ne virgule à la Mazarin. Décoré de la Légion-d'Honneur, ami de Canalis.>Paris>1>L
+Ernest
+La Brière
+Ernest de La Brière
+vicomte de La Bastie-La Brière
+
+288>Rubempré (Lucien Chardon de)>Fils d’un ancien chirurgien-major des armées républicaines. Écrivain, poète, journaliste.>Angoulême, Paris>1>R
+Lucien de Rubempré
+
+221>famille d'Hérouville>>>3>H
+@composée de:222,223,224,225
+Les d’Hérouville
+
+222>Hérouville (duc d')>Né en 1796, à Vienne. Duc d’Hérouville, marquis de Saint-Sever, duc de Nivron, comte de Bayeux, vicomte d’Essigny, Grand-Écuyer de France et Pair, chevalier de l’Ordre de l’Éperon et de la Toison d’or, Grand d’Espagne, fils du dernier gouverneur de Normandie.>>1>H
+Sa Seigneurie monsieur le duc d’Hérouville
+duc d'Hérouville
+
+223>Hérouville (duchesse d')>>>2>H
+duchesse d'Hérouville
+
+224>Hérouville (mademoiselle d’)>Vieille fille ayant entre 30 et 50 ans en 1829.>>2>H
+mademoiselle d’Hérouville
+
+225>Hérouville (cardinal d')>Cardinal>>1>H
+
+226>maison Mongenod>Banque>>3>M
+
+227>Castagnould>Second de monsieur Mignon. Ancien serviteur de la famille à qui M. Mignon a fait faire une petite fortune.>Provence>1>C
+
+228>Arthur (monsieur)>Personnage inventé par Modeste Mignon pour éloigner Butscha.>>1>A
+monsieur Arthur
+
+229>Grindot>Architecte parisien à la mode.>>1>G
+
+230>Bonnet (Germain)>Valet de chambre de Canalis.>Paris>1>B
+@employé par:128
+Germain
+monsieur Germain
+monsieur Germain Bonnet
+
+231>Marcelin (abbé)>Curé d'Ingouville.>>1>M
+abbé Marcelin
+
+232>Mongenod>Banquier>Rue Chantereine, Paris>1>M
+@père de:235
+le banquier Mongenod
+
+233>Desplein>Grand chirurgien>>1>D
+
+234>Amaury (madame)>Propriétaire d'un pavillon à Sanvic loué à Canalis.>Sanvic>2>A
+Amaury
+madame Amaury
+
+58>Aiglemont (Victor d’)>Colonel, marquis.>Paris>1>A
+d’Aiglemont
+Victor d'Aiglemont
+marquis d’Aiglemont
+
+235>Mongenod (mademoiselle)>Fille de banquier.>Paris>2>M
+@fille de:232
+@mariée à:236
+mademoiselle Mongenod
+
+236>Fontaine (monsieur de)>Deuxième fils du comte de Fontaine.>>1>F
+@marié à:235
+monsieur de Fontaine
+
+237>famille de Nucingen>>>3>N
+Nucingen
+
+238>Nucingen (madame de)>>>2>N
+madame de Nucingen
+
+239>Mortsauf (comte de)>Comte>>1>M
+comte de Mortsauf
+
+240>Espard (marquis d’)>>>1>E
+marquis d’Espard
+
+241>Maufrigneuse (duchesse de)>>>2>M
+@mariée à:264
+Diane
+Diane de Maufrigneuse
+madame de Maufrigneuse
+duchesse de Maufrigneuse
+
+242>Althor (Jacob)>Riche banquier de Hambourg.>>1>A
+@père de:205
+Althor
+Jacob Althor
+le père Althor
+
+243>Vilquin (mademoiselle la cadette)>>>2>V
+@soeur de:211,207
+@fille de:188,208
+mademoiselle Vilquin la cadette
+
+244>Jacmin (Philoxène)>Femme de chambre d'Éléonore de Chaulieu.>>2>J
+Philoxène
+mademoiselle Philoxène Jacmin
+
+245>famille Jacmin>Famille établie à Honfleur, comprenant 11 branches.>>>J
+Jacmin
+
+246>Hérouville (Hélène d')>>>2>H
+Hélène
+Hélène d’Hérouville
+
+247>Cadignan (prince de)>>>1>C
+prince de Cadignan
+
+248>Stidmann>Célèbre bijoutier parisien ayant réalisé un pommeau de cravache vendu à Ernest de la Brière.>Paris>1>S
+
+249>Wadman (veuve)>Personnage de Laurence Sterne.>>2>W
+veuve Wadman
+
+250>Rochefide (madame de)>>>2>R
+madame de Rochefide
+
+251>Jacmin (Jean)>Prétendu cousin de Philoxène Jacmin.>>1>J
+Jean Jacmin
+
+252>Verneuil (Gaspard, duc de)>>>1>V
+@marié à:256
+@père de:257,260
+Gaspard
+duc de Verneuil
+Gaspard de Verneuil
+
+253>Cottin>Fermier-général ayant fait bâtir Rosembray sous Louis XIV.>>1>C
+@père de:254
+
+254>Cottin (mademoiselle)>Unique héritière de Cottin.>>2>C
+@fille de:253
+mademoiselle Cottin
+
+255>Marigny (duc de)>Duc et marquis>>1>M
+duc de Marigny
+
+256>Verneuil (Hortense, duchesse de)>>>2>V
+@mariée à:252
+@mère de:257,260
+Hortense
+duchesse Hortense de Verneuil
+
+257>Verneuil (Laure de)>>>2>V
+@fille de:256,254
+Laure
+Laure de Verneuil
+mademoiselle de Verneuil
+
+258>Sérizy (vicomte de)>Jeune officier de la compagnie des Gardes d’Havré.>>1>S
+@marié à:259
+vicomte de Sérizy
+
+259>Sérizy (madame de)>>>2>S
+@mariée à:258
+madame de Sérizy
+
+260>Loudon (prince de)>Aîné des enfants du duc et de la duchesse de Verneuil.>>1>L
+@fils de:252,256
+prince de Loudon
+Gaspard de Verneuil, prince de Loudon
+
+17>Chaulieu (Alphonse de, duc de Réthoré)>Peu aimable. Épousera la duchesse d'Argaiolo à Florence.>Paris>1>C
+Alphonse
+duc de Rhétoré
+monsieur le duc de Rhétoré
+Alphonse de Chaulieu, duc de Réthoré
+
+261>famille de Portenduère>>>3>P
+les Portenduère
+
+262>famille de l'Estorade>>>3>E
+les l’Estorade
+
+263>famille de Maucombe>>>3>M
+les Maucombe
+
+264>Maufrigneuse (duc de)>Florentine et Mariette le fréquentent en 1825.>>1>M
+@marié à:241
+duc de Maufrigneuse
+
+265>Barry (John)>Premier piqueur à la chasse du prince de Loudon à laquelle participe Modeste Mignon.>>1>B
+John
+John Barry
+
+266>La Roulie (Jacquin)>Piqueur français (chasseur)>>1>L
+Jacquin La Roulie

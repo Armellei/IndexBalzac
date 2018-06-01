@@ -1,0 +1,71 @@
+162>portière>Portière du peintre Schinner>Paris, rue de Suresne>2>P
+
+163>Leseigneur (Adélaïde)>>Paris, rue de Suresne>2>L
+@fille de:164,169
+Adélaïde
+Adélaïde Leseigneur
+mademoiselle Leseigneur
+Mademoiselle Leseigneur
+mademoiselle de Rouville
+
+164>Leseigneur de Rouville (baronne)>>Paris, rue de Suresne>2>L
+@mère de:163
+@mariée à:169
+Madame Leseigneur
+madame Leseigneur
+baronne de Rouville
+Madame de Rouville
+madame de Rouville
+Madame la baronne de Rouville
+baronne Leseigneur de Rouville
+
+165>Schinner (Hippolyte)>Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.>Paris>1>S
+@fils de:166
+@ami de:171
+Schinner
+Hippolyte
+Hippolyte Schinner
+
+166>Schinner (madame)>Fille d’un fermier alsacien, n’ayant jamais été mariée.>Paris, rue de Suresne>2>S
+@mère de:165
+madame Schinner
+Mademoiselle Schinner
+
+167>femme de ménage>Vieille femme de ménage à moitié sourde travaillant pour Mme Leseigneur et sa fille.>>>F
+
+168>Molineux (Jean-Baptiste)>Propriétaire parisien.>Paris>1>M
+le sieur Molineux
+Jean-Baptiste Molineux
+
+169>Rouville (monsieur de)>Marin et baron mort à Batavia des suites d’une blessure reçue dans un combat contre un vaisseau anglais qui le rencontra sur les côtes d’Asie.>>1>R
+@marié à:164
+@père de:163
+@ami de:170
+baron de Rouville
+Monsieur de Rouville
+
+170>Du Halga (chevalier)>Vice-amiral, marin.>>1>D
+@ami de:169,174
+@amoureux de:175
+Du Halga
+chevalier Du Halga
+
+171>Souchet (François)>Jeune sculpteur ayant remporté le grand prix.>>1>S
+@ami de:165
+Souchet
+François Souchet
+
+316>Bridau (Joseph)>Peintre. Envoyé par Schinner avec Mistrigris peindre chez le comte de Sérisy. Portera la rosette de la Légion-d’Honneur 14 ans plus tard. Epousa mademoiselle Léger en 1838.>>1>B
+Joseph Bridau
+
+173>Bixiou>Faiseur de caricatures.>Paris>1>B
+
+174>Kergarouët (comte de)>Comte>>1>K
+@ami de:170
+@marié à:175
+Kergarouët
+comte de Kergarouët
+
+175>Kergarouët (comtesse de)>Comtesse décédée.>>2>K
+@mariée à:174
+comtesse de Kergarouët

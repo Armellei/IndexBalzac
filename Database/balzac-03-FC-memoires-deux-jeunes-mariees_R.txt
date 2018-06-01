@@ -1,0 +1,264 @@
+89>Danaïde>fille du roi Danaos, personnage mythologique grec>Grèce>2>D
+
+90>Louis XIV>roi de France>France>1>L
+
+91>Montespan (marquise de)>marquise,favorite de Louis XIV>France>2>M
+Madame de Montespan
+de Montespan
+
+92>La Vallière>maîtresse de Louis XIV>France>2>L
+Louise de La Vallière
+
+93>Louis XV>roi de France>France>1>L
+
+94>Saxe (maréchal de)>maréchal>>1>S
+maréchal de Saxe
+
+95>Pierrard (Victorine)>Célèbre couturière.>>2>V
+Victorine
+Victorine Pierrard
+
+96>Janssen (Jacques)>Bottier, cordonnier de l’Opéra.>>1>J
+Janssen
+Jacques Janssen
+
+97>Richelieu (maréchal de)>maréchal>France>1>R
+maréchal de Richelieu
+
+98>Lomellini>famille établie à Gênes>Gênes>3>L
+
+99>Talleyrand (prince de)>>>1>T
+prince de Talleyrand
+Monsieur de Talleyrand
+
+100>Staël (madame de)>romancière>Paris>2>S
+madame de Staël
+Germaine de Staël
+
+101>Ève>>>2>E
+
+102>Buonaparte>>>1>B
+sieur de Buonaparte
+Napoléon Ier
+Bonaparte
+
+103>Abencerrage>tribu arabe>>3>A
+les Abencerrages
+Abencerrages
+
+104>Valdez>amiral espagnol>Espagne>1>V
+Cayetano Valdés y Flores
+
+105>Ferdinand>roi d'Espagne>Espagne>1>F
+Ferdinand VII
+Ferdinand de Bourbon
+
+106>Riégo (Rafael del)>général et homme politique espagnol>Espagne>1>R
+Riégo
+Rafael del Riego y Nuñez
+
+107>Angoulême (duc d’)>duc>France>1>A
+duc d’Angoulême
+Louis-Antoine de Bourbon, duc d'Angoulême
+
+108>Galignani>libraire anglais établi en France>Paris>1>G
+
+109>Charles-Quint>>>1>C
+Charles de Habsbourg dit Charles Quint
+
+28>Napoléon>>France>1>N
+
+111>Jésus-Christ>>>1>J
+
+112>Garcia>chanteur italien (ténor) qu'entend Louise de Chaulieu dans l'Otello de Rossini>>1>G
+
+113>Pellegrini (Felice)>chanteur italien (basse) qu'entend Louise de Chaulieu dans l'Otello de Rossini>>1>P
+Pellegrini
+Felice Pellegrini
+
+114>Rossini (Gioachino)>compositeur italien>>1>R
+Rossini
+Gioachino Rossini
+
+115>Shakespeare>écrivain et dramaturge anglais>>1>S
+
+116>Othello>personnage de Shakespeare>>1>O
+
+117>Desdémone>personnage de Shakespeare>>2>D
+
+118>Antigone>fille de Jocaste et d'Œdipe>Grèce>1>A
+
+119>Chimène>personnage de Pierre Corneille>>2>C
+
+120>le Cid>personnage de Pierre Corneille>>1>C
+
+121>Gonzalve de Cordoue>militaire espagnol>Espagne>1>C
+
+122>Ximenès (cardinal de)>religieux espagnol>Espagne>1>X
+cardinal de Ximenès
+Francisco Jiménez de Cisneros
+
+123>Rousseau (Jean-Jacques)>philosphe et écrivain>France>1>R
+Jean-Jacques
+Jean-Jacques Rousseau
+
+124>Richardson (Samuel)>écrivain anglais>Angleterre>1>R
+Samuel Richardson
+Richardson
+
+126>Marius (Caius)>général romain>Rome>1>M
+Marius
+Caius Marius
+
+127>Sylla>général romain>Rome>1>S
+
+38>Louis XVI>roi de France>France>1>L
+
+129>Jeanne d’Arc>>>2>J
+
+130>la Fodor>cantatrice française>France>2>F
+Joséphine Fodor
+
+131>Bossuet (Jacques-Bénigne)>écrivain>France>1>B
+Bossuet
+Jacques-Bénigne Bossuet 
+
+1>Corneille (Pierre)>dramaturge français>France>1>C
+Corneille
+
+133>Étanges (Julie d’)>pesonnage de Jean-Jacques Rousseau>>2>E
+Julie
+
+134>roi de Sardaigne>>Sardaigne>1>R
+
+135>Lovelace>Personnage de Samuel Richardson.>>1>L
+
+136>Saint-Preux>personnage de Jean-Jacques Rousseau>>1>S
+
+137>Harlowe (Clarisse)>Personnage de Samuel Richardson.>>2>H
+Clarisse Harlowe
+Clarisse
+
+138>Philippe II>roi d'Espagne>Espagne>1>P
+
+139>Bonald (Louis-Gabriel-Ambroise)>écrivain>France>1>B
+Bonald
+Louis-Gabriel-Ambroise, vicomte de Bonald
+
+140>Corinne>Héroïne de Madame de Staël.>>2>C
+
+141>Mirbel (Lizinska de)>peintre miniaturiste française>>2>M
+Madame de Mirbel
+Lizinska de Mirbel
+
+142>ambassadeur de Sardaigne>Ambassadeur.>>1>A
+
+143>Mahomet>prophète>>1>M
+
+144>Racine (Jean)>écrivain français>>1>R
+Jean Racine
+
+145>Figaro>personnage de monsieur de Beaumarchais>>1>F
+
+146>César>général romain>Rome>1>C
+Caius Julius Caesar
+
+147>Rabelais (François)>Humaniste et écrivain français.>>1>R
+Rabelais
+François Rabelais
+
+148>Westmoreland (comte de)>comte anglais>Angleterre>1>W
+comte de Westmorland
+comte de Westmoreland
+
+226>Oberman>Personnage-titre d'Étienne Pivert de Senancour>>1>O
+
+150>Médée>personnage mythologique>Grèce>2>M
+
+151>Lucine>personnage mythologique (déesse) invoqué lors de l'accouchement>>2>L
+
+152>Vierge Marie>>>2>V
+
+69>Célimène>personnage féminin (coquette) chez Molière>>1>C
+
+2>Molière (Jean-Baptiste Poquelin, dit)>>>1>M
+Molière
+
+63>Louis XVIII>roi>France>1>L
+
+153>Rivarol (Antoine de)>écrivain français>>1>R
+Rivarol
+Antoine de Rivarol
+
+154>Charles X>roi de France>>1>C
+
+128>Florian (Jean-Pierre Claris de)>poète et romancier français>>1>F
+Florian
+Jean-Pierre Claris de Florian
+
+132>Gessner (Solomon)>poète suisse>Suisse>1>G
+Gessner
+Salomon Gessner
+
+155>Numa>roi romain>Rome>1>N
+Numa Pompilius
+
+156>Martignac (vicomte de)>homme d'Etat français>>1>M
+Martignac
+Jean-Baptiste Sylvère Gaye, vicomte de Martignac
+
+157>Bourmont (Louis de)>maréchal de France>France>1>B
+de Bourmont
+Louis Auguste Victor de Ghaisne de Bourmont
+
+158>Polignac (Jules de)>homme politique français>France>1>P
+de Polignac
+Jules Auguste Armand Marie de Polignac
+
+159>Stuarts>dynastie anglaise et écossaise>>3>S
+
+160>Cassandre>personnage mythologique>Grèce>2>C
+
+161>Joséphine>épouse de Napoléon>>2>J
+Joséphine de Beauharnais
+
+162>Rembrandt>peintre>>1>R
+
+163>Rubens>peintre>>1>R
+
+164>Hobbéma>peintre>>1>H
+
+55>Titien>peintre>Italie>1>T
+
+47>Raphaël>peintre>>1>R
+Raffaello Sanzio
+
+166>Décius>empereur romain>>1>D
+
+167>Louis-Philippe>duc d'Orléans>>1>L
+Louis-Philippe d'Orléans
+
+168>Cornélie>fille de Scipion l'Africain>>2>C
+
+169>Louis XIII>roi de France>>1>L
+
+170>Dante>poète et écrivain florentin>>1>D
+Dante Alighieri
+
+171>Sully (duchesse de)>>>2>S
+duchesse de Sully
+
+172>Sully (Maximilien de Béthune, duc de)>>>1>S
+Sully
+Maximilien de Béthune, duc de Sully
+
+173>Thérèse (sainte)>>>2>T
+sainte Thérèse
+
+174>Héloïse>chanoine et abesse du Paraclet>>2>H
+
+175>Verdier>marchand chez qui Gaston Marie achète une cravache>>1>V
+
+67>Lafayette>>France>1>L
+Gilbert du Motier de La Fayette
+La Fayette

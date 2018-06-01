@@ -1,0 +1,138 @@
+1>Corneille (Pierre)>dramaturge français>France>1>C
+Pierre Corneille
+Corneille
+
+2>Molière (Jean-Baptiste Poquelin, dit)>>>1>M
+Molière
+
+3>Cuvier (Jean Léopold Nicolas Frédéric)>>>1>C
+Cuvier
+
+4>Geoffroi-Saint-Hilaire (Étienne)>>>1>G
+Étienne Geoffroy-Saint-Hilaire
+Geoffroi Saint-Hilaire
+
+5>Swedenborg (Emanuel)>>>1>S
+Emanuel Swedenborg
+Swedenborg
+
+6>Saint-Martin (Louis-Claude de)>>>1>S
+Saint-Martin
+
+7>Leibniz (Gottfried Wilhelm)>>>1>L
+Leibnitz
+Leibniz
+
+8>Buffon (Georges-Louis Leclerc, comte de)>>>1>B
+Buffon
+
+9>Bonnet (Charles)>>>1>B
+Charles Bonnet
+
+10>Needham (John Turberville)>>>1>N
+Needham
+
+11>Goethe (Johann Wolfgang von)>>>1>G
+Goethe
+
+12>Leeuwenhoek (Antoni van)>>>1>L
+Leuwenhoëk
+
+13>Swammerdam (Jan)>>>1>S
+Swammerdam
+
+14>Spallanzani (Lazzaro)>>>1>S
+Spallanzani
+
+15>Réaumur (René-Antoine Ferchault de)>>>1>R
+Réaumur
+
+16>Müller (Othon-Frederick)>>>1>M
+Muller
+
+17>Haller (Albrecht von)>>>1>H
+Haller
+
+18>Barthélemy (abbé)>>>1>B
+abbé Barthélemy
+Jean-Jacques Barthélémy
+
+186>Scott (Walter)>écrivain anglais>>1>S
+Sir Walter Scott
+Walter Scott
+
+20>Monteil (Amans-Alexis)>>>1>M
+Monteil
+
+21>Machiavel (Nicolas)>>>1>M
+Machiavel
+
+22>Hobbes (Thomas)>>>1>H
+Hobbes
+
+23>Bossuet (Jacques-Bénigne)>>>1>B
+Bossuet
+
+24>Kant (Emmanuel)>>>1>K
+Kant
+
+25>Montesquieu>>>1>M
+Charles Louis de Secondat, baron de La Brède et de Montesquieu
+
+26>Bonald>>>1>B
+Louis-Gabriel-Ambroise, vicomte de Bonald
+
+123>Rousseau (Jean-Jacques)>philosphe et écrivain>France>1>R
+Rousseau
+
+28>Napoléon>>France>1>N
+
+29>Socrate>>>1>S
+
+111>Jésus-Christ>>>1>J
+
+31>Luther (Martin)>>>1>L
+Luther
+
+32>Calvin (Jean)>>>1>C
+Calvin
+
+33>Cromwell (Thomas)>>>1>C
+Cromwell
+
+34>Orange (Guillaume d') >>>1>O
+
+35>Capet (Hugues)>>>1>C
+
+36>Charles Ier>>>1>C
+
+37>Catherine II>>>2>C
+
+38>Louis XVI>roi de France>France>1>L
+
+39>madame Necker>>>2>N
+Suzanne Curchod, devenue Mme Necker
+
+40>Vierge Marie>>>2>M
+
+41>Bouddha>>>1>B
+
+42>Colomb (Christophe)>>>1>C
+Christophe Colomb
+
+43>Galilée>>>1>G
+Galileo Galilei
+
+44>Gall (Franz Joseph)>médecin allemand>>1>G
+Gall
+
+45>Lavater (Johann-Caspar)>>>1>L
+Lavater
+
+46>Richardson (Samuel)>>>1>R
+Richardson
+
+47>Raphaël>peintre>>1>R
+Raffaello Sanzio
+
+48>Félix Davin>>>1>D

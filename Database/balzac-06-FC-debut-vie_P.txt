@@ -1,0 +1,588 @@
+403>Touchard (père)>Messager.>>1>T
+@père de:36
+@collègue de:267
+Touchard père
+
+36>Touchard (fils)>Messager.>>1>T
+@fils de:403
+Touchard fils
+
+267>Pierrotin>Ce nom devrait être un surnom. Messager, successeur de son père, règnant de Paris à l'Isle-Adam. Fume du tabac dans un brûle-gueule. Intelligent, brave, leste et décidé, possède une figure rougeaude et une expression narquoise. Sorti de la cavalerie à l’époque du licenciement de 1815, il épousa la fille d'un petit aubergiste et devint père de famille. Deviendra entrepreneur des Messageries de l’Oise.>Paris, l'Isle-Adam>1>P
+@collègue de:403
+@emploie:270
+@père de:402
+@beau-père de:304
+
+402>Pierrotin (Georgette)>Epousa en 1838 Oscar Husson avec une dot de cent cinquante mille francs.>Oise>2>P
+@fille de:267
+@mariée à:304
+Georgette Pierrotin
+mademoiselle Georgette Pierrotin
+
+269>Dammartin>Propriétaire de diligences (messager).>>1>D
+
+270>garçon d'écurie>Facteur et valet d'écurie de Pierrotin. Gros auvergnat aux pattes blanches et larges comme des amandes.>>1>G
+@employé par:267
+facteur
+
+271>Rougeot>Gros cheval hors d'âge de Pierrotin.>>4>R
+
+272>Bichette>Jument, petite et infatigable, de Pierrotin. Vaut son pesant d'or.>>4>B
+
+273>Farry, Breilmann et compagnie>Carossiers. Ont substitué les ressorts carrés des Anglais aux cols de cygne français. Fabricants sages et méfiants.>>0>F
+
+274>les Touchard>Propriétaire de diligences (messagers)>>3>T
+les Touchard
+@composé de:403,36
+@emploie:317
+
+276>Moreau (monsieur)>Régisseur, intendant de la ville de Presle. Condamné à mort, fut grâcié en 1804 grâce à monsieur de Sérisy pour lequel il devint secrétaire chargé de ses affaires privées. Tombera amoureux d'une femme de chambre de la comtesse de Sérisy qu'il épousera. Homme dévoué au comte, il possède la clef de ses affaires, habite un joli pavillon au bout des communs et reçoit mille francs d'appointements fixes. Administra Presles consciencieusement pendant huit ans, jusqu'à la naissance de son troisième enfant. Fera ensuite un placement au nom de madame Moreau en conluant un bail d'exploitation des bois de Presles pour 25 000 francs, sans l'avis du comte de Serizy. Possède, selon madame de Reybert, 250 000 francs de fortune. Sera jeté dehors par le comte de Sérisy qui aura découvert la supercherie. Devenu député de l'Oise quatorze ans plus tard, il acheta la terre de Pointel, entre Presles et Beaumont.>Presles>1>M
+@marié à:283
+@fils de:299
+@emploie:325
+@père de:328,323,399
+Moreau
+Moreau fils
+le père Moreau
+monsieur Moreau
+
+275>valet de pied>Valet de pied du comte de Sérisy.>Presles>1>V
+@employé par:278
+
+277>Augustin>Premier valet de chambre du comte de Sérisy.>Presles>1>A
+@employé par:278
+
+278>Sérisy (comte Hugret de)>Comte, pair de France. Travailleur dévoué ayant fait une brillante carrière, levé dès quatre heures du matin et couché à neuf, très amoureux de sa femme vis à vis de laquelle il a l'indulgence d'une mère pour un enfant gâté. Était déjà Conseiller d’État au Grand-Conseil, en 1787, à l’âge de vingt-deux ans, où il se fit remarquer par de très beaux rapports sur des affaires délicates. Élu vers 1794 au Conseil des Cinq-Cents, placé dans le Conseil-d’État au Dix-Huit Brumaire par le Premier Consul, rejoindra ensuite un Ministère. Créé comte et sénateur par l’Empereur, il eut successivement le proconsulat de deux différents royaumes. Se marie en 1806 à quarante ans avec une veuve, Clara-Léontine de Ronquerolles. En 1814, fatigué et ayant besoin de repos, il rejoint son père et s'occupe de lui au château de Sérisy. Deviendra ensuite pair de France et sera nommé par Louis XVIII Ministre d'État, chargé des affaires privées du souverain. Après la seconde chute de l’Empereur, fut nommé Vice président du Conseil d’État et liquidateur, pour le compte de la France, dans le règlement des indemnités demandées par les puissances étrangères. A la fin de sa carrière, aura été fait chevalier des Ordres du roi de France, Grand’Croix de la Légion-d’Honneur, aura l’ordre de la Toison-d’Or, l’ordre de Saint-André de Russie, celui de l’Aigle de Prusse, enfin presque tous les ordres des cours d’Europe. Avant sa mort, obtint pour Oscar la recette de Pontoise.>Sérisy, Paris, Presle>1>S
+@fils de:24
+@marié à:292
+@père de:396
+@beau-frère de:294
+@emploie:331,332,333,275,277
+Lecomte
+Sa Seigneurie
+Son Excellence
+comte de Sérisy
+monsieur Lecomte
+monsieur le comte
+monsieur de Sérisy
+monsieur Hugret de Sérisy
+monsieur le comte de Sérisy
+Sa Seigneurie le comte de Sérisy
+
+279>second valet de chambre>Second valet de chambre du comte de Sérisy.>>1>V
+
+281>Léger>Riche fermier des Molineaux à Beaumont-sur-Oise, exploitant une ferme appartenant à Margueron, bourgeois de Beaumont-sur-Oise, qui fait enclave dans les terres du comte et gâte sa propriété de Presles. Gros homme du poids de cent vingt kilogrammes, au moins. Devenu deux fois millionnaire. Veuf, il épousa Mlle de Reybert sans dot.>Beaumont-sur-Oise>1>L
+@père de:400
+@beau-père de:316
+@marié à:401
+Léger
+père Léger
+Père Léger
+monsieur Léger
+
+282>les Moreau>>>3>M
+@composé de:276,283,299,328,399
+
+283>Moreau (Estelle)>Femme de chambre de la comtesse de Sérisy. Femme du régisseur de Presles. Femme blonde, éclatante et fraîche, restée fluette malgré ses trois enfants.>Presles et Paris, faubourg du Roule>2>M
+@mariée à:276
+@employée par:292
+@emploie:324,329
+@mère de:328,323,399
+Estelle
+madame Moreau
+madame Moreau de l’Oise
+
+24>Sérisy (Hugret de)>Premier Président d’un Parlement avant la Révolution. Décédé en 1794.>Sérisy>1>S
+@père de:278
+Sérisy père
+président de Sérisy
+monsieur de Sérisy le père
+
+291>Ronquerolles (marquis de)>>>1>R
+@frère de:292
+marquis de Ronquerolles
+
+292>Sérisy (comtesse Hugret de)>Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari.>Presles, Paris>2>S
+@soeur de:291
+@mariée à:293,278
+@mère de:396
+@emploie:283
+@tante de:268
+comtesse de Sérisy
+Clara-Léontine de Ronquerolles
+
+293>Gaubert>Un des plus illustres généraux, décédé.>>1>G
+@marié à: 292
+
+294>Rouvre (marquis de)>Fut nommé comte et chambellan par l'Empereur>>1>R
+@beau-frère de:278
+marquis de Rouvre
+
+295>Margueron (monsieur)>Bourgeois de Beaumont-sur-Oise dont la ferme, exploitée par le fermier Léger, fait enclave sur les terres du comte de Sérisy. Veut faire nommer son fils unique receveur particulier des finances à Senlis.>>1>M
+@emploie:281
+@père de:296
+Margueron
+monsieur Margueron
+le père Margueron
+
+296>Margueron (fils)>Fils d'un bourgeois de Beaumont-sur-Oise, simple précepteur.>>1>M
+@fils de :295
+Margueron fils
+fils de monsieur Margueron
+
+297>Crottat (Alexandre)>Notaire du comte de Sérisy>Beaumont>1>C
+@employé par:278
+@emploie:311
+Crottat
+Alexandre Crottat
+maître Alexandre Crottat
+
+298>Derville>Avoué>>1>D
+@employé par:278
+
+229>Grindot>Architecte parisien à la mode.>>1>G
+@employé par: 278
+monsieur Grindot
+
+299>Moreau (père)>Procureur de province, devenu à la Révolution procureur-syndic à Versailles. A sauvé presque tous les biens et la la vie de messieurs de Sérisy père et fils.>>1>M
+@père de:276
+@grand-père de:323,328,399
+Moreau père
+
+300>marchand de bois>Vends pour 25 000 francs un bail d'exploitation des bois dépendant de la terre de Presles à monsieur Moreau, régisseur des terres.>Presles>1>M
+
+280>Reybert (monsieur de)>Officier en retraite depuis 1816, ancien capitaine d'artillerie ayant servi pendant 20 ans. Cherche à se venger du régisseur Moreau qui l'a froissé. Quoique noble, n'a que 600 francs de retraite. Devenu régisseur de Presles à la place de Moreau.>Presles>1>R
+@marié à:301
+@grand-père de:400
+@père de:401
+Reybert
+papa Reybert
+monsieur de Reybert
+
+301>Reybert (madame de)>Née de Corroy, une famille noble du pays Messin. Sa figure est trouée comme une écumoire par la petite vérole, sa taille est plate et sèche, ses yeux ardents et clairs, et ses boucles blondes aplaties sur un front soucieux. Femme d'un officier en retraite.>Presles>2>R
+@mariée à:280
+@mère de:401
+madame de Reybert
+Madame de Reybert, née de Corroy
+
+302>Reybert (famille de)>>>3>R
+@composée de:280,301
+les Reybert
+
+401>Léger (madame)>Fille de monsieur et madame Reybert, épousa le père Léger sans dot avec lequel elle a eu une fille.>>2>L
+@fille de:301,280
+Mademoiselle de Reybert
+
+303>Clapart (madame)>Veuve Husson. Femme célèbre sous le Directoire par ses liaisons avec 5 rois du moment. Épousa Husson, un fournisseur, qui fit fortune puit faillite et se jeta dans la Seine, laissant sa femme enceinte. Elle épousa Clapart à 22 ans dans sa détresse. Moreau la plaça ensuite comme première femme de chambre chez la femme de l'empereur.>7 rue de la Cerisaie, quartier de l'Arsenal, Paris>2>C
+@mère de:304
+@mariée à:309,305
+@courtisée par:276
+madame Clapart
+madame Husson
+
+304>Husson (Oscar)>Enfant de Husson, décédé, et de madame Clapart. Placé au collége Henri IV grâce à monsieur Moreau qui lui obtint une bourse de la Ville de Paris. Jeune homme doué de sottise. Tenu sévèrement au logis paternel. Provoquera l'ire de Moreau qui perdra par sa faute sa place de régisseur de Presles. Placé par Moreau dans l'étude de maître Desroches, sera troisième clerc à 20 ans. Se fait soldat à sa majorité, après une faute grave à l'étude. A 25 ans, en 1830, il était maréchal-des-logis-chef dans la compagnie du vicomte de Sérisy. Dans la bataille de 1830, passera au peuple, attirera l'attention publique et obtiendra la croix de la Légion-d'Honneur. Fut attaché comme aide de camp à La Fayette qui lui fit avoir le grade de capitaine en 1832. Fut envoyé en Afrique où il sauva le vicomte de Sérisy blessé et où il fut récompensé par la croix d’officier de la Légion-d’Honneur et par sa promotion au grade de lieutenant-colonel. Perdra un bras gauche, amputé. Epousa mademoiselle Gergette Pierrotin en 1838.>Paris>1>C
+@fils de:303
+@neveu de:310
+@marié à:402
+Oscar
+Oscar Husson
+le petit Husson
+monsieur Husson
+
+305>Clapart (monsieur)>A toujours des lunettes vertes aux yeux. Homme au teint blafard, aux pantoufles ignobles, paraissant craintif et tyrannique. Employé au Bureau des Finances, doué d'une beauté vulgaire et d'aucune intelligence, il épousa à 27 ans la veuve Husson. Mort en 1835 lors de l'attentat de Fieschi.>7 rue de la Cerisaie, quartier de l'Arsenal, Paris>1>C
+@marié à:303
+@beau-père de:304
+@ami de:334
+Clapart
+monsieur Clapart
+
+306>portière>Portière du 7, rue de la Cerisaie>7 rue de la Cerisaie, quartier de l'Arsenal, Paris>1>P
+
+307>femme de ménage>Fait quelques heures de ménage le matin chez les Clapart, à Paris.>Paris>1>F
+@amployée par:308
+
+308>Clapart (famille)>Famille résidant à Paris.>7 rue de la Cerisaie, quartier de l'Arsenal, Paris>3>C
+les Clapart
+
+311>Marest (Georges)>Second clerc de Maître Crottat. Fils d’un riche quincaillier en gros de la rue Saint-Martin, alors beau jeune homme. Est en 1824 le maître-clerc de maître Hannequin. En 1838, quasimment chauve, devenu presque ignoble de tournure et de maintien. Employé de l'Espérance comme inspecteur-général, institution donnant des dots au jeunes filles après 10 ans, des rentes viagères aux vieillards et payant l'éducation des enfants.>Paris>1>M
+@ami de:312
+@employé par:297,372
+@cousin germain de :353
+Georges
+Georges Marest
+le colonel Georges
+
+312>Amaury>>>1>A
+@ami de:311
+
+313>Lora (Léon de)>Rapin (élève en peinture).>Paris>1>M
+Mistigris
+Léon de Lora
+monsieur Mistigris
+@ami de:316
+
+315>Yung (monsieur)>Beau-père inventé par Georges Marest. Fournisseur chinois.>>1>Y
+
+165>Schinner (Hippolyte)>Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.>Paris>1>S
+Schinner
+Monsieur Schinner
+
+163>Leseigneur (Adélaïde)>>Paris, rue de Suresne>2>L
+Adélaïde de Rouville
+
+60>Fontaine (comte de)>Comte originaire du Poitou, maréchal-de-camp, vendéen, décoré de la croix de l'ordre de la Légion-d'Honneur et celle de Saint-Louis, grand-prévôt puis député, a trois fils et trois filles. Deviendra pair de France. Obtient une commande de plafonds au Louvre pour le peintre Schinner.>France>1>F
+comte de Fontaine
+
+314>Zéna>Femme Grecque. Très belle, mariée à un vieil homme laid et jaloux de 67 ans ayant donné 300 000 francs aux parents pour l'épouser.>>2>Z
+
+316>Bridau (Joseph)>Peintre. Envoyé par Schinner avec Mistrigris peindre chez le comte de Sérisy. Portera la rosette de la Légion-d’Honneur 14 ans plus tard. Epousa mademoiselle Léger en 1838.>>1>B
+@ami de:313
+@gendre de:281
+@marié à:400
+Joseph
+Joseph Bridau
+le faux Schinner
+
+317>duègne>Vieille duègne inventée par Joseph Bridau, laide comme un vieux portier, accompagnant Zéna lors d'une promenade tout aussi inventée sur les remparts.>>2>D
+
+330>François>Conducteur de la diligence de six heures des Touchard.>>1>F
+@employé par:274
+
+318>aubergiste>Propriétaire du Lion-d'Argent, à Paris>Paris>1>A
+
+319>aubergiste>Aubergiste de Saint-Denis vendant de célèbres talmouses et où tous les voyageurs à diligence descendent.>Saint-Denis>1>A
+
+320>aubergiste>Aubergiste de Saint-Brice, cherche à vendre un cheval au père Léger.>Saint-Brice>1>A
+
+57>Loraux (monsieur)>vicaire de Saint-Sulpice>Paris>1>L
+monsieur Loraux
+abbé Loraux
+
+321>Frayssinous (abbé)>Abbé>>1>F
+abbé Frayssinous
+Denis-Antoine-Luc, comte Frayssinous
+
+322>Husson de la Cerisaie (famille)>>>3>H
+@composé de:309,303,304,335
+
+323>Moreau (fils)>Fils cadet de Moreau>>1>M
+@fils de:283,276
+@frère de:328,399
+le petit Moreau
+
+324>fille de basse-cour>Chargée de la laiterie, aide au ménage pour madame Moreau>Presles>2>F
+@employée par:283,276
+
+325>Brochon>Soldat réformé employé par monsieur Moreau pour panser les chevaux et faire les gros ouvrages. Valet d'écurie.>Presles>1>B
+@employé par:276
+
+326>curé de Presles>Se rend chez monsieur et madame Moreau tous les soirs pour jouer.>Presles>1>C
+
+327>maire de Presles>Se rend chez monsieur et madame Moreau tous les soirs pour jouer.>Presles>1>M
+
+328>Moreau (Jacques)>Fils aîné des Moreau>Presles>1>M
+fils de:283,276
+@frère de:323,399
+
+329>Rosalie>femme de chambre de madame Moreau>Presles>2>R
+@employée par:276,283
+
+331>jardinier>Jardinier du comte de Sérisy>Presles>1>J
+@employé par:278
+
+332>concierge>Concierge du comte de Serizy>Presles>1>C
+@employé par:278
+
+333>garde>Garde de la propriété du comte de Serizy>Presles>1>G
+@employé par:278
+
+334>Poiret>Ami de monsieur Clapart.>Paris>1>P
+@ami de:305
+monsieur Poiret
+
+309>Husson>Fournisseur sous le Directoire, il gagna des millions puis fu ruiné par Napoléon en 1802. Se suicida en se jetant dans la Seine en laissant sa femme enceinte.>>1>H
+@marié à:303
+@frère de:335
+@beau-frère de:309
+feu Husson
+
+335>Cardot (feu madame)>Défunte de Jean-Jérôme-Séverin Cardot. Grande femme sèche et rousse.>>2>H
+@mariée à:310
+@soeur de:309
+feu madame Cardot
+mademoiselle Husson
+feu la respectable madame Cardot
+
+41>Camusot (monsieur)>Riche négociant en soieries. Successeur et genre de monsieur Cardot.>Paris, rue des Bourdonnais>1>C
+Camusot
+monsieur Camusot
+@gendre de:310
+
+336>Camusot (madame)>Femme d'un riche négociant en soieries à laquelle son père, monsieur Cardot, a donné son établissement du Cocon-d'Or comme dot.>Paris, rue des Bourdonnais>2>C
+@fille de:310
+@soeur de:337,339,340
+madame Camusot
+
+337>Protez (Marianne)>Née Cardot.Seconde fille de monsieur Cardot.>Paris>2>P
+@mariée à:338
+@fille de:310
+@soeur de:336,339,340
+madame Protez
+
+338>Protez (monsieur)>De la maison Protez et Chiffreville.>Paris>1>P
+@gendre de:310
+
+339>Cardot (fils aîné)>Fils ainé de monsieur Cardot. Notaire.>Paris>1>C
+@fils de:310
+@frère de:340,337,336
+
+340>Cardot (Joseph)>Second fils de monsieur Cardot, associé par son père à la maison de droguerie Matifat.>Paris>1>C
+@fils de:310
+@frère de:336,337,339
+
+310>Cardot (Jean-Jérôme-Séverin)>A fait une grande fortune dans la soierie en se mariant avec mademoiselle Husson. A quatre enfants de deux lits différents. D'abord premier commis de la maison du Cocon-d'Or, il acheta l'établissement en 1793. Occupe le premier étage d'un appartement de Belleville, au dessus de la Courtille.>Belleville, Paris>1>C
+@marié à:335
+@beau-frère de:309
+@père de:336,337,339,340
+@beau-père de:338,41
+Cardot
+père Cardot
+oncle Cardot
+le père Cardot
+le vieux Cardot
+le bonhomme Cardot
+Monsieur Jean-Jérôme-Séverin Cardot
+
+341>Cardot (famille)>Famille parisienne. Le père Cardot a fait fortune dans le négoce de soieries.>Paris>3>C
+@composée de:310,335,336,337,339,340
+les Cardot
+
+342>cuisinière (vieille)>Vieille cuisinière de monsieur et madame Cardot.>Belleville, Paris>2>C
+@employée par:310
+
+343>femme de chambre>Femme de chambre de madame Cardot.>Belleville, Paris>2>F
+@employée par:310
+
+344>Coralie>Comédienne.>Paris>2>C
+@amie de:345
+feu Coralie
+
+346>Camusot (famille)>Famille établie à Paris, propriétaire du Cocon-d'Or.>Paris>3>C
+@composée de:41,336
+les Camusot
+famille Camusot
+
+347>Protez (famille)>>Paris>3>P
+@composée de:337,338
+les Protez
+
+348>Desroches (maître)>Jeune homme de vingt-six ans, élevé durement par un père d’une excessive sévérité, dur comme une barre de fer, sec et maigre, âpre à l’ouvrage. Avoué faisant travailler 5 clercs dans son étude de la rue de Béthisy. >Paris, rue de Béthisy>1>D
+@emploie:349,304,356,371,372,373,374,375
+Desroches
+monsieur Desroches
+
+349>Godeschal (François-Claude-Marie)>Premier clerc de maître Desroches.>Paris>1>G
+employé par:348
+@frère de:350
+Godeschal
+monsieur Godeschal
+François-Claude-Marie Godeschal
+
+350>Mariette>Danseuse parisienne, premier Sujet de l’Académie royale de musique et de danse.>Paris>2>M
+@soeur de:349
+Marie Godeschal
+
+351>Derville (maître)>Confrère de maître Desroches qui lui a pris le clerc Godeschal.>Paris>1>D
+Derville
+maître Derville
+
+352>Gaudet>Second clerc de maître Desroches.>Paris>1>G
+
+353>Marest (Frédéric)>Quatrième clerc de maître Desroches à 23 ans.>Paris>1>M
+@fils de:354
+@cousin germain de:311
+Frédéric
+Frédéric Marest
+
+354>Marest (madame)>Veuve d’un riche marchand de bois.>>2>M
+@mère de:353
+
+355>Bordin (Jérosme-Sébastien Bordin)>Procureur au Châtelet, prédecesseur médiat de Sauvagnest. >Paris>1>B
+@emploie:358,359,360,361,362,363,364,365,366,367,368,369
+Bordin
+maître Bordin
+maistre Jérosme-Sébastien Bordin
+
+356>Sauvagnest>Avoué de Desroches.>Paris>1>S
+@employé par:348
+
+357>Guerbet (monsieur)>Procureur au Châtelet, Paris.>Paris>1>G
+
+358>Malin>En 1787, principal clerc dans l'étude de maître Bordin.>Paris>1>M
+@employé par:355
+
+359>Grevin>En 1787, second clerc dans l'étude de maître Bordin.>Paris>1>G
+@employé par:355
+
+360>Feret (Athanase)>En 1787, clerc dans l'étude de maître Bordin.>Paris>1>F
+@employé par:355
+Athanase Feret
+
+361>Huet (Jacques)>En 1787, clerc dans l'étude de maître Bordin.>Paris>1>H
+@employé par:355
+Jacques Huet
+
+362>Saint-Jean-d’Angély (Regnauld de)>En 1787, clerc dans l'étude de maître Bordin.>Paris>1>S
+@employé par:355
+Regnauld de Saint-Jean-d’Angély
+
+363>Bedeau>En 1787, petit clerc saute-ruisseau dans l'étude de maître Bordin.>Paris>1>B
+@employé par:355
+
+364>Oignard>En 1806, premier clerc de maître Bordin.>Paris>1>O
+@employé par:355
+
+365>Poidevin>En 1806, deuxième clerc de maître Bordin>Paris>1>P
+@employé par:355
+
+366>Proust>En 1806, clerc de maître Bordin>Paris>1>P
+@employé par:355
+
+367>Brignolet>En 1806, clerc de maître Bordin>Paris>1>B
+@employé par:355
+
+368>Derville>En 1806, clerc de maître Bordin>Paris>1>D
+@employé par:355
+
+369>Coret (Augustin)>En 1806, petit-clerc de maître Bordin>Paris>1>C
+@employé par:355
+Augustin Coret
+
+370>Rolland>Restaurateur inventé par Godeschal, établi rue du Hasard, à Paris.>Paris>1>R
+le sieur Rolland
+
+371>Doublet>En 1822, deuxième clerc chez maître Desroches.>Paris>1>D
+@employé par: 348
+
+372>Vassal>En 1822, troisième clerc chez maître Desroches.>Paris>1>V
+@employé par: 348
+
+373>Hérisson>En 1822, clerc chez maître Desroches.>Paris>1>H
+@employé par: 348
+le sieur Hérisson
+
+374>Grandemain>En 1822, clerc chez maître Desroches.>Paris>1>G
+@employé par: 348
+
+375>Dumets>En 1822, petit clerc chez maître Desroches.>Paris>1>D
+@employé par: 348
+
+376>Jacquinaut>Petit clerc chez maître Desroches.>Paris>1>J
+@employé par: 348
+
+377>Hannequin (Léopold)>Ami d'enfance d'Albert Savarus.>Paris>1>H
+@emploie:311
+Hannequin
+Léopold Hannequin
+maître Léopold Hannequin
+
+378>Florentinas y Cabirolos (marquise de)>Prétendue marquise inventée par Gerorges Marest, née au Mexique et fille d’un créole, veuve d'un grand d'Espagne.>Paris>2>F
+marquise de Las Florentinas
+comtesse de Las Florentinas
+marquise de las Florentinas y Cabirolos
+la marquise mexicaine de Las Florentinas y Cabirolos
+
+379>Vandenesse (Charles de)>Ambassadeur en 1825. La même année, en procès contre son frère Félix-Amédée.>>1>V
+@frère de:380
+Charles de Vandenesse
+
+380>Vandenesse (Félix-Amédée de)>Comte.>>1>V
+@frère de:379
+Félix-Amédée de Vandenesse
+comte Félix de Vandenesse
+
+381>Simon>Commis-greffier au Palais de Justice de Paris.>Paris>1>S
+
+345>Florentine (mademoiselle)>Première danseuse du théâtre de la Gaîté à Paris. Courtisée à l'âge de 13 ans par le père Cardot, veuf depuis un an.>Paris, rue de Crussol>2>F
+@fille de:382
+@amie de:129,210,344,394
+@courtisée par:310,311
+Titine
+Florentine
+mademoiselle Cabirolle
+mademoiselle Florentine
+Agathe-Florentine Cabirolle
+
+382>Cabirolle (madame)>Mère de la danseuse Florentine et simple portière.>Paris, rue de Crussol>2>C
+@mère de:345
+
+129>Tullia>danseuse à l'Opéra>Paris>2>T
+@amie de:345,391
+
+210>Sophie Grignoux (dite Florine)>Artiste lyrique>>2>F
+@amie de:345
+Florine
+
+383>Florentinas y Cabirolos (marquis de)>Personnage inventé par Georges Marest figurant le père de Florentine.>>1>F
+marquis de Las Florentinas y Cabirolos
+
+389>Giroudeau>Vieux capitaine de dragons.>>1>G
+le général Giroudeau
+
+390>Finot>Journaliste.>>1>F
+
+391>du Bruel>Auteur>>1>B
+@ami de:129
+Du Bruel
+
+392>Val-Noble (madame du)>>>2>V
+madame du Val-Noble
+
+157>Nathan>auteur dramatique>>1>N
+
+393>Anglade (marquise d')>Nom sous lequel Florentine présente Fanny Beaupré à Oscar Husson.>Paris>2>A
+marquise d’Anglade
+
+394>Beaupré (Fanny)>Jeune actrice.>Paris>2>B
+@courtisée par:310
+@amie de:345
+Fanny-Beaupré
+
+264>Maufrigneuse (duc de)>Florentine et Mariette le fréquentent en 1825.>>1>M
+duc de Maufrigneuse
+
+395>Gaudron (abbé)>Vicaire de Saint-Paul.>Paris>1>G
+abbé Gaudron
+
+396>Sérisy (vicomte Jules de)>Fils unique du comte de Sérisy. Lieutenant-colonel du régiment du duc de Maufrigneuse, aura Oscar Husson sous ses ordres. Blessé lors de l'affaire de la Macta, sauvé par Oscar Husson, il mourra des suites de ses blessures à Toulon. Enterré dans la chapelle du château de Sérisy.>>1>S
+@fils de:278,292
+vicomte de Sérisy
+vicomte Jules de Sérisy
+
+397>Belle-Jambe>Domestique d'Oscar Husson.>Paris>1>B
+
+128>Canalis (monsieur de)>Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.>Paris>1>C
+Canalis
+monsieur le baron de Canalis
+@marié à:399
+@gendre de:276,283
+
+268>Rouvre (mademoiselle du)>>France>2>R
+@mariée à:398
+@nièce de:292
+mademoiselle du Rouvre
+
+398>Laginski (comte)>Jeune polonais fort riche.>France>1>L
+@marié à:268
+comte Laginski
+
+399>Canalis (baronne de)>Fille de monsieur et madame Moreau. A épousé Canalis avec une dot de deux millions.>Paris>2>C
+@mariée à:128
+@fille de:276,283
+@soeur de:323,328
+baronne de Canalis
+
+400>Léger (mademoiselle)>Fille d'un riche fermier, épousa Joseph Bridau en 1838.>>2>L
+@fille de:281
+@petite-fille de:280
+@mariée à:316

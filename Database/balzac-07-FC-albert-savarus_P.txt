@@ -1,0 +1,229 @@
+388>archevêque de Besançon>Se produisait sous la Restauration dans le salon de la baronne de Watteville.>Besançon>1>A
+
+387>Watteville (baronne de)>Née de Rupt. Epousa en 1815 le baron de Watteville, sa fortune étant considérable. Veut marier sa fille Rosalie à monsieur de Soulas, cette dernière refusant, elle l'épouse elle-même après la mort de son mari et aura deux enfants, un garçon et une fille.>Besançon, rue de la Préfecture>2>W
+@mariée à:404,409
+@mère de:405
+@emploie:421,430
+Clotilde de Rupt
+madame de Soulas
+madame Watteville
+madame de Watteville
+mademoiselle de Rupt
+madame la comtesse de Soulas
+madame la baronne de Watteville
+
+404>Watteville (baron de)>Petit-neveu de l'Abbé de Watteville. Homme sec, maigre et sans esprit jouissant d'une ignorance crasse. Epousa en 1815 mademoiselle de Rupt. En 1834, lui et sa femme sont riches depuis 12 ans de cinquante mille francs de rente, et reçoivent la société de Besançon les lundis et vendredis. Mort de congestion dans sa propriété des Riceys en tombant dans le lac après dîner.>Besançon, rue de la Préfecture>1>W
+@marié à:387
+@père de:405
+@emploie:430
+baron de Watteville
+monsieur de Watteville
+monsieur le baron de Watteville
+
+405>Watteville (Rosalie de)>À dix-huit ans, mademoiselle de Watteville était une jeune fille frêle, mince, plate, blonde, blanche, et de la dernière insignifiance. Petite-fille naturelle du maréchal de Saxe et petite-nièce du fameux Watteville. Amoureuse de son voisin qu'elle ne pourra jamais épouser, Albert de Savarus. Fut émancipée avant ses 21 ans. Rejoint Paris avec sa mère qui se marie avec monsieur de Soulas. En février 1838, rencontre la duchesse de Réthoré, ancienne amante d'Albert Savarus, pour lui rendre des lettres interceptés entre la duchesse et son ancien amant Albert. Vit ensuite de manière orginale, seule, sur ses terre des Riceys. Quitta Besançon en 1841 et revient mutilée et défigurée par l'exposion d'une chaudière de bateau à vapeur, suite à quoi elle se consacra uniquement à la religion en entrant à la Chartreuse des Rouxeys.>Besançon>1>W
+@fille de:387,404
+@courtisée par:409
+@emploie:421
+@amoureuse de:408
+Rosalie
+mademoiselle Rosalie
+Rosalie de Watteville
+mademoiselle de Watteville
+mademoiselle Rosalie de Watteville
+
+432>Watteville (famille)>>Besançon>3>W
+@composée de:405,387,404
+les Watteville
+
+406>Rupt (famille de)>>>3>R
+@composée de:387
+les Rupt
+famille de Rupt
+
+407>Grancey (abbé de)>Vicaire-général du diocèse de Besançon.>>1>G
+abbé de Grancey
+monsieur de Grancey
+
+434>Savarus (comte de)>Père d'Albert Savarus.>>1>S
+@père de:408
+comte de Savarus
+
+408>Savarus (Albert)>Avocat. De taille moyenne, ni maigre ni gras. Avant 1830, il était Maître des requêtes au Conseil d’État, attaché à la présidence du conseil des ministres, bien vu du Dauphin et de la Dauphine. A gagné le procès en faveur de l'archevêque de Besançon. Publie une nouvelle dans sa Revue sous le nom de Rodolphe. Amoureux de la duchesse d'Argaiolo, il attendit la mort de son mari pour l'épouser, mais Rosalie de Watteville sabota en secret leur réunion. Devint frère Albert en 1836 en entrant à la Grande Chartreuse comme novice, près de Grenoble.>Besançon>1>S
+@emploie:417
+@fils de:434
+@amoureux de:429
+@ami de:377
+Albert
+Savarus
+Savaron
+Alberto
+Rodolphe
+frère Albert
+Albert Savarus
+Albert Savaron
+monsieur Albert
+monsieur Savaron
+monsieur de Savarus
+monsieur Albert Savaron
+comte Savaron de Savarus
+Albert Savaron de Savarus
+comte Albert Savaron de Savarus
+
+409>Soulas (Amédée de)>Descendant d'une famille espagnole. En 1834, Amédée était un jeune homme de vingt-cinq ans, de taille moyenne, brun, le thorax violemment prononcé, les épaules à l’avenant, les cuisses un peu rondes, le pied déjà gras, la main blanche et potelée, un collier de barbe, des moustaches qui rivalisaient celles de la garnison, une bonne grosse figure rougeaude, le nez écrasé, les yeux bruns et sans expression.>rue Neuve au coin de la rue Perron, Besançon>1>S
+@emploie:413
+@courtise:405
+@marié à:387
+Soulas
+Amédée
+monsieur Amédée
+Amédée de Soulas
+monsieur de Soulas
+comte Amédée de Souleyaz
+Amédée-Sylvain-Jacques de Soulas
+
+410>Savaron de Savarus (famille)>L'une des plus vieilles, plus nobles et plus riches familles de Belgique.>Belgique>3>S
+composée de:415
+
+411>Chavoncourt (madame de)>Mère de quatre enfants et femme de monsieur de Chavoncourt. L'une des belles femmes de Besançon à 40 ans.>Besançon>2>C
+@mère de:426,427
+@mariée à:433
+madame de Chavoncourt
+
+433>Chavoncourt (monsieur de)>Homme très-estimé dans Besançon, représentant une vieille famille parlementaire ; sa fortune, d’environ quinze mille francs de rente, ne choquait personne, d’autant plus qu’il avait un fils et trois filles.>Besançon>1>C
+@marié à:411
+@père de:426,427
+monsieur de Chavoncourt
+
+435>Chavoncourt (fils)>>Besançon>1>C
+@fils de:433,411
+@frère de:426,427
+Le jeune Chavoncourt
+
+412>Soulas (famille de)>Famille d'origine espagnole.>>3>S
+@composée de:409
+Les Soulas
+
+413>Babylas>Fils de fermier, trapu, petit domestique d'Amédée de Soulas.>Besançon>1>B
+@employé par:409
+le tigre Babylas
+
+414>Galard (mademoiselle)>Loue le premier étage de sa maison à Albert Savarus en 1829.>rue du Perron, Besançon>2>G
+mademoiselle Galard
+
+415>Savarus (mademoiselle)>Riche et unique héritière de la famille Savaron de Savarus.>Province de Brabant, Belgique>2>S
+
+416>Galard (monsieur)>>Besançon>1>G
+@emploie:417
+bonhomme Galard
+feu monsieur Galard
+
+417>Jérôme>Ancien valet de chambre de feu monsieur Galard, sachant faire un peu de cuisine. Employé par Albert Savarus lorsqu'il arrive à Besançon.>Besançon>1>J
+@employé par:416,408
+
+418>Garceneault (monsieur de)>Conseille de prendre Albert Savaron comme avocat à l'archevêque de Besançon.>>1>G
+monsieur de Garceneault
+
+419>Giradet (monsieur)>>>1>G
+Girardet
+monsieur Girardet
+
+420>Giroud (abbé)>Confessa mademoiselle de Watteville.>Besançon>1>G
+abbé Giroud
+monsieur Giroud
+
+421>Mariette>Femme de chambre de madame et de mademoiselle de Watteville.>Besançon>2>M
+@employée par:387,405
+
+422>Berquet>Maçon mandaté par monsieur de Watteville pour creuser une cave dans son jardon.>Besançon>1>B
+
+423>Boucher (monsieur)>Premier client d'Albert Savarus.>Besançon>1>B
+@marié à:424
+@père de:425
+monsieur Boucher
+monsieur Boucher le père
+
+424>Boucher (madame)>>Besançon>2>B
+@mariée à:423
+@mère de:425
+madame Boucher
+
+425>Boucher (Alfred)>Jeune homme de 22 ans, très avide de gloire, à qui Alfred Savarus fit désirer la direction de sa Revue.>Besançon>1>B
+@fils de:423,424
+Alfred
+Alfred Boucher
+le jeune Boucher
+
+377>Hannequin (Léopold)>Ami d'enfance d'Albert Savarus.>Paris>1>H
+@ami de:408
+Léopold
+Hannequin
+Léopold Hannequin
+maître Léopold Hannequin
+
+426>Chavoncourt (Sidonie de)>Soeur cadette de Victoire de Chavoncourt.>Besançon>2>C
+@fille de:411,433
+@soeur de:435,427
+Sidonie
+Sidonie de Chavoncourt
+mademoiselle Sidonie de Chavoncourt
+
+427>Chavoncourt (Victoire de)>Soeur aînée de Sidonie de Chavoncourt.>Besançon>2>C
+@fille de:411,433
+@soeur de:435,426
+Victoire
+Victoire de Chavoncourt
+
+428>Argaiolo (duc d')>Vieil homme marié à Francesca, princesse Soderini.>>1>A
+@marié à:381
+Argaiolo
+duc d’Argaiolo
+
+429>Argaiolo (duchesse Francesca d')>Née princesse Soderini. Mariée à un vieil homme, le duc d'Argaiolo, elle épousera  en secondes noces, alors que sa fortune était l'une des plus considérables d'Italie, Alphonse de Chaulieu, duc de Réthoré.>>2>A
+@mariée à:380,429
+@fille de:441
+@courtisée par:408
+Francesca
+Francesca Soderini
+duchesse d’Argaiolo
+duchesse de Rhétoré
+madame la duchesse d’Argaiolo
+
+17>Chaulieu (Alphonse de, duc de Réthoré)>Peu aimable. Épousera la duchesse d'Argaiolo à Florence.>Paris>1>C
+Alphonse
+duc de Rhétoré
+monsieur le duc de Rhétoré
+Alphonse de Chaulieu, duc de Réthoré
+
+107>Chaulieu (monsieur de)>Noble diplomate, duc. A cinquante ans en 1823, blond, bien fait, il possède une taille jeune et a une tournure et des grâces exquises. Refuse un ministère la même année, préférant une ambassade.>Paris>1>C
+duc de Chaulieu
+monsieur le duc de Chaulieu
+
+441>Soderini (prince)>Père de Francesca, duchesse d'Argaiolo.>>1>S
+@père de:429
+prince Soderini
+
+128>Canalis (monsieur de)>Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.>Paris>1>C
+Canalis
+
+430>Modinier>Espèce de maître Jacques, vieux domestique de la maison Watteville, gouvernant la terre des Rouxey pour eux.>>1>M
+@employé par:387,404
+
+431>Chantonnit (monsieur)>Maire des Riceys originaire de Neufchâtel.>Les Riceys>1>C
+Chantonnit
+monsieur Chantonnit
+
+436>Vauchelles (monsieur de)>>Besançon>1>V
+Vauchelles
+monsieur de Vauchelles
+
+437>Granet (monsieur)>Homme influent à qui Savarus avaot rendu service.>Besançon>1>G
+Granet
+
+438>Godenars (abbé de)>Vicaire général.>Besançon>1>G
+Godenars
+
+439>Gentillet>A vendu la vieille calèche de madame de Saint-Vier à Albert Savarus.>Besançon>1>G
+monsieur Gentillet
+
+440>Saint-Vier (feu madame)>Dame décédée de Besançon.>Besançon>2>S
+feu madame Saint-Vier

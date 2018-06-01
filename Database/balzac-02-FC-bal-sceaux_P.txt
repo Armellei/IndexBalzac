@@ -1,0 +1,169 @@
+60>Fontaine (comte de)>Comte originaire du Poitou, maréchal-de-camp, vendéen, décoré de la croix de l'ordre de la Légion-d'Honneur et celle de Saint-Louis, grand-prévôt puis député, a trois fils et trois filles. Deviendra pair de France. Obtient une commande de plafonds au Louvre pour le peintre Schinner.>France>1>F
+@père de:62,66,73
+@beau-père de:61,64,65,74
+@marié à:63
+@emploie:67
+@neveu de:79
+comte de Fontaine
+monsieur de Fontaine
+monsieur le comte de Fontaine
+chef de la famille de Fontaine
+
+61>Planat de Baudry>receveur-général sous Louis XVIII>France>1>P
+@gendre de:60
+@marié à:73
+
+62>Fontaine (Émilie de)>Troisième fille du comte de Fontaine, deviendra comtesse en épousant son grand-oncle.>France>2>F
+@fille de:60,63
+@belle-soeur de:64,65
+@soeur de:73
+@petite-nièce de:79
+@mariée à:79
+@courtisée par:72
+Émilie
+Émilie de Fontaine
+mademoiselle de Fontaine
+mademoiselle Émilie de Fontaine
+
+63>Fontaine (comtesse de)>Comtesse, appartient aux Rohan par sa mère.>France>2>F
+@mariée à:60
+@mère de:62,66,73,74
+@belle-mère de:64,61,65
+La comtesse
+la comtesse
+madame de Fontaine
+comtesse de Fontaine
+
+64>Mongenod (mademoiselle)>fille d'un riche banquier, mariée au deuxième fils du comte de Fontaine, lieutenant-général, devenue baronne puis vicomtesse, se croit tout aussi noble qu’une Kergarouët>France>2>M
+@bru de:60,63
+@belle-soeur de:65,62
+@mariée à:66
+mademoiselle Mongenod
+madame la baronne de Fontaine
+
+65>Grossetête (mademoiselle)>fille unique du receveur-général de Bourges, mariée au troisième fils de comte de Fontaine>France>2>G
+@bru de:60,63
+@belle-soeur de:64,62
+mademoiselle Grossetête
+
+66>Fontaine (baron de)>deuxième fils du comte de Fontaine, simple capitaine avant la Restauration, obtint une légion immédiatement après son retour de Gand, passe dans la garde royale après 1815, devient lieutenant-général après l’affaire du Trocadéro, baron puis vicomte>France>1>F
+@marié à:64
+@fils de:63,60
+baron de Fontaine
+
+67>Joseph>valet de chambre du comte de Fontaine>France>1>J
+@employé par:60
+
+68>Manerville (monsieur de)>prétendant blond d'Émilie de Fontaine, comte, repoussé par Émilie>France>1>M
+Paul de Manerville
+monsieur de Manerville
+
+69>Beaudenord (monsieur de)>prétendant brun d'Émilie de Fontaine, repoussé par Émilie car mal fait, gros, pas noble>France>1>B
+monsieur de Beaudenord
+
+70>Rastignac (monsieur de)>Banquier, proposé à Émilie de Fontaine par son père.>France>1>R
+monsieur de Rastignac
+
+71>Nucingen (madame de)>>France>2>N
+madame de Nucingen
+
+72>Portenduère (vicomte de)>vicomte, parent du comte de Fontaine, proposé à Émilie de Fontaine par son père, repoussé car jugé sans fortune, amoureux d'Émilie>France>1>P
+@amoureux de:62
+vicomte de Portenduère
+
+73>Planat (madame)>femme du receveur-général et aînée d’Émilie de Fontaine>France>1>P
+@mariée à:61
+@soeur de:62
+@fille de:60,63
+madame Planat
+
+74>Villaine (baron de)> mari de la seconde sœur d'Émilie de Fontaine, baron>France>1>V
+@genre de:60,63
+baron de Villaine
+
+75>Marsay (monsieur de)>>France>1>M
+monsieur de Marsay
+
+76>Longueville (Clara de)>>France>2>L
+@soeur de:80,84
+@fille de:83
+Clara
+Clara Longueville
+Clara de Longueville
+
+77>Dudley (lady)>>>2>D
+lady Dudley
+Lady Dudley
+
+78>Vandenesse (monsieur de)>>>1>V
+monsieur de Vandenesse
+
+79>Kergarouët (comte de)>vice-amiral, comte, vieux marin, noble Breton âgé de 73 ans en 1825, il épousera à 72 ans sa petite-nièce>France>1>K
+@grand-oncle de:62
+@oncle de:60
+@marié à:62
+comte de Kergarouët
+
+80>Longueville (Maximilien)>possède une maison de campagne à Chevreuse, réside au 5 rue du Sentier, à fait l’École Polytechnique, associé à une maison de banque, s'est sacrifié pour son frère et sa soeur en renonçant à la fortune de son père. Deviendra riche vicomte et pair de France à la mort de son père et frère.>France, Paris, rue du Sentier>1>L
+@frère de:76,84
+@fils de:83
+Maximilien
+monsieur Longueville
+Maximilien Longueville
+vicomte de Longueville
+Monsieur de Longueville
+
+81>famille Longueville>famille éteinte en la personne du vieux duc de Rostein-Limbourg, qui a péri sur l’échafaud en 1793>Paris>3>L
+
+51>Palma>commerçant de mousselines, calicots et toiles peintes en gros>Paris>1>P
+
+82>Werbrust>commerçant de mousselines, calicots et toiles peintes en gros>Paris>1>W
+
+83>Longueville (Guiraudin)>député, procureur avant la Révolution, a pris la particule depuis la Restauration, nommé pair de France et vicomte>France>1>L
+@père de:80,76
+Guiraudin Longueville
+monsieur Guiraudin de Longueville
+
+84>Longeville (Auguste)>secrétaire d’ambassade en Allemagne, envoyé en Russie grâce au comte de Fontaine où il mourra, tué par l’inclémence du climat de Pétersbourg.>>1>L
+@frère de:76,80
+@fils de:83
+Auguste Longeville
+
+85>Maufrigneuse (duchesses de)>duchesse>Paris>2>M
+de Maufrigneuse
+duchesses de Maufrigneuse
+
+86>Chaulieu (duchesse de)>duchesse>Paris>2>C
+de Chaulieu
+duchesse de Chaulieu
+
+87>Espard (marquise d')>>France>2>E
+d’Espard
+marquise d’Espard
+
+88>Aiglemont (marquise d')>marquise>France>2>A
+d’Aiglemont
+marquise d’Aiglemont
+
+89>Féraud (comtesse)>comtesse>France>2>F
+Féraud
+comtesse Féraud
+
+90>Montcornet (comtesse de)>comtesse>France>2>M
+de Montcornet
+comtesse de Montcornet
+
+91>Restaud (comtesse de)>comtesse>France>2>R
+de Restaud
+comtesse de Restaud
+
+92>Camps (madame de)>>France>2>C
+madame de Camps
+
+93>Touches (mademoiselle des)>>France>2>T
+mademoiselle Des Touches
+mademosielle des Touches
+
+94>Persépolis (monsieur de)>évêque>France>1>P
+évêque de Persépolis
+monsieur de Persépolis

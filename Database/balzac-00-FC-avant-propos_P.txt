@@ -1,0 +1,87 @@
+1>Mortsauf (comtesse de)>comtesse>France>2>M
+madame de Mortsauf
+comtesse de Mortsauf
+
+2>famille Birotteau>>>3>B
+les Birotteau
+
+3>Fosseuse (la)>>>2>F
+la Fosseuse
+
+4>Graslin (madame)>>>2>G
+madame Graslin
+
+5>Lorrain (Pierrette)>>>2>L
+Pierrette Lorrain
+
+6>Mirouët (Ursule)>>>1>M
+Ursule Mirouët
+
+7>Birotteau (Constance)>>>2>B
+Constance Birotteau
+
+8>Grandet (Eugénie)>>>2>G
+Eugénie Grandet
+
+9>Claës (Marguerite)>>>2>C
+Marguerite Claës
+
+10>Villenoix (Pauline de)>>>2>V
+Pauline de Villenoix
+
+11>madame Jules>>>2>J
+
+12>La Chanterie (madame de)>>>2>L
+madame de La Chanterie
+
+13>Chardon (Ève)>>>2>C
+Ève Chardon
+
+14>Esgrignon (mademoiselle d')>>>2>D
+mademoiselle d’Esgrignon
+
+15>Firmiani (madame)>>>2>F
+madame Firmiani
+
+16>Rouget (Agathe)>>>2>R
+Agathe Rouget
+
+95>Maucombe (Renée de)>Sort du couvent des Carmélites de Blois. Âgée de 17 ans en 1823 - 1824.>Bastide de La Crampade, vallée de Gémenos, Provence>2>M
+Renée de Maucombe
+
+18>Lebas (Joseph)>premier commis de monsieur Guillaume, orphelin, sans fortune>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>1>L
+Joseph Lebas
+
+19>Genestas (Pierre-Joseph)>>>2>G
+Genestas
+
+20>Benassis (docteur)>>>1>B
+Benassis
+
+21>Bonnet (curé)>>>1>B
+le curé Bonnet
+
+22>Minoret (Denis)>>>1>M
+le médecin Minoret
+
+23>Pillerault (Claude-Joseph)>>>2>P
+Pillerault
+
+289>Séchard (David)>>>1>S
+David Séchard
+
+25>les deux Birotteau>>>3>B
+
+26>Chaperon (curé)>>>1>C
+le curé Chaperon
+
+27>Popinot (Jean-Jules)>>>1>P
+le juge Popinot
+
+28>Bourgeat>>>1>B
+
+29>Sauviat (les)>>>3>S
+les Sauviat
+
+30>Tascheron (les)>>>3>T
+les Tascheron

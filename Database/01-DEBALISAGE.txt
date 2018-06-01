@@ -1,0 +1,6 @@
+maison Guillaume > ne doit pas être un persName
+
+cœurs secs de monsieur et de madame Guillaume > il faut baliser le monsieur qui 
+traîne avec l'ID 31 (monsieur Guillaume, MCP)
+
+ous son toit de verre, madame et monsieur Roguin > idem (01p)

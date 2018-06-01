@@ -1,0 +1,127 @@
+31>Guillaume>successeur du sieur Chevrel, maître drapier>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>1>G
+@père de:32,35
+@marié à:34
+monsieur Guillaume
+le père Guillaume
+
+32>Guillaume (Augustine)>fille cadette de Guillaume, meurt à 27 ans>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>2>G
+@soeur de:35
+@fille de:31,34
+@cousine de:37
+@mariée à:44
+Augustine
+Augustine Guillaume
+mademoiselle Augustine
+mademoiselle Guillaume
+madame de Sommervieux
+mademoiselle Augustine Guillaume
+
+33>Chevrel>>Paris>1>C
+@père de:34
+le vieux Chevrel
+sieur Chevrel
+père Chevrel
+Chevrel
+
+34>Guillaume (madame)>>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>2>G
+@mère de:32,35
+@mariée à:31
+@fille de:33
+@cousine de:37
+madame Guillaume
+mademoiselle Chevrel
+Mademoiselle Chevrel
+
+35>Guillaume (Virginie)>fille aînée de Guillaume>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>2>G
+@soeur de:32
+@fille de:31,34
+@cousine de:37
+@mariée à:36
+Madame Lebas
+Virginie Guillaume
+mademoiselle Virginie
+
+18>Lebas (Joseph)>premier commis de monsieur Guillaume, orphelin, sans fortune>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>1>L
+@employé par:31
+@marié à:35
+Joseph Lebas
+monsieur Joseph
+Lebas
+
+37>Roguin (madame)>demoiselle Chevrel>Paris>1>R
+@cousine de:34,35,32
+madame Roguin
+
+38>Rabourdin>sous-chef aux Finances>Paris>1>R
+
+39>Birotteau (César)>riche parfumeur>Paris>1>B
+monsieur César Birotteau
+
+40>César (madame)>>Paris>2>B
+madame César
+
+41>Camusot (monsieur)>Riche négociant en soieries. Successeur et genre de monsieur Cardot.>Paris, rue des Bourdonnais>1>C
+monsieur Camusot
+
+42>Cardot (monsieur)>Paris>>1>C
+@beau-père de:41
+monsieur Cardot
+
+43>Roguin (monsieur)>notaire>Paris>1>R
+monsieur Roguin
+
+44>Sommervieux (Théodore de)>peintre, nommé chevalier de la Légion-d’Honneur par l’empereur>Paris>1>S
+@marié à:32
+@fils de:53
+Théodore
+de Sommervieux
+Théodore de Sommervieux
+monsieur de Sommervieux
+
+45>Étienne et compagnie>négociants traitant avec M. Guillaume>Paris>3>E
+
+46>Lecoq>maison ou négociant ayant fait faillite>Paris>3>L
+
+47>Lourdois (monsieur)>maître peintre en bâtiment>Paris>1>L
+monsieur Lourdois
+
+48>Vernet (Joseph)>décédé, ancien client de M. Guillaume>>1>V
+monsieur Joseph Vernet
+
+49>Lekain (monsieur)>décédé, ancien client de M. Guillaume>>1>L
+monsieur Lekain
+
+50>Noverre (monsieur)>décédé, ancien client de M. Guillaume>>1>N
+monsieur Noverre
+
+52>Philidor (monsieur)>>>1>P
+monsieur Philidor
+
+53>Sommervieux (chevalier de)>>>1>S
+@père de:44
+chevalier de Sommervieux
+
+54>Carigliano (duchesse de)>duchesse>Paris>2>C
+@mariée à:59
+duchesse de Carigliano
+madame la duchesse de Carigliano
+
+55>les Guillaume>>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>3>G
+@famille de:31,34,32,35
+monsieur et madame Guillaume
+
+56>Lebas (monsieur et madame)>négociants>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>3>L
+@famille de:35,36
+monsieur et madame Lebas
+
+57>Loraux (monsieur)>vicaire de Saint-Sulpice>Paris>1>L
+monsieur Loraux
+
+58>Aiglemont (Victor d’)>Colonel, marquis.>Paris>1>A
+d’Aiglemont
+Victor d'Aiglemont
+marquis d’Aiglemont
+
+59>Carigliano (duc de)>duc>Paris>1>C
+@marié à:54
+duc de Carigliano

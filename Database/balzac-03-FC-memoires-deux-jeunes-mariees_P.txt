@@ -1,0 +1,333 @@
+95>Maucombe (Renée de)>Sort du couvent des Carmélites de Blois. Âgée de 17 ans en 1823 - 1824.>Bastide de La Crampade, vallée de Gémenos, Provence>2>M
+@amie de:101
+@soeur de:114
+@fille de:115
+@bru de:113
+@mariée à:110
+@mère de:142,140,153
+@emploie:146,154,155
+Renée de Maucombe
+madame la vicomtesse de l’Estorade
+mademoiselle Renée de Maucombe
+la belle Renée de Maucombe
+mademoiselle de Maucombe
+vicomtesse de l’Estorade
+comtesse de l’Estorade
+madame de l’Estorade
+Renée
+
+96>Beauvisage>médecin de couvent des Carmélites de Blois>Blois>1>B
+monsieur Beauvisage
+
+97>famille de Chaulieu>famille noble>Paris>3>C
+@composée de:100,101,104,107
+
+98>Griffith>Discrète demoiselle de compagnie de Louise de Chaulieu, donnée à sa mère par donnée par l’ambassadeur d’Angleterre. Ecossaise, fille d’un ministre, parfaitement élevée, de mère noble et âgée de trente-six ans en 1823.>France>2>D
+Griffith
+La Griffith
+miss Griffith
+Miss Griffith
+Mademoiselle Griffith
+
+99>Philippe>dernier valet de chambre de la grand’mère de Louise de Chaulieu>Paris>1>P
+
+17>Chaulieu (Alphonse de, duc de Réthoré)>Peu aimable. Épousera la duchesse d'Argaiolo à Florence.>Paris>1>C
+@marié à:429
+@frère de:101,109
+@fils de:104,107
+Alphonse
+duc de Rhétoré
+monsieur le duc de Rhétoré
+Alphonse de Chaulieu, duc de Réthoré
+
+101>Chaulieu (Louise de)>Sort du couvent des Carmélites de Blois après y avoir passé 8 ans>Paris>2>C
+@amie de:95
+@fille de:104,107
+@petite-fille de:102
+@soeur de:100,109
+@belle-soeur de:140,143
+@nièce de:141
+@emploie:103,99,98
+Louise
+Armande
+madame Gaston
+Louise de Macumer
+madame de Macumer
+Baronne de Macumer
+Louise de Chaulieu
+Armande de Chaulieu
+madame Marie-Gaston
+mademoiselle de Chaulieu
+Mademoiselle de Chaulieu
+Armande-Louise-Marie de Chaulieu
+Louise-Armande-Marie de Chaulieu
+mademoiselle Armande-Louise-Marie de Chaulieu
+
+102>Vaurémont (princesse de)>Meurt en 1817 en laissant cinq cent mille francs à sa petit-fille Louise de Chaulieu.>>2>V
+@grand-mère de:101
+princesse de Vaurémont
+
+103>Rose>femme de chambre de Louise de Chaulieu>>1>R
+@employée par:101
+
+104>Chaulieu (duchesse de)>Duchesse âgée de 38 ans en 1823, elle a une loge aux Italiens.>Paris>2>C
+Éléonore
+madame de Chaulieu
+Éléonore de Chaulieu
+duchesse de Chaulieu
+madame la duchesse de Chaulieu
+
+105>Maufrigneuse (duchesse de)>duchesse>Paris>2>M
+madame de Maufrigneuse
+duchesse de Maufrigneuse
+
+106>Chargebœuf (mademoiselle de)>Amie de Talleyrand mandatée par la princesse de Vaurémont pour dire à Louise que cette dernière lui défend de prononcer des voeux.>Paris>2>C
+mademoiselle de Chargebœuf
+
+107>Chaulieu (monsieur de)>Noble diplomate, duc. A cinquante ans en 1823, blond, bien fait, il possède une taille jeune et a une tournure et des grâces exquises. Refuse un ministère la même année, préférant une ambassade.>Paris>1>C
+@marié à:104
+@père de:101,100,109
+Henri de Chaulieu
+monsieur de Chaulieu
+
+108>Vandenesse (mademoiselle de)>>>2>V
+mademoiselle de Vandenesse
+
+109>Chaulieu (marquis de)>Comte, marquis, devenu duc. En 1824, comte et capitaine de cavalerie.>>1>C
+@frère de:101,100
+@fils de:104,107
+@marié à:143
+comte de Chaulieu
+duc de Lenoncourt
+marquis de Chaulieu
+duc de Lenoncourt-Chaulieu
+
+110>l'Estorade (chevalier de)>Longtemps exilé en Russie sous Buonaparte. En 1824, à trente-sept ans, il a l’air d’en avoir cinquante, les cheveux ébène sont mélangés de blanc. Homme taciturne, un peu sourd. Obtiendra la croix de la Légion-d’Honneur en étant nommé membre du conseil-général. Deviendra vicomte puis comte, pair de la France et grand-officier de la Légion-d’Honneur.>Provence>1>L
+@fils de:112,113
+@marié à:95
+@père de:142,140,153
+Louis
+Louis de l’Estorade
+monsieur de l’Estorade
+chevalier de l’Estorade
+
+111>Montriveau (Monsieur de)>>>1>M
+Monsieur de Montriveau
+
+112>l'Estorade (baronne de)>baronne, meurt de chagrin en 1814 en croyant son fils mort en Russie>>2>L
+@mère de:110
+baronne de l’Estorade
+
+113>l'Estorade (Monsieur de)>baron, très-chrétien, petit gentilhomme de Provence, riche d’environ dix mille livres de rentes. Demeure dans une bastide provençale, simple maison de campagne. Viel homme en 1823.>>1>L
+@père de:110
+@beau-père de:95
+comte de l'Estorade
+monsieur de l’Estorade
+Le bonhomme l’Estorade
+Monsieur de l’Estorade le père
+
+114>Maucombe (Jean de)>frère cadet de Renée de Maucombe, noble de provence>vallée de Gémenos, Provence>1>M
+@frère de:95
+Jean de Maucombe
+
+115>Maucombe (comte de)>comte>vallée de Gémenos, Provence>1>M
+@père de:95,114
+@marié à:116
+comte de Maucombe
+
+116>Maucombe(comtesse de)>comtesse>vallée de Gémenos, Provence>2>M
+comtesse de Maucombe
+
+117>Angélique (sœur)>sœur du couvent des Carmélides de Blois>>2>A
+sœur Angélique
+
+118>famille de l'Estorade>famille de Provence>Provence>3>L
+maison de l’Estorade
+
+119>Henarez (Don Felipe)>chrétien espagnol, duc de Soria, baron de Macumer, homme petit et laid comme un grand d'Espagne. Enseigne l'espagnol à Louise de Chaulieu en 1824 après avoir été dépouillé de tous ses biens, honneurs et grandesses par le roi Ferdinand dont il était l'un des ministre. Possède un fief en Sardaigne, achètera après son mariage château de Chantepleurs sur une terre en Nivernais, sur les bords de la Loire, à soixante lieues de Paris.>Paris, rue Hillerin-Bertin. Décède en 1829.>1>H
+@frère de:120
+@fils de:127,133
+@promis à:124
+Felipe
+Don Felipe
+maître Hénarez
+Felipe Hénarez
+baron de Macumer
+monsieur Hénarez
+le sieur Hénarez
+Don Felipe Henarez
+monsieur le baron de Macumer
+Monsieur le baron de Macumer
+
+120>Henarez (Don Fernand)>chrétien espagnol, duc de Soria, bel homme>>1>H
+@frère de:119
+@fils de:127,133
+@marié à:124
+Fernand
+Don Fernand
+Don Fernand Henarez
+
+121>Ozalga>Donne une lettre de recommandation à Don Felipe Hernandez>Espagne>1>O
+
+122>famille Hénarez>>Espagne>3>H
+@composée de:127,133,119,120
+famille de Soria
+
+123>Queverdo>>Espagne>1>Q
+
+124>Hérédia (Marie)>jeune princesse, l'une des plus riches héritières de l’Espagne, promise à Don Felipe Hénarez, puis à son frère Don Fernand Hénarez.Devenue duchesse, elle offrira un bracelet de saphirs et un collier de perles attachées par six magnifiques diamants à Louise de Chaulieu pour son mariage.>Espagne>2>H
+@mariée à:120
+@promise à:119
+@belle-soeur de:101
+Marie
+Marie Hérédia
+Maria Héredia
+la princesse Marie
+duchesse de Soria
+
+125>famille Hérédia>famille espagnole dont la fortune est immense>Espagne>3>H
+
+126>Urraca>espagnole>>2>U
+
+127>Soria (Clara de)>Préfère son fils Fernand à Felipe>Espagne>2>S
+@mère de:119,120
+@mariée à:133
+dona Clara
+Clara de Soria
+
+128>Canalis (monsieur de)>Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.>Paris>1>C
+@amant de:104
+Canalis
+de Canalis
+Canalis (baron de)
+monsieur de Canalis
+Constant Cyr Melchior
+
+129>Tullia>danseuse à l'Opéra>Paris>2>T
+
+130>Marthe (sœur)>sœur du couvent des Carmélites de Blois>Blois>2>M
+sœur Marthe
+
+131>Lenoncourt (duchesse de)>duchesse>Paris>2>L
+duchesse de Lenoncourt
+
+132>Vandenesse (monsieur de)>charmant jeune homme en 1824>Paris>1>V
+vicomte de Vandenesse
+monsieur de Vandenesse
+
+133>Soria (duc de, Grand d'Espagne)>>>1>S
+@marié à:127
+@père de:119,120
+duc de Soria, Grand d'Espagne
+
+134>Bemboni (monsignore)>secrétaire d’état>>1>B
+monsignore Bemboni
+
+135>premier secrétaire de l’ambassade d’Espagne>Raconte une action sublime de Don Felipe Hénarez, duc de Soria, à Louise de Chaulieu>Paris>1>S
+
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>marquise>Paris>2>E
+madame d’Espard
+marquise d’Espard
+Jeanne-Clémentine-Athénaïs
+
+137>Beauséant (marquise de)>>>2>B
+marquise de Beauséant
+
+138>Marsay (Henri de)>comte>Paris>1>M
+Henri de Marsay
+Monsieur de Marsay
+monsieur de Marsay
+Le comte Henri de Marsay
+
+139>Esgrignon (Victurnien, comte d’)>>>1>D
+comte d’Esgrignon
+Victurnien d'Esgrignon
+
+140>l'Estorade (Athénaïs de)>Va sur ses 11 ans en 1835>Provence>2>L
+@fille de:95,110
+@soeur de:142,153
+Naïs
+Athénaïs
+Jeanne-Athénaïs
+mademoiselle Athénaïs de l’Estorade
+
+141>Chaulieu (Mlle de)>>>2>C
+@tante de:101
+Mlle de Chaulieu
+
+142>l'Estorade (Armand-Louis de)>A eu treize ans en 1835.>Provence>1>L
+@fils de:95,110
+@frère de:140,153
+Armand
+Armand-Louis
+Armand-Louis de l’Estorade
+
+143>Mortsauf (Madeleine de)>Héritière du duc de Lenoncourt-Givry dont elle est la petite-fille, originaire d'une riche famille de Touraine.>>2>M
+@mariée à:109
+@petite-fille de:144
+@belle-soeur de:101
+Madeleine
+Madeleine de Mortsauf
+Madeleine de Lenoncourt
+mademoiselle de Mortsauf
+
+144>Lenoncourt-Givry (duc de)>duc>>>L
+@grand-père de:143
+duc de Lenoncourt-Givry
+
+145>maison de Lenoncourt-Givry>En 1827, Louise de Chaulieu raconte que le roi permet à son frère, comte de Chaulieu, de prendre ses armes et titres pour ne pas laisser s'éteindre les maisons de Lenoncourt et de Givry, sans autre héritier que Mlle de Mortsauf, avec laquelle le comte se mariera.>>>L
+
+146>Mary>bonne anglaise de Renée de l'Estorade>Provence>2>M
+@employée par:95
+
+147>Gaston (Marie)>A 23 ans en 1833, poète, fils adultérin de lady Brandon. Mis au collège de Tours par son frère, sorti en 1827, essaya de percer dans les lettres de 1828 jusqu’en 1833.>>1>G
+@frère de:150
+Marie Gaston
+Marie-Gaston
+Gaston
+
+148>Brandon (lady)>>>2>B
+lady Brandon
+
+149>Dudley (lady)>A fait mourir de chagrin lady Brandon.>>2>D
+lady Dudley
+
+150>Louis-Gaston>Marin, capitaine de vaisseau. Mort à Calcutta, au service d’une compagnie marchande, au moment où il allait revenir en France riche, heureux et marié.>>1>G
+@frère de:147
+@marié à:159
+
+151>Arthez (Daniel d’)>écrivain>>1>A
+Daniel
+d’Arthez
+D’Arthez
+Daniel d’Arthez
+
+316>Bridau (Joseph)>Peintre. Envoyé par Schinner avec Mistrigris peindre chez le comte de Sérisy. Portera la rosette de la Légion-d’Honneur 14 ans plus tard. Epousa mademoiselle Léger en 1838.>>1>B
+Joseph Bridau
+
+153>l'Estorade (René de)>A 7 ans en 1835>Provence>1>L
+@fils de:95,110
+@frère de:142,140
+René
+René de l'Estorade
+
+154>Lucas>Vieux domestique de Louise de l'Estorade, mène le jeune Armand au collège Henri IV.>>1>L
+@employé par:95
+
+155>répétiteur>Vieux et savant répétiteur d'Armand de l'Estorade.>>1>R
+@employé par:95
+
+156>Fedelta>Jument de Gaston Marie>>4>F
+
+157>Nathan>auteur dramatique>>1>N
+
+158>Halmer>Banquier ayant fait faillite et causé la ruine des Gaston.>>1>H
+
+159>Gaston (madame Louis)>Ruinée après la faillite du banquier Halmer, elle rentre à Paris après la mort de son mari à Calcutta.>>2>G
+@mariée à:150
+madame Louis Gaston
+madame Gaston l'aînée
+
+160>Bianchon>médecin>>1>B
+
+161>curé de Sèvres>Présent à la mort de Mme Marie Gaston>>1>C
