@@ -1,0 +1,109 @@
+321>Médicis (Catherine de)>>>2>M
+Catherine de Médicis
+
+324>Valois (les)>Famille royale française, branche cadette des capétiens.>France>3>V
+Valois
+
+384>Carraches (les)>Peintres italiens du XVIe siècle.>Italie>3>C
+Carraches
+Les Carracci
+
+385>Bonaparte>Premier consul.>France>1>B
+@frère de:386
+Napoléon
+
+386>Bonaparte (Lucien)>Ministre de l'intérieur sous Napoléon Bonaparte.>>1>B
+@frère de:385
+Lucien
+Loucian
+Lucien Bonaparte
+
+218>Murat (Joachim)>personnage politique italien>>1>M
+Murat
+Joachim Murat
+
+387>Lannes (Jean)>Duc de Montebello.>>1>L
+Lannes
+
+388>Rapp (Jean)>Homme politique français. Aide de camp de Napoléon Bonaparte.>France>1>R
+Rapp
+
+389>Porta (les)>>>3>P
+Porta
+les Porta
+
+390>Piombo (les)>Famille corse.>>3>P
+
+391>Herbault (madame)>On se procure chez elle des chapeaux.>>2>H
+Herbault
+
+392>Leroy (Pierre-Auguste)>Marchand de modes>>1>L
+Leroy
+
+393>Chevet (Germain-Charles)>Marchand de comestibles.>Paris>2>C
+Chevet
+
+394>Diane>Déesse de la chasse chez les romains.>>2>D
+
+75>Apollon>dieu grec des arts, de la musique, de la poésie>Grèce>1>A
+
+395>Vénus>Personnage de la mythologie romaine, déesse de l'amour.>>2>V
+
+176>Prud'hon (Pierre-Paul)>peintre et dessinateur>France>1>P
+Prudhon
+Pierre-Paul Prud'hon
+
+82>Bourbon (maison de)>Famille noble.>>3>B
+Bourbons
+
+396>La Bédoyère>Militaire français.>France>1>L
+Labédoyère
+Charles Angélique François Huchet de La Bédoyère
+
+397>Aladin>Personnage des Mille et Une Nuits.>>1>A
+
+186>Scott (Walter)>écrivain anglais>>1>S
+Walter Scott
+Walter-Scott
+
+54>Girodet>peintre d'histoire>France>1>G
+
+311>Ney (Michel)>Duc d'Elchingen, maréchal d'Empire.>>1>N
+maréchal Ney
+
+398>Endymion>Roi d'Élide.>>1>E
+
+399>Rosa (Salvator)>Peintre italien.>Italie>1>R
+Salvator Rosa
+
+400>Feltre (Henri-Jacques-Guillaume Clarke, duc de)>>>1>F
+duc de Feltre
+maréchal Feltre
+
+401>Vertot (René Aubert de)>Homme d'église français.>France>1>V
+abbé Vertot
+
+402>Daru (Pierre-Antoine)>Homme politique français.>France>1>D
+Daru
+Pierre-Antoine-Noël-Mathieu Bruno Daru
+
+403>Drouot (Antoine)>Général d'artillerie français.>France>1>D
+Drouot
+Antoine Drouot
+
+404>Carnot (Lazare)>Homme politique français.>France>1>C
+Carnot
+Lazare Carnot
+
+90>Louis XIV>roi de France>France>1>L
+
+405>Schnetz (Jean-Victor)>Peintre français.>France>1>S
+Schnetz
+
+406>Shandy (madame)>Personnage de Sterne, femme de Gauthier Shandy.>>2>S
+
+149>Roberspierre>>>1>R
+
+265>Roméo>Personnage de Shakespeare.>>1>R
+
+266>Juliette>Personnage de Shakespeare.>>2>J

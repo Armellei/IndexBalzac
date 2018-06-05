@@ -1,0 +1,115 @@
+172>Piombo (baron Bartholoméo di)>Baron italien. Fidèle ami de Napoléon Bonaparte. Âgé de 77 ans en 1815.>Paris>1>B
+@père de:443,444
+@marié à:453
+emploie:454,456
+Piombo
+Bartholoméo
+baron de Piombo
+Bartholoméo di Piombo
+
+442>Barbanti>Famille corse.>Corse>3>B
+les Barbanti
+
+443>Piombo (Grégorio di)>>Corse>1>P
+@fils de:172
+@frère de:444
+Grégorio
+
+445>Vanni (Élisa)>Sauve le petit Luigi Porta des flammes lors de la vendetta des Piombo contre les Porta.>Corse>2>V
+Élisa Vanni
+
+447>Servin>Artiste peintre âgé d'une quarantaine d'années en 1815. Il ne donne des leçons de peinture qu'à des écolières ou demoiselles appartenant à des familles riches ou considérées.>Paris>1>S
+@marié à:451
+monsieur Servin
+
+448>Thirion (Amélie)>En 1815, jeune élève du peintre Servin.>Paris>2>T
+Amélie
+Amélie Thirion
+mademoiselle Thirion
+mademoiselle Amélie Thirion
+
+449>Roguin (Mathilde)>En 1815, jeune élève du peintre Servin.>Paris>2>R
+@fille de:452
+Mathilde
+Mathilde Roguin
+mademoiselle Roguin
+mademoiselle Mathilde Roguin
+ 
+450>Laure>En 1815, jeune élève du peintre Servin.>Paris>2>L
+mademoiselle Laure
+
+451>Servin (madame)>Femme du peintre parisien Servin.>Paris>2>S
+@mariée à:447
+madame Servin
+
+444>Piombo (Ginevra di)>En 1815, âgée de 25 ans, l'une des premières et la plus fort élève du peintre Servin, jalousée de ses camarades.>Corse>2>G
+@fille de:172
+@soeur de:443
+@amoureuse de:446
+@mariée à:446
+@mère de:460
+Ginevra
+Ginevrina
+Ginevrola
+Ginevretta
+Ginevrettina
+Madame Porta
+Ginevra bella
+Ginevra Piombo
+Signora Piombellina
+mademoiselle Piombo
+mademoiselle Ginevra
+mademoiselle de Piombo
+mademoiselle Ginevra Piombo
+
+452>Roguin (madame)>>>2>R
+@mère de:449
+madame Roguin
+
+453>Piombo (baronne Élisa de)>Femme de Bartholoméo di Piombo. Septuagénaire en 1815, grande, sèche, pâle et ridée.>Paris>1>P
+@mariée à:172
+emploie:454,456
+Élisa
+Élisa Piombo
+madame Piombo
+
+454>Jean>Domestique du baron et de la baronne di Piombo.>Paris>1>J
+employé par:453,172
+
+446>Porta (Luigi)>Seul survivant de la vendetta des Piombo contre les Porta lorqu'il était enfant, dont il fut sauvé par Élisa Vanni. Il fut emmené à 6 ans à Gênes chez un vieillard nommé Colonna qui lui servit de père. Corse, dévoué à Napoléon, il s'engagea ensuite comme soldat. Décoré de la Légion-d'Honneur, colonel en 1815.>Corse>1>P
+@amoureux de:444
+@marié à:444
+@frère de:455
+@père de:460
+Louis
+Luigi
+Luigi Porta
+colonel Louis
+Luigi da Porta
+monsieur Louis
+Le fils des Porta
+
+455>Porta (Nina)>Soeur défunte de Luigi Porta, tuée par les di Piombo.>Corse>2>P
+@soeur de:446
+Nina Porta
+
+456>Piétro>Domestique du baron et de la baronne di Piombo.>Paris>1>P
+employé par:453,172
+
+43>Roguin (monsieur)>notaire>Paris>1>R
+maître Roguin
+monsieur Roguin
+
+457>Vergniaud (Louis)>Témoin de mariage de Luigi Porta.>Paris>1>V
+Vergniaud
+
+458>Gigonnet>>Paris>1>G
+
+459>Magus (Élie)>Marchand de tableaux. Donne une entreprise de coloriage de gravures à GInevra Piombo en 1819.>Paris>1>M
+Élie Magus
+
+460>Porta (Bartholoméo)>Fils de Ginevra et de Luigi Porta.>Paris>1>P
+@fils de:446,444
+Barthélemy
+petit Bartholoméo
+Bartholoméo Porta
