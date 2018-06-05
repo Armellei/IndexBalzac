@@ -1,0 +1,66 @@
+407>Angoulême (duc d')>Dauphin de France.>France>1>A
+Louis de France
+duc d’Angoulême
+Louis-Antoine de Bourbon
+
+408>Adonis>Personnage de la mythologie grecque.>Grèce>1>A
+
+45>Lavater (Johann-Caspar)>>>1>L
+Lavater
+
+409>Beauharnais (Hortense de)>Duchesse.>France>2>B
+la reine Hortense
+Hortense de Beauharnais, duchesse de Saint-Leu
+
+385>Bonaparte>Premier consul.>France>1>B
+@frère de:386
+Napoléon
+
+410>Plaisir (Louis-Noël)>Coiffeur parisien.>Paris>1>P
+Plaisir
+
+411>Cambacérès (Jean-Jacques Régis de)>Homme politique français.>France>1>C
+Cambacérès
+Jean-Jacques Régis de Cambacérès
+
+412>Dominiquin>Peintre italien.>Italie>1>D
+
+413>Le Corrége>Peintre italien.>Italie>1>C
+Corrége
+
+414>Sarto (André del)>Peintre italien.>Italie>1>S
+André del Sarto
+
+49>David (Jacques-Louis)>peintre>>1>D
+David
+
+86>Louis XV>roi de France>France>1>L
+
+93>Boucher (François)>Peintre.>France>1>B
+Boucher
+
+277>Pompadour (madame de)>>>2>P
+madame de Pompadour
+
+415>Pie VII>Pape.>>1>P
+Barnaba Niccolò Maria Luigi Chiaramonti
+
+416>Fénelon (François de Salignac de)>>>1>F
+Fénelon
+
+417>Taglioni (Maria)>Danseuse.>>2>T
+la Taglioni
+
+345>Talma (François-Joseph)>Acteur français.>France>1>T
+Talma
+
+418>Charlet (Nicolas-Toussaint)>Artiste.>France>1>C
+Charlet
+
+419>Callot (Jacques)>Dessinateur et graveur français.>France>1>C
+Callot
+
+420>Téniers (David)>Peintre flammand.>>1>T
+Téniers 
+
+162>Rembrandt>peintre>>1>R

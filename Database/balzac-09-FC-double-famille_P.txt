@@ -1,0 +1,148 @@
+461>Crochard (Caroline)>Jeune femme en 1815, elle brode pour subvenir aux besoin du foyer. Vit avec Robert en 1816. A un fils de quatre ans et demi en 1821, Charles, et une petite fille, Eugénie, alors qu'elle a 24 ans et qu'elle a pris le nom de Caroline de Bellefeuille. Elle apprendra que son compagnon Robert était marié au bout de 7 ans. Âgée d'une trentaine d'années environ, elle vit pauvrement rue de Gaillon, amoureuse de Solvet, un joueur doué de tous les vices possibles qui lui vola toute sa fortune. Horace Bianchon la soigna en décembre 1833. >Paris, au coin de la rue du Tourniquet et de la Tixeranderie>2>C
+@fille de:462,462
+@courtisée par:464
+@amoureuse de:485,464
+@mère de:466,467
+Caroline
+Caroline Crochard
+Caroline de Bellefeuille
+mademoiselle de Bellefeuille
+mademoiselle Caroline de Bellefeuille
+
+462>Crochard (madame)>Mère de Caroline Crochard. Chantait dans les choeurs de l'Opéra avant la Révolution. Sexagénaire en 1815. Meurt en 1822 en disant à l'abbé Fontanon qui est le protecteur de sa fille.>Paris, au coin de la rue du Tourniquet et de la Tixeranderie>2>C
+@mère de:461
+@mariée à:463
+@amie de:468
+madame Crochard
+la veuve Crochard
+
+463>Crochard (feu monsieur)>Était danseur à l’Opéra avant la Révolution. Capitaine dans l’armée de Sambre-et-Meuse puis colonel, fut blessé à Lutzen et revint mourir à Paris après un an de maladie.>Paris>1>C
+@marié à:462
+@père de:461
+Crochard
+
+168>Molineux (Jean-Baptiste)>Propriétaire parisien.>Paris>1>M
+monsieur Molineux
+
+37>Roguin (madame)>demoiselle Chevrel>Paris>1>R
+madame Roguin
+
+465>femme de chambre>Femme de chambre de Caroline de bellefeuille.>Paris, rue Taitbout>2>F
+
+466>Crochard (Charles)>Fils de Caroline et Roger de Bellefeuille. Commet un vol assez considérable en 1833 chez l'un des amis de son demi-frère le baron Eugène de Granville.>Paris, rue Taitbout>1>C
+@fils de:464,461
+Charles
+Charles Crochard
+
+467>Crochard (Eugénie)>Fille de Caroline et Roger de Bellefeuille.>Paris, rue Taitbout>2>C
+@fille de:464,461
+Eugénie
+Eugénie crochard
+mademoiselle Eugénie de Bellefeuille
+
+468>Françoise>Amie de madame Crochard.>Paris>2>F
+@amie de:462
+la vieille Françoise
+
+469>Fontanon (abbé)>Abbé dirigeant les consciences de la famille Bontems. Chanoine de la cathédrale de Bayeux en 1808, âgé d'environ 38 ans, il vint à Paris par l’ambition de parvenir à l’une des cures de la capitale, poste qu’il envisageait peut-être comme le marche-pied d’un évêché.>Paris>1>F
+l’abbé
+Fontanon
+abbé Fontanon
+monsieur Fontanon
+confesseur de la comtesse
+Chanoine de la cathédrale de Bayeux
+
+470>servante>Vieille servante de madame Crochard>Paris>2>S
+
+471>Simeuse (jumeaux de)>>>3>S
+Ximeuse
+
+472>Hauteserre (monsieur d')>>>1>H
+d'Hauteserre
+
+473>Granville (Angélique de)>Amie d'enfance de Roger de Granville, qu'elle épousa en avril 1805. Très dévote. Triste en ménage entre 1806 et 1821. Apprends l'infidélité de son mari avec Caroline Crochard par l'abbé Fontanon. A eu 4 enfants, deux fils et deux filles, avec son mari.>Bayeux, Paris>2>B
+@soeur de:474
+@fille de:475,476
+@courtisée par:464
+@mariée à:464
+@mère de:482,483,484
+Angélique
+madame Granville
+demoiselle Bontems
+madame de Granville
+mademoiselle Bontems
+comtesse de Granville
+Mademoiselle Angélique Bontems
+
+474>Bontems (mademoiselle)>Soeur décédée d'Angélique Bontems.>Bayeux>2>B
+@soeur de:473
+@fille de:475,476
+
+475>Bontems (madame)>Dévote et mère d'Angélique Bontems.>Bayeux>2>B
+@mère de:473,474
+@marié à:476
+madame Bontems
+la veuve du père Bontems
+
+476>Bontems (feu monsieur)>>Bayeux>1>B
+@père de:473,474
+@marié à:475
+père Bontems
+le vieux Bontems
+citoyen Bontems
+
+477>Granville (comte de)>Père de Roger de Granville.>>1>G
+@père de:464
+seigneur de Granville
+
+478>Bontems (famille)>>>3>B
+@composée de:476,473,474,475,473
+les Bontems
+
+479>Granville (famille de)>Famille noble française originaire de Normandie.>>3>G
+@composée de:477,464
+les Granville
+
+480>Gatienne>Bonne de madame Bontems.>Bayeux>2>G
+mademoiselle Gatienne
+
+464>Granville (comte Roger de)>Jeune avocat, son père lui proposa d'épouser son amie d'enfance Angélique Bontems, que Roger nommait sa petite femme. Marié en avril 1805, il est nommé la même année Avocat-Général près la cour impériale de la Seine et prend un appartement avec sa femme au rez-de-chaussée d’un hôtel qui faisait le coin de la Vieille-Rue-du-Temple et de la rue Neuve-Saint-François, s'enterrant dans le Marais. Son mariage fut malheureux à cause de la bigoterie de sa femme. Triste en ménage entre 1806 et 1821, riche de cent mille livres de rente, appartenant à l’une des meilleures maisons de la Normandie. Âgé d'environ quarante ans en 1815, grand, mince, pâle et vêtu de noir, surnommé par madame Crochard et sa fille "le monsieur noir". A eu 2 enfants hors mariage avec Caroline Crochard, à qui il avoua au bout de sept ans l'existence de sa double famille. A eu deux fils et deux filles avec sa femme Angélique. Âgé de 57 ans en 1833.>Paris>1>G
+@courtise:473
+@courtise:461
+@fils de:477
+@père de:482,467,466,483,484
+@marié à:473
+Roger
+Granville
+monsieur Roger
+comte de Granville
+le jeune Granville
+monsieur Granville
+le pauvre Granville
+vicomte de Granville
+monsieur de Granville
+Le jeune de Granville
+
+481>valet de chambre>Valet de chambre de Robert de Granville, aux moeurs relâchées, favori du comte.>>1>V
+valet de chambre de Granville
+
+160>Bianchon (Horace)>Célèbre médecin en 1833.>>1>B
+Bianchon
+
+482>Vandenesse (comtesse de)>Fille aînée d'Angélique et de Robert de Granville.>Paris>2>V
+@fille de:464,473
+@soeur de:483,484
+comtesse de Vandenesse
+
+483>Granville (vicomte de)>Fils aîné d'Angélique et de Robert de Granville. Procureur-Général à Limoges puis premier président à Orléans.>Limoges, Orléans.>1>G
+@frère de:482, 484
+@fils de:464,473
+
+484>Granville (baron Eugène de)>Fils cadet d'Angélique et de Robert de Granville. Procureur du roi à Paris.>Paris>1>G
+@frère de:482, 484
+@fils de:464,473
+Eugène
+
+485>Solvet>Amant de Caroline Crochard, joueur, dépensier.>Paris>1>S
+
+486>chiffonnier>Chiffonnier croisé au coin de la rue Chaussée-D'Antin par Horace Bianchon et de comte de Granville, à qui ce dernier donna un billet de mille francs.>Paris>1>C
