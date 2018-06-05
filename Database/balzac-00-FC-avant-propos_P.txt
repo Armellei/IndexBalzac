@@ -2,8 +2,9 @@
 madame de Mortsauf
 comtesse de Mortsauf
 
-2>famille Birotteau>>>3>B
+2>Birotteau (famille)>>>3>B
 les Birotteau
+les deux Birotteau
 
 3>Fosseuse (la)>>>2>F
 la Fosseuse
@@ -17,7 +18,7 @@ Pierrette Lorrain
 6>Mirouët (Ursule)>>>1>M
 Ursule Mirouët
 
-7>Birotteau (Constance)>>>2>B
+40>Birotteau (madame César)>>Paris>2>B
 Constance Birotteau
 
 8>Grandet (Eugénie)>>>2>G
@@ -37,7 +38,7 @@ madame de La Chanterie
 13>Chardon (Ève)>>>2>C
 Ève Chardon
 
-14>Esgrignon (mademoiselle d')>>>2>D
+14>Esgrignon (mademoiselle d')>>>2>E
 mademoiselle d’Esgrignon
 
 15>Firmiani (madame)>>>2>F
@@ -69,8 +70,6 @@ Pillerault
 
 289>Séchard (David)>>>1>S
 David Séchard
-
-25>les deux Birotteau>>>3>B
 
 26>Chaperon (curé)>>>1>C
 le curé Chaperon
