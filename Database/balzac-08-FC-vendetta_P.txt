@@ -18,8 +18,9 @@ Grégorio
 445>Vanni (Élisa)>Sauve le petit Luigi Porta des flammes lors de la vendetta des Piombo contre les Porta.>Corse>2>V
 Élisa Vanni
 
-447>Servin>Artiste peintre âgé d'une quarantaine d'années en 1815. Il ne donne des leçons de peinture qu'à des écolières ou demoiselles appartenant à des familles riches ou considérées.>Paris>1>S
+447>Servin (monsieur)>Artiste peintre âgé d'une quarantaine d'années en 1815. Il ne donne des leçons de peinture qu'à des écolières ou demoiselles appartenant à des familles riches ou considérées.>Paris>1>S
 @marié à:451
+Servin
 monsieur Servin
 
 448>Thirion (Amélie)>En 1815, jeune élève du peintre Servin.>Paris>2>T
@@ -42,7 +43,7 @@ mademoiselle Laure
 @mariée à:447
 madame Servin
 
-444>Piombo (Ginevra di)>En 1815, âgée de 25 ans, l'une des premières et la plus fort élève du peintre Servin, jalousée de ses camarades.>Corse>2>G
+444>Piombo (Ginevra di)>En 1815, âgée de 25 ans, l'une des premières et la plus fort élève du peintre Servin, jalousée de ses camarades.>Corse>2>P
 @fille de:172
 @soeur de:443
 @amoureuse de:446
@@ -62,7 +63,7 @@ mademoiselle Ginevra
 mademoiselle de Piombo
 mademoiselle Ginevra Piombo
 
-452>Roguin (madame)>>>2>R
+37>Roguin (madame)>Demoiselle Chevrel. Envoie sa fille Mathilde chez le peintre Servin.>Paris>1>R
 @mère de:449
 madame Roguin
 

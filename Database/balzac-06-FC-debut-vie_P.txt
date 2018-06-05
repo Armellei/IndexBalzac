@@ -31,7 +31,7 @@ facteur
 
 273>Farry, Breilmann et compagnie>Carossiers. Ont substitué les ressorts carrés des Anglais aux cols de cygne français. Fabricants sages et méfiants.>>0>F
 
-274>les Touchard>Propriétaire de diligences (messagers)>>3>T
+274>Touchard (les)>Propriétaire de diligences (messagers)>>3>T
 les Touchard
 @composé de:403,36
 @emploie:317
@@ -71,7 +71,7 @@ Sa Seigneurie le comte de Sérisy
 
 279>second valet de chambre>Second valet de chambre du comte de Sérisy.>>1>V
 
-281>Léger>Riche fermier des Molineaux à Beaumont-sur-Oise, exploitant une ferme appartenant à Margueron, bourgeois de Beaumont-sur-Oise, qui fait enclave dans les terres du comte et gâte sa propriété de Presles. Gros homme du poids de cent vingt kilogrammes, au moins. Devenu deux fois millionnaire. Veuf, il épousa Mlle de Reybert sans dot.>Beaumont-sur-Oise>1>L
+281>Léger (monsieur)>Riche fermier des Molineaux à Beaumont-sur-Oise, exploitant une ferme appartenant à Margueron, bourgeois de Beaumont-sur-Oise, qui fait enclave dans les terres du comte et gâte sa propriété de Presles. Gros homme du poids de cent vingt kilogrammes, au moins. Devenu deux fois millionnaire. Veuf, il épousa Mlle de Reybert sans dot.>Beaumont-sur-Oise>1>L
 @père de:400
 @beau-père de:316
 @marié à:401
@@ -80,8 +80,9 @@ père Léger
 Père Léger
 monsieur Léger
 
-282>les Moreau>>>3>M
+282>Moreau (famille)>>>3>M
 @composé de:276,283,299,328,399
+les Moreau
 
 283>Moreau (Estelle)>Femme de chambre de la comtesse de Sérisy. Femme du régisseur de Presles. Femme blonde, éclatante et fraîche, restée fluette malgré ses trois enfants.>Presles et Paris, faubourg du Roule>2>M
 @mariée à:276
@@ -215,7 +216,7 @@ le colonel Georges
 312>Amaury>>>1>A
 @ami de:311
 
-313>Lora (Léon de)>Rapin (élève en peinture).>Paris>1>M
+313>Lora (Léon de)>Rapin (élève en peinture).>Paris>1>L
 Mistigris
 Léon de Lora
 monsieur Mistigris
@@ -306,7 +307,7 @@ monsieur Poiret
 @beau-frère de:309
 feu Husson
 
-335>Cardot (feu madame)>Défunte de Jean-Jérôme-Séverin Cardot. Grande femme sèche et rousse.>>2>H
+335>Cardot (feu madame)>Défunte de Jean-Jérôme-Séverin Cardot. Grande femme sèche et rousse.>>2>C
 @mariée à:310
 @soeur de:309
 feu madame Cardot
@@ -519,7 +520,7 @@ Agathe-Florentine Cabirolle
 129>Tullia>danseuse à l'Opéra>Paris>2>T
 @amie de:345,391
 
-210>Sophie Grignoux (dite Florine)>Artiste lyrique>>2>F
+210>Florine (Sophie Grignoux dite)>Artiste lyrique>>2>F
 @amie de:345
 Florine
 

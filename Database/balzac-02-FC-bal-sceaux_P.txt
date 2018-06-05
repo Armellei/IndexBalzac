@@ -34,7 +34,7 @@ la comtesse
 madame de Fontaine
 comtesse de Fontaine
 
-64>Mongenod (mademoiselle)>fille d'un riche banquier, mariée au deuxième fils du comte de Fontaine, lieutenant-général, devenue baronne puis vicomtesse, se croit tout aussi noble qu’une Kergarouët>France>2>M
+64>Fontaine (baronne de)>Née Mongenod. Fille d'un riche banquier et de Charlotte Mongenod, mariée au deuxième fils du comte de Fontaine, lieutenant-général, devenue baronne puis vicomtesse, se croit tout aussi noble qu’une Kergarouët.>France>2>F
 @bru de:60,63
 @belle-soeur de:65,62
 @mariée à:66
@@ -61,7 +61,7 @@ monsieur de Manerville
 69>Beaudenord (monsieur de)>prétendant brun d'Émilie de Fontaine, repoussé par Émilie car mal fait, gros, pas noble>France>1>B
 monsieur de Beaudenord
 
-70>Rastignac (monsieur de)>Banquier, proposé à Émilie de Fontaine par son père.>France>1>R
+70>Rastignac (Eugène-Louis de)>Banquier, proposé à Émilie de Fontaine par son père.>France>1>R
 monsieur de Rastignac
 
 71>Nucingen (madame de)>>France>2>N
@@ -95,7 +95,7 @@ Clara de Longueville
 lady Dudley
 Lady Dudley
 
-78>Vandenesse (monsieur de)>>>1>V
+132>Vandenesse (monsieur de)>Charmant jeune homme en 1824.>Paris>1>V
 monsieur de Vandenesse
 
 79>Kergarouët (comte de)>vice-amiral, comte, vieux marin, noble Breton âgé de 73 ans en 1825, il épousera à 72 ans sa petite-nièce>France>1>K
@@ -113,7 +113,8 @@ Maximilien Longueville
 vicomte de Longueville
 Monsieur de Longueville
 
-81>famille Longueville>famille éteinte en la personne du vieux duc de Rostein-Limbourg, qui a péri sur l’échafaud en 1793>Paris>3>L
+81>Longueville (famille)>famille éteinte en la personne du vieux duc de Rostein-Limbourg, qui a péri sur l’échafaud en 1793>Paris>3>L
+famille Longueville
 
 51>Palma>commerçant de mousselines, calicots et toiles peintes en gros>Paris>1>P
 
@@ -124,10 +125,10 @@ Monsieur de Longueville
 Guiraudin Longueville
 monsieur Guiraudin de Longueville
 
-84>Longeville (Auguste)>secrétaire d’ambassade en Allemagne, envoyé en Russie grâce au comte de Fontaine où il mourra, tué par l’inclémence du climat de Pétersbourg.>>1>L
+84>Longueville (Auguste)>secrétaire d’ambassade en Allemagne, envoyé en Russie grâce au comte de Fontaine où il mourra, tué par l’inclémence du climat de Pétersbourg.>>1>L
 @frère de:76,80
 @fils de:83
-Auguste Longeville
+Auguste Longueville
 
 85>Maufrigneuse (duchesses de)>duchesse>Paris>2>M
 de Maufrigneuse

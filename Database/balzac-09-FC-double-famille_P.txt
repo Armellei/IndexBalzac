@@ -24,7 +24,7 @@ Crochard
 168>Molineux (Jean-Baptiste)>Propriétaire parisien.>Paris>1>M
 monsieur Molineux
 
-37>Roguin (madame)>demoiselle Chevrel>Paris>1>R
+37>Roguin (madame)>Demoiselle Chevrel. Envoie sa fille Mathilde chez le peintre Servin.>Paris>1>R
 madame Roguin
 
 465>femme de chambre>Femme de chambre de Caroline de bellefeuille.>Paris, rue Taitbout>2>F

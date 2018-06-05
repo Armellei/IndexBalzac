@@ -55,10 +55,11 @@ l'empereur Alexandre
 74>Byron (lord)>poète>Angleterre>1>B
 lord Byron
 
-314>Pacha de Janina>>>1>P
+314>Pacha de Janina (Ali)>>>1>A
 Ali
 Tébélen
 Ali de Tébélen
+Pacha de Janina
 monsieur de Tébélen
 Ali, Pacha de Janina
 Ali pacha de Janina
@@ -74,7 +75,7 @@ Soliman Pacha, né Joseph Seve
 
 318>Besson (Nicolas)>Amiral.S>>1>B
 
-319>Ali Pacha (Mohammed)>Vice Roi d'Égypte>>1>M
+319>Mohammed (Ali Pacha)>Vice Roi d'Égypte>>1>M
 pacha Mohammed
 
 320>Czerni-Georges>Militaire serbe.>Serbie>1>C

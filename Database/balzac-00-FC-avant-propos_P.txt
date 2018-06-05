@@ -30,7 +30,8 @@ Marguerite Claës
 10>Villenoix (Pauline de)>>>2>V
 Pauline de Villenoix
 
-11>madame Jules>>>2>J
+11>Jules (madame)>>>2>J
+madame Jules
 
 12>La Chanterie (madame de)>>>2>L
 madame de La Chanterie

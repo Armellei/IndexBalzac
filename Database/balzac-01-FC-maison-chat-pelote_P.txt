@@ -49,7 +49,7 @@ Joseph Lebas
 monsieur Joseph
 Lebas
 
-37>Roguin (madame)>demoiselle Chevrel>Paris>1>R
+37>Roguin (madame)>Demoiselle Chevrel. Envoie sa fille Mathilde chez le peintre Servin.>Paris>1>R
 @cousine de:34,35,32
 madame Roguin
 

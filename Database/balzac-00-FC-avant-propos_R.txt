@@ -77,7 +77,7 @@ Jacques-Bénigne Bossuet
 24>Kant (Emmanuel)>>>1>K
 Kant
 
-25>Montesquieu>>>1>M
+230>Montesquieu>Ecrivain et philosophe>>1>M
 Charles Louis de Secondat, baron de La Brède et de Montesquieu
 
 139>Bonald (Louis-Gabriel-Ambroise)>écrivain>France>1>B
@@ -116,7 +116,8 @@ Cromwell
 madame Necker
 Suzanne Curchod, devenue Mme Necker
 
-40>Vierge Marie>>>2>M
+40>Marie (Vierge)>>>2>M
+Vierge Marie
 
 41>Bouddha>>>1>B
 
@@ -132,7 +133,7 @@ Gall
 45>Lavater (Johann-Caspar)>>>1>L
 Lavater
 
-46>Richardson (Samuel)>>>1>R
+124>Richardson (Samuel)>Écrivain anglais.>Angleterre>1>R
 Richardson
 
 47>Raphaël>peintre>>1>R

@@ -60,7 +60,7 @@ Joseph Bridau
 
 173>Bixiou>Faiseur de caricatures.>Paris>1>B
 
-174>Kergarouët (comte de)>Comte>>1>K
+79>Kergarouët (comte de)>vice-amiral, comte, vieux marin, noble Breton âgé de 73 ans en 1825, il épousera à 72 ans sa petite-nièce>France>1>K
 @ami de:170
 @marié à:175
 Kergarouët

@@ -192,7 +192,7 @@ Françoise
 Françoise Cochet
 mademoiselle Françoise
 
-210>Sophie Grignoux (dite Florine)>Artiste lyrique>>2>F
+210>Florine (Sophie Grignoux dite)>Artiste lyrique>>2>F
 Florine
 
 211>Vilquin (fils)>>>>V
@@ -224,7 +224,7 @@ Joseph Bridau
 165>Schinner (Hippolyte)>Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.>Paris>1>S
 Schinner
 
-213>Sommervieux (Théodore de)>Baron.>France>1>S
+44>Sommervieux (Théodore de)>peintre, nommé chevalier de la Légion-d’Honneur par l’empereur>Paris>1>S
 Sommervieux
 Théodore de Sommervieux
 
@@ -288,7 +288,8 @@ mademoiselle d’Hérouville
 
 225>Hérouville (cardinal d')>Cardinal>>1>H
 
-226>maison Mongenod>Banque>>3>M
+226>Mongenod (maison)>Banque>>3>M
+maison Mongenod
 
 227>Castagnould>Second de monsieur Mignon. Ancien serviteur de la famille à qui M. Mignon a fait faire une petite fortune.>Provence>1>C
 
@@ -321,7 +322,7 @@ d’Aiglemont
 Victor d'Aiglemont
 marquis d’Aiglemont
 
-235>Mongenod (mademoiselle)>Fille de banquier.>Paris>2>M
+64>Fontaine (baronne de)>Née Mongenod. Fille d'un riche banquier et de Charlotte Mongenod, mariée au deuxième fils du comte de Fontaine, lieutenant-général, devenue baronne puis vicomtesse, se croit tout aussi noble qu’une Kergarouët.>France>2>F
 @fille de:232
 @mariée à:236
 mademoiselle Mongenod
@@ -342,7 +343,7 @@ comte de Mortsauf
 240>Espard (marquis d’)>>>1>E
 marquis d’Espard
 
-241>Maufrigneuse (duchesse de)>>>2>M
+105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>duchesse>Paris>2>M
 @mariée à:264
 Diane
 Diane de Maufrigneuse
@@ -414,13 +415,13 @@ Laure
 Laure de Verneuil
 mademoiselle de Verneuil
 
-258>Sérizy (vicomte de)>Jeune officier de la compagnie des Gardes d’Havré.>>1>S
+258>Sérisy (vicomte de)>Jeune officier de la compagnie des Gardes d’Havré.>>1>S
 @marié à:259
-vicomte de Sérizy
+vicomte de Sérisy
 
-259>Sérizy (madame de)>>>2>S
+259>Sérisy (madame de)>>>2>S
 @mariée à:258
-madame de Sérizy
+madame de Sérisy
 
 260>Loudon (prince de)>Aîné des enfants du duc et de la duchesse de Verneuil.>>1>L
 @fils de:252,256

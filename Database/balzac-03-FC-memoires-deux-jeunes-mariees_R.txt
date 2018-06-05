@@ -102,7 +102,7 @@ Francisco Jiménez de Cisneros
 Jean-Jacques
 Jean-Jacques Rousseau
 
-124>Richardson (Samuel)>écrivain anglais>Angleterre>1>R
+124>Richardson (Samuel)>Écrivain anglais.>Angleterre>1>R
 Samuel Richardson
 Richardson
 
@@ -133,7 +133,7 @@ Julie
 
 135>Lovelace>Personnage de Samuel Richardson.>>1>L
 
-136>Saint-Preux>personnage de Jean-Jacques Rousseau>>1>S
+83>Saint-Preux>personnage de Julie ou la Nouvelle Héloïse de J.-J. Rousseau>>1>S
 
 137>Harlowe (Clarisse)>Personnage de Samuel Richardson.>>2>H
 Clarisse Harlowe
