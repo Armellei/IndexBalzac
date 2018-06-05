@@ -10,6 +10,7 @@
 
 - rabourdin.py adds <persName> tags to any XML-TEI file from the txt databases
 - dutocq.py instantly generates an index in html and debugs the txt databases
+- bixiou.py is great at sorting all those names in alphabetical order, previously pasted in a 'tri.txt' file
 - txt2json.awk transforms txt databases into proper json files for web integration
   
  'Heraldry' contains the coats-of-arms (svg, jpeg icons & jpeg hdef files)
