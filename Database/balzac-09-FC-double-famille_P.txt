@@ -60,7 +60,7 @@ Ximeuse
 472>Hauteserre (monsieur d')>>>1>H
 d'Hauteserre
 
-473>Granville (Angélique de)>Amie d'enfance de Roger de Granville, qu'elle épousa en avril 1805. Très dévote. Triste en ménage entre 1806 et 1821. Apprends l'infidélité de son mari avec Caroline Crochard par l'abbé Fontanon. A eu 4 enfants, deux fils et deux filles, avec son mari.>Bayeux, Paris>2>B
+473>Granville (Angélique de)>Née Angélique Bontems. Amie d'enfance de Roger de Granville, qu'elle épousa en avril 1805. Très dévote. Triste en ménage entre 1806 et 1821. Apprends l'infidélité de son mari avec Caroline Crochard par l'abbé Fontanon. A eu 4 enfants, deux fils et deux filles, avec son mari.>Bayeux, Paris>2>G
 @soeur de:474
 @fille de:475,476
 @courtisée par:464

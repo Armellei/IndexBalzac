@@ -1,8 +1,9 @@
 3>Cuvier (Jean Léopold Nicolas Frédéric)>>>1>C
 Cuvier
 
-27>Henry-Jude Toulouse>Entrepreneur de messageries.>>1>T
+27>Toulouse (Henry-Jude)>Entrepreneur de messageries.>>1>T
 Toulouse
+Henry-Jude Toulouse
 
 30>Bourbon-Conti (les)>Famille noble.>>3>B
 Bourbon-Conti
@@ -172,7 +173,8 @@ Collé
 mère Gaudichon
 Mère Godichon
 
-345>Talma (François-Joseph)>Acteur frnaçais.>France>1>T
+345>Talma (François-Joseph)>Acteur français.>France>1>T
+Talma
 
 346>Terrasse (Nicolas François)>Archiviste français.>France>1>T
 Terrasse
@@ -201,7 +203,7 @@ Pitt
 
 356>Armide>Personnage de Torquato Tasso.>>2>A
 
-357>Chevet (Germain-Charles)>Restaurateur.>Paris>1>C
+393>Chevet (Germain-Charles)>Marchand de comestibles et restaurateur parisien.>Paris>2>C
 Chevet
 
 67>Lafayette>>France>1>L

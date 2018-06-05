@@ -74,7 +74,7 @@ Exupère Labrosse
 186>Labrosse (Agnès)>Fille de greffier>Normandie>2>L
 Agnès Labrosse
 
-187>famille Latournelle>>Normandie>3>L
+187>Latournelle (famille)>>Normandie>3>L
 @composée de:177,176,178
 les Latournelle
 
@@ -95,11 +95,11 @@ CHARLES MIGNON
 colonel Mignon
 Monsieur Mignon
 
-190>famille Mignon>>Normandie>3>M
+190>Mignon (famille)>>Normandie>3>M
 @composée de:180,189,181
 maison Mignon
 
-191>famille Vilquin>>Normandie>3>V
+191>Vilquin (famille)>>Normandie>3>V
 @composée de:188,207,208,243
 les Vilquin
 
@@ -127,7 +127,7 @@ Comte Mignon de la Bastie
 Comtesse Mignon de la Bastie
 madame la comtesse de La Bastie
 
-197>famille Mignon de la Bastie>>>3>M
+197>Mignon de la Bastie (famille)>>>3>M
 @composée de:196,194,189
 
 198>Wallenrod-Tustall-Bartenstild (baron de)>Baron allemand déchu, banquier de Francfort-sur-le-Main.>>1>W
@@ -150,7 +150,7 @@ Bettina-Caroline Mignon
 Marie-Modeste
 Marie-Modeste Mignon
 
-201>famille Goriot>>>3>G
+201>Goriot (famille)>>>3>G
 Goriot
 
 202>Estourny (Georges d’)>Condamné pour de constantes fraudes au jeu par la Police correctionnelle.>>1>E
@@ -171,7 +171,7 @@ le fils Althor
 Francisque Althor
 monsieur Althor fils
 
-206>famille Dumay>>>3>D
+206>Dumay (famille)>>>3>D
 @composée de:182,183,193,195
 les Dumay
 Les Dumay
@@ -232,15 +232,15 @@ Théodore de Sommervieux
 Nathan
 Raoul Nathan
 
-215>famille de Navarreins>>>3>N
+215>Navarreins (famille de)>>>3>N
 les Navarreins
 
-216>famille de Cadignan>>>3>C
+216>Cadignan (famille de)>>>3>C
 les Cadignan
 
-217>famille de Grandlieu>>>3>G
+217>Grandlieu (famille de)>>>3>G
 
-219>famille de Nègrepelisse>>>3>N
+219>Nègrepelisse (famille de)>>>3>N
 
 138>Marsay (Henri de)>comte>Paris>1>M
 de Marsay
@@ -272,7 +272,7 @@ vicomte de La Bastie-La Brière
 288>Rubempré (Lucien Chardon de)>Fils d’un ancien chirurgien-major des armées républicaines. Écrivain, poète, journaliste.>Angoulême, Paris>1>R
 Lucien de Rubempré
 
-221>famille d'Hérouville>>>3>H
+221>Hérouville (famille d')>>>3>H
 @composée de:222,223,224,225
 Les d’Hérouville
 
@@ -330,7 +330,7 @@ mademoiselle Mongenod
 @marié à:235
 monsieur de Fontaine
 
-237>famille de Nucingen>>>3>N
+237>Nucingen (famille de)>>>3>N
 Nucingen
 
 238>Nucingen (madame de)>>>2>N
@@ -364,7 +364,7 @@ mademoiselle Vilquin la cadette
 Philoxène
 mademoiselle Philoxène Jacmin
 
-245>famille Jacmin>Famille établie à Honfleur, comprenant 11 branches.>>>J
+245>Jacmin (famille)>Famille établie à Honfleur, comprenant 11 branches.>>>J
 Jacmin
 
 246>Hérouville (Hélène d')>>>2>H
@@ -433,13 +433,13 @@ duc de Rhétoré
 monsieur le duc de Rhétoré
 Alphonse de Chaulieu, duc de Réthoré
 
-261>famille de Portenduère>>>3>P
+261>Portenduère (famille de)>>>3>P
 les Portenduère
 
-262>famille de l'Estorade>>>3>E
+262>Estorade (famille de l')>>>3>E
 les l’Estorade
 
-263>famille de Maucombe>>>3>M
+263>Maucombe (famille de)>>>3>M
 les Maucombe
 
 264>Maufrigneuse (duc de)>Florentine et Mariette le fréquentent en 1825.>>1>M

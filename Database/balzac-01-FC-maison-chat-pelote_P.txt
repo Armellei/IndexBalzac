@@ -1,6 +1,7 @@
-31>Guillaume>successeur du sieur Chevrel, maître drapier>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>1>G
+31>Guillaume (monsieur)>successeur du sieur Chevrel, maître drapier>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>1>G
 @père de:32,35
 @marié à:34
+Guillaume
 monsieur Guillaume
 le père Guillaume
 
@@ -55,16 +56,18 @@ madame Roguin
 38>Rabourdin>sous-chef aux Finances>Paris>1>R
 
 39>Birotteau (César)>riche parfumeur>Paris>1>B
+@marié à:40
 monsieur César Birotteau
 
-40>César (madame)>>Paris>2>B
+40>Birotteau (madame César)>>Paris>2>B
+@mariée à:39
 madame César
+Constance Birotteau
 
 41>Camusot (monsieur)>Riche négociant en soieries. Successeur et genre de monsieur Cardot.>Paris, rue des Bourdonnais>1>C
 monsieur Camusot
 
 42>Cardot (monsieur)>Paris>>1>C
-@beau-père de:41
 monsieur Cardot
 
 43>Roguin (monsieur)>notaire>Paris>1>R
@@ -106,8 +109,9 @@ chevalier de Sommervieux
 duchesse de Carigliano
 madame la duchesse de Carigliano
 
-55>les Guillaume>>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>3>G
+55>Guillaume (les)>>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>3>G
 @famille de:31,34,32,35
+les Guillaume
 monsieur et madame Guillaume
 
 56>Lebas (monsieur et madame)>négociants>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>3>L

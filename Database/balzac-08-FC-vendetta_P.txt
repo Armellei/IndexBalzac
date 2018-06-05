@@ -1,4 +1,4 @@
-172>Piombo (baron Bartholoméo di)>Baron italien. Fidèle ami de Napoléon Bonaparte. Âgé de 77 ans en 1815.>Paris>1>B
+172>Piombo (baron Bartholoméo di)>Baron italien. Fidèle ami de Napoléon Bonaparte. Âgé de 77 ans en 1815.>Paris>1>P
 @père de:443,444
 @marié à:453
 emploie:454,456

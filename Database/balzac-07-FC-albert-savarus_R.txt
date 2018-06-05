@@ -56,8 +56,9 @@ Nodier
 Charles Nodier
 Jean-Charles-Emmanuel Nodier
 
-372>Charles Fourier>Utopiste et philosophe français.>France>1>F
+372>Fourier (Charles)>Utopiste et philosophe français.>France>1>F
 Fourier
+Charles Fourier
 
 99>Talleyrand (prince de)>>>1>T
 Monsieur de Talleyrand

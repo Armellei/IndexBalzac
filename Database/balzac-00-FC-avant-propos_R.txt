@@ -70,8 +70,9 @@ Machiavel
 22>Hobbes (Thomas)>>>1>H
 Hobbes
 
-23>Bossuet (Jacques-Bénigne)>>>1>B
+131>Bossuet (Jacques-Bénigne)>écrivain>France>1>B
 Bossuet
+Jacques-Bénigne Bossuet
 
 24>Kant (Emmanuel)>>>1>K
 Kant
@@ -79,7 +80,8 @@ Kant
 25>Montesquieu>>>1>M
 Charles Louis de Secondat, baron de La Brède et de Montesquieu
 
-26>Bonald>>>1>B
+139>Bonald (Louis-Gabriel-Ambroise)>écrivain>France>1>B
+Bonald
 Louis-Gabriel-Ambroise, vicomte de Bonald
 
 123>Rousseau (Jean-Jacques)>philosphe et écrivain>France>1>R
@@ -110,7 +112,8 @@ Cromwell
 
 38>Louis XVI>roi de France>France>1>L
 
-39>madame Necker>>>2>N
+39>Necker (madame)>>>2>N
+madame Necker
 Suzanne Curchod, devenue Mme Necker
 
 40>Vierge Marie>>>2>M
@@ -135,4 +138,5 @@ Richardson
 47>Raphaël>peintre>>1>R
 Raffaello Sanzio
 
-48>Félix Davin>>>1>D
+48>Davin (Félix)>>>1>D
+Félix Davin

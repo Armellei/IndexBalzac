@@ -9,12 +9,12 @@ de Montespan
 92>La Vallière>maîtresse de Louis XIV>France>2>L
 Louise de La Vallière
 
-93>Louis XV>roi de France>France>1>L
+86>Louis XV>roi de France>France>1>L
 
 94>Saxe (maréchal de)>maréchal>>1>S
 maréchal de Saxe
 
-95>Pierrard (Victorine)>Célèbre couturière.>>2>V
+95>Pierrard (Victorine)>Célèbre couturière.>>2>P
 Victorine
 Victorine Pierrard
 
@@ -121,7 +121,7 @@ Joséphine Fodor
 
 131>Bossuet (Jacques-Bénigne)>écrivain>France>1>B
 Bossuet
-Jacques-Bénigne Bossuet 
+Jacques-Bénigne Bossuet
 
 1>Corneille (Pierre)>dramaturge français>France>1>C
 Corneille
@@ -190,7 +190,7 @@ Molière
 Rivarol
 Antoine de Rivarol
 
-154>Charles X>roi de France>>1>C
+70>Charles X>Roi de France.>France>1>C
 
 128>Florian (Jean-Pierre Claris de)>poète et romancier français>>1>F
 Florian

@@ -19,10 +19,10 @@ Renée
 96>Beauvisage>médecin de couvent des Carmélites de Blois>Blois>1>B
 monsieur Beauvisage
 
-97>famille de Chaulieu>famille noble>Paris>3>C
+97>Chaulieu (famille de)>famille noble>Paris>3>C
 @composée de:100,101,104,107
 
-98>Griffith>Discrète demoiselle de compagnie de Louise de Chaulieu, donnée à sa mère par donnée par l’ambassadeur d’Angleterre. Ecossaise, fille d’un ministre, parfaitement élevée, de mère noble et âgée de trente-six ans en 1823.>France>2>D
+98>Griffith>Discrète demoiselle de compagnie de Louise de Chaulieu, donnée à sa mère par donnée par l’ambassadeur d’Angleterre. Ecossaise, fille d’un ministre, parfaitement élevée, de mère noble et âgée de trente-six ans en 1823.>France>2>G
 Griffith
 La Griffith
 miss Griffith
@@ -141,7 +141,7 @@ comtesse de Maucombe
 117>Angélique (sœur)>sœur du couvent des Carmélides de Blois>>2>A
 sœur Angélique
 
-118>famille de l'Estorade>famille de Provence>Provence>3>L
+118>Estorade (famille de l')>famille de Provence>Provence>3>L
 maison de l’Estorade
 
 119>Henarez (Don Felipe)>chrétien espagnol, duc de Soria, baron de Macumer, homme petit et laid comme un grand d'Espagne. Enseigne l'espagnol à Louise de Chaulieu en 1824 après avoir été dépouillé de tous ses biens, honneurs et grandesses par le roi Ferdinand dont il était l'un des ministre. Possède un fief en Sardaigne, achètera après son mariage château de Chantepleurs sur une terre en Nivernais, sur les bords de la Loire, à soixante lieues de Paris.>Paris, rue Hillerin-Bertin. Décède en 1829.>1>H
@@ -169,7 +169,7 @@ Don Fernand Henarez
 
 121>Ozalga>Donne une lettre de recommandation à Don Felipe Hernandez>Espagne>1>O
 
-122>famille Hénarez>>Espagne>3>H
+122>Hénarez (famille)>>Espagne>3>H
 @composée de:127,133,119,120
 famille de Soria
 
@@ -185,7 +185,7 @@ Maria Héredia
 la princesse Marie
 duchesse de Soria
 
-125>famille Hérédia>famille espagnole dont la fortune est immense>Espagne>3>H
+125>Hérédia (famille)>famille espagnole dont la fortune est immense>Espagne>3>H
 
 126>Urraca>espagnole>>2>U
 
@@ -239,7 +239,7 @@ Monsieur de Marsay
 monsieur de Marsay
 Le comte Henri de Marsay
 
-139>Esgrignon (Victurnien, comte d’)>>>1>D
+139>Esgrignon (Victurnien, comte d’)>>>1>E
 comte d’Esgrignon
 Victurnien d'Esgrignon
 
@@ -251,7 +251,7 @@ Athénaïs
 Jeanne-Athénaïs
 mademoiselle Athénaïs de l’Estorade
 
-141>Chaulieu (Mlle de)>>>2>C
+141>Chaulieu (mademoiselle de)>>>2>C
 @tante de:101
 Mlle de Chaulieu
 
@@ -289,7 +289,7 @@ Gaston
 148>Brandon (lady)>>>2>B
 lady Brandon
 
-149>Dudley (lady)>A fait mourir de chagrin lady Brandon.>>2>D
+149>Dudley (lady Arabelle)>A fait mourir de chagrin lady Brandon.>>2>D
 lady Dudley
 
 150>Louis-Gaston>Marin, capitaine de vaisseau. Mort à Calcutta, au service d’une compagnie marchande, au moment où il allait revenir en France riche, heureux et marié.>>1>G
@@ -328,6 +328,7 @@ René de l'Estorade
 madame Louis Gaston
 madame Gaston l'aînée
 
-160>Bianchon>médecin>>1>B
+160>Bianchon (Horace)>Célèbre médecin en 1833.>>1>B
+Bianchon
 
 161>curé de Sèvres>Présent à la mort de Mme Marie Gaston>>1>C

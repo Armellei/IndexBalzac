@@ -185,7 +185,7 @@ Pierre Bayle
 230>Montesquieu>Ecrivain et philosophe>>1>M
 Charles de Secondat, baron de Montesquieu
 
-70>Charles X>roi de France>France>1>C
+70>Charles X>Roi de France.>France>1>C
 
 231>Didot>Imprimeur parisien>>1>D
 
@@ -414,7 +414,8 @@ Paganini
 292>Catalani (Angelica)>Soprano italienne>>2>C
 la Catalani
 
-293>Michel Boiron, dit Baron>Comédien français>>1>B
+293>Boiron (Michel, dit Baron)>Comédien français>>1>B
+Michel Boiron
 
 294>Parmentier (Antoine Augustin)>Pharmacien militaire>>1>P
 Parmentier
