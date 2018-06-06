@@ -1,0 +1,86 @@
+7>Gondreville (Malin, comte de)>>>1>G
+@marié à:487
+Gondreville
+le citoyen Malin
+comte de Gondreville
+ 
+25>Vaudremont (comtesse de)>Fut une des victimes de l’épouvantable incendie qui rendit à jamais célèbre le bal donné par l’ambassadeur d’Autriche, à l’occasion du mariage de l’empereur Napoléon avec la fille de l’empereur François II en 1810.>>2>V
+madame de Vaudremont
+comtesse de Vaudremont
+
+77>Montcornet (comte de)>>>1>M
+@marié à:78
+Montcornet
+colonel Montcornet
+général Montcornet
+
+78>Montcornet (comtesse de)>>>2>M
+@mariée à:77
+comtesse de Gondreville
+
+174>Soulanges (maréchal comte Léon de)>>>1>S
+@marié à:488
+Léon
+Soulanges
+comte de Soulanges
+monsieur de Soulanges
+
+213>La Roche-Hugon (comte Martial de)>>Paris>1>L
+Martial
+baron de la Roche-Hugon
+Martial de la Roche-Hugon
+monsieur de la Roche-Hugon
+Le baron Martial de la Roche-Hugon
+
+220>Wagram (princesse de)>>>2>W
+princesse de Wagram
+
+235>Isemberg (maréchal duc d')>>>1>I
+maréchal duc d’Isemberg
+
+241>Keller (François)>Banquier célèbre, parent de Gobenheim.>Paris>1>K
+Keller
+
+489>Berg (grande-duchesse de)>>Paris>2>B
+grande-duchesse de Berg
+
+452>Lansac (duchesse de)>Femme maligne comme un vieux singe, qui ne va au bal que pour tout voir en faisant semblant de dormir.>>2>L
+@grande-tante de:488
+madame de Lansac
+duchesse de Lansac
+
+487>Gondreville (comtesse)>Comtesse.>>2>G
+@mariée à:7
+comtesse de Gondreville
+
+215>Navarreins (famille de)>>>3>N
+les Navarreins
+maison de Navarreins
+
+488>Soulanges (comtesse Hortense de)>La comtesse est l'inconnue du bal en 1809 (la Paix du ménage).>Paris>2>S
+@petite-nièce de:452
+@mariée à:174
+madame de Soulanges
+comtesse de Soulanges
+
+490>>>>>
+
+491>>>>>
+
+492>>>>>
+
+493>>>>>
+
+494>>>>>
+
+495>>>>>
+
+496>>>>>
+
+497>>>>>
+
+498>>>>>
+
+499>>>>>
+
+500>>>>>
