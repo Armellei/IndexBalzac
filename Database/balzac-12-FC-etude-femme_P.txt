@@ -1,0 +1,43 @@
+516>Listomère (marquise de)>Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.>Rue Saint-Dominique, Paris>2>L
+@marié à:520
+@emploie:522
+La marquise
+marquise de Listomère
+madame de Listomère
+madame la marquise de Listomère
+
+520>Listomère (marquis de)>>>1>L
+@marié à:516
+monsieur le marquis
+marquis de Listomère
+monsieur de Listomère
+
+70>Rastignac (Eugène-Louis de)>Banquier, proposé à Émilie de Fontaine par son père.>France>1>R
+@emploie:521
+Eugène
+Rastignac
+Le jeune baron
+monsieur Eugène
+Eugène de Rastignac
+monsieur de Rastignac
+monsieur le baron de Rastignac
+
+521>Joseph>Domestique d'Eugène de Rastignac.>>1>J
+@employé par:70
+
+160>Bianchon (Horace)>Célèbre médecin en 1833.>>1>B
+Horace
+
+522>Caroline>Femme de chambre de la marquise de Listomère.>>2>C
+@employée par:516
+
+523>Beauséant (marquis de)>>>1>B
+@marié à:137
+marquis de Beauséant
+
+71>Nucingen (madame de)>>rue Saint-Lazare, Paris>2>N
+madame de Nucingen
+
+1>Mortsauf (comtesse de)>Le marquis de Listomère apprend son décès dans la Gazette de France en 1828.>France>2>M
+madame de Mortsauf
+comtesse de Mortsauf
