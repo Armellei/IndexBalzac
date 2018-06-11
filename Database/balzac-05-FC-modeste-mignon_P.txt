@@ -192,7 +192,7 @@ Françoise
 Françoise Cochet
 mademoiselle Françoise
 
-210>Florine (Sophie Grignoux dite)>Artiste lyrique>>2>F
+210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris.>Paris>2>F
 Florine
 
 211>Vilquin (fils)>>>>V
@@ -259,7 +259,7 @@ madame de Chaulieu
 duchesse de Chaulieu
 madame la duchesse de Chaulieu
 
-136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>marquise>Paris>2>E
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Marquise. Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834.>Paris>2>E
 Jeanne-Clémentine-Athénaïs
 madame d’Espard
 
@@ -343,7 +343,7 @@ comte de Mortsauf
 240>Espard (marquis d’)>>>1>E
 marquis d’Espard
 
-105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>duchesse>Paris>2>M
+105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>M
 @mariée à:264
 Diane
 Diane de Maufrigneuse
@@ -373,6 +373,7 @@ Hélène
 Hélène d’Hérouville
 
 247>Cadignan (prince de)>>>1>C
+@oncle de:490
 prince de Cadignan
 
 248>Stidmann>Célèbre bijoutier parisien ayant réalisé un pommeau de cravache vendu à Ernest de la Brière.>Paris>1>S
@@ -415,12 +416,12 @@ Laure
 Laure de Verneuil
 mademoiselle de Verneuil
 
-258>Sérisy (vicomte de)>Jeune officier de la compagnie des Gardes d’Havré.>>1>S
-@marié à:259
+396>Sérisy (vicomte Jules de)>Fils unique du comte de Sérisy. Jeune officier de la compagnie des Gardes d’Havré. Lieutenant-colonel du régiment du duc de Maufrigneuse, aura Oscar Husson sous ses ordres. Blessé lors de l'affaire de la Macta, sauvé par Oscar Husson, il mourra des suites de ses blessures à Toulon. Enterré dans la chapelle du château de Sérisy.>>1>S
 vicomte de Sérisy
+vicomte Jules de Sérisy
 
-259>Sérisy (madame de)>>>2>S
-@mariée à:258
+292>Sérisy (comtesse Hugret de)>Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.>Presles, Paris>2>S
+madame de Sérizy
 madame de Sérisy
 
 260>Loudon (prince de)>Aîné des enfants du duc et de la duchesse de Verneuil.>>1>L
@@ -445,6 +446,7 @@ les Maucombe
 
 264>Maufrigneuse (duc de)>Florentine et Mariette le fréquentent en 1825.>>1>M
 @marié à:241
+@cousin de:490
 duc de Maufrigneuse
 
 265>Barry (John)>Premier piqueur à la chasse du prince de Loudon à laquelle participe Modeste Mignon.>>1>B

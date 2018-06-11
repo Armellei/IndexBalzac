@@ -1,0 +1,171 @@
+28>Napoléon>>France>1>N
+
+510>Sapiéha (famille)>Famille polonaise.>Pologne>3>S
+Sapiéha
+
+511>Radzivill (famille)>Famille lituano-polonaise.>Lituanie, Pologne>3>R
+Radzivill
+Radziwiłł
+
+512>Rzewuski (famille)>Famille noble polonaise.>Pologne>3>R
+Rzewuski
+
+513>Cartoriski (famille)>Famille noble polonaise.>Pologne>3>C
+Cartoriski
+Czartoryski
+ 
+514>Leczinski>Famille royale polonaise.>Pologne>3>L
+Leczinski
+
+515>Iablonoski>Famille noble polonaise.>Pologne>3>I
+Iablonoski
+Jablonnowski
+
+516>Lubermiski>Famille noble polonaise.>Pologne>3>L
+Lubermiski
+Lubomirski 
+
+167>Louis-Philippe>duc d'Orléans>France>1>L
+Louis-Philippe d'Orléans
+
+517>Nicolas Ier>Empereur de Russie.>Russie>1>R
+l’empereur Nicolas
+
+518>Stanislas II>Roi de Pologne>Pologne>1>P
+Poniatowski
+Stanisław Antoni Poniatowski
+
+519>Lelewel (Joachim)>Historien polonais.>Pologne>1>L
+Lelewel
+
+520>Czartoryski (Adam Jerzy)>Noble polonais, fils du prince Casimir Czartoryski et d'Izabela Flemming.>Pologne>1>C
+le prince Cartoriski
+Adam Jerzy Czartoryski
+prince Adam Cartoriski
+prince Adam Cartoriski
+
+521>César de boutique>>>1>C
+
+522>Alexandre de la patente>>>1>A
+
+245>Virgile>Poète latin.>>1>V
+Publius Vergilius Maro
+
+523>Georges IV>Fils de Georges III.>Grande-Bretagne.>1>G
+George Augustus Frederick
+
+524>Elschoët (Carl)>Sculpteur.>>1>E
+Elschoët
+
+525>Klagmann (Jean-Baptiste-Jules)>Sculpteur français.>France>1>K
+Klagmann
+Jean-Baptiste-Jules Klagmann
+
+526>Crésus>Roi de Lydie.>>1>C
+
+527>Fauveau (Félicie de)>Sculpteur français.>France>2>F
+
+528>Héraclès>Fils de Jupiter.>>1>H
+Hercule
+
+529>Pazzi (famille)>Famille italienne.>Italie>3>P
+Pazzi
+les Pazzi
+
+530>Pavlovitch (Constantin)>Grand-duc de Russie.>Russie>1>P
+Constantin Pavlovitch de Russie
+
+170>Dante>poète et écrivain florentin>>1>D
+Alighieri
+Dante Alighieri
+
+53>Michel-Ange>peintre>Italie>1>M
+
+531>Duprez (Gilbert-Louis)>Ténor français.>France>1>D
+Duprez
+
+507>Tell (Guillaume)>>>1>T
+Guillaume Tell
+Guillaume-Tell
+
+532>Tartuffe>Personnage de Molière>>1>T
+
+533>Newton (Isaac)>Physicien et mathématicien britannique.>>1>N
+Newton
+
+534>Laplace (Pierre-Simon de)>Physicien et mathématicien français.>France>1>L
+Laplace
+
+535>Kepler (Johannes)>Astronome.>Allemagne>1>K
+Kepler
+
+536>Descartes (René)>Philosophe français.>France>1>D
+Descartes
+
+537>Spinosa (Antonio)>Philosophe néerlandais.>Pays-bas>1>S
+Spinosa
+
+8>Buffon (Georges-Louis Leclerc, comte de)>>>1>B
+Buffon
+monsieur le comte de Buffon
+
+173>Thérèse (sainte)>>>2>T
+sainte Thérèse
+
+538>Malebranche (Nicolas)>Philosophe français.>France>1>M
+Malebranche
+
+99>Talleyrand (prince de)>>>1>T
+Monsieur de Talleyrand
+prince de Talleyrand
+
+539>Bouthor (famille)>Circassiens.>>3>B
+famille Bouthor
+
+540>Franconi (Antonio)>Circassien.>>1>F
+Franconi
+
+214>Malibran (Maria)>artiste lyrique>>2>M
+Malibran
+Maria Malibran
+
+417>Taglioni (Maria)>Danseuse.>>2>T
+la Taglioni
+
+215>Pasta (Giuditta)>cantatrice italienne>>2>P
+la Pasta
+La Pasta
+Pasta
+
+541>Grisi (Carlotta)>Danseuse italienne.>Italie>2>G
+la Grisi 
+
+542>Montalant (Laure-Cinthie)>Cantatrice>>2>M
+la Cinti
+
+543>Elssler (Fanny)>Danseuse autrichienne.>Autriche>2>E
+l'Elssler
+
+544>Colombine>Personnage de la commedia dell'arte.>>2>C
+
+115>Shakespeare>écrivain et dramaturge anglais>>1>S
+Shakspeare
+
+545>Cassandre>Personnage de la commedia dell'arte.>>1>C
+
+546>Pétrarque>Poète florentin.>Italie>1>P
+
+547>Sade (Laure de)>Muse de Pétrarque.>Italie>2>S
+
+548>Rothschild (les)>Financiers.>Europe>3>R
+Rothschild
+
+549>Musard (Philippe)>Compositeur et chef d'orchestre français.>France>1>M
+
+28>Napoléon>>France>1>N
+
+550>Auber (Daniel-François-Esprit)>Compositeur français.>France>1>A
+Auber
+
+551>Macaire (Robert)>Personnage de Benjamin Antier.>>1>M
+Robert-Macaire

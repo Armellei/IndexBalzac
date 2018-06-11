@@ -1,6 +1,4 @@
-1>Mortsauf (comtesse de)>comtesse>France>2>M
-madame de Mortsauf
-comtesse de Mortsauf
+1>Mortsauf (comtesse de)>Le marquis de Listomère apprend son décès dans la Gazette de France en 1828.>France>2>M
 
 2>Birotteau (famille)>>>3>B
 les Birotteau
@@ -48,7 +46,7 @@ madame Firmiani
 16>Rouget (Agathe)>>>2>R
 Agathe Rouget
 
-95>Maucombe (Renée de)>Sort du couvent des Carmélites de Blois. Âgée de 17 ans en 1823 - 1824.>Bastide de La Crampade, vallée de Gémenos, Provence>2>M
+95>Maucombe (Renée de)>Sort du couvent des Carmélites de Blois. Âgée de 17 ans en 1823 - 1824.>Bastide de La Crampade, vallée de Gémenos, Provence>2>p
 Renée de Maucombe
 
 18>Lebas (Joseph)>premier commis de monsieur Guillaume, orphelin, sans fortune>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>1>L

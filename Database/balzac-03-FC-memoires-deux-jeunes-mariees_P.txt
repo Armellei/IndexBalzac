@@ -40,7 +40,7 @@ duc de Rhétoré
 monsieur le duc de Rhétoré
 Alphonse de Chaulieu, duc de Réthoré
 
-101>Chaulieu (Louise de)>Sort du couvent des Carmélites de Blois après y avoir passé 8 ans>Paris>2>C
+101>Chaulieu (Louise de)>Sort du couvent des Carmélites de Blois après y avoir passé 8 ans.>Paris>2>C
 @amie de:95
 @fille de:104,107
 @petite-fille de:102
@@ -77,7 +77,7 @@ madame de Chaulieu
 duchesse de Chaulieu
 madame la duchesse de Chaulieu
 
-105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>duchesse>Paris>2>M
+105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>M
 madame de Maufrigneuse
 duchesse de Maufrigneuse
 
@@ -144,7 +144,7 @@ sœur Angélique
 118>L'Estorade (famille de)>famille de Provence>Provence>3>L
 maison de l’Estorade
 
-119>Henarez (Don Felipe)>chrétien espagnol, duc de Soria, baron de Macumer, homme petit et laid comme un grand d'Espagne. Enseigne l'espagnol à Louise de Chaulieu en 1824 après avoir été dépouillé de tous ses biens, honneurs et grandesses par le roi Ferdinand dont il était l'un des ministre. Possède un fief en Sardaigne, achètera après son mariage château de Chantepleurs sur une terre en Nivernais, sur les bords de la Loire, à soixante lieues de Paris.>Paris, rue Hillerin-Bertin. Décède en 1829.>1>H
+119>Henarez (Don Felipe)>chrétien espagnol, duc de Soria, baron de Macumer, homme petit et laid comme un grand d'Espagne. Enseigne l'espagnol à Louise de Chaulieu en 1824 après avoir été dépouillé de tous ses biens, honneurs et grandesses par le roi Ferdinand dont il était l'un des ministre. Possède un fief en Sardaigne, achètera après son mariage château de Chantepleurs sur une terre en Nivernais, sur les bords de la Loire, à soixante lieues de Paris. Décède en 1829.>Paris, rue Hillerin-Bertin.>1>H
 @frère de:120
 @fils de:127,133
 @promis à:124
@@ -187,7 +187,7 @@ duchesse de Soria
 
 125>Hérédia (famille)>famille espagnole dont la fortune est immense>Espagne>3>H
 
-126>Urraca>espagnole>>2>U
+126>Urraca>Vieille femme espagnole.>>2>U
 
 127>Soria (Clara de)>Préfère son fils Fernand à Felipe>Espagne>2>S
 @mère de:119,120
@@ -225,12 +225,13 @@ monsignore Bemboni
 
 135>premier secrétaire de l’ambassade d’Espagne>Raconte une action sublime de Don Felipe Hénarez, duc de Soria, à Louise de Chaulieu>Paris>1>S
 
-136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>marquise>Paris>2>E
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Marquise. Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834.>Paris>2>E
 madame d’Espard
 marquise d’Espard
 Jeanne-Clémentine-Athénaïs
 
 137>Beauséant (marquise de)>>>2>B
+@mariée à:523
 marquise de Beauséant
 
 138>Marsay (Henri de)>comte>Paris>1>M
@@ -330,7 +331,7 @@ René de l'Estorade
 madame Louis Gaston
 madame Gaston l'aînée
 
-160>Bianchon (Horace)>Célèbre médecin en 1833.>>1>B
+160>Bianchon (Horace)>Célèbre médecin en 1833.>France>1>B
 Bianchon
 
 161>curé de Sèvres>Présent à la mort de Mme Marie Gaston>>1>C

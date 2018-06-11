@@ -1,6 +1,6 @@
 89>Danaïde>fille du roi Danaos, personnage mythologique grec>Grèce>2>D
 
-90>Louis XIV>roi de France>France>1>L
+90>Louis XIV>Roi de France.>France>1>L
 
 91>Montespan (marquise de)>marquise,favorite de Louis XIV>France>2>M
 Madame de Montespan
@@ -81,6 +81,7 @@ Rossini
 Gioachino Rossini
 
 115>Shakespeare>écrivain et dramaturge anglais>>1>S
+Shakspeare
 
 116>Othello>personnage de Shakespeare>>1>O
 
@@ -179,7 +180,7 @@ comte de Westmoreland
 
 152>Vierge Marie>>>2>V
 
-69>Célimène>personnage féminin (coquette) chez Molière>>1>C
+69>Célimène>Personnage féminin (coquette) chez Molière.>>1>C
 
 2>Molière (Jean-Baptiste Poquelin, dit)>>>1>M
 Molière
@@ -235,7 +236,7 @@ Raffaello Sanzio
 
 166>Décius>empereur romain>>1>D
 
-167>Louis-Philippe>duc d'Orléans>>1>L
+167>Louis-Philippe>duc d'Orléans>France>1>L
 Louis-Philippe d'Orléans
 
 168>Cornélie>fille de Scipion l'Africain>>2>C

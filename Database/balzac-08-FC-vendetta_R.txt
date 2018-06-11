@@ -95,7 +95,7 @@ Antoine Drouot
 Carnot
 Lazare Carnot
 
-90>Louis XIV>roi de France>France>1>L
+90>Louis XIV>Roi de France.>France>1>L
 
 405>Schnetz (Jean-Victor)>Peintre français.>France>1>S
 Schnetz

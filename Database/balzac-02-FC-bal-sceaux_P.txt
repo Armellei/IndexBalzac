@@ -64,7 +64,7 @@ monsieur de Beaudenord
 70>Rastignac (Eugène-Louis de)>Banquier, proposé à Émilie de Fontaine par son père.>France>1>R
 monsieur de Rastignac
 
-71>Nucingen (madame de)>>France>2>N
+71>Nucingen (madame de)>>rue Saint-Lazare, Paris>2>N
 madame de Nucingen
 
 72>Portenduère (vicomte de)>vicomte, parent du comte de Fontaine, proposé à Émilie de Fontaine par son père, repoussé car jugé sans fortune, amoureux d'Émilie>France>1>P

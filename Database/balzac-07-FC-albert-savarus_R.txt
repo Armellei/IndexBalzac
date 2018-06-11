@@ -4,7 +4,7 @@ fameux Watteville
 abbé de Watteville
 Jean de Watteville
 
-90>Louis XIV>roi de France>France>1>L
+90>Louis XIV>Roi de France.>France>1>L
 
 360>Lulli>Compositeur italien.>>1>L
 Jean-Baptiste Lully
@@ -101,7 +101,7 @@ Bêl-Shana-Usur
 
 381>Sixte-Quint>Pape.>Italie>1>S
 
-167>Louis-Philippe>duc d'Orléans>>1>L
+167>Louis-Philippe>duc d'Orléans>France>1>L
 Louis-Philippe d'Orléans
 
 382>Mirabeau>>France>1>M

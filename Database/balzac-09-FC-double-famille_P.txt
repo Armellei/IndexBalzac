@@ -126,10 +126,11 @@ Le jeune de Granville
 481>valet de chambre>Valet de chambre de Robert de Granville, aux moeurs relâchées, favori du comte.>>1>V
 valet de chambre de Granville
 
-160>Bianchon (Horace)>Célèbre médecin en 1833.>>1>B
+160>Bianchon (Horace)>Célèbre médecin en 1833.>France>1>B
 Bianchon
+Horace Bianchon
 
-482>Vandenesse (comtesse de)>Fille aînée d'Angélique et de Robert de Granville.>Paris>2>V
+482>Vandenesse (comtesse Félix de)>Prénommée Marie-Angélique. Fille aînée d'Angélique et de Robert de Granville.>Paris>2>V
 @fille de:464,473
 @soeur de:483,484
 comtesse de Vandenesse

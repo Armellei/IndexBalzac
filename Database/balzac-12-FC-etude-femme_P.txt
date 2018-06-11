@@ -25,7 +25,7 @@ monsieur le baron de Rastignac
 521>Joseph>Domestique d'Eugène de Rastignac.>>1>J
 @employé par:70
 
-160>Bianchon (Horace)>Célèbre médecin en 1833.>>1>B
+160>Bianchon (Horace)>Célèbre médecin en 1833.>France>1>B
 Horace
 
 522>Caroline>Femme de chambre de la marquise de Listomère.>>2>C

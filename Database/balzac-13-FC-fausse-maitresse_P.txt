@@ -1,0 +1,142 @@
+268>Du Rouvre (mademoiselle)>Fille unique du marquis du Rouvre, épousa en décembre 1835 le comte Adam Mitgislas Laginski, jeune polonais proscrit.>rue de la Pépinière, Paris>2>D
+@fille de:294
+@nièce de:291,292,525
+@mariée à:398
+@courtisée par:531,540
+Clémentine
+comtesse Ladislas
+comtesse Laginska
+Madame de Laginska
+Clémentine Laginska
+Clémentine du Rouvre
+mademoiselle du Rouvre
+
+294>Du Rouvre (marquis)>Fut nommé comte et chambellan par l'Empereur. A presque entièrement dissipé l’une des plus belles fortunes de la noblesse en 1835 pour Florine.>>1>D
+@père de:268
+marquis du Rouvre
+
+524>Ronquerolles (mademoiselle de)>>>2>R
+demoiselle de Ronquerolles
+
+291>Ronquerolles (marquis de)>A perdu ses deux enfants à l’invasion du choléra. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.>>1>R
+@oncle de:268
+@frère de:292
+Ronquerolles
+oncle Ronquerolles
+marquis de Ronquerolles
+vieil oncle Ronquerolles
+le vieux diplomate Ronquerolles
+
+292>Sérisy (comtesse Hugret de)>Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.>Presles, Paris>2>S
+@tante de:268
+@soeur de:291
+madame de Sérizy
+tante de Sérizy
+
+525>Du Rouvre (chevalier)>A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.>France>1>D
+@oncle de:268
+chevalier du Rouvre
+
+210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris.>Paris>2>F
+Florine
+
+526>Laginski (les)>Famille polonaise. Dès l’an neuf cent, les Laginski se comptaient parmi les familles illustres du Nord.>Pologne>3>L
+@composée de:398
+les Laginski
+
+70>Rastignac (Eugène-Louis de)>Banquier, proposé à Émilie de Fontaine par son père.>France>1>R
+Rastignac
+monsieur de Rastignac
+
+527>Trailles (comte Maxime de)>>>1>T
+Maxime de Trailles
+
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Marquise. Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834.>Paris>2>E
+madame d’Espard
+
+482>Vandenesse (comtesse Félix de)>Prénommée Marie-Angélique. Fille aînée d'Angélique et de Robert de Granville.>Paris>2>V
+Marie de Vandenesse
+
+6>Mirouët (Ursule)>>>1>M
+Ursule Mirouët
+
+259>Du Guénic (Sabine)>>France>2>D
+Sabine du Guénic
+du Guénic
+
+528>Cinq-Cigne (Berthe de)>Femme de Georges de Maufrigneuse.>France>2>C
+de Maufrigneuse
+
+165>Schinner (Hippolyte)>Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.>Paris>1>S
+Schinner
+
+529>Steinbock (comte Weceslas)>>>1>S
+Steinbock
+
+530>Nucingen (baron Frédéric de)>>Paris>1>N
+baron de Nucingen
+
+531>Paz (comte Thaddée)>Ami du comte Laginski, issu de la noblesse.A vingt-deux ans, riche de soixante et quelques mille francs de rentes, sans compter les restes d’une somme provenant des diamants et des tableaux de famille vendus par sa mère.>>1>P
+@ami de:398
+@amoureux de:268
+@courtise:536
+Paz
+Thad
+Thaddée
+Comte Paz
+le comte Paz
+capitaine Paz
+monsieur le capitaine Paz
+
+398>Laginski (comte)>Jeune polonais fort riche. Sa petite figure, assez aigre de ton, semble avoir été pressée dans un étau. Son nez court, ses cheveux blonds, ses moustaches et sa barbe rousses lui donnent d’autant plus l’air d’une chèvre qu’il est petit, maigre, et que ses yeux d’un jaune sale vous saisissent par ce regard oblique si célèbre par le vers de Virgile. Acheta en 1834 un hôtel rue de la Pépinière à Paris. Épousa en décembre 1835 mademoiselle du Rouvre. Appartient à l’une des plus vieilles et des plus illustres familles de la Pologne. Nommé capitaine dans un régiment destiné à l’expédition de Khiva par l'empereur Nicolas.>rue de la Pépinière, Paris>1>L
+@ami de:531
+@marié à:268
+@courtise:536
+Adam
+Laginski
+Mitgislas
+comte Adam
+le comte Adam
+comte Laginski
+comte Adam Laginski
+Adam Mitgislas Laginski
+
+532>Constantin>Valet d'écurie du ménage Laginski. Formé par le comte Thaddée Paz.>France>1>C
+
+533>valet de chambre (habillé comme un ministre)>Valet de chambre habillé comme un ministre du ménage Laginski.>rue de la Pépinière, Paris>1>V
+
+534>Cora>Jument de madame Laginski.>Paris>4>C
+
+535>Boleslas>Chasseur de l'hôtel Laginski.>rue de la Pépinière, Paris>1>B
+Boleslas le chasseur
+
+138>Marsay (Henri de)>comte>Paris>1>M
+de Marsay
+De Marsay
+
+536>Malaga>Nommée Marguerite Turquet. Circassienne sachant descendre et remonter sur un cheval au grandissime galop et voltige comme un feu follet blanc autour de l’animal le plus fougueux. Écuyère de la famille Bouthor, à Saint-Cloud. Déesse de la gymnastique selon le comte Thaddée Paz.>rue Saint-Lazare, Paris>2>M
+@courtisée par:531,398
+Marguerite Turquet
+mademoiselle Turquet
+
+537>Chapuzot (monsieur)>Concierge de Malaga.>rue Saint-Lazare, Paris>1>C
+@marié à:538
+Chapuzot
+
+538>Chapuzot (madame)>Concierge de Malaga.>rue Saint-Lazare, Paris>2>C
+@mariée à:537
+la Chapuzot
+mame Chapuzot
+madame Chapuzot
+
+539>Chapuzot (famille)>Portiers de Malaga, devenus ses confidents et ses domestiques.>Paris>3>C
+@composée de:538,537
+les Chapuzot
+le ménage Chapuzot
+
+160>Bianchon (Horace)>Célèbre médecin en 1833.>France>1>B
+Bianchon
+
+540>La Palférine (Gabriel-Jean-Anne-Victor-Benjamin-Gerorges-Ferdinand-Charles-Édouard Rusticoli, comte de)>>Paris>1>L
+@courtise:268
+La Palférine

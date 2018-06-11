@@ -212,6 +212,7 @@ George Canning
 
 239>Chateaubriand (François-René de)>Homme politique et écrivain français.>>1>C
 Chateaubriand
+Châteaubriand
 
 240>Gautier (Théophile)>Ecrivain français.>France>1>G
 Théophile Gautier
@@ -352,7 +353,7 @@ prince de Talleyrand
 
 274>Orgon>Personnage de Molière.>>1>O
 
-90>Louis XIV>roi de France>France>1>L
+90>Louis XIV>Roi de France.>France>1>L
 
 38>Louis XVI>roi de France>France>1>L
 

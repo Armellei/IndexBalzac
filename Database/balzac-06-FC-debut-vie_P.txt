@@ -99,23 +99,25 @@ Sérisy père
 président de Sérisy
 monsieur de Sérisy le père
 
-291>Ronquerolles (marquis de)>>>1>R
+291>Ronquerolles (marquis de)>A perdu ses deux enfants à l’invasion du choléra. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.>>1>R
 @frère de:292
 marquis de Ronquerolles
 
-292>Sérisy (comtesse Hugret de)>Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari.>Presles, Paris>2>S
+292>Sérisy (comtesse Hugret de)>Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.>Presles, Paris>2>S
 @soeur de:291
 @mariée à:293,278
 @mère de:396
 @emploie:283
 @tante de:268
+madame de Sérizy
+madame de Sérisy
 comtesse de Sérisy
 Clara-Léontine de Ronquerolles
 
-293>Gaubert>Un des plus illustres généraux, décédé.>>1>G
-@marié à: 292
+293>Gaubert>Un des plus illustres généraux, décédé.>France>1>G
+@marié à:292
 
-294>Rouvre (marquis de)>Fut nommé comte et chambellan par l'Empereur>>1>R
+294>Du Rouvre (marquis)>Fut nommé comte et chambellan par l'Empereur. A presque entièrement dissipé l’une des plus belles fortunes de la noblesse en 1835 pour Florine.>>1>D
 @beau-frère de:278
 marquis de Rouvre
 
@@ -520,7 +522,7 @@ Agathe-Florentine Cabirolle
 129>Tullia>danseuse à l'Opéra>Paris>2>T
 @amie de:345,391
 
-210>Florine (Sophie Grignoux dite)>Artiste lyrique>>2>F
+210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris.>Paris>2>F
 @amie de:345
 Florine
 
@@ -555,7 +557,7 @@ duc de Maufrigneuse
 395>Gaudron (abbé)>Vicaire de Saint-Paul.>Paris>1>G
 abbé Gaudron
 
-396>Sérisy (vicomte Jules de)>Fils unique du comte de Sérisy. Lieutenant-colonel du régiment du duc de Maufrigneuse, aura Oscar Husson sous ses ordres. Blessé lors de l'affaire de la Macta, sauvé par Oscar Husson, il mourra des suites de ses blessures à Toulon. Enterré dans la chapelle du château de Sérisy.>>1>S
+396>Sérisy (vicomte Jules de)>Fils unique du comte de Sérisy. Jeune officier de la compagnie des Gardes d’Havré. Lieutenant-colonel du régiment du duc de Maufrigneuse, aura Oscar Husson sous ses ordres. Blessé lors de l'affaire de la Macta, sauvé par Oscar Husson, il mourra des suites de ses blessures à Toulon. Enterré dans la chapelle du château de Sérisy.>>1>S
 @fils de:278,292
 vicomte de Sérisy
 vicomte Jules de Sérisy
@@ -568,12 +570,12 @@ monsieur le baron de Canalis
 @marié à:399
 @gendre de:276,283
 
-268>Rouvre (mademoiselle du)>>France>2>R
+268>Du Rouvre (mademoiselle)>Fille unique du marquis du Rouvre, épousa en décembre 1835 le comte Adam Mitgislas Laginski, jeune polonais proscrit.>rue de la Pépinière, Paris>2>D
 @mariée à:398
 @nièce de:292
 mademoiselle du Rouvre
 
-398>Laginski (comte)>Jeune polonais fort riche.>France>1>L
+398>Laginski (comte)>Jeune polonais fort riche. Sa petite figure, assez aigre de ton, semble avoir été pressée dans un étau. Son nez court, ses cheveux blonds, ses moustaches et sa barbe rousses lui donnent d’autant plus l’air d’une chèvre qu’il est petit, maigre, et que ses yeux d’un jaune sale vous saisissent par ce regard oblique si célèbre par le vers de Virgile. Acheta en 1834 un hôtel rue de la Pépinière à Paris. Épousa en décembre 1835 mademoiselle du Rouvre. Appartient à l’une des plus vieilles et des plus illustres familles de la Pologne. Nommé capitaine dans un régiment destiné à l’expédition de Khiva par l'empereur Nicolas.>rue de la Pépinière, Paris>1>L
 @marié à:268
 comte Laginski
 
