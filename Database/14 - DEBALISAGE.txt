@@ -1,0 +1,9 @@
+Les deux Marie devaient  --> rien baliser
+
+--> débaliser toutes les occurences de "les deux Marie"
+
+achète au Tillet --> débaliser s'il y a quelque chose
+
+l’ami de Montcornet. -->  baliser en 77P !!!! 
+
+demander la somme aux Rotschild  --> en 548R
