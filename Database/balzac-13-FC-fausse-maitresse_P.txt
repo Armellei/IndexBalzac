@@ -37,7 +37,7 @@ tante de Sérizy
 @oncle de:268
 chevalier du Rouvre
 
-210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris.>Paris>2>F
+210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris. Vendit tout ses meubles pour avancer des fonds à Raoul Nathan.>rue Pigalle, Paris>2>F
 Florine
 
 526>Laginski (les)>Famille polonaise. Dès l’an neuf cent, les Laginski se comptaient parmi les familles illustres du Nord.>Pologne>3>L
@@ -51,10 +51,10 @@ monsieur de Rastignac
 527>Trailles (comte Maxime de)>>>1>T
 Maxime de Trailles
 
-136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Marquise. Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834.>Paris>2>E
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.>rue du Faubourg Saint-Honoré, Paris>2>E
 madame d’Espard
 
-482>Vandenesse (comtesse Félix de)>Prénommée Marie-Angélique. Fille aînée d'Angélique et de Robert de Granville.>Paris>2>V
+482>Vandenesse (comtesse Félix de)>Prénommée Marie-Angélique. Fille aînée d'Angélique et de Robert de Granville. Jeunesse triste et solitaire sous l'oeil avisé de sa mère. Décidée avec sa soeur à prendre pour mari le premier homme venu afin de quitter la maison. Se maria à 20 ans avec Félix de Granville en 1828.>rue du Rocher, Paris>2>V
 Marie de Vandenesse
 
 6>Mirouët (Ursule)>>>1>M
@@ -73,7 +73,7 @@ Schinner
 529>Steinbock (comte Weceslas)>>>1>S
 Steinbock
 
-530>Nucingen (baron Frédéric de)>>Paris>1>N
+530>Nucingen (baron Frédéric de)>Banquier.>Paris>1>N
 baron de Nucingen
 
 531>Paz (comte Thaddée)>Ami du comte Laginski, issu de la noblesse.A vingt-deux ans, riche de soixante et quelques mille francs de rentes, sans compter les restes d’une somme provenant des diamants et des tableaux de famille vendus par sa mère.>>1>P
@@ -110,7 +110,7 @@ Adam Mitgislas Laginski
 535>Boleslas>Chasseur de l'hôtel Laginski.>rue de la Pépinière, Paris>1>B
 Boleslas le chasseur
 
-138>Marsay (Henri de)>comte>Paris>1>M
+138>Marsay (comte Henri de)>Comte>Paris>1>M
 de Marsay
 De Marsay
 

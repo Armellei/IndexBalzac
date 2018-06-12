@@ -13,6 +13,10 @@ Mierevelt
 
 189>Catulle>poète romain>>1>C
 
+553>Tobie (capitaine)>Personnage de Sterne.>>1>T
+capitaine Tobie
+oncle Tobie
+
 101>Ève>>>2>E
 
 47>Raphaël>peintre>>1>R
@@ -314,6 +318,11 @@ Bettina von Arnim
 
 75>Apollon>dieu grec des arts, de la musique, de la poésie>Grèce>1>A
 
+115>Shakespeare>Écrivain et dramaturge anglais.>>1>S
+Shakspeare
+
+574>Béatrix>Personnage de Shakespeare.>>2>B
+
 264>Hamlet>Personnage de Shakespeare.>>1>H
 
 265>Roméo>Personnage de Shakespeare.>>1>R
@@ -459,3 +468,9 @@ Lamoral, comte d’Egmont, prince de Gavres
 
 307>Meulen (Adam Frans van der)>Peintre>>1>M
 Van der Meulen
+
+552>Rigaudin>Personnage de Picard et Radet.>>1>R
+Trigaudin
+
+554>Charlet (Nicolas-Toussaint)>Peintre et graveur français.>France>1>C
+Charlet

@@ -192,7 +192,7 @@ Françoise
 Françoise Cochet
 mademoiselle Françoise
 
-210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris.>Paris>2>F
+210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris. Vendit tout ses meubles pour avancer des fonds à Raoul Nathan.>rue Pigalle, Paris>2>F
 Florine
 
 211>Vilquin (fils)>>>>V
@@ -228,7 +228,7 @@ Schinner
 Sommervieux
 Théodore de Sommervieux
 
-214>Nathan (Raoul)>Journaliste et auteur.>>1>N
+214>Nathan (Raoul)>Fils d’un brocanteur juif, mort en banqueroute dans les premiers jours de son mariage ; mais sa mère était catholique. Cache ses origines avec soin. Journaliste et auteur. A des yeux napoléoniens, des yeux bleus dont le regard traverse l’âme ; un nez tourmenté, plein de finesse ; une charmante bouche, embellie par les dents les plus blanches que puisse souhaiter une femme. Il y a du mouvement et du feu dans cette tête, et du génie sur ce front. Raoul appartient au petit nombre d’hommes qui vous frappent au passage, qui dans un salon forment aussitôt un point lumineux où vont tous les regards. Fréquente depuis 10 ans Florine, chez qui il passe la moitié de sa vie.>Entre la rue Basse-du-Rempart et la rue Neuve-des-Mathurins, Paris>1>N
 Nathan
 Raoul Nathan
 
@@ -242,7 +242,7 @@ les Cadignan
 
 219>Nègrepelisse (famille de)>>>3>N
 
-138>Marsay (Henri de)>comte>Paris>1>M
+138>Marsay (comte Henri de)>Comte>Paris>1>M
 de Marsay
 De Marsay
 
@@ -259,7 +259,7 @@ madame de Chaulieu
 duchesse de Chaulieu
 madame la duchesse de Chaulieu
 
-136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Marquise. Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834.>Paris>2>E
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.>rue du Faubourg Saint-Honoré, Paris>2>E
 Jeanne-Clémentine-Athénaïs
 madame d’Espard
 
@@ -331,7 +331,7 @@ mademoiselle Mongenod
 @marié à:235
 monsieur de Fontaine
 
-237>Nucingen (famille de)>>>3>N
+237>Nucingen (famille de)>Maison Nucingen : établissement bancaire.>>3>N
 Nucingen
 
 238>Nucingen (madame de)>>>2>N
@@ -343,7 +343,7 @@ comte de Mortsauf
 240>Espard (marquis d’)>>>1>E
 marquis d’Espard
 
-105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>M
+105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>C
 @mariée à:264
 Diane
 Diane de Maufrigneuse
@@ -381,7 +381,7 @@ prince de Cadignan
 249>Wadman (veuve)>Personnage de Laurence Sterne.>>2>W
 veuve Wadman
 
-250>Rochefide (madame de)>>>2>R
+250>Rochefide (marquise Béatrix-Maximilienne-Rose de)>>>2>R
 madame de Rochefide
 
 251>Jacmin (Jean)>Prétendu cousin de Philoxène Jacmin.>>1>J

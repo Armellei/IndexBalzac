@@ -25,7 +25,7 @@ Charles-Ignace Peyronnet
 500>Christoph Willibald von Gluck>Compositeur allemand.>Allemagne>1>G
 chevalier Gluck
 
-501>Jean-Auguste-Dominique Ingres>Peintre et dessinateur français.>France>1>I
+501>Ingres (Jean-Auguste-Dominique)>Peintre et dessinateur français.>France>1>I
 Ingres
 
 129>Jeanne d’Arc>>>2>J

@@ -1,0 +1,254 @@
+464>Granville (comte Roger de)>Jeune avocat, son père lui proposa d'épouser son amie d'enfance Angélique Bontems, que Roger nommait sa petite femme. Devenu pair de France après la révolution de juillet et l'un des plus célèbres noms de la magistratire française. Marié en avril 1805, il est nommé la même année Avocat-Général près la cour impériale de la Seine et prend un appartement avec sa femme au rez-de-chaussée d’un hôtel qui faisait le coin de la Vieille-Rue-du-Temple et de la rue Neuve-Saint-François, s'enterrant dans le Marais. Son mariage fut malheureux à cause de la bigoterie de sa femme. Triste en ménage entre 1806 et 1821, riche de cent mille livres de rente, appartenant à l’une des meilleures maisons de la Normandie. Âgé d'environ quarante ans en 1815, grand, mince, pâle et vêtu de noir, surnommé par madame Crochard et sa fille "le monsieur noir". A eu 2 enfants hors mariage avec Caroline Crochard, à qui il avoua au bout de sept ans l'existence de sa double famille. A eu deux fils et deux filles avec sa femme Angélique. S'est réservé l'éducation de ses fils, confiant celle de ses filles à sa femme. Marie en 1831 sa dernière fille à Ferdinand Du Tillet. Âgé de 57 ans en 1833.>Paris>1>G
+@beau-père de:541,380
+@emploie: 464
+comte de Granville
+
+541>du Tillet (Ferdinand)>L'un des plus riches banquiers de Paris. A épousé en 1831 la dernière fille du comte de Granville>Paris>1>D
+@gendre de:464
+du Tillet
+Du Tillet
+Ferdinand
+Ferdinand du Tillet
+sieur Ferdinand dit du Tillet
+
+542>Du Tillet (madame Ferdinand)>Née Marie-Eugénie de Granville. Jeunesse triste et solitaire sous l'oeil avisé de sa mère. Décidée avec sa soeur à prendre pour mari le premier homme venu afin de quitter la maison. Se maria à 17 ans en 1831 avec Ferdinand du Tillet.>Paris>2>D
+@mariée à:541
+@soeur de:482,483,484
+@fille de:464,473
+@emploie:561
+Eugénie
+Marie-Eugénie
+madame du Tillet
+Marie-Eugénie de Granville
+Marie-Angélique de Granville
+
+561>Virginie>Femme de chambre de Marie-Eugénie du Tillet.>Paris>2>V
+@employée par:542
+
+379>Vandenesse (Charles de)>Ambassadeur en 1825. La même année, en procès contre son frère Félix-Amédée.>>1>V
+@marié à:62
+Charles de Vandenesse
+
+62>Fontaine (Émilie de)>Troisième fille du comte de Fontaine, deviendra comtesse en épousant son grand-oncle en 1827. Riche et veuve, elle épousa en 1836 Charles de Vandenesse.>France>2>F
+@mariée à:379
+@belle-soeur de:482
+madame Charles de Vandenesse
+marquise Charles de Vandenesse
+
+473>Granville (comtesse Angélique de)>Née Angélique Bontems. Amie d'enfance de Roger de Granville, qu'elle épousa en avril 1805. Très dévote. Triste en ménage entre 1806 et 1821. Apprend l'infidélité de son mari avec Caroline Crochard par l'abbé Fontanon. A eu 4 enfants, deux fils et deux filles, avec son mari. S'est réservée l'éducation de ses filles, confiant celle de ses fils à son mari. Élève ses filles de manière stricte, sans les mener à aucun spectacle jusqu'à leur mariage. Quelques temps après le mariage de ses filles, elle se retira à Bayeux dans une de ses terres, économisant et priant, achevant ses jours entre des prêtres et des sacs d’écus, froide jusqu’au dernier moment.>Bayeux, Paris>2>G
+@emploie:543,544
+madame de Granville
+comtesse de Granville
+
+543>demoiselle à lunettes>Demoiselle chargée d'apprendre la musique (solfège et piano) à Marie-Angélique et Marie-Eugénie de Granville.>Paris>2>D
+@employée par:473
+
+544>Schmuke>Ancien maître de chapelle du margrave d’Anspach. Allemand catholique. Chargé par le comte et la comtesse de granville d'apprendre la musique à leurs filles Marie-Angélique et Marie-Eugénie lorsque l'aînée atteint 10 ans. Les deux filles se prennent d'amitié pour lui et après leur mariage, chacune lui constitua trois cents francs de rente viagère, somme qui suffisait pour son logement, sa bière, sa pipe et ses vêtements.>à l'angle du Quai de Conti, près de la rue de Nevers, Paris>1>S
+@employé par:473,464
+
+149>Dudley (lady Arabelle)>A fait mourir de chagrin lady Brandon. Eut une liaison avec Félix de Vandenesse.>>2>D
+@courtisée par:380
+lady Dudley
+Lady Dudley
+
+545>Manerville (madame de)>Dernière conquête de Félix de Vandenesse.>France>2>M
+@courtisée par:380
+de Manerville
+madame de Manerville
+
+516>Listomère (marquise de)>Née Vandenesse. Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.>Rue Saint-Dominique, Paris>2>L
+@belle-soeur de:482
+@soeur de:380
+de Listomère
+madame de Listomère
+marquise de Listomère
+
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.>rue du Faubourg Saint-Honoré, Paris>2>E
+d’Espard
+madame d’Espard
+marquise d’Espard
+
+482>Vandenesse (comtesse Félix de)>Prénommée Marie-Angélique. Fille aînée d'Angélique et de Robert de Granville. Jeunesse triste et solitaire sous l'oeil avisé de sa mère. Décidée avec sa soeur à prendre pour mari le premier homme venu afin de quitter la maison. Se maria à 20 ans avec Félix de Granville en 1828.>rue du Rocher, Paris>2>V
+@mariée à:380
+@courtisée par:214
+@amoureuse de:214
+@belle-soeur de:62,516
+Marie
+Angélique
+comtesse Marie
+Marie-Angélique
+madame de Vandenesse
+madame Félix de Vandenesse
+comtesse de Vandenesse
+comtesse Marie de Vandenesse
+
+380>Vandenesse (Félix-Amédée de)>Se maria avec Marie-Angélique de Granville en 1828. Lui apprit alors les choses de la vie. Eut avant elle de nombreuses conquêtes, dont Lady Dudley qui le forma et Madame de Manerville.>rue du Rocher, Paris>1>V
+@marié à:482
+@frère de:516
+@beau-frère de:541
+@gendre de:464
+@courtise:149,545
+Félix
+Vandenesse
+le comte Félix
+Félix de Vandenesse
+comte de Vandenesse
+comte Félix de Vandenesse
+
+93>Touches (Félicité des)>>France>2>T
+mademoiselle Des Touches
+mademosielle des Touches
+
+250>Rochefide (marquise Béatrix-Maximilienne-Rose de)>>>2>R
+madame de Rochefide
+marquise de Rochefide
+
+546>Aiglemont (Moïna)>>Paris>2>A
+Moïna de Saint-Héréen
+Moïna de Saint-Héeren
+
+547>Galathionne (princesse)>>Paris>2>G
+princesse Galathionne
+
+90>Montcornet (comtesse de)>Charmante petite femme qui recevait les artistes illustres, les sommités de la finance, les écrivains distingués, mais après les avoir soumis à un si sévère examen, que les plus difficiles en fait de bonne compagnie n’avaient pas à craindre d’y rencontrer qui que ce soit de la société secondaire.>France>2>M
+de Montcornet
+madame de Montcornet
+comtesse de Montcornet
+
+78>Grandlieu (vicomtesse de)>>Paris>2>G
+vicomtesse de Grandlieu
+
+548>Grandlieu (duchesse Ferdinand de)>Née d'Ajuda.>Paris>2>G
+duchesse de Grandlieu
+
+214>Nathan (Raoul)>Fils d’un brocanteur juif, mort en banqueroute dans les premiers jours de son mariage ; mais sa mère était catholique. Cache ses origines avec soin. Journaliste et auteur. A des yeux napoléoniens, des yeux bleus dont le regard traverse l’âme ; un nez tourmenté, plein de finesse ; une charmante bouche, embellie par les dents les plus blanches que puisse souhaiter une femme. Il y a du mouvement et du feu dans cette tête, et du génie sur ce front. Raoul appartient au petit nombre d’hommes qui vous frappent au passage, qui dans un salon forment aussitôt un point lumineux où vont tous les regards. Fréquente depuis 10 ans Florine, chez qui il passe la moitié de sa vie.>Entre la rue Basse-du-Rempart et la rue Neuve-des-Mathurins, Paris>1>N
+@ami de:549,70,551,552,390,553,173
+@courtise:210,482
+@emploie:559
+Raoul
+Nathan
+Raoul Nathan
+
+138>Marsay (comte Henri de)>Comte>Paris>1>M
+de Marsay
+
+550>Vandenesse (marquise de)>Née Listomère. A deux enfants, Charles et Félix-Amédée de Vandenesse.>Paris>2>V
+marquise de Vandenesse
+
+391>du Bruel>Auteur et vaudevilliste.>Paris>1>D
+
+210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris. Vendit tout ses meubles pour avancer des fonds à Raoul Nathan.>rue Pigalle, Paris>2>F
+@courtisée par:214
+Florine
+Sophie Grignoult
+mademoiselle Florine
+
+70>Rastignac (Eugène-Louis de)>Banquier, proposé à Émilie de Fontaine par son père.>France>1>R
+@ami de:549,214
+@beau-frère de:213
+Rastignac
+baron de Rastignac
+monsieur de Rastignac
+
+213>La Roche-Hugon (comte Martial de)>Ministre.>Paris>1>L
+@beau-frère de:70
+@ami de:138,77
+La Roche-Hugon
+Martial de la Roche-Hugon
+
+490>Firmiani (madame)> Possède un grand hôtel situé rue du Bac, des salons bien meublés, de beaux tableaux, cent bonnes mille livres de rente. Reçoit le mercredi. Nièce du vieux prince de Cadignan et cousine par conséquent du duc de Maufrigneuse. Mariée en 1813, à l’âge de seize ans, elle devait avoir au moins vingt-huit ans en 1825. Mariée à Octave de Camps à Greatna-Green, elle lui donna un acte qui constate le décès de Firmiani et le supplia d'accepter sa fortune. Beaucoup d'opinions sont répandues sur elle en 1824, à tel point qu'il y a autant de madame Firmiani que de classes dans la société, que de sectes dans le catholicisme.>Paris>2>F
+madame Octave de Camps
+
+344>Coralie>Comédienne.>Paris>2>C
+
+287>Gobseck (Esther van)>>>2>G
+la Torpille
+
+129>Tullia>danseuse à l'Opéra>Paris>2>T
+
+92>Euphrasie>Danseuse>>2>E
+
+75>Aquilina>Courtisane.>>2>A
+
+350>Mariette>Danseuse parisienne, premier Sujet de l’Académie royale de musique et de danse.>Paris>2>M
+
+392>Val-Noble (madame du)>>>2>V
+madame du Val-Noble
+
+390>Finot>Journaliste.>>1>F
+@ami de:552,551,553,214,173
+
+551>Lousteau (Étienne)>Amant de Florine.>Paris>1>L
+@amant de:210
+@ami de:552,551,553,214,390,173
+Lousteau
+Étienne Lousteau
+
+552>Vernou (Félicien)>feuilletoniste>Paris>1>V
+@ami de:390,551,553,214,173
+Vernou
+Félicien Vernou
+
+553>Couture>>Paris>1>C
+@ami de:551,552,390,214,390,173
+
+173>Bixiou>Faiseur de caricatures.>Paris>1>B
+@ami de:551,552,390,214,390,553
+
+554>Vignon (Claude)>Critique.>Paris>1>V
+Claude Vignon
+
+530>Nucingen (baron Frédéric de)>Banquier.>Paris>1>N
+@marié à:71
+@emploie:560
+Nucingen
+baron de Nucingen
+monsieur de Nucingen
+Nucingen le banquier
+
+71>Nucingen (madame de)>Née Delphine Goriot.>rue Saint-Lazare, Paris>2>N
+@mariée à:530
+@emploie:601,560
+Delphine
+madame Nucingen
+madame de Nucingen
+baronne Delphine de Nucingen
+
+601>Thérèse>Femme de chambre de la baronne Delphine de Nucingen.>Paris>2>T
+@employée par:71
+
+560>caissier>Caissier employé par les Nucingen.>Paris>1>C
+@employé par:71,530
+
+555>Conti (Gennaro)>Compositeur.>>1>C
+Conti le compositeur
+
+556>Massol (Léon)>Avocat.>France>1>M
+Massol
+
+549>Blondet (Émile)>>Paris>1>B
+@ami de:70,77,214,557
+Blondet
+Émile Blondet
+
+557>Plantin>En 1834, trempe dans une revue et veut être maître des requêtes, selon Blondet.>Paris>1>P
+@ami de:549
+Plantin
+
+558>Saint-Just (Louis-Antoine de)>Homme politique français.>France>1>S
+Saint-Just
+
+458>Gigonnet>Usurier.>Paris>1>G
+vieux Gigonnet
+monsieur Gigonnet
+
+559>Quillet (François)>Garçon de bureau travaillant pour Raoul Nathan.>Paris>1>Q
+@employé par:214
+Quillet
+François Quillet
+monsieur Quillet
+
+561>Virginie>Femme de chambre de Marie-Eugénie du Tillet.>Paris>2>V
+
+237>Nucingen (famille de)>Maison Nucingen : établissement bancaire.>>3>N
+maison Nucingen

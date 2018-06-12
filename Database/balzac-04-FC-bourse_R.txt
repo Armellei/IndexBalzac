@@ -4,7 +4,7 @@ Pierre-Paul Prud'hon
 
 54>Girodet>peintre d'histoire>France>1>G
 
-177>Réveillon (Jean-Baptiste) >Propriétaire d'une manufacture de papiers peints>>1>R
+177>Réveillon (Jean-Baptiste)>Propriétaire d'une manufacture de papiers peints>>1>R
 Jean-Baptiste Réveillon
 Réveillon
 
@@ -38,3 +38,6 @@ Antoine-Jean Gros
 
 183>Grieux (chevalier des)>personnage de François Prévost>>1>G
 chevalier des Grieux
+
+553>Tobie (capitaine)>Personnage de Sterne.>>1>T
+capitaine Tobie

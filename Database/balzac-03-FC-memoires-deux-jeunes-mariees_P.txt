@@ -77,7 +77,7 @@ madame de Chaulieu
 duchesse de Chaulieu
 madame la duchesse de Chaulieu
 
-105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>M
+105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>C
 madame de Maufrigneuse
 duchesse de Maufrigneuse
 
@@ -225,7 +225,7 @@ monsignore Bemboni
 
 135>premier secrétaire de l’ambassade d’Espagne>Raconte une action sublime de Don Felipe Hénarez, duc de Soria, à Louise de Chaulieu>Paris>1>S
 
-136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Marquise. Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834.>Paris>2>E
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.>rue du Faubourg Saint-Honoré, Paris>2>E
 madame d’Espard
 marquise d’Espard
 Jeanne-Clémentine-Athénaïs
@@ -234,7 +234,7 @@ Jeanne-Clémentine-Athénaïs
 @mariée à:523
 marquise de Beauséant
 
-138>Marsay (Henri de)>comte>Paris>1>M
+138>Marsay (comte Henri de)>Comte>Paris>1>M
 Henri de Marsay
 Monsieur de Marsay
 monsieur de Marsay
@@ -291,7 +291,7 @@ Gaston
 148>Brandon (lady)>>>2>B
 lady Brandon
 
-149>Dudley (lady Arabelle)>A fait mourir de chagrin lady Brandon.>>2>D
+149>Dudley (lady Arabelle)>A fait mourir de chagrin lady Brandon. Eut une liaison avec Félix de Vandenesse.>>2>D
 lady Dudley
 
 150>Gaston (Louis)>Marin, capitaine de vaisseau. Mort à Calcutta, au service d’une compagnie marchande, au moment où il allait revenir en France riche, heureux et marié.>>1>G
@@ -322,7 +322,8 @@ René de l'Estorade
 
 156>Fedelta>Jument de Gaston Marie>>4>F
 
-157>Nathan>auteur dramatique>>1>N
+214>Nathan (Raoul)>Fils d’un brocanteur juif, mort en banqueroute dans les premiers jours de son mariage ; mais sa mère était catholique. Cache ses origines avec soin. Journaliste et auteur. A des yeux napoléoniens, des yeux bleus dont le regard traverse l’âme ; un nez tourmenté, plein de finesse ; une charmante bouche, embellie par les dents les plus blanches que puisse souhaiter une femme. Il y a du mouvement et du feu dans cette tête, et du génie sur ce front. Raoul appartient au petit nombre d’hommes qui vous frappent au passage, qui dans un salon forment aussitôt un point lumineux où vont tous les regards. Fréquente depuis 10 ans Florine, chez qui il passe la moitié de sa vie.>Entre la rue Basse-du-Rempart et la rue Neuve-des-Mathurins, Paris>1>N
+Nathan
 
 158>Halmer>Banquier ayant fait faillite et causé la ruine des Gaston.>>1>H
 

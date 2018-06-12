@@ -1,4 +1,4 @@
-516>Listomère (marquise de)>Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.>Rue Saint-Dominique, Paris>2>L
+516>Listomère (marquise de)>Née Vandenesse. Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.>Rue Saint-Dominique, Paris>2>L
 @marié à:520
 @emploie:522
 La marquise
@@ -35,7 +35,7 @@ Horace
 @marié à:137
 marquis de Beauséant
 
-71>Nucingen (madame de)>>rue Saint-Lazare, Paris>2>N
+71>Nucingen (madame de)>Née Delphine Goriot.>rue Saint-Lazare, Paris>2>N
 madame de Nucingen
 
 1>Mortsauf (comtesse de)>Le marquis de Listomère apprend son décès dans la Gazette de France en 1828.>France>2>M

@@ -13,7 +13,7 @@ chef de la famille de Fontaine
 @gendre de:60
 @marié à:73
 
-62>Fontaine (Émilie de)>Troisième fille du comte de Fontaine, deviendra comtesse en épousant son grand-oncle.>France>2>F
+62>Fontaine (Émilie de)>Troisième fille du comte de Fontaine, deviendra comtesse en épousant son grand-oncle en 1827. Riche et veuve, elle épousa en 1836 Charles de Vandenesse.>France>2>F
 @fille de:60,63
 @belle-soeur de:64,65
 @soeur de:73
@@ -64,7 +64,7 @@ monsieur de Beaudenord
 70>Rastignac (Eugène-Louis de)>Banquier, proposé à Émilie de Fontaine par son père.>France>1>R
 monsieur de Rastignac
 
-71>Nucingen (madame de)>>rue Saint-Lazare, Paris>2>N
+71>Nucingen (madame de)>Née Delphine Goriot.>rue Saint-Lazare, Paris>2>N
 madame de Nucingen
 
 72>Portenduère (vicomte de)>vicomte, parent du comte de Fontaine, proposé à Émilie de Fontaine par son père, repoussé car jugé sans fortune, amoureux d'Émilie>France>1>P
@@ -81,7 +81,7 @@ madame Planat
 @genre de:60,63
 baron de Villaine
 
-75>Marsay (monsieur de)>>France>1>M
+138>Marsay (comte Henri de)>Comte>Paris>1>M
 monsieur de Marsay
 
 76>Longueville (Clara de)>>France>2>L
@@ -91,7 +91,7 @@ Clara
 Clara Longueville
 Clara de Longueville
 
-149>Dudley (lady Arabelle)>A fait mourir de chagrin lady Brandon.>>2>D
+149>Dudley (lady Arabelle)>A fait mourir de chagrin lady Brandon. Eut une liaison avec Félix de Vandenesse.>>2>D
 lady Dudley
 Lady Dudley
 
@@ -138,7 +138,7 @@ duchesses de Maufrigneuse
 de Chaulieu
 duchesse de Chaulieu
 
-87>Espard (marquise d')>>France>2>E
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.>rue du Faubourg Saint-Honoré, Paris>2>E
 d’Espard
 marquise d’Espard
 
@@ -150,7 +150,7 @@ marquise d’Aiglemont
 Féraud
 comtesse Féraud
 
-90>Montcornet (comtesse de)>comtesse>France>2>M
+90>Montcornet (comtesse de)>Charmante petite femme qui recevait les artistes illustres, les sommités de la finance, les écrivains distingués, mais après les avoir soumis à un si sévère examen, que les plus difficiles en fait de bonne compagnie n’avaient pas à craindre d’y rencontrer qui que ce soit de la société secondaire.>France>2>M
 de Montcornet
 comtesse de Montcornet
 
@@ -158,10 +158,10 @@ comtesse de Montcornet
 de Restaud
 comtesse de Restaud
 
-92>Camps (madame de)>>France>2>C
+490>Firmiani (madame)> Possède un grand hôtel situé rue du Bac, des salons bien meublés, de beaux tableaux, cent bonnes mille livres de rente. Reçoit le mercredi. Nièce du vieux prince de Cadignan et cousine par conséquent du duc de Maufrigneuse. Mariée en 1813, à l’âge de seize ans, elle devait avoir au moins vingt-huit ans en 1825. Mariée à Octave de Camps à Greatna-Green, elle lui donna un acte qui constate le décès de Firmiani et le supplia d'accepter sa fortune. Beaucoup d'opinions sont répandues sur elle en 1824, à tel point qu'il y a autant de madame Firmiani que de classes dans la société, que de sectes dans le catholicisme.>Paris>2>F
 madame de Camps
 
-93>Touches (mademoiselle des)>>France>2>T
+93>Touches (Félicité des)>>France>2>T
 mademoiselle Des Touches
 mademosielle des Touches
 

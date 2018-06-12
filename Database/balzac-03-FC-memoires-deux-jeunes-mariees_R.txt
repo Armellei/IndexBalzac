@@ -22,8 +22,9 @@ Victorine Pierrard
 Janssen
 Jacques Janssen
 
-97>Richelieu (maréchal de)>maréchal>France>1>R
+97>Richelieu (duc de)>Maréchal de France, duc de Fronsac puis duc de Richelieu.>France>1>R
 maréchal de Richelieu
+Louis-François-Armand de Vignerot du Plessis de Richelieu
 
 98>Lomellini>famille établie à Gênes>Gênes>3>L
 
@@ -80,7 +81,7 @@ Felice Pellegrini
 Rossini
 Gioachino Rossini
 
-115>Shakespeare>écrivain et dramaturge anglais>>1>S
+115>Shakespeare>Écrivain et dramaturge anglais.>>1>S
 Shakspeare
 
 116>Othello>personnage de Shakespeare>>1>O
@@ -195,7 +196,6 @@ Antoine de Rivarol
 
 128>Florian (Jean-Pierre Claris de)>poète et romancier français>>1>F
 Florian
-Jean-Pierre Claris de Florian
 
 132>Gessner (Solomon)>poète suisse>Suisse>1>G
 Gessner

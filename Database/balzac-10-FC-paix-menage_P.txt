@@ -14,9 +14,10 @@ Montcornet
 colonel Montcornet
 général Montcornet
 
-78>Montcornet (comtesse de)>>>2>M
+90>Montcornet (comtesse de)>Charmante petite femme qui recevait les artistes illustres, les sommités de la finance, les écrivains distingués, mais après les avoir soumis à un si sévère examen, que les plus difficiles en fait de bonne compagnie n’avaient pas à craindre d’y rencontrer qui que ce soit de la société secondaire.>France>2>M
+de Montcornet
+comtesse de Montcornet
 @mariée à:77
-comtesse de Gondreville
 
 174>Soulanges (maréchal comte Léon de)>>>1>S
 @marié à:488
@@ -25,7 +26,7 @@ Soulanges
 comte de Soulanges
 monsieur de Soulanges
 
-213>La Roche-Hugon (comte Martial de)>>Paris>1>L
+213>La Roche-Hugon (comte Martial de)>Ministre.>Paris>1>L
 Martial
 baron de la Roche-Hugon
 Martial de la Roche-Hugon

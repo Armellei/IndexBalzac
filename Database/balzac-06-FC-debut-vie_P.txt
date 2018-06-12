@@ -499,7 +499,7 @@ la marquise mexicaine de Las Florentinas y Cabirolos
 @frère de:380
 Charles de Vandenesse
 
-380>Vandenesse (Félix-Amédée de)>Comte.>>1>V
+380>Vandenesse (Félix-Amédée de)>Se maria avec Marie-Angélique de Granville en 1828. Lui apprit alors les choses de la vie. Eut avant elle de nombreuses conquêtes, dont Lady Dudley qui le forma et Madame de Manerville.>rue du Rocher, Paris>1>V
 @frère de:379
 Félix-Amédée de Vandenesse
 comte Félix de Vandenesse
@@ -522,7 +522,7 @@ Agathe-Florentine Cabirolle
 129>Tullia>danseuse à l'Opéra>Paris>2>T
 @amie de:345,391
 
-210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris.>Paris>2>F
+210>Florine (Sophie Grignoux dite)>Artiste lyrique, une des plus charmantes actrices de Paris. Vendit tout ses meubles pour avancer des fonds à Raoul Nathan.>rue Pigalle, Paris>2>F
 @amie de:345
 Florine
 
@@ -534,14 +534,15 @@ le général Giroudeau
 
 390>Finot>Journaliste.>>1>F
 
-391>du Bruel>Auteur>>1>B
+391>du Bruel>Auteur et vaudevilliste.>Paris>1>D
 @ami de:129
 Du Bruel
 
 392>Val-Noble (madame du)>>>2>V
 madame du Val-Noble
 
-157>Nathan>auteur dramatique>>1>N
+214>Nathan (Raoul)>Fils d’un brocanteur juif, mort en banqueroute dans les premiers jours de son mariage ; mais sa mère était catholique. Cache ses origines avec soin. Journaliste et auteur. A des yeux napoléoniens, des yeux bleus dont le regard traverse l’âme ; un nez tourmenté, plein de finesse ; une charmante bouche, embellie par les dents les plus blanches que puisse souhaiter une femme. Il y a du mouvement et du feu dans cette tête, et du génie sur ce front. Raoul appartient au petit nombre d’hommes qui vous frappent au passage, qui dans un salon forment aussitôt un point lumineux où vont tous les regards. Fréquente depuis 10 ans Florine, chez qui il passe la moitié de sa vie.>Entre la rue Basse-du-Rempart et la rue Neuve-des-Mathurins, Paris>1>N
+Nathan
 
 393>Anglade (marquise d')>Nom sous lequel Florentine présente Fanny Beaupré à Oscar Husson.>Paris>2>A
 marquise d’Anglade
@@ -589,3 +590,6 @@ baronne de Canalis
 @fille de:281
 @petite-fille de:280
 @mariée à:316
+
+58>Aiglemont (Victor d’)>Colonel, marquis.>Paris>1>A
+marquis d’Aiglemont

@@ -97,19 +97,19 @@ Lenoncourt
 515>Vandenesse (famille)>>>3>V
 Vandenesse
 
-516>Listomère (marquise de)>Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.>Rue Saint-Dominique, Paris>2>L
+516>Listomère (marquise de)>Née Vandenesse. Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.>Rue Saint-Dominique, Paris>2>L
 marquise de Listomère
 
 517>Blamont-Chauvry (princesse de)>Reçoit >>2>B
 madame la princesse de Blamont-Chauvry
 
-105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>M
+105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>C
 @cousine de:490
 Diane de Maufrigneuse
 madame de Maufrigneuse
 duchesse de Maufrigneuse
 
-87>Espard (marquise d')>>France>2>E
+136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.>rue du Faubourg Saint-Honoré, Paris>2>E
 marquise d’Espard
 
 518>Macumer (madame de)>>>2>M

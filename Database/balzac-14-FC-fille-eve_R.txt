@@ -1,0 +1,254 @@
+3>Cuvier (Jean Léopold Nicolas Frédéric)>>>1>C
+Cuvier
+
+555>Noël (François)>Auteur des Leçons françaises de littérature.>France>1>N
+Noël
+
+416>Fénelon (François de Salignac de)>>>1>F
+Fénelon
+
+249>Télémaque>Personnage mythologique, fils d'Ulysse.>Grèce>1>T
+
+556>Marguerite-Marie Alacoque>Religieuse>>2>M
+Marie Alacoque
+
+557>Hoffmann (Ernst Theodor Amadeus)>Musicien, poète, écrivain allemand.>Allemagne>1>H
+Hoffmann
+
+558>Mozart (Wolfgang Amadeus)>Compositeur.>Autriche>1>M
+Mozart
+
+284>Beethoven (Ludwig van)>Compositeur et musicien allemand.>>1>B
+Beethoven
+Ludwig van Beethoven
+
+559>Haydn (Joseph)>Compositeur autrichien.>Autriche>1>H
+Haydn
+
+560>Paisiello(Giovanni)>Compositeur italien.>Italie>1>P
+Paësiello
+
+561>Cimarosa (Domenico)>Compositeur italien.>Italie>1>C
+Cimarosa
+
+562>Hummel (Johann Nepomuk)>Compositeur et pianiste autrichien.>Autriche>1>H
+Hummel
+
+563>Jérémie>Prophète.>>1>J
+
+564>Parodi (Rita-Christina)>Soeur siamoises nées en 1829.>>3>P
+
+335>Arnolphe>Personnage de Molière>>1>A
+
+379>Agnès>Personnage de Molière>>2>A
+
+69>Célimène>Personnage féminin (coquette) chez Molière.>>1>C
+
+565>Léonarde>Personnage de La Caverne des brigands, de Lesage>>2>L
+Léonarde
+
+161>Joséphine>épouse de Napoléon>>2>J
+Joséphine de Beauharnais
+
+28>Napoléon>>France>1>N
+
+156>Martignac (vicomte de)>homme d'Etat français>>1>M
+Martignac
+
+70>Charles X>Roi de France.>France>1>C
+
+566>Épictète>Philosophe.>>1>E
+
+567>Spartacus>Esclave.>>1>S
+
+170>Dante>poète et écrivain florentin>>1>D
+Alighieri
+Dante Alighieri
+
+153>Rivarol (Antoine de)>écrivain français>>1>R
+Rivarol
+
+128>Florian (Jean-Pierre Claris de)>poète et romancier français>>1>F
+Florian
+
+101>Ève>>>2>E
+
+568>Grisi (Julia)>Cantatrice italienne.>Italie>2>G
+Giulia Grisi
+
+100>Staël (madame de)>romancière>Paris>2>S
+madame de Staël
+
+111>Jésus-Christ>>>1>J
+Christ
+
+74>Byron (lord)>poète>Angleterre>1>B
+Byron
+lord Byron
+
+2>Molière (Jean-Baptiste Poquelin, dit)>>>1>M
+Molière
+
+569>Éliante>Personnage du Misanthrope de Molière.>>2>E
+
+54>Girodet>peintre d'histoire>France>1>G
+
+239>Chateaubriand (François-René de)>Homme politique et écrivain français.>>1>C
+monsieur de Chateaubriand
+
+570>Chénier (André Marie de)>Poète français.>France>1>C
+André de Chénier
+
+571>Richelieu (cardinal de)>Cardinal, duc de Richelieu.>France>1>R
+Richelieu
+Armand Jean du Plessis de Richelieu
+
+251>Alceste>Personnage de Molière.>>1>A
+
+572>Philinte>Personnage de Molière.>>1>P
+
+573>Véry (Jean-Baptiste)>Restaurateur parisien.>Paris>1>V
+Véry
+
+115>Shakespeare>Écrivain et dramaturge anglais.>>1>S
+Shakspeare
+
+575>Noves (Laure de)>Parente de Laure de Sade.>>2>N
+Laure
+Laure de Noves
+
+576>Moïse>>>1>M
+
+290>Paganini (Niccolò)>Violoniste et compositeur italien>>1>P
+Paganini
+
+523>Georges IV>Fils de Georges III.>Grande-Bretagne.>1>G
+
+86>Louis XV>roi de France>France>1>L
+
+47>Raphaël>peintre>>1>R
+
+99>Talleyrand (prince de)>>>1>T
+Talleyrand
+
+577>Barbe-Bleue>Personna de Charles Perrault.>>1>B
+la Barbe-Bleue
+
+578>Perrault (Charles)>Homme de lettres français.>France>1>P
+Perrault
+
+579>Ivanhoë>Personnage de Walter Scott.>>1>I
+
+580>Rebecca>Personnage de Walter Scott.>>2>R
+
+345>Talma (François-Joseph)>Acteur français.>France>1>T
+Talma
+
+581>Moine (Antonin)>Sculpteur français.>France>1>M
+Antonin Moine
+
+582>Devéria (Eugène)>Peintre français.>France>1>D
+Eugène Devéria
+
+583>Boulanger (Louis-Candide)>Peintre français.>France>1>B
+Louis Boulanger
+
+524>Elschoët (Carl)>Sculpteur.>>1>E
+Elschoët
+Elschoet
+
+53>Michel-Ange>peintre>Italie>1>M
+
+584>Boule (Charles-André)>Maître ébéniste.>France>1>B
+Boule
+
+548>Rothschild (les)>Financiers.>Europe>3>R
+les Rothschild
+
+585>Poppée>Deuxième femme de l'mpereur romain Néron.>Italie>2>P
+
+152>Vierge Marie>>>2>V
+la Vierge
+
+586>Genest (saint)>Comédien.>>1>G
+saint Genest
+
+587>Caïen (Henri-Louis, dit Le Kain)>Tragédien français.>1>1>C
+Lekain
+
+293>Boiron (Michel, dit Baron)>Comédien français>>1>B
+Michel Boiron
+Baron
+
+588>Contat (Louise>Actrice française.>France>2>C
+Contat
+
+589>Clairon (Claire-Josèphe Léris, dite mademoiselle)>Actrice française.>France>2>C
+Clairon
+
+590>Champmeslé (Marie Desmares, dite la)>Actrice française.>France>2>C
+Champmeslé
+
+144>Racine (Jean)>écrivain français>>1>R
+Jean Racine
+
+591>Monvel (Jacques-Marie Boutet de)>Acteur et dramaturge français.>France>1>M
+Monvel
+
+332>Andrieux (François)>Poète et auteur dramatique français.>France>1>A
+
+279>Mars (mademoiselle)>Comédienne française.>France>2>M
+Mars
+mademoiselle Mars
+
+277>Pompadour (madame de)>>>2>P
+madame Pompadour
+
+592>David>Dans la Bible, roi d'Israël.>>1>D
+
+593>Lecouvreur (Adrienne, dite la)>Tragédienne française.>2>2>L
+la Lecouvreur
+
+594>La Fontaine (Jean de)>Poète français.>France>1>L
+La Fontaine
+
+595>Roland>Neveu de Charlemagne.>>1>R
+
+596>Chamfort (Sébastien-Roch Nicolas de)>Poète et journaliste français.>France>1>C
+Champfort
+
+90>Louis XIV>Roi de France.>France>1>L
+
+597>Téniers (les)>Peintres flamands.>>3>T
+les Téniers
+
+598>Beaumarchais (Pierre-Augustin Caron de)>Écrivain français.>France>1>B
+Beaumarchais
+
+147>Rabelais (François)>Humaniste et écrivain français.>>1>R
+Rabelais
+
+358>Fieschi (Giuseppe)>Conspirateur.>>1>F
+Fieschi
+
+167>Louis-Philippe>duc d'Orléans>France>1>L
+Louis-Philippe d'Orléans
+
+150>Médée>personnage mythologique>Grèce>2>M
+
+177>Réveillon (Jean-Baptiste)>Propriétaire d'une manufacture de papiers peints>>1>R
+Jean-Baptiste Réveillon
+Réveillon
+
+599>Diogène de Sinope>Philosophe grec.>Grèce>1>D
+Diogène 
+
+600>Cérès>Déesse de l'agriculture dan la mythologie romaine.>>2>C
+
+47>Raphaël>peintre>>1>R
+Raffaello Sanzio
+
+602>Shylock>Personnage de Shakespeare.>>1>S
+
+601>Portinari (Beatrice)>Muse de Dante.>Italie>2>P
+Béatrix
