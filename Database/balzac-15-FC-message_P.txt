@@ -1,0 +1,33 @@
+87>Montpersan (comtesse de)>Petite femme à taille plate et gracieuse, ayant une tournure ravissante ; mignonne et si délicate, que vous eussiez eu peur de lui briser les os en la touchant.>Château de Montpersan>2>M
+@mariée à:157
+@mère de:561
+@emploie:564
+la comtesse
+madame la comtesse
+comtesse de Montpersan
+
+157>Montpersan (comte de)>>Château de Montpersan>1>M
+@marié à:87
+@père de:561
+@neveu de:565
+le comte
+Le comte
+monsieur le comte
+comte de Montpersan
+monsieur de Montpersan
+
+566>Montpersan (mademoiselle de)>Jolie petite fille du comte et de la comtesse de Montpersan annonçant l'arrivée du narrateur à sa mère.>Château de Montpersan>2>Montpersan
+@fille de:87,157
+petite fille
+
+563>B. (marquise de)>>>2>B
+@mariée à:564
+marquise de B
+ 
+564>femme de chambre>Femme de chambre de madame de Montpersan.>Château de Montpersan>2>F
+@employée par:87
+femme de chambre
+
+565>chanoine de Saint-Denis>>>1>C
+@oncle de:157
+chanoine
