@@ -1,0 +1,45 @@
+148>Brandon (lady)>Femme d’une taille assez élevée, mince et maigre, mais délicatement faite. Loua la Grenadière au printemps d'une des plus belles années de la Restauration avec deux enfants et une femme de charge, sous le nom d'Augusta Willemsens, comtesse de Brandon.>La Grenadière, Saint-Cyr>2>B
+@emploie:570
+@mère de:150,147
+@mariée à:571
+augusta
+lady Brandon
+Marie Willemsens
+madame Willemsens
+Augusta Willemsens, comtesse de Brandon
+
+150>Gaston (Louis)>Fils aîné de lady Brandon. Marin, capitaine de vaisseau. Mort à Calcutta, au service d’une compagnie marchande, au moment où il allait revenir en France riche, heureux et marié.>La Grenadière, Saint-Cyr>1>G
+@fils de:148,571
+@ami de:573,574
+Louis
+Louis
+Louis-Gaston
+le jeune Gaston
+
+147>Gaston (Marie)>A 23 ans en 1833, poète, fils adultérin de lady Brandon. Mis au collège de Tours par son frère, sorti en 1827, essaya de percer dans les lettres de 1828 jusqu’en 1833.>La Grenadière, Saint-Cyr>1>G
+@fils de:148,571
+Marie
+Marie
+Marie-Gaston
+
+570>Annette>>La Grenadière, Saint-Cyr>2>F
+@employée par:148
+femme de charge
+Annette 
+la vieille Annette
+pauvre vieille Annette
+vieille femme de charge
+
+571>Brandon (lord)>Mari de lady Brandon vivant à Londres.>>1>Brandon
+@marié à:148
+@père de:150,147
+lord Brandon
+Monsieur le comte
+
+572>closier>Propriétaire de la Grenadière, à Saint-Cyr, près de Tours. Loua la villa à lady Brandon sous la Restauration.>Tours>1>P
+
+573>lieutenant de vaisseau>Marin pris d'amitié pour Louis-Gaston Willemsens.>Tours>1>L
+@ami de:574,150
+
+574>colonel d’infanterie>Ami du lieutenant de vaisseau pris d'amitié pour Louis-Gaston Willemsens.>Tours>1>C
+@ami de:573,150

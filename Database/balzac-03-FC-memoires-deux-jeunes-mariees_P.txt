@@ -282,19 +282,19 @@ maison de Lenoncourt-Givry
 146>Mary>bonne anglaise de Renée de l'Estorade>Provence>2>M
 @employée par:95
 
-147>Gaston (Marie)>A 23 ans en 1833, poète, fils adultérin de lady Brandon. Mis au collège de Tours par son frère, sorti en 1827, essaya de percer dans les lettres de 1828 jusqu’en 1833.>>1>G
+147>Gaston (Marie)>A 23 ans en 1833, poète, fils adultérin de lady Brandon. Mis au collège de Tours par son frère, sorti en 1827, essaya de percer dans les lettres de 1828 jusqu’en 1833.>La Grenadière, Saint-Cyr>1>G
 @frère de:150
 Marie Gaston
 Marie-Gaston
 Gaston
 
-148>Brandon (lady)>>>2>B
+148>Brandon (lady)>Femme d’une taille assez élevée, mince et maigre, mais délicatement faite. Loua la Grenadière au printemps d'une des plus belles années de la Restauration avec deux enfants et une femme de charge, sous le nom d'Augusta Willemsens, comtesse de Brandon.>La Grenadière, Saint-Cyr>2>B
 lady Brandon
 
 149>Dudley (lady Arabelle)>A fait mourir de chagrin lady Brandon. Eut une liaison avec Félix de Vandenesse.>>2>D
 lady Dudley
 
-150>Gaston (Louis)>Marin, capitaine de vaisseau. Mort à Calcutta, au service d’une compagnie marchande, au moment où il allait revenir en France riche, heureux et marié.>>1>G
+150>Gaston (Louis)>Fils aîné de lady Brandon. Marin, capitaine de vaisseau. Mort à Calcutta, au service d’une compagnie marchande, au moment où il allait revenir en France riche, heureux et marié.>La Grenadière, Saint-Cyr>1>G
 @frère de:147
 @marié à:159
 Louis-Gaston
