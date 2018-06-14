@@ -100,6 +100,7 @@ def parse_txt_database_file(file):
 		everybody_list.append(Person(id, lead, aliases))	
 	return everybody_list
 
+	#allows you to just drag & drop the file instead of using a terminal
 if len(sys.argv) != 2:
 	print("Please drag and drop the HTML file you want to process onto the .py file!")
 	sys.stdout.flush()
