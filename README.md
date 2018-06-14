@@ -1,7 +1,7 @@
 # IndexBalzac
 
 ### Process :
-Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file > Use **Colleville** to highlight your work and make adjustments in the databases if needed > Use **Rabourdin** to generate the index in HTML > Use **Bixiou** to sort the names properly > Once you're done with debugging, use **txt2json** to export the txt databases into JSON files. > Congrats, you're done!
+Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file > Use **Colleville** to highlight your work in the HTML preview of the book and make adjustments in the databases if needed > Use **Rabourdin** to generate the index in HTML > Use **Bixiou** to sort the names properly > Once you're done with all these debugging steps, use **txt2json** to export the txt databases into JSON files. > Congrats, you're done!
 
 ### This repo contains :
 
@@ -15,8 +15,8 @@ Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file >
 
 - **rabourdin.py** adds <persName> tags to any XML-TEI file from the txt databases
 - **dutocq.py** instantly generates an index in html and debugs the txt databases
-- **colleville.py** is will highlight the HTML files directly from the P & R txt databases to let us check whether we forgot any names, or not
-- **bixiou.py** is great at sorting all those names in alphabetical order, previously pasted in a 'tri.txt' file
+- **colleville.py** will highlight the HTML files directly from the P & R txt databases to let us check whether we forgot any names, or not
+- **bixiou.py** is great at sorting all those indexed names in alphabetical order, previously pasted in a 'tri.txt' file
 - **txt2json.awk** transforms txt databases into proper json files for web integration
   
  'Heraldry' contains the coats-of-arms (svg, jpeg icons & jpeg hdef files)
