@@ -1,5 +1,8 @@
 # IndexBalzac
 
+Indexation process :
+Manually create your databases in txt > Use Dutocq to tag the XML-TEI file > Use Colleville highlight your work and make adjustments in the databases if needed > Use Rabourdin to generate the index in HTML > Use Bixiou to sort the names properly > Once you're done with debugging, use txt2json to export the txt databases into JSON files. Congrats, you're done!
+
 'Database' contains txt files for each book to be converted into pretty json files.
 
 'Hdef Gallica' contains the engravings (standardized size 1350x2000 px)
