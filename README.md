@@ -1,9 +1,9 @@
 # IndexBalzac
 
-## H2 Process :
+## H3Process :
 Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file > Use **Colleville** to highlight your work and make adjustments in the databases if needed > Use **Rabourdin** to generate the index in HTML > Use **Bixiou** to sort the names properly > Once you're done with debugging, use **txt2json** to export the txt databases into JSON files. > Congrats, you're done!
 
-## H2 This repo contains :
+## H3This repo contains :
 
 'Database' contains txt files for each book to be converted into pretty json files.
 
