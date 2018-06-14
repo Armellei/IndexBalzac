@@ -10,6 +10,7 @@
 
 - rabourdin.py adds <persName> tags to any XML-TEI file from the txt databases
 - dutocq.py instantly generates an index in html and debugs the txt databases
+- colleville.py is will highlight the HTML files directly from the P & R txt databases to let us check whether we forgot any names, or not
 - bixiou.py is great at sorting all those names in alphabetical order, previously pasted in a 'tri.txt' file
 - txt2json.awk transforms txt databases into proper json files for web integration
   
