@@ -6,7 +6,7 @@ import time
 import os
 
 END_OF_TEI_HEADER = "<head>"
-PERSON_TAG = "span"
+PERSON_TAG = "span style=background:yellow;"
 REGEX_BEFORE = re.compile("[a-zA-Z\-]", re.UNICODE)
 REGEX_AFTER = re.compile("[a-zA-Z\-]", re.UNICODE)
 
@@ -121,13 +121,14 @@ with open(SOURCE_PEOPLE) as people_file:
 with open(SOURCE_REFERENCES) as reference_file:
 	REFERENCE_LIST = parse_txt_database_file(reference_file)
 	
+		
 # Open the HTML and add span tags
 with open(SOURCE_HTML, "r+") as html_file:
 	html = html_file.read()
-	
+		
 	#start tagging from the very beginning of each HTML file
 	start = html.find(END_OF_TEI_HEADER)
-	
+
 	all_names_list = []
 	
 	for person in PEOPLE_LIST:
