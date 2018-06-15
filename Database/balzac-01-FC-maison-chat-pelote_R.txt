@@ -31,7 +31,7 @@ Léonard de Vinci
 monsieur Dupont
 Jean Dupont
 
-59>Adam>personnage biblique>>1>A
+59>Adam>Personnage biblique.>>1>A
 
 60>La Hontan (baron de)>baron>écrivain>1>L
 baron de La Hontan
@@ -45,3 +45,13 @@ Louis Armand de Lom d'Arce, baron de Lahontan
 monsieur le chevalier de Saint-Georges
 Joseph Boulogne, chevalier de Saint-Georges
 chevalier de Saint-George
+
+619>Le Ragois (Claude)>Pédagogue français.>France>1>L
+Le Ragois
+
+620>Hippolyte>Héros du roman Hippolyte comte de Douglas de Marie-Catherine Le Jumel de Barneville, baronne d'Aulnoy.>>1>H
+Hippolyte comte de Douglas
+
+621>Cendrillon>Personnage de conte.>>2>C
+
+622>Noé>Personnage biblique.>>1>N

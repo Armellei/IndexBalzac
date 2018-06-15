@@ -13,6 +13,8 @@ chef de la famille de Fontaine
 @gendre de:60
 @marié à:73
 
+568>Durand>Nom-type d'un prétendant d'Émilie de Fontaine>>1>D
+
 62>Fontaine (Émilie de)>Troisième fille du comte de Fontaine, deviendra comtesse en épousant son grand-oncle en 1827. Riche et veuve, elle épousa en 1836 Charles de Vandenesse.>France>2>F
 @fille de:60,63
 @belle-soeur de:64,65
@@ -38,6 +40,7 @@ comtesse de Fontaine
 @bru de:60,63
 @belle-soeur de:65,62
 @mariée à:66
+baronne de Fontaine
 mademoiselle Mongenod
 madame la baronne de Fontaine
 
@@ -90,6 +93,10 @@ monsieur de Marsay
 Clara
 Clara Longueville
 Clara de Longueville
+mademoiselle Longueville
+
+569>Rostein-Limbourg (duc de)>Dernier membre de la famille Longueville, mort sur l'échafaud en 1793.>France>1>R
+Rostein-Limbourg
 
 149>Dudley (lady Arabelle)>A fait mourir de chagrin lady Brandon. Eut une liaison avec Félix de Vandenesse.>>2>D
 lady Dudley
@@ -103,12 +110,15 @@ monsieur de Vandenesse
 @oncle de:60
 @marié à:62
 comte de Kergarouët
+comte de Kergaroüet
 
 80>Longueville (Maximilien)>possède une maison de campagne à Chevreuse, réside au 5 rue du Sentier, à fait l’École Polytechnique, associé à une maison de banque, s'est sacrifié pour son frère et sa soeur en renonçant à la fortune de son père. Deviendra riche vicomte et pair de France à la mort de son père et frère.>France, Paris, rue du Sentier>1>L
 @frère de:76,84
 @fils de:83
 Maximilien
+Longueville
 monsieur Longueville
+le jeune Longueville
 Maximilien Longueville
 vicomte de Longueville
 Monsieur de Longueville
@@ -123,6 +133,7 @@ famille Longueville
 83>Longueville (Guiraudin)>député, procureur avant la Révolution, a pris la particule depuis la Restauration, nommé pair de France et vicomte>France>1>L
 @père de:80,76
 Guiraudin Longueville
+Guiraudin de Longueville
 monsieur Guiraudin de Longueville
 
 84>Longueville (Auguste)>secrétaire d’ambassade en Allemagne, envoyé en Russie grâce au comte de Fontaine où il mourra, tué par l’inclémence du climat de Pétersbourg.>>1>L

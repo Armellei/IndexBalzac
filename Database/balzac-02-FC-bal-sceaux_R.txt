@@ -1,3 +1,7 @@
+82>Bourbon (maison de)>Famille noble.>>3>B
+Bourbons
+maison de Bourbon
+
 63>Louis XVIII>roi>France>1>L
 Sa Majesté
 
@@ -10,6 +14,15 @@ Jacques-Claude Beugnot
 28>Napoléon>>France>1>N
 
 66>Napoléon Ier>empereur>France>1>N
+
+623>Villèle (Jean-Baptiste)>Homme politique français.>France>1>V
+Villèle
+
+288>Hippocrate>Médecin grec>>1>H
+
+101>Ève>>>2>E
+
+59>Adam>Personnage biblique.>>1>A
 
 67>Lafayette>>France>1>L
 La Fayette

@@ -1,11 +1,13 @@
 1>Mortsauf (comtesse de)>Le marquis de Listomère apprend son décès dans la Gazette de France en 1828.>France>2>M
+madame de Mortsauf
 
 2>Birotteau (famille)>>>3>B
+Birotteau
 les Birotteau
 les deux Birotteau
 
 3>Fosseuse (la)>>>2>F
-la Fosseuse
+La Fosseuse
 
 4>Graslin (madame)>>>2>G
 madame Graslin

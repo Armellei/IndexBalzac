@@ -28,6 +28,8 @@ Louis-François-Armand de Vignerot du Plessis de Richelieu
 
 98>Lomellini>famille établie à Gênes>Gênes>3>L
 
+612>Adolphe>Personnage titre d'un ouvrage de Benjamin Constant.>>1>A
+
 99>Talleyrand (prince de)>>>1>T
 prince de Talleyrand
 Monsieur de Talleyrand
@@ -93,6 +95,13 @@ Shakspeare
 119>Chimène>personnage de Pierre Corneille>>2>C
 
 120>le Cid>personnage de Pierre Corneille>>1>C
+Cid
+
+234>Don Quichotte>Personnage de Cervantès>>1>D
+
+265>Roméo>Personnage de Shakespeare.>>1>R
+
+266>Juliette>Personnage de Shakespeare.>>2>J
 
 121>Gonzalve de Cordoue>militaire espagnol>Espagne>1>C
 
@@ -155,10 +164,20 @@ Lizinska de Mirbel
 
 142>ambassadeur de Sardaigne>Ambassadeur.>>1>A
 
+297>Henri IV>Roi de Navarre>>1>H
+
 143>Mahomet>prophète>>1>M
 
 144>Racine (Jean)>écrivain français>>1>R
+Racine
 Jean Racine
+
+624>Bérénice>Personnage titre d'une tragédie de Racine.>>2>B
+
+273>Homère>Aède>>1>H
+
+594>La Fontaine (Jean de)>Poète français.>France>1>L
+La Fontaine
 
 145>Figaro>personnage de monsieur de Beaumarchais>>1>F
 
@@ -180,6 +199,7 @@ comte de Westmoreland
 151>Lucine>personnage mythologique (déesse) invoqué lors de l'accouchement>>2>L
 
 152>Vierge Marie>>>2>V
+la Vierge
 
 69>Célimène>Personnage féminin (coquette) chez Molière.>>1>C
 

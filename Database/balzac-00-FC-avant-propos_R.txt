@@ -102,15 +102,23 @@ Calvin
 33>Cromwell (Thomas)>>>1>C
 Cromwell
 
-34>Orange (Guillaume d') >>>1>O
+34>Orange (Guillaume d')>>>1>O
+Guillaume d’Orange
 
 35>Capet (Hugues)>>>1>C
+Hugues Capet
 
 36>Charles Ier>>>1>C
+Charles I
 
 37>Catherine II>>>2>C
 
 38>Louis XVI>roi de France>France>1>L
+Louis XVI
+
+605>Pétrone>Auteur de la Rome Antique.>>1>P
+
+606>Anacharsis>Philosophe>>1>A
 
 39>Necker (madame)>>>2>N
 madame Necker
@@ -141,3 +149,72 @@ Raffaello Sanzio
 
 48>Davin (Félix)>>>1>D
 Félix Davin
+
+234>Don Quichotte>Personnage de Cervantès>>1>D
+
+135>Lovelace>Personnage de Samuel Richardson.>>1>L
+
+579>Ivanhoë>Personnage de Walter Scott.>>1>I
+
+607>Daphnis>Personnage de Daphnis et Chloé, de Longus.>>1>D
+
+608>Chloé>Personnage de Daphnis et Chloé, de Longus.>>2>C
+Chloë
+
+609>Amadis>Héros du roman Amadis de Gaule, par Garci Rodrigez de Montalvo.>>1>A
+
+610>Panurge>Personnage de François Rabelais.>>1>P
+
+210>Lescaut (Manon)>Personnage de l'abbé François Prévost>>2>L
+Manon Lescaut
+
+137>Harlowe (Clarisse)>Personnage de Samuel Richardson.>>2>H
+Clarisse
+Clarisse Harlowe
+
+611>Robinson Crusoë>Personnage de Daniel Defoe.>>1>R
+
+213>Blas (Gil)>personnage d'Alain-René Lesage>>1>B
+Gilblas
+Gil Blas
+
+595>Roland>Neveu de Charlemagne.>>1>R
+
+76>Ossian>personnage de James Macpherson (barde écossais)>>1>O
+
+133>Étanges (Julie d’)>pesonnage de Jean-Jacques Rousseau>>2>E
+Jule d’Étanges
+Julie d’Étanges
+
+553>Tobie (capitaine)>Personnage de Sterne.>>1>T
+capitaine Tobie
+oncle Tobie
+
+201>Werther>Héros de Goethe>>1>W
+
+233>René>Personnage de Chateaubriand.>>1>R
+
+140>Corinne>Héroïne de Madame de Staël.>>2>C
+
+612>Adolphe>Personnage titre d'un ouvrage de Benjamin Constant.>>1>A
+
+613>Paul>Personnage de Paul et Virginie, par Jacques-Henri Bernardin de Saint-Pierre>>1>P
+
+614>Virginie>Personnage de Paul et Virginie, par Jacques-Henri Bernardin de Saint-Pierre>>2>V
+
+615>Deans (Janie)>Personnage de Walter Scott.>>2>D
+Jeanie Dean
+Jeanie Deans
+
+616>Claverhouse (John Graham of)>Vicomte de Dundee.>>1>C
+John Graham
+Claverhouse
+
+219>Manfred>Personnage-titre de Lord Byron>>1>M
+
+617>Mignon>Personnage du roman Années d’apprentissage de Wilhelm Meister, de Goethe>>2>M
+
+297>Henri IV>Roi de Navarre>>1>H
+
+618>Jean (saint)>Apôtre.>>1>J
+apôtre saint Jean

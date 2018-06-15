@@ -38,6 +38,7 @@ Mademoiselle Chevrel
 @fille de:31,34
 @cousine de:37
 @mariée à:36
+Virginie
 Madame Lebas
 Virginie Guillaume
 mademoiselle Virginie
@@ -45,9 +46,10 @@ mademoiselle Virginie
 18>Lebas (Joseph)>premier commis de monsieur Guillaume, orphelin, sans fortune>Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote>1>L
 @employé par:31
 @marié à:35
+Lebas
+Joseph
 Joseph Lebas
 monsieur Joseph
-Lebas
 
 37>Roguin (madame)>Demoiselle Chevrel. Envoie sa fille Mathilde chez le peintre Servin.>Paris>1>R
 @cousine de:34,35,32
@@ -71,19 +73,22 @@ monsieur Camusot
 monsieur Cardot
 
 43>Roguin (monsieur)>notaire>Paris>1>R
+Roguin
 monsieur Roguin
 
 44>Sommervieux (Théodore de)>peintre, nommé chevalier de la Légion-d’Honneur par l’empereur>Paris>1>S
 @marié à:32
 @fils de:53
 Théodore
+Sommervieux
 de Sommervieux
+De Sommervieux
 Théodore de Sommervieux
 monsieur de Sommervieux
 
 45>Étienne et compagnie>négociants traitant avec M. Guillaume>Paris>3>E
 
-46>Lecoq>maison ou négociant ayant fait faillite>Paris>3>L
+46>Lecocq>maison ou négociant ayant fait faillite>Paris>3>L
 
 47>Lourdois (monsieur)>maître peintre en bâtiment>Paris>1>L
 monsieur Lourdois

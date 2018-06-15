@@ -35,6 +35,7 @@ Mademoiselle Griffith
 @marié à:429
 @frère de:101,109
 @fils de:104,107
+Réthoré
 Alphonse
 duc de Rhétoré
 monsieur le duc de Rhétoré
@@ -54,6 +55,7 @@ madame Gaston
 Louise de Macumer
 madame de Macumer
 Baronne de Macumer
+baronne de Macumer
 Louise de Chaulieu
 Armande de Chaulieu
 madame Marie-Gaston
@@ -78,6 +80,7 @@ duchesse de Chaulieu
 madame la duchesse de Chaulieu
 
 105>Cadignan (duchesse Diane de Maufrigneuse, princesse de)>Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.>Paris>2>C
+de Maufrigneuse
 madame de Maufrigneuse
 duchesse de Maufrigneuse
 
@@ -89,6 +92,7 @@ mademoiselle de Chargebœuf
 @père de:101,100,109
 Henri de Chaulieu
 monsieur de Chaulieu
+duc de Chaulieu
 
 108>Vandenesse (mademoiselle de)>>>2>V
 mademoiselle de Vandenesse
@@ -121,9 +125,12 @@ baronne de l’Estorade
 113>L'Estorade (Monsieur de)>baron, très-chrétien, petit gentilhomme de Provence, riche d’environ dix mille livres de rentes. Demeure dans une bastide provençale, simple maison de campagne. Viel homme en 1823.>>1>L
 @père de:110
 @beau-père de:95
-comte de l'Estorade
+vieux l’Estorade
+baron de l’Estorade
+comte de l’Estorade
 monsieur de l’Estorade
 Le bonhomme l’Estorade
+le vieux baron de l’Estorade
 Monsieur de l’Estorade le père
 
 114>Maucombe (Jean de)>frère cadet de Renée de Maucombe, noble de provence>vallée de Gémenos, Provence>1>M
@@ -149,7 +156,9 @@ maison de l’Estorade
 @fils de:127,133
 @promis à:124
 Felipe
+Macumer
 Don Felipe
+Don Hénarez
 maître Hénarez
 Felipe Hénarez
 baron de Macumer
@@ -165,6 +174,7 @@ Monsieur le baron de Macumer
 @marié à:124
 Fernand
 Don Fernand
+le cadet de Soria
 Don Fernand Henarez
 
 121>Ozalga>Donne une lettre de recommandation à Don Felipe Hernandez>Espagne>1>O
@@ -226,6 +236,7 @@ monsignore Bemboni
 135>premier secrétaire de l’ambassade d’Espagne>Raconte une action sublime de Don Felipe Hénarez, duc de Soria, à Louise de Chaulieu>Paris>1>S
 
 136>Espard (Jeanne-Clémentine-Athénaïs, marquise d’)>Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.>rue du Faubourg Saint-Honoré, Paris>2>E
+d’Espard
 madame d’Espard
 marquise d’Espard
 Jeanne-Clémentine-Athénaïs
