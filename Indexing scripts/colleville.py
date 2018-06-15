@@ -6,13 +6,13 @@ import time
 import os
 
 END_OF_TEI_HEADER = "<head>"
-PERSON_TAG = "span style=background:yellow;"
+PERSON_TAG = "span"
 REGEX_BEFORE = re.compile("[a-zA-Z\-]", re.UNICODE)
 REGEX_AFTER = re.compile("[a-zA-Z\-]", re.UNICODE)
 
 
 # NOTE: ALWAYS add words in lowercase in this list! :]
-CASE_INSENSIVE_WORDS = ["monsieur", "madame", "mademoiselle"]
+CASE_INSENSIVE_WORDS = ["monsieur", "madame", "mademoiselle", "ii"]
 
 class Person:
 	def __init__(self, id, lead, aliases):
@@ -69,7 +69,7 @@ def process_match(html, person, name, match, type):
 		return html, match+len(name), False
 	
 	# Modify the HTML: Add a span tag before and after the match
-	before = '<'+PERSON_TAG+' ref="'+str(person.id)+type+'">'
+	before = '<'+PERSON_TAG+' style=background:yellow; ref="'+str(person.id)+type+'">'
 	after =  "</"+PERSON_TAG+">"
 	html = html[:match] + before + name + after + html[match+len(name):]
 	
