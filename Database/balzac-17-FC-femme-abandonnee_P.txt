@@ -1,0 +1,69 @@
+576>Sainte-Sevère (madame de)>>>2>S
+@cousine de:575
+madame de Sainte-Sevère
+
+215>Navarreins (famille de)>>>3>N
+les Navarreins
+
+217>Grandlieu (famille de)>>>3>G
+les Grandlieu
+
+216>Cadignan (famille de)>>>3>C
+Cadignan
+
+604>Blamont-Chauvry (famille de)>>>3>B
+Blamont-Chauvry
+
+611>Nueil (comtesse de)>Personne roide et vertueuse.>>2>N
+@mère de:575
+madame la comtesse de Nueil
+
+575>Nueil (baron Gaston de)>Vint en à Bayeux en 1822. Devient l'amant de Claire de Bourgogne pendant 9 neuf ans, puis il se maria avant de se tuer d'un coup de fusil de chasse quelques temps plus tard.>Bayeux>1>N
+@cousin de:576
+@courtise:587
+@fils de:611
+@marié à:612
+Gaston
+Gaston de Nueil
+monsieur de Nueil
+baron Gaston de Nueil
+monsieur le baron de Nueil
+
+587>Beauséant (vicomtesse de)>Née Claire de Bourgogne. Apparaît dans la nouvelle d'Albert Savarus.>>2>B
+@mariée à:609
+@courtisée par:575
+Claire
+madame de Beauséant
+Claire de Bourgogne
+vicomtesse de Beauséant
+
+605>Champignelles (marquise de)>>>2>C
+@mariée à:606
+madame de Champignelles
+
+606>Champignelles (marquis de)>>>1>C
+@marié à:605
+marquis de Champignelles
+monsieur de Champignelles
+
+607>Ajuda-Pinto (monsieur d')>>>1>A
+marquis d’Ajuda
+
+608>Beauséant (marquis de)>Marié à une Champignelle de la branche aînée.>>1>B
+marquis de Beauséant le père
+
+609>Beauséant (vicomte, puis marquis de)>A épousé Claire de Bourgogne.>>1>B
+@marié à:587
+monsieur de Beauséant
+monsieur le marquis de Beauséant
+monsieur de Beauséant
+
+610>Jacques>Valet de chambre de madame de Beauséant.>>1>J
+valet de chambre
+
+612>La Rodière (Stéphanie de)>Héritière vers 1830. Jeune personne assez insignifiante, droite comme un peuplier, blanche et rose, muette à demi, suivant le programme prescrit à toutes les jeunes filles à marier.>>2>L
+@mariée à:575
+madame Gaston de Nueil
+demoiselle de La Rodière
+mademoiselle de La Rodière
+mademoiselle Stéphanie de La Rodière
