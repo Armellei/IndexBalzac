@@ -9,6 +9,6 @@ TO BE USED ON WINDOWS - IF YOU USE LINUX YOU'RE GOOD :]
 
 2. Open GitBash on that file.
 
-3. Write awk -f txt2json.awk < Nameofthetxtdatabase.fr  > Nameofthetxtdatabase.json
+3. Write the following then press Enter: awk -f txt2json.awk < Nameofthetxtdatabase.txt > Nameofthetxtdatabase.json
 
-4. Your file will be created instantly!
+4. Your file will be created instantly.
