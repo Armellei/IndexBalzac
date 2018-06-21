@@ -1,0 +1,254 @@
+313>Lora (Léon de)>Rapin (élève en peinture).>Paris>1>L
+Léon de Lora
+
+554>Vignon (Claude)>Critique.>Paris>1>V
+Claude Vignon
+
+93>Touches (Félicité des)>>France>2>T
+Camille
+Camille Maupin
+mademoiselle des Touches
+
+613>Pedrotti (Onorina)>Fille du banquier Pedrotti. A en 1836 deux enfants, un garçon de 6 ans et une fille de 4 ans.>>2>P
+@mariée à:615
+@fille de:614
+@emploie:617
+la consulesse
+Onorina Pedrotti
+fille de Pedrotti
+baronne Maurice de l'Hostal
+ 
+614>Pedrotti (comte)>Riche banquier. Dernier des comtes Pedrotti. Meurt en janvier 1831.>>1>P
+@père de:613
+@beau-père de:615
+Pedrotti
+Il signor Pedrotti
+le dernier des comtes Pedrotti
+
+615>Hostal (baron Maurice de l')>Docteur en droit. Consul général de France en 1836, alors marié depuis 6 ans à Onorina Pedrotti et âgé d'environ 34 ans. Fur créé baron et fait commandeur de la Légion-d’Honneur selon la promesse de l’ambassadeur de France à son beau-père.>Italie>1>
+@marié à:613
+@gendre de:614
+@emploie:617
+@neveu de:57
+Maurice
+Consul
+le Consul
+Consul-Général
+monsieur de L’Hostal
+Consul-Général de France
+
+616>Secrétaire d'ambassade de France en Italie.>>Italie>1>S
+premier secrétaire d’ambassade
+
+617>Gina>Femme de chambre du consul et de la consulesse de l'Hostal.>>2>G
+@employée par:615,613
+
+57>Loraux (monsieur)>vicaire de Saint-Sulpice. En 1824, était curé des Blancs-Manteaux à Paris depuis 5 ans, et présenta à son neveu Maurice de l'Hostal le comte Octave de Bauvan.>Paris>1>L
+@oncle de:615
+abbé Loraux
+l’abbé Loraux
+monsieur Loraux
+le curé des Blancs-Manteaux
+
+278>Sérisy (comte Hugret de)>Comte, pair de France. Travailleur dévoué ayant fait une brillante carrière, levé dès quatre heures du matin et couché à neuf, très amoureux de sa femme vis à vis de laquelle il a l'indulgence d'une mère pour un enfant gâté. Était déjà Conseiller d’État au Grand-Conseil, en 1787, à l’âge de vingt-deux ans, où il se fit remarquer par de très beaux rapports sur des affaires délicates. Élu vers 1794 au Conseil des Cinq-Cents, placé dans le Conseil-d’État au Dix-Huit Brumaire par le Premier Consul, rejoindra ensuite un Ministère. Créé comte et sénateur par l’Empereur, il eut successivement le proconsulat de deux différents royaumes. Se marie en 1806 à quarante ans avec une veuve, Clara-Léontine de Ronquerolles. En 1814, fatigué et ayant besoin de repos, il rejoint son père et s'occupe de lui au château de Sérisy. Deviendra ensuite pair de France et sera nommé par Louis XVIII Ministre d'État, chargé des affaires privées du souverain. Après la seconde chute de l’Empereur, fut nommé Vice président du Conseil d’État et liquidateur, pour le compte de la France, dans le règlement des indemnités demandées par les puissances étrangères. A la fin de sa carrière, aura été fait chevalier des Ordres du roi de France, Grand’Croix de la Légion-d’Honneur, aura l’ordre de la Toison-d’Or, l’ordre de Saint-André de Russie, celui de l’Aigle de Prusse, enfin presque tous les ordres des cours d’Europe. Avant sa mort, obtint pour Oscar la recette de Pontoise.>Sérisy, Paris, Presle>1>S
+@ami de:618,464
+Sérizy
+comte de Sérizy
+monsieur de Sérizy
+
+292>Sérisy (comtesse Hugret de)>Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.>Presles, Paris>2>S
+madame la comtesse de Sérizy
+
+619>Proviseur du collége Saint-Louis>>Paris>1>P
+
+128>Canalis (monsieur de)>Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.>Paris>1>C
+Canalis
+
+618>Bauvan (comte Octave de)>Vertueux homme d'État et grand travailleur selon l'abbé Loraux. Occupait en 1824  l’une des plus hautes places de la magistrature et possédait la confiance de madame la Dauphine qui venait de le faire nommer Ministre-d’État.>Rue Payenne, Paris>1>B
+@emploie:620,621,622
+@ami de:278,464
+le comte
+comte Octave
+le comte Octave
+monsieur le comte
+monsieur le comte Octave
+
+620>Suisse (en livrée)>Domestique positionné chez le comte Octave de Bauvan.>Paris>1>S
+@employé par:618
+suisse
+vieux suisse en livrée
+
+621>cocher (vieux)>Domestique du comte Octave de Bauvan.>Paris>1>C
+@employé par:618
+vieux cocher
+
+622>valet de chambre>Domestique du comte Octave de Bauvan.>Paris>1>V
+@employé par:618
+
+464>Granville (comte Roger de)>Jeune avocat, son père lui proposa d'épouser son amie d'enfance Angélique Bontems, que Roger nommait sa petite femme. Devenu pair de France après la révolution de juillet et l'un des plus célèbres noms de la magistratire française. Marié en avril 1805, il est nommé la même année Avocat-Général près la cour impériale de la Seine et prend un appartement avec sa femme au rez-de-chaussée d’un hôtel qui faisait le coin de la Vieille-Rue-du-Temple et de la rue Neuve-Saint-François, s'enterrant dans le Marais. Son mariage fut malheureux à cause de la bigoterie de sa femme. Triste en ménage entre 1806 et 1821, riche de cent mille livres de rente, appartenant à l’une des meilleures maisons de la Normandie. Âgé d'environ quarante ans en 1815, grand, mince, pâle et vêtu de noir, surnommé par madame Crochard et sa fille "le monsieur noir". A eu 2 enfants hors mariage avec Caroline Crochard, à qui il avoua au bout de sept ans l'existence de sa double famille. A eu deux fils et deux filles avec sa femme Angélique. S'est réservé l'éducation de ses fils, confiant celle de ses filles à sa femme. Marie en 1831 sa dernière fille à Ferdinand Du Tillet. Âgé de 57 ans en 1833.>Paris>1>G
+@ami de:278,618
+Granville
+Président Grandville
+monsieur le président de Grandville
+
+395>Gaudron (abbé)>Vicaire de Saint-Paul.>Paris>1>G
+abbé Gaudron
+
+469>Fontanon (abbé)>Abbé dirigeant les consciences de la famille Bontems. Chanoine de la cathédrale de Bayeux en 1808, âgé d'environ 38 ans, il vint à Paris par l’ambition de parvenir à l’une des cures de la capitale, poste qu’il envisageait peut-être comme le marche-pied d’un évêché.>Paris>1>F
+abbé Fontanon
+
+623>>>>>
+
+624>>>>>
+
+625>>>>>
+
+626>>>>>
+
+627>>>>>
+
+628>>>>>
+
+629>>>>>
+
+630>>>>>
+
+631>>>>>
+
+632>>>>>
+
+633>>>>>
+
+634>>>>>
+
+635>>>>>
+
+636>>>>>
+
+637>>>>>
+
+638>>>>>
+
+639>>>>>
+
+640>>>>>
+
+641>>>>>
+
+642>>>>>
+
+643>>>>>
+
+644>>>>>
+
+645>>>>>
+
+646>>>>>
+
+647>>>>>
+
+648>>>>>
+
+649>>>>>
+
+650>>>>>
+
+651>>>>>
+
+652>>>>>
+
+653>>>>>
+
+654>>>>>
+
+655>>>>>
+
+656>>>>>
+
+657>>>>>
+
+658>>>>>
+
+659>>>>>
+
+660>>>>>
+
+661>>>>>
+
+662>>>>>
+
+663>>>>>
+
+664>>>>>
+
+665>>>>>
+
+666>>>>>
+
+667>>>>>
+
+668>>>>>
+
+669>>>>>
+
+670>>>>>
+
+671>>>>>
+
+672>>>>>
+
+673>>>>>
+
+674>>>>>
+
+675>>>>>
+
+676>>>>>
+
+677>>>>>
+
+678>>>>>
+
+679>>>>>
+
+680>>>>>
+
+681>>>>>
+
+682>>>>>
+
+683>>>>>
+
+684>>>>>
+
+685>>>>>
+
+686>>>>>
+
+687>>>>>
+
+688>>>>>
+
+689>>>>>
+
+690>>>>>
+
+691>>>>>
+
+692>>>>>
+
+693>>>>>
+
+694>>>>>
+
+695>>>>>
+
+696>>>>>
+
+697>>>>>
+
+698>>>>>
+
+699>>>>>
+
+700>>>>>
