@@ -30,6 +30,7 @@ facteur
 272>Bichette>Jument, petite et infatigable, de Pierrotin. Vaut son pesant d'or.>>4>B
 
 273>Farry, Breilmann et compagnie>Carossiers. Ont substitué les ressorts carrés des Anglais aux cols de cygne français. Fabricants sages et méfiants.>>0>F
+Farry, Breilmann et Compagnie
 
 274>Touchard (les)>Propriétaire de diligences (messagers)>>3>T
 les Touchard
@@ -99,6 +100,9 @@ Sérisy père
 président de Sérisy
 monsieur de Sérisy le père
 
+600>Hugret>Président d'une cour anobli sous François Ier.>>1>H
+président Hugret
+
 291>Ronquerolles (marquis de)>A perdu ses deux enfants à l’invasion du choléra. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.>>1>R
 @frère de:292
 marquis de Ronquerolles
@@ -137,6 +141,7 @@ fils de monsieur Margueron
 @employé par:278
 @emploie:311
 Crottat
+maître Crottat
 Alexandre Crottat
 maître Alexandre Crottat
 
@@ -224,7 +229,11 @@ Léon de Lora
 monsieur Mistigris
 @ami de:316
 
-315>Yung (monsieur)>Beau-père inventé par Georges Marest. Fournisseur chinois.>>1>Y
+79>Kergarouët (comte de)>vice-amiral, comte, vieux marin, noble Breton âgé de 73 ans en 1825, il épousera à 72 ans sa petite-nièce>France>1>K
+amiral de Kergarouet
+
+315>Yung (monsieur)>Beau-père inventé par Georges Marest ayant prétenduement épousé sa mère en 1799. Fournisseur chinois.>>1>Y
+monsieur Yung
 
 165>Schinner (Hippolyte)>Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.>Paris>1>S
 Schinner
@@ -242,6 +251,7 @@ comte de Fontaine
 @ami de:313
 @gendre de:281
 @marié à:400
+Bridau
 Joseph
 Joseph Bridau
 le faux Schinner
@@ -257,7 +267,7 @@ le faux Schinner
 
 320>aubergiste>Aubergiste de Saint-Brice, cherche à vendre un cheval au père Léger.>Saint-Brice>1>A
 
-57>Loraux (monsieur)>vicaire de Saint-Sulpice>Paris>1>L
+57>Loraux (monsieur)>vicaire de Saint-Sulpice. En 1824, était curé des Blancs-Manteaux à Paris depuis 5 ans, et présenta à son neveu Maurice de l'Hostal le comte Octave de Bauvan.>Paris>1>L
 monsieur Loraux
 abbé Loraux
 
@@ -330,6 +340,7 @@ madame Camusot
 @mariée à:338
 @fille de:310
 @soeur de:336,339,340
+Marianne
 madame Protez
 
 338>Protez (monsieur)>De la maison Protez et Chiffreville.>Paris>1>P
@@ -342,6 +353,8 @@ madame Protez
 340>Cardot (Joseph)>Second fils de monsieur Cardot, associé par son père à la maison de droguerie Matifat.>Paris>1>C
 @fils de:310
 @frère de:336,337,339
+
+602>Matifat>Drogiste parisien.>Paris>1>M
 
 310>Cardot (Jean-Jérôme-Séverin)>A fait une grande fortune dans la soierie en se mariant avec mademoiselle Husson. A quatre enfants de deux lits différents. D'abord premier commis de la maison du Cocon-d'Or, il acheta l'établissement en 1793. Occupe le premier étage d'un appartement de Belleville, au dessus de la Courtille.>Belleville, Paris>1>C
 @marié à:335
@@ -409,6 +422,7 @@ Frédéric Marest
 
 354>Marest (madame)>Veuve d’un riche marchand de bois.>>2>M
 @mère de:353
+madame Marest
 
 355>Bordin (Jérosme-Sébastien Bordin)>Procureur au Châtelet, prédecesseur médiat de Sauvagnest. >Paris>1>B
 @emploie:358,359,360,361,362,363,364,365,366,367,368,369
@@ -492,6 +506,7 @@ maître Léopold Hannequin
 378>Florentinas y Cabirolos (marquise de)>Prétendue marquise inventée par Gerorges Marest, née au Mexique et fille d’un créole, veuve d'un grand d'Espagne.>Paris>2>F
 marquise de Las Florentinas
 comtesse de Las Florentinas
+marquise de Las Florentinas y Cabirolos
 marquise de las Florentinas y Cabirolos
 la marquise mexicaine de Las Florentinas y Cabirolos
 
@@ -558,6 +573,10 @@ duc de Maufrigneuse
 395>Gaudron (abbé)>Vicaire de Saint-Paul.>Paris>1>G
 abbé Gaudron
 
+603>Sérisy>Famille noble.>>3>S
+@composée de:396,278,292,24
+maison de Sérisy
+
 396>Sérisy (vicomte Jules de)>Fils unique du comte de Sérisy. Jeune officier de la compagnie des Gardes d’Havré. Lieutenant-colonel du régiment du duc de Maufrigneuse, aura Oscar Husson sous ses ordres. Blessé lors de l'affaire de la Macta, sauvé par Oscar Husson, il mourra des suites de ses blessures à Toulon. Enterré dans la chapelle du château de Sérisy.>>1>S
 @fils de:278,292
 vicomte de Sérisy
@@ -585,6 +604,7 @@ comte Laginski
 @fille de:276,283
 @soeur de:323,328
 baronne de Canalis
+madame de Canalis
 
 400>Léger (mademoiselle)>Fille d'un riche fermier, épousa Joseph Bridau en 1838.>>2>L
 @fille de:281

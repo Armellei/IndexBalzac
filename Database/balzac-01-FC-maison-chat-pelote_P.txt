@@ -123,7 +123,7 @@ monsieur et madame Guillaume
 @famille de:35,36
 monsieur et madame Lebas
 
-57>Loraux (monsieur)>vicaire de Saint-Sulpice>Paris>1>L
+57>Loraux (monsieur)>vicaire de Saint-Sulpice. En 1824, était curé des Blancs-Manteaux à Paris depuis 5 ans, et présenta à son neveu Maurice de l'Hostal le comte Octave de Bauvan.>Paris>1>L
 monsieur Loraux
 
 58>Aiglemont (Victor d’)>Colonel, marquis.>Paris>1>A
