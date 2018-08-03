@@ -7,6 +7,8 @@ Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file >
 
 'Database' contains txt files for each book to be converted into pretty json files.
 
+'Draft HTML index' contains all you need to create your own index. Good luck.
+
 'Hdef Gallica' contains the engravings (standardized size 1350x2000 px)
 
 'Hdef Icons' contains circle icons (standardized size 400x400 px)
@@ -14,7 +16,7 @@ Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file >
 'Indexing scripts' contains awk & python scripts :
 
 - **rabourdin.py** adds <persName> tags to any XML-TEI file from the txt databases
-- **dutocq.py** instantly generates an index in html and debugs the txt databases
+- **dutocq.py** instantly generates an index in HTML and debugs the txt databases
 - **colleville.py** will highlight the HTML files directly from the P & R txt databases to let us check whether we forgot any names, or not
 - **bixiou.py** is great at sorting all those indexed names in alphabetical order, previously pasted in a 'tri.txt' file
 - **txt2json.awk** transforms txt databases into proper json files for web integration
