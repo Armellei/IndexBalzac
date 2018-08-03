@@ -1,6 +1,6 @@
 # IndexBalzac
 
-### Process :
+### Indexing process :
 Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file > Use **Colleville** to highlight your work in the HTML preview of the book and make adjustments in the databases if needed > Use **Rabourdin** to generate the index in HTML > Use **Bixiou** to sort the names properly > Once you're done with all these debugging steps, use **txt2json** to export the txt databases into JSON files. > Congrats, you're done!
 
 ### This repo contains :
@@ -24,3 +24,5 @@ Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file >
 'Identification' reports the names of the engravers and/or draughtsman for each illustration, if known
 
 'Img links from Gallica' contains the links from Gallica to download the images again/identify the artists, if needed
+
+'Typefaces/ttf' contains the typefaces used to generate the index in its HTML draft version.
