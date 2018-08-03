@@ -1,0 +1,333 @@
+.details {
+	border: 1px solid black;
+	display: none;
+}
+
+.person:hover .details {
+	display: block;
+}
+
+.id:before {
+	content: 'ID : ';
+}
+
+.aliases:before {
+	content: 'Aussi nommé(e) : ';
+}
+
+.occupation:before {
+	content: 'Descriptif : ';
+}
+
+.city:before {
+	content: 'Ville : ';
+}
+
+.gender:before {
+	content: 'Type : ';
+}
+
+.sourcefile:before {
+	content: 'Ouvrage(s) concerné(s) : ';
+}
+
+img {
+	max-height: 600px;
+}
+
+img.small {
+	max-height: 50px;
+	margin-right: 0.5em;
+}
+
+.lead{
+	line-height: 1.5em;
+}
+
+ul {
+	margin-left: 5em;
+}
+
+ul ul {
+	margin-left: 0;
+}
+
+ /* VISUEL BONUS USELESS*/
+ 
+ @font-face{
+    font-family : "PlayfairRegular";
+    src : url('ttf/PlayfairDisplay-Regular.ttf');
+}
+
+ @font-face{
+    font-family : "PlayfairBold";
+    src : url('ttf/PlayfairDisplay-Bold.ttf');
+}
+
+ @font-face{
+    font-family : "PlayfairSCBold";
+    src : url('ttf/PlayfairDisplaySC-Bold.ttf');
+}
+ 
+@font-face{
+    font-family : "PlayfairItalic";
+    src : url('ttf/PlayfairDisplay-Italic.ttf');
+}
+
+h1{
+	margin-left: 4.2em;
+	font-family: PlayfairSCBold;
+}
+
+ h1:first-child {
+	margin-left: 0;
+	margin-top: 2em;
+	margin-bottom: 5em;
+	text-align : center;
+	font-variant: small-caps;
+}
+
+h2 {
+	font-family: PlayfairRegular;
+	font-size : 1.1em;
+	text-align: center;
+}
+
+h3 {
+	font-family: PlayfairRegular;
+	font-size : 0.9em;
+	text-align: center;
+}
+
+h4 {
+	font-family: PlayfairRegular;
+	font-size : 0.85em;
+	text-align: center;
+
+}
+
+.search h2{
+	margin-top: 30px;
+	margin-bottom: 25px;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.search p {
+	text-align: center;	
+}
+
+/* texte en italique */
+
+p span{
+	font-family: PlayfairItalic;
+}
+
+div.illus p {
+	text-align : center;
+	font-size: 0.8em;	
+}
+
+li {	
+	font-family: PlayfairRegular;
+	font-size: 1em;
+}
+
+li p,
+p{
+	font-family: PlayfairRegular;
+}
+
+/* sorry! */
+html, body {
+    margin: 0;
+	padding: 0;
+}
+	
+body {
+	border: 40px solid #ddf7d4; /* lighter green */
+}
+
+/* l'index qui fait A B C D E ...Z au début de la page */
+p#index-menu {
+	margin-bottom: 2em;
+	margin-top: 5em;
+	margin-left: 27.5em;
+}
+
+p#index-menu a{
+	color: #86d36b;
+}
+
+/* fonctions de recherche */
+
+div.searchIndex,
+div.searchName,
+div.searchPlace,
+div.searchPosition
+ {
+	text-align: center;
+}
+	
+/* gère les puces */
+ul {
+	list-style-type: none;
+}
+
+ul li:before {
+	content: "\2022";
+	margin-right: 5px;
+	color: #b1e59e;
+}
+
+/* l'horrible cadre descriptif de chaque perso qui s'affiche au hover */
+
+div.details p{
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+div.details {
+	padding-top: 1em;
+	margin-right: 50px;
+	margin-left: 400px;
+	position: absolute;
+	border : none;
+	border: 2px solid #ddf7d4; /*vert bordures officielles */
+}
+
+li.ul.li {
+	display: table;
+	position: relative;
+}
+
+/* illustrations */
+
+body > div.illus:last-child {
+margin-bottom: 20px;
+padding-top: 300px;
+}
+
+div.illus a {
+	color: black;
+}
+
+div.illus h3 {
+	color: black; /* vert texte = #b1e59e */
+	margin-bottom: 1em;
+	margin-top: 3em;
+}
+
+div.illus p.artists{
+	margin-left: 100px;
+	margin-right: 100px;
+	line-height: 1.7em;
+}
+
+
+.illus img{
+	text-align: center;
+	height: 75px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+}
+
+.illus img:hover {
+	transition-duration: 0.5s;
+	opacity: 0.7;
+}
+
+
+/* les icones rondes des personnages en bas de page */
+div.icons {
+	text-align : center;
+	margin-top: 50px;
+	margin-bottom: 25px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+/* tooltips = infoboxes pour les illus */
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 175px;
+    background-color:#ddf7d4;
+    color: black;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.tooltip .tooltiptext {
+    bottom: 115%; /* position du tooltip au dessus des images */
+    left: 12%;
+    margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+
+.tooltip .tooltiptext::after {
+    content: " ";
+    position: absolute;
+    top: 100%; /* At the bottom of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ddf7d4 transparent transparent transparent;
+}
+
+.tooltiptext em{
+	font-family: PlayfairBold;
+	font-style: normal;
+	font-size: 0.9em;
+}
+
+/* blasons */
+
+.blasons {
+	text-align: center;
+}
+
+.blasons img {
+	height: 70px;
+}
+
+.blasons h3 {
+	padding-bottom: 1em;
+}
+
+.blasons p.warning {
+	font-size: 0.8em;
+	font-weight: normal;
+	font-family: PlayfairRegular;
+}
+
+.blasons.tooltiptext {
+	font-size: 0.9em;
+	font-weight: normal;
+	font-family: PlayfairRegular;
+}
+
+.tooltip .tooltiptext {
+	font-size: 0.9em;
+	font-weight: normal;
+	font-family: PlayfairRegular;
+}
+
+.warning {
+	color: red;
+}
