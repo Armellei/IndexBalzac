@@ -28,3 +28,5 @@ Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file >
 'Img links from Gallica' contains the links from Gallica to download the images again/identify the artists, if needed
 
 'Typefaces/ttf' contains the typefaces used to generate the index in its HTML draft version.
+
+The reports are here to help you understand it all.
