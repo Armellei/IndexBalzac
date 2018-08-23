@@ -1,0 +1,1517 @@
+{
+  "id": 176,
+  "lead": "Latournelle (Simon Babylas)",
+  "role": "Notaire du Havre",
+  "location": "Normandie",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Latournelle",
+    "Babylas Latournelle",
+    "madame de Latournelle",
+    "Simon Babylas Latournelle",
+  ],
+  "relations": [
+    "@marié à": "177",
+    "@père de": "178",
+  ]
+},
+{
+  "id": 177,
+  "lead": "Latournelle (Agnès)",
+  "role": "Femme de notaire, fille du greffier du tribunal de première instance. Roide comme un pieu, prend du tabac, couperosée, se pose en femme considérable. Possède une voix aigre.",
+  "location": "Normandie",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Agnès",
+    "Agnès Latournelle",
+    "mademoiselle Agnès",
+    "madame Latournelle",
+    "Madame Latournelle",
+    "madame de la Tournelle",
+  ],
+  "relations": [
+    "@mariée à": "176",
+    "@mère de": "178",
+  ]
+},
+{
+  "id": 178,
+  "lead": "Latournelle (Exupère)",
+  "role": "Fils de notaire, doit commencer son droit en 1829",
+  "location": "Normandie",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Exupère",
+    "petit Latournelle",
+    "Exupère Latournelle",
+    "le petit Latournelle",
+  ],
+  "relations": [
+    "@fils de": "176,177",
+  ]
+},
+{
+  "id": 179,
+  "lead": "Butscha (Jean)",
+  "role": "Premier clerc d’Étude, petit et bossu. Surnommé le nain mystérieux par Modeste Mignon, le clerc obscur par lui-même.",
+  "location": "Normandie",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Butscha",
+    "maître Jean",
+    "Jean Butscha",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 180,
+  "lead": "Mignon (Bettina, née Wallenrod)",
+  "role": "Fille unique d’un banquier de Francfort-sur-le-Main, allemande. Perd ses deux enfants en bas-âge et deviendra aveugle.",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Bettina",
+    "madame Mignon",
+    "Madame Mignon",
+    "Bettina Wallenrod",
+  ],
+  "relations": [
+    "@mère de": "181,199,200",
+    "@mariée à": "189",
+    "@fille de": "198",
+  ]
+},
+{
+  "id": 181,
+  "lead": "Mignon (Modeste)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Modeste",
+    "O. d’Este-M.",
+    "Modeste Mignon",
+    "mademoiselle Mignon",
+    "mademoiselle Modeste",
+    "mademoiselle d’Este",
+    "petite demoiselle Mignon",
+    "mademoiselle de La Bastie",
+    "mademoiselle O. d’Este-M.",
+    "madame de La Brière-La Bastie",
+  ],
+  "relations": [
+    "@fille de": "180,189",
+    "@soeur de": "181,199",
+  ]
+},
+{
+  "id": 182,
+  "lead": "Dumay (madame, née Grummer)",
+  "role": "Américaine, petite femme, âgée de 36 ans en 1829.",
+  "location": "Normandie",
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "Madame Dumay",
+    "Miss Grummer",
+    "madame Dumay",
+  ],
+  "relations": [
+    "@mariée à": "183",
+  ]
+},
+{
+  "id": 183,
+  "lead": "Dumay (Anne-François-Bernard)",
+  "role": "Né à Vannes, partit soldat en 1799, à l’armée d’Italie. Deviendra lieutenant. Ancien caissier de la maison Mignon. Breton petit, trapu, grêlé.",
+  "location": "Normandie",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Anne",
+    "Dumay",
+    "Anne Dumay",
+    "monsieur Dumay",
+    "Anne-François-Bernard Dumay",
+  ],
+  "relations": [
+    "@marié à": "182",
+    "@fils de": "193,195",
+  ]
+},
+{
+  "id": 184,
+  "lead": "Gobenheim",
+  "role": "Ancien commis, parent de Gobenheim-Keller.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "monsieur Gobenheim",
+  ],
+  "relations": [
+    "@neveu de": " 191",
+  ]
+},
+{
+  "id": 185,
+  "lead": "Labrosse (Exupère)",
+  "role": "Greffier ayant pris soin de Jean Butscha",
+  "location": "Normandie",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Labrosse",
+    "Exupère Labrosse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 186,
+  "lead": "Labrosse (Agnès)",
+  "role": "Fille de greffier",
+  "location": "Normandie",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Agnès Labrosse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 187,
+  "lead": "Latournelle (famille)",
+  "role": null,
+  "location": "Normandie",
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "les Latournelle",
+  ],
+  "relations": [
+    "@composée de": "177,176,178",
+  ]
+},
+{
+  "id": 188,
+  "lead": "Vilquin (monsieur)",
+  "role": "Propriétaire d'une villa, le Chalet d'Ingouville.",
+  "location": "Ingouville, Normandie",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Vilquin",
+    "monsieur Vilquin",
+    "Monsieur Vilquin",
+  ],
+  "relations": [
+    "@père de": "207,211",
+    "@marié à": "208",
+  ]
+},
+{
+  "id": 189,
+  "lead": "Mignon (Charles)",
+  "role": "Officier de la Légion-d’Honneur, lieutenant-colonel dans les cuirassiers de la Garde, et major d’un régiment de cavalerie en 1812.",
+  "location": "Normandie",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Charles",
+    "Charles Mignon",
+    "CHARLES MIGNON",
+    "colonel Mignon",
+    "Monsieur Mignon",
+    "capitaine Mignon",
+  ],
+  "relations": [
+    "@marié à": "180",
+    "@père de": "181,199",
+    "@fils de": "194,196",
+  ]
+},
+{
+  "id": 190,
+  "lead": "Mignon (famille)",
+  "role": null,
+  "location": "Normandie",
+  "type": 3,
+  "indexation": "M",
+  "aliases": [
+    "maison Mignon",
+  ],
+  "relations": [
+    "@composée de": "180,189,181",
+  ]
+},
+{
+  "id": 191,
+  "lead": "Vilquin (famille)",
+  "role": null,
+  "location": "Normandie",
+  "type": 3,
+  "indexation": "V",
+  "aliases": [
+    "les Vilquin",
+    "famille Vilquin",
+  ],
+  "relations": [
+    "@composée de": "188,207,208,243",
+  ]
+},
+{
+  "id": 192,
+  "lead": "Gobenheim-Keller",
+  "role": "Chef de la grande maison de banque parisienne Gobenheim-Keller.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+    "@oncle de": "184",
+  ]
+},
+{
+  "id": 193,
+  "lead": "Dumay (père)",
+  "role": "Président du tribunal révolutionnaire, assez méchant avocat, mort sur l'échafaud après le 9 thermidor.",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Monsieur Dumay (père)",
+  ],
+  "relations": [
+    "@père de": "183",
+  ]
+},
+{
+  "id": 195,
+  "lead": "Dumay (mère)",
+  "role": "Femme d'avocat, morte de chagrin après la mort de son mari.",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "Madame Dumay (mère)",
+  ],
+  "relations": [
+    "@mère de": "183",
+  ]
+},
+{
+  "id": 194,
+  "lead": "Mignon de la Bastie (comte)",
+  "role": "Comte, massacré avec femme et enfants, à l'exception de Charles Mignon, après avoir été découvert à Orange.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "le citoyen Mignon",
+    "comte de la Bastie",
+    "Mignon de la Bastie",
+    "Comte Mignon de la Bastie",
+  ],
+  "relations": [
+    "@père de": "189",
+    "@marié à": "196",
+  ]
+},
+{
+  "id": 196,
+  "lead": "Mignon de la Bastie (comtesse)",
+  "role": "Comtesse",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Comtesse Mignon de la Bastie",
+    "madame la comtesse de La Bastie",
+  ],
+  "relations": [
+    "@mariée à": "194",
+    "@mère de": "189",
+  ]
+},
+{
+  "id": 197,
+  "lead": "Mignon de la Bastie (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+    "@composée de": "196,194,189",
+  ]
+},
+{
+  "id": 198,
+  "lead": "Wallenrod-Tustall-Bartenstild (baron de)",
+  "role": "Baron allemand déchu, banquier de Francfort-sur-le-Main.",
+  "location": null,
+  "type": 1,
+  "indexation": "W",
+  "aliases": [
+    "dernier Wallenrod",
+    "Le vieux Wallenrod",
+    "baron de Wallenrod-Tustall-Bartenstild",
+  ],
+  "relations": [
+    "@père de": "180",
+  ]
+},
+{
+  "id": 199,
+  "lead": "Mignon (Bettina-Caroline)",
+  "role": "Née en 1805.",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Caroline",
+    "Caroline Mignon",
+    "Bettina-Caroline",
+    "mademoiselle Caroline",
+    "BETTINA-CAROLINE MIGNON",
+    "Bettina-Caroline Mignon",
+  ],
+  "relations": [
+    "@fille de": "180,189",
+    "@soeur de": "200,181",
+  ]
+},
+{
+  "id": 200,
+  "lead": "Mignon (Marie-Modeste)",
+  "role": "Née en 1808",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Marie-Modeste",
+    "Marie-Modeste Mignon",
+  ],
+  "relations": [
+    "@soeur de": "199,181",
+    "@fille de": "180,189",
+  ]
+},
+{
+  "id": 201,
+  "lead": "Goriot (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "G",
+  "aliases": [
+    "Goriot",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 202,
+  "lead": "Estourny (Georges d’)",
+  "role": "Condamné pour de constantes fraudes au jeu par la Police correctionnelle.",
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+    "Georges",
+    "d’Estourny",
+    "Georges d’Estourny",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 203,
+  "lead": "Troussenard (docteur)",
+  "role": "Docteur de la famille Mignon.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "docteur Troussenard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 204,
+  "lead": "Gobet (madame)",
+  "role": "Cordonnière",
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "madame Gobet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 205,
+  "lead": "Althor (Francisque)",
+  "role": "Dandy du Havre, fils d'un riche banquier Hambourgeois établi au Havre depuis 1815.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Francisque",
+    "le fils Althor",
+    "Francisque Althor",
+    "monsieur Althor fils",
+  ],
+  "relations": [
+    "@fils de": "242",
+  ]
+},
+{
+  "id": 206,
+  "lead": "Dumay (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "D",
+  "aliases": [
+    "les Dumay",
+    "Les Dumay",
+  ],
+  "relations": [
+    "@composée de": "182,183,193,195",
+  ]
+},
+{
+  "id": 207,
+  "lead": "Vilquin (mademoiselle)",
+  "role": "Aînée de la famille Vilquin",
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "mademoiselle Vilquin",
+  ],
+  "relations": [
+    "@fille de": "188,208",
+    "@soeur de": "211,243",
+  ]
+},
+{
+  "id": 208,
+  "lead": "Vilquin (madame)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "madame Vilquin",
+  ],
+  "relations": [
+    "@mariée à": "188",
+    "@mère de": "207,211",
+  ]
+},
+{
+  "id": 209,
+  "lead": "Cochet (Françoise)",
+  "role": "Fidèle servante de Bettina-Caroline Mignon, créature assez disgrâciée.",
+  "location": "Normandie",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "F. Cochet",
+    "Françoise",
+    "Françoise Cochet",
+    "mademoiselle Françoise",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 210,
+  "lead": "Florine (Sophie Grignoux dite)",
+  "role": "Artiste lyrique, une des plus charmantes actrices de Paris. Vendit tout ses meubles pour avancer des fonds à Raoul Nathan.",
+  "location": "rue Pigalle, Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "Florine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 211,
+  "lead": "Vilquin (fils)",
+  "role": null,
+  "location": null,
+  "type": ,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+    "@frère de": "207,243",
+    "@fils de": "188,208",
+  ]
+},
+{
+  "id": 128,
+  "lead": "Canalis (monsieur de)",
+  "role": "Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Monsieur le baron de Canalis",
+    "Constant Cyr Melchior",
+    "Monsieur de Canalis",
+    "Canalis (baron de)",
+    "baron de Canalis",
+    "de Canalis",
+    "Canalis",
+    "Melchior",
+  ],
+  "relations": [
+    "@emploie": "230",
+  ]
+},
+{
+  "id": 151,
+  "lead": "Arthez (Daniel d’)",
+  "role": "écrivain",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "d’Arthez",
+    "D’Arthez",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 212,
+  "lead": "Dauriat",
+  "role": "Editeur des poésies de Canalis",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 173,
+  "lead": "Bixiou",
+  "role": "Faiseur de caricatures.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 316,
+  "lead": "Bridau (Joseph)",
+  "role": "Peintre. Envoyé par Schinner avec Mistrigris peindre chez le comte de Sérisy. Portera la rosette de la Légion-d’Honneur 14 ans plus tard. Epousa mademoiselle Léger en 1838.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Joseph Bridau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 165,
+  "lead": "Schinner (Hippolyte)",
+  "role": "Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Schinner",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 44,
+  "lead": "Sommervieux (Théodore de)",
+  "role": "peintre, nommé chevalier de la Légion-d’Honneur par l’empereur",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Sommervieux",
+    "Théodore de Sommervieux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 214,
+  "lead": "Nathan (Raoul)",
+  "role": "Fils d’un brocanteur juif, mort en banqueroute dans les premiers jours de son mariage ; mais sa mère était catholique. Cache ses origines avec soin. Journaliste et auteur. A des yeux napoléoniens, des yeux bleus dont le regard traverse l’âme ; un nez tourmenté, plein de finesse ; une charmante bouche, embellie par les dents les plus blanches que puisse souhaiter une femme. Il y a du mouvement et du feu dans cette tête, et du génie sur ce front. Raoul appartient au petit nombre d’hommes qui vous frappent au passage, qui dans un salon forment aussitôt un point lumineux où vont tous les regards. Fréquente depuis 10 ans Florine, chez qui il passe la moitié de sa vie.",
+  "location": "Entre la rue Basse-du-Rempart et la rue Neuve-des-Mathurins, Paris",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Nathan",
+    "Raoul Nathan",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 215,
+  "lead": "Navarreins (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "N",
+  "aliases": [
+    "les Navarreins",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 216,
+  "lead": "Cadignan (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "les Cadignan",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 217,
+  "lead": "Grandlieu (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "G",
+  "aliases": [
+    "Grandlieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 219,
+  "lead": "Nègrepelisse (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 138,
+  "lead": "Marsay (comte Henri de)",
+  "role": "Comte",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "de Marsay",
+    "De Marsay",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 107,
+  "lead": "Chaulieu (monsieur de)",
+  "role": "Noble diplomate, duc. A cinquante ans en 1823, blond, bien fait, il possède une taille jeune et a une tournure et des grâces exquises. Refuse un ministère la même année, préférant une ambassade.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "duc de Chaulieu",
+    "Henri",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 104,
+  "lead": "Chaulieu (duchesse de)",
+  "role": "Duchesse âgée de 38 ans en 1823, elle a une loge aux Italiens.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Éléonore",
+    "Éléonore de M.",
+    "madame de Chaulieu",
+    "Éléonore de Chaulieu",
+    "duchesse de Chaulieu",
+    "madame la duchesse de Chaulieu",
+  ],
+  "relations": [
+    "@mère de": "101,100,109",
+    "@mariée à": "107",
+  ]
+},
+{
+  "id": 136,
+  "lead": "Espard (Jeanne-Clémentine-Athénaïs, marquise d’)",
+  "role": "Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.",
+  "location": "rue du Faubourg Saint-Honoré, Paris",
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "Jeanne-Clémentine-Athénaïs",
+    "madame d’Espard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 599,
+  "lead": "Marcellin",
+  "role": "Curé d'Ingouville.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "abbé Marcellin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 218,
+  "lead": "La Brière (Ernest de)",
+  "role": "Né d'une bonne famille de Toulouse, de taille ordinaire, la figure fine relevée par de petites moustaches et par ne virgule à la Mazarin. Décoré de la Légion-d'Honneur, ami de Canalis.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Ernest",
+    "La Brière",
+    "Ernest de La Brière",
+    "mademoiselle de La Brière",
+    "vicomte de La Bastie-La Brière",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 288,
+  "lead": "Rubempré (Lucien Chardon de)",
+  "role": "Fils d’un ancien chirurgien-major des armées républicaines. Écrivain, poète, journaliste.",
+  "location": "Angoulême, Paris",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Lucien de Rubempré",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 221,
+  "lead": "Hérouville (famille d')",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "H",
+  "aliases": [
+    "Les d’Hérouville",
+  ],
+  "relations": [
+    "@composée de": "222,223,224,225",
+  ]
+},
+{
+  "id": 222,
+  "lead": "Hérouville (duc d')",
+  "role": "Né en 1796, à Vienne. Duc d’Hérouville, marquis de Saint-Sever, duc de Nivron, comte de Bayeux, vicomte d’Essigny, Grand-Écuyer de France et Pair, chevalier de l’Ordre de l’Éperon et de la Toison d’or, Grand d’Espagne, fils du dernier gouverneur de Normandie.",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Sa Seigneurie monsieur le duc d’Hérouville",
+    "duc d'Hérouville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 223,
+  "lead": "Hérouville (duchesse d')",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+    "duchesse d'Hérouville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 224,
+  "lead": "Hérouville (mademoiselle d’)",
+  "role": "Vieille fille ayant entre 30 et 50 ans en 1829.",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+    "mademoiselle d’Hérouville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 225,
+  "lead": "Hérouville (cardinal d')",
+  "role": "Cardinal",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "cardinal d’Hérouville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 549,
+  "lead": "Blondet (Émile)",
+  "role": null,
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Blondet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 226,
+  "lead": "Mongenod (maison)",
+  "role": "Banque",
+  "location": null,
+  "type": 3,
+  "indexation": "M",
+  "aliases": [
+    "maison Mongenod",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 227,
+  "lead": "Castagnould",
+  "role": "Second de monsieur Mignon. Ancien serviteur de la famille à qui M. Mignon a fait faire une petite fortune.",
+  "location": "Provence",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 228,
+  "lead": "Arthur (monsieur)",
+  "role": "Personnage inventé par Modeste Mignon pour éloigner Butscha.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "monsieur Arthur",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 229,
+  "lead": "Grindot",
+  "role": "Architecte parisien à la mode.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 230,
+  "lead": "Bonnet (Germain)",
+  "role": "Valet de chambre de Canalis.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Germain",
+    "monsieur Germain",
+    "monsieur Germain Bonnet",
+  ],
+  "relations": [
+    "@employé par": "128",
+  ]
+},
+{
+  "id": 231,
+  "lead": "Marcelin (abbé)",
+  "role": "Curé d'Ingouville.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "abbé Marcelin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 232,
+  "lead": "Mongenod",
+  "role": "Banquier",
+  "location": "Rue Chantereine, Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "le banquier Mongenod",
+  ],
+  "relations": [
+    "@père de": "235",
+  ]
+},
+{
+  "id": 233,
+  "lead": "Desplein",
+  "role": "Grand chirurgien",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 234,
+  "lead": "Amaury (madame)",
+  "role": "Propriétaire d'un pavillon à Sanvic loué à Canalis.",
+  "location": "Sanvic",
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+    "Amaury",
+    "madame Amaury",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 58,
+  "lead": "Aiglemont (Victor d’)",
+  "role": "Colonel, marquis.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "d’Aiglemont",
+    "Victor d'Aiglemont",
+    "marquis d’Aiglemont",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 64,
+  "lead": "Fontaine (baronne de)",
+  "role": "Née Mongenod. Fille d'un riche banquier et de Charlotte Mongenod, mariée au deuxième fils du comte de Fontaine, lieutenant-général, devenue baronne puis vicomtesse, se croit tout aussi noble qu’une Kergarouët.",
+  "location": "France",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "mademoiselle Mongenod",
+  ],
+  "relations": [
+    "@fille de": "232",
+    "@mariée à": "236",
+  ]
+},
+{
+  "id": 236,
+  "lead": "Fontaine (monsieur de)",
+  "role": "Deuxième fils du comte de Fontaine.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "monsieur de Fontaine",
+  ],
+  "relations": [
+    "@marié à": "235",
+  ]
+},
+{
+  "id": 237,
+  "lead": "Nucingen (famille de)",
+  "role": "Maison Nucingen : établissement bancaire.",
+  "location": null,
+  "type": 3,
+  "indexation": "N",
+  "aliases": [
+    "Nucingen",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 238,
+  "lead": "Nucingen (madame de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "N",
+  "aliases": [
+    "madame de Nucingen",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 239,
+  "lead": "Mortsauf (comte de)",
+  "role": "Comte",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "comte de Mortsauf",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 240,
+  "lead": "Espard (marquis d’)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+    "marquis d’Espard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 105,
+  "lead": "Cadignan (duchesse Diane de Maufrigneuse, princesse de)",
+  "role": "Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Diane",
+    "Diane de Maufrigneuse",
+    "madame de Maufrigneuse",
+    "duchesse de Maufrigneuse",
+  ],
+  "relations": [
+    "@mariée à": "264",
+  ]
+},
+{
+  "id": 242,
+  "lead": "Althor (Jacob)",
+  "role": "Riche banquier de Hambourg.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Althor",
+    "Jacob Althor",
+    "le père Althor",
+  ],
+  "relations": [
+    "@père de": "205",
+  ]
+},
+{
+  "id": 243,
+  "lead": "Vilquin (mademoiselle la cadette)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "mademoiselle Vilquin la cadette",
+  ],
+  "relations": [
+    "@soeur de": "211,207",
+    "@fille de": "188,208",
+  ]
+},
+{
+  "id": 244,
+  "lead": "Jacmin (Philoxène)",
+  "role": "Femme de chambre d'Éléonore de Chaulieu.",
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+    "Philoxène",
+    "mademoiselle Philoxène Jacmin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 245,
+  "lead": "Jacmin (famille)",
+  "role": "Famille établie à Honfleur, comprenant 11 branches.",
+  "location": null,
+  "type": ,
+  "indexation": "J",
+  "aliases": [
+    "Jacmin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 246,
+  "lead": "Hérouville (Hélène d')",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+    "Hélène",
+    "Hélène d’Hérouville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 247,
+  "lead": "Cadignan (prince de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "prince de Cadignan",
+  ],
+  "relations": [
+    "@oncle de": "490",
+  ]
+},
+{
+  "id": 248,
+  "lead": "Stidmann",
+  "role": "Célèbre bijoutier parisien ayant réalisé un pommeau de cravache vendu à Ernest de la Brière.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 249,
+  "lead": "Wadman (veuve)",
+  "role": "Personnage de Laurence Sterne.",
+  "location": null,
+  "type": 2,
+  "indexation": "W",
+  "aliases": [
+    "veuve Wadman",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 250,
+  "lead": "Rochefide (marquise Béatrix-Maximilienne-Rose de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+    "madame de Rochefide",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 251,
+  "lead": "Jacmin (Jean)",
+  "role": "Prétendu cousin de Philoxène Jacmin.",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "Jean Jacmin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 252,
+  "lead": "Verneuil (Gaspard, duc de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Gaspard",
+    "duc de Verneuil",
+    "Gaspard de Verneuil",
+  ],
+  "relations": [
+    "@marié à": "256",
+    "@père de": "257,260",
+  ]
+},
+{
+  "id": 253,
+  "lead": "Cottin",
+  "role": "Fermier-général ayant fait bâtir Rosembray sous Louis XIV.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@père de": "254",
+  ]
+},
+{
+  "id": 254,
+  "lead": "Cottin (mademoiselle)",
+  "role": "Unique héritière de Cottin.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "mademoiselle Cottin",
+  ],
+  "relations": [
+    "@fille de": "253",
+  ]
+},
+{
+  "id": 255,
+  "lead": "Marigny (duc de)",
+  "role": "Duc et marquis",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "duc de Marigny",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 256,
+  "lead": "Verneuil (Hortense, duchesse de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "Hortense",
+    "duchesse Hortense de Verneuil",
+  ],
+  "relations": [
+    "@mariée à": "252",
+    "@mère de": "257,260",
+  ]
+},
+{
+  "id": 257,
+  "lead": "Verneuil (Laure de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "Laure",
+    "Laure de Verneuil",
+    "mademoiselle de Verneuil",
+  ],
+  "relations": [
+    "@fille de": "256,254",
+  ]
+},
+{
+  "id": 396,
+  "lead": "Sérisy (vicomte Jules de)",
+  "role": "Fils unique du comte de Sérisy. Jeune officier de la compagnie des Gardes d’Havré. Lieutenant-colonel du régiment du duc de Maufrigneuse, aura Oscar Husson sous ses ordres. Blessé lors de l'affaire de la Macta, sauvé par Oscar Husson, il mourra des suites de ses blessures à Toulon. Enterré dans la chapelle du château de Sérisy.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "vicomte de Sérisy",
+    "vicomte de Sérizy",
+    "vicomte Jules de Sérisy",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 292,
+  "lead": "Sérisy (comtesse Hugret de)",
+  "role": "Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.",
+  "location": "Presles, Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame de Sérizy",
+    "madame de Sérisy",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 260,
+  "lead": "Loudon (prince de)",
+  "role": "Aîné des enfants du duc et de la duchesse de Verneuil.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "prince de Loudon",
+    "Gaspard de Verneuil, prince de Loudon",
+  ],
+  "relations": [
+    "@fils de": "252,256",
+  ]
+},
+{
+  "id": 17,
+  "lead": "Chaulieu (Alphonse de, duc de Réthoré)",
+  "role": "Peu aimable. Épousera la duchesse d'Argaiolo à Florence.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Alphonse",
+    "duc de Rhétoré",
+    "monsieur le duc de Rhétoré",
+    "Alphonse de Chaulieu, duc de Réthoré",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 261,
+  "lead": "Portenduère (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "P",
+  "aliases": [
+    "les Portenduère",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 262,
+  "lead": "Estorade (famille de l')",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "E",
+  "aliases": [
+    "les l’Estorade",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 263,
+  "lead": "Maucombe (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "M",
+  "aliases": [
+    "les Maucombe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 264,
+  "lead": "Maufrigneuse (duc de)",
+  "role": "Florentine et Mariette le fréquentent en 1825.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "duc de Maufrigneuse",
+  ],
+  "relations": [
+    "@marié à": "241",
+    "@cousin de": "490",
+  ]
+},
+{
+  "id": 265,
+  "lead": "Barry (John)",
+  "role": "Premier piqueur à la chasse du prince de Loudon à laquelle participe Modeste Mignon.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "John",
+    "John Barry",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 266,
+  "lead": "La Roulie (Jacquin)",
+  "role": "Piqueur français (chasseur)",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Jacquin La Roulie",
+  ],
+  "relations": [
+  ]
+}

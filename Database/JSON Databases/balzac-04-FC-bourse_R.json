@@ -1,0 +1,208 @@
+{
+  "id": 176,
+  "lead": "Prud'hon (Pierre-Paul)",
+  "role": "peintre et dessinateur",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Prudhon",
+    "Pierre-Paul Prud'hon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Louis XIV",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 625,
+  "lead": "Trim",
+  "role": "Personnage de Sterne.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 54,
+  "lead": "Girodet",
+  "role": "peintre d'histoire",
+  "location": "France",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 177,
+  "lead": "Réveillon (Jean-Baptiste)",
+  "role": "Propriétaire d'une manufacture de papiers peints",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Jean-Baptiste Réveillon",
+    "Réveillon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 73,
+  "lead": "Alexandre",
+  "role": "roi de Macédoine",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Alexandre le Grand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 178,
+  "lead": "Le Brun (Charles)",
+  "role": "peintre",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Lebrun",
+    "Charles Le Brun",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 102,
+  "lead": "Buonaparte",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "sieur de Buonaparte",
+    "Napoléon Ier",
+    "Bonaparte",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 63,
+  "lead": "Louis XVIII",
+  "role": "roi",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 153,
+  "lead": "Rivarol (Antoine de)",
+  "role": "écrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rivarol",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 179,
+  "lead": "Champcenetz (Louis-Edmond Quentin)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Champcenetz",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 180,
+  "lead": "Guérin (Pierre-Narcisse)",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Guérin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 181,
+  "lead": "Didon",
+  "role": "Première reine de Carthage",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 182,
+  "lead": "Gros",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Antoine-Jean Gros",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 183,
+  "lead": "Grieux (chevalier des)",
+  "role": "personnage de François Prévost",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "chevalier des Grieux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 553,
+  "lead": "Tobie (capitaine)",
+  "role": "Personnage de Sterne.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "capitaine Tobie",
+  ],
+  "relations": [
+  ]
+}

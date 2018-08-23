@@ -1,0 +1,213 @@
+{
+  "id": 162,
+  "lead": "portière",
+  "role": "Portière du peintre Schinner",
+  "location": "Paris, rue de Suresne",
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 163,
+  "lead": "Leseigneur (Adélaïde)",
+  "role": null,
+  "location": "Paris, rue de Suresne",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Adélaïde",
+    "Adélaïde Leseigneur",
+    "mademoiselle Leseigneur",
+    "Mademoiselle Leseigneur",
+    "mademoiselle de Rouville",
+  ],
+  "relations": [
+    "@fille de": "164,169",
+  ]
+},
+{
+  "id": 164,
+  "lead": "Leseigneur de Rouville (baronne)",
+  "role": null,
+  "location": "Paris, rue de Suresne",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Madame Leseigneur",
+    "madame Leseigneur",
+    "baronne de Rouville",
+    "Madame de Rouville",
+    "madame de Rouville",
+    "Madame la baronne de Rouville",
+    "baronne Leseigneur de Rouville",
+  ],
+  "relations": [
+    "@mère de": "163",
+    "@mariée à": "169",
+  ]
+},
+{
+  "id": 165,
+  "lead": "Schinner (Hippolyte)",
+  "role": "Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Schinner",
+    "Hippolyte",
+    "Hippolyte Schinner",
+  ],
+  "relations": [
+    "@fils de": "166",
+    "@ami de": "171",
+  ]
+},
+{
+  "id": 166,
+  "lead": "Schinner (madame)",
+  "role": "Fille d’un fermier alsacien, n’ayant jamais été mariée.",
+  "location": "Paris, rue de Suresne",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame Schinner",
+    "Mademoiselle Schinner",
+  ],
+  "relations": [
+    "@mère de": "165",
+  ]
+},
+{
+  "id": 167,
+  "lead": "femme de ménage",
+  "role": "Vieille femme de ménage à moitié sourde travaillant pour Mme Leseigneur et sa fille.",
+  "location": null,
+  "type": ,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 168,
+  "lead": "Molineux (Jean-Baptiste)",
+  "role": "Propriétaire parisien.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "le sieur Molineux",
+    "Jean-Baptiste Molineux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 169,
+  "lead": "Rouville (monsieur de)",
+  "role": "Marin et baron mort à Batavia des suites d’une blessure reçue dans un combat contre un vaisseau anglais qui le rencontra sur les côtes d’Asie.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "vieux Rouville",
+    "baron de Rouville",
+    "Monsieur de Rouville",
+  ],
+  "relations": [
+    "@marié à": "164",
+    "@père de": "163",
+    "@ami de": "170",
+  ]
+},
+{
+  "id": 170,
+  "lead": "Du Halga (chevalier)",
+  "role": "Vice-amiral, marin.",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Du Halga",
+    "chevalier Du Halga",
+  ],
+  "relations": [
+    "@ami de": "169,174",
+    "@amoureux de": "175",
+  ]
+},
+{
+  "id": 171,
+  "lead": "Souchet (François)",
+  "role": "Jeune sculpteur ayant remporté le grand prix.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Souchet",
+    "François Souchet",
+  ],
+  "relations": [
+    "@ami de": "165",
+  ]
+},
+{
+  "id": 316,
+  "lead": "Bridau (Joseph)",
+  "role": "Peintre. Envoyé par Schinner avec Mistrigris peindre chez le comte de Sérisy. Portera la rosette de la Légion-d’Honneur 14 ans plus tard. Epousa mademoiselle Léger en 1838.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Joseph Bridau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 173,
+  "lead": "Bixiou",
+  "role": "Faiseur de caricatures.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 79,
+  "lead": "Kergarouët (comte de)",
+  "role": "vice-amiral, comte, vieux marin, noble Breton âgé de 73 ans en 1825, il épousera à 72 ans sa petite-nièce",
+  "location": "France",
+  "type": 1,
+  "indexation": "K",
+  "aliases": [
+    "Kergarouët",
+    "comte de Kergarouët",
+  ],
+  "relations": [
+    "@ami de": "170",
+    "@marié à": "175",
+  ]
+},
+{
+  "id": 175,
+  "lead": "Kergarouët (comtesse de)",
+  "role": "Comtesse décédée.",
+  "location": null,
+  "type": 2,
+  "indexation": "K",
+  "aliases": [
+    "comtesse de Kergarouët",
+  ],
+  "relations": [
+    "@mariée à": "174",
+  ]
+}

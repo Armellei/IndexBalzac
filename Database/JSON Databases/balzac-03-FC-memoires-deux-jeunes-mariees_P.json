@@ -1,0 +1,1020 @@
+{
+  "id": 95,
+  "lead": "Maucombe (Renée de)",
+  "role": "Sort du couvent des Carmélites de Blois. Âgée de 17 ans en 1823 - 1824.",
+  "location": "Bastide de La Crampade, vallée de Gémenos, Provence",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Renée de Maucombe",
+    "madame la vicomtesse de l’Estorade",
+    "mademoiselle Renée de Maucombe",
+    "la belle Renée de Maucombe",
+    "mademoiselle de Maucombe",
+    "vicomtesse de l’Estorade",
+    "comtesse de l’Estorade",
+    "madame de l’Estorade",
+    "Renée",
+  ],
+  "relations": [
+    "@amie de": "101",
+    "@soeur de": "114",
+    "@fille de": "115",
+    "@bru de": "113",
+    "@mariée à": "110",
+    "@mère de": "142,140,153",
+    "@emploie": "146,154,155",
+  ]
+},
+{
+  "id": 96,
+  "lead": "Beauvisage",
+  "role": "médecin de couvent des Carmélites de Blois",
+  "location": "Blois",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "monsieur Beauvisage",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 97,
+  "lead": "Chaulieu (famille de)",
+  "role": "famille noble",
+  "location": "Paris",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@composée de": "100,101,104,107",
+  ]
+},
+{
+  "id": 98,
+  "lead": "Griffith",
+  "role": "Discrète demoiselle de compagnie de Louise de Chaulieu, donnée à sa mère par donnée par l’ambassadeur d’Angleterre. Ecossaise, fille d’un ministre, parfaitement élevée, de mère noble et âgée de trente-six ans en 1823.",
+  "location": "France",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Griffith",
+    "La Griffith",
+    "miss Griffith",
+    "Miss Griffith",
+    "Mademoiselle Griffith",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 99,
+  "lead": "Philippe",
+  "role": "dernier valet de chambre de la grand’mère de Louise de Chaulieu",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 17,
+  "lead": "Chaulieu (Alphonse de, duc de Réthoré)",
+  "role": "Peu aimable. Épousera la duchesse d'Argaiolo à Florence.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Réthoré",
+    "Alphonse",
+    "duc de Rhétoré",
+    "monsieur le duc de Rhétoré",
+    "Alphonse de Chaulieu, duc de Réthoré",
+  ],
+  "relations": [
+    "@marié à": "429",
+    "@frère de": "101,109",
+    "@fils de": "104,107",
+  ]
+},
+{
+  "id": 101,
+  "lead": "Chaulieu (Louise de)",
+  "role": "Sort du couvent des Carmélites de Blois après y avoir passé 8 ans.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Louise",
+    "Armande",
+    "madame Gaston",
+    "Louise de Macumer",
+    "madame de Macumer",
+    "Baronne de Macumer",
+    "baronne de Macumer",
+    "Louise de Chaulieu",
+    "Armande de Chaulieu",
+    "madame Marie-Gaston",
+    "mademoiselle de Chaulieu",
+    "Mademoiselle de Chaulieu",
+    "Armande-Louise-Marie de Chaulieu",
+    "Louise-Armande-Marie de Chaulieu",
+    "mademoiselle Armande-Louise-Marie de Chaulieu",
+  ],
+  "relations": [
+    "@amie de": "95",
+    "@fille de": "104,107",
+    "@petite-fille de": "102",
+    "@soeur de": "100,109",
+    "@belle-soeur de": "140,143",
+    "@nièce de": "141",
+    "@emploie": "103,99,98",
+  ]
+},
+{
+  "id": 102,
+  "lead": "Vaurémont (princesse de)",
+  "role": "Meurt en 1817 en laissant cinq cent mille francs à sa petit-fille Louise de Chaulieu.",
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "princesse de Vaurémont",
+  ],
+  "relations": [
+    "@grand-mère de": "101",
+  ]
+},
+{
+  "id": 103,
+  "lead": "Rose",
+  "role": "femme de chambre de Louise de Chaulieu",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "101",
+  ]
+},
+{
+  "id": 104,
+  "lead": "Chaulieu (duchesse de)",
+  "role": "Duchesse âgée de 38 ans en 1823, elle a une loge aux Italiens.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Éléonore",
+    "madame de Chaulieu",
+    "Éléonore de Chaulieu",
+    "duchesse de Chaulieu",
+    "madame la duchesse de Chaulieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 105,
+  "lead": "Cadignan (duchesse Diane de Maufrigneuse, princesse de)",
+  "role": "Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "de Maufrigneuse",
+    "madame de Maufrigneuse",
+    "duchesse de Maufrigneuse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 106,
+  "lead": "Chargebœuf (mademoiselle de)",
+  "role": "Amie de Talleyrand mandatée par la princesse de Vaurémont pour dire à Louise que cette dernière lui défend de prononcer des voeux.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "mademoiselle de Chargebœuf",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 107,
+  "lead": "Chaulieu (monsieur de)",
+  "role": "Noble diplomate, duc. A cinquante ans en 1823, blond, bien fait, il possède une taille jeune et a une tournure et des grâces exquises. Refuse un ministère la même année, préférant une ambassade.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Henri de Chaulieu",
+    "monsieur de Chaulieu",
+    "duc de Chaulieu",
+  ],
+  "relations": [
+    "@marié à": "104",
+    "@père de": "101,100,109",
+  ]
+},
+{
+  "id": 108,
+  "lead": "Vandenesse (mademoiselle de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "mademoiselle de Vandenesse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 109,
+  "lead": "Chaulieu (marquis de)",
+  "role": "Comte, marquis, devenu duc. En 1824, comte et capitaine de cavalerie.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "comte de Chaulieu",
+    "duc de Lenoncourt",
+    "marquis de Chaulieu",
+    "duc de Lenoncourt-Chaulieu",
+  ],
+  "relations": [
+    "@frère de": "101,100",
+    "@fils de": "104,107",
+    "@marié à": "143",
+  ]
+},
+{
+  "id": 110,
+  "lead": "L'Estorade (chevalier de)",
+  "role": "Longtemps exilé en Russie sous Buonaparte. En 1824, à trente-sept ans, il a l’air d’en avoir cinquante, les cheveux ébène sont mélangés de blanc. Homme taciturne, un peu sourd. Obtiendra la croix de la Légion-d’Honneur en étant nommé membre du conseil-général. Deviendra vicomte puis comte, pair de la France et grand-officier de la Légion-d’Honneur.",
+  "location": "Provence",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Louis",
+    "Louis de l’Estorade",
+    "monsieur de l’Estorade",
+    "chevalier de l’Estorade",
+  ],
+  "relations": [
+    "@fils de": "112,113",
+    "@marié à": "95",
+    "@père de": "142,140,153",
+  ]
+},
+{
+  "id": 111,
+  "lead": "Montriveau (Monsieur de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Monsieur de Montriveau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 112,
+  "lead": "L'Estorade (baronne de)",
+  "role": "baronne, meurt de chagrin en 1814 en croyant son fils mort en Russie",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "baronne de l’Estorade",
+  ],
+  "relations": [
+    "@mère de": "110",
+  ]
+},
+{
+  "id": 113,
+  "lead": "L'Estorade (Monsieur de)",
+  "role": "baron, très-chrétien, petit gentilhomme de Provence, riche d’environ dix mille livres de rentes. Demeure dans une bastide provençale, simple maison de campagne. Viel homme en 1823.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "vieux l’Estorade",
+    "baron de l’Estorade",
+    "comte de l’Estorade",
+    "monsieur de l’Estorade",
+    "Le bonhomme l’Estorade",
+    "le vieux baron de l’Estorade",
+    "Monsieur de l’Estorade le père",
+  ],
+  "relations": [
+    "@père de": "110",
+    "@beau-père de": "95",
+  ]
+},
+{
+  "id": 114,
+  "lead": "Maucombe (Jean de)",
+  "role": "frère cadet de Renée de Maucombe, noble de provence",
+  "location": "vallée de Gémenos, Provence",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Jean de Maucombe",
+  ],
+  "relations": [
+    "@frère de": "95",
+  ]
+},
+{
+  "id": 115,
+  "lead": "Maucombe (comte de)",
+  "role": "comte",
+  "location": "vallée de Gémenos, Provence",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "comte de Maucombe",
+  ],
+  "relations": [
+    "@père de": "95,114",
+    "@marié à": "116",
+  ]
+},
+{
+  "id": 116,
+  "lead": "Maucombe(comtesse de)",
+  "role": "comtesse",
+  "location": "vallée de Gémenos, Provence",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "comtesse de Maucombe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 117,
+  "lead": "Angélique (sœur)",
+  "role": "sœur du couvent des Carmélides de Blois",
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+    "sœur Angélique",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 118,
+  "lead": "L'Estorade (famille de)",
+  "role": "famille de Provence",
+  "location": "Provence",
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "maison de l’Estorade",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 119,
+  "lead": "Henarez (Don Felipe)",
+  "role": "chrétien espagnol, duc de Soria, baron de Macumer, homme petit et laid comme un grand d'Espagne. Enseigne l'espagnol à Louise de Chaulieu en 1824 après avoir été dépouillé de tous ses biens, honneurs et grandesses par le roi Ferdinand dont il était l'un des ministre. Possède un fief en Sardaigne, achètera après son mariage château de Chantepleurs sur une terre en Nivernais, sur les bords de la Loire, à soixante lieues de Paris. Décède en 1829.",
+  "location": "Paris, rue Hillerin-Bertin.",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Felipe",
+    "Macumer",
+    "Don Felipe",
+    "Don Hénarez",
+    "maître Hénarez",
+    "Felipe Hénarez",
+    "baron de Macumer",
+    "monsieur Hénarez",
+    "le sieur Hénarez",
+    "Don Felipe Henarez",
+    "monsieur le baron de Macumer",
+    "Monsieur le baron de Macumer",
+  ],
+  "relations": [
+    "@frère de": "120",
+    "@fils de": "127,133",
+    "@promis à": "124",
+  ]
+},
+{
+  "id": 120,
+  "lead": "Henarez (Don Fernand)",
+  "role": "chrétien espagnol, duc de Soria, bel homme",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Fernand",
+    "Don Fernand",
+    "le cadet de Soria",
+    "Don Fernand Henarez",
+  ],
+  "relations": [
+    "@frère de": "119",
+    "@fils de": "127,133",
+    "@marié à": "124",
+  ]
+},
+{
+  "id": 121,
+  "lead": "Ozalga",
+  "role": "Donne une lettre de recommandation à Don Felipe Hernandez",
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 122,
+  "lead": "Hénarez (famille)",
+  "role": null,
+  "location": "Espagne",
+  "type": 3,
+  "indexation": "H",
+  "aliases": [
+    "famille de Soria",
+  ],
+  "relations": [
+    "@composée de": "127,133,119,120",
+  ]
+},
+{
+  "id": 123,
+  "lead": "Queverdo",
+  "role": null,
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "Q",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 124,
+  "lead": "Hérédia (Marie)",
+  "role": "jeune princesse, l'une des plus riches héritières de l’Espagne, promise à Don Felipe Hénarez, puis à son frère Don Fernand Hénarez.Devenue duchesse, elle offrira un bracelet de saphirs et un collier de perles attachées par six magnifiques diamants à Louise de Chaulieu pour son mariage.",
+  "location": "Espagne",
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+    "Marie",
+    "Marie Hérédia",
+    "Maria Héredia",
+    "la princesse Marie",
+    "duchesse de Soria",
+  ],
+  "relations": [
+    "@mariée à": "120",
+    "@promise à": "119",
+    "@belle-soeur de": "101",
+  ]
+},
+{
+  "id": 125,
+  "lead": "Hérédia (famille)",
+  "role": "famille espagnole dont la fortune est immense",
+  "location": "Espagne",
+  "type": 3,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 126,
+  "lead": "Urraca",
+  "role": "Vieille femme espagnole.",
+  "location": null,
+  "type": 2,
+  "indexation": "U",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 127,
+  "lead": "Soria (Clara de)",
+  "role": "Préfère son fils Fernand à Felipe",
+  "location": "Espagne",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "dona Clara",
+    "Clara de Soria",
+  ],
+  "relations": [
+    "@mère de": "119,120",
+    "@mariée à": "133",
+  ]
+},
+{
+  "id": 128,
+  "lead": "Canalis (monsieur de)",
+  "role": "Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Canalis",
+    "de Canalis",
+    "Canalis (baron de)",
+    "monsieur de Canalis",
+    "Constant Cyr Melchior",
+  ],
+  "relations": [
+    "@amant de": "104",
+  ]
+},
+{
+  "id": 129,
+  "lead": "Tullia",
+  "role": "danseuse à l'Opéra",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 130,
+  "lead": "Marthe (sœur)",
+  "role": "sœur du couvent des Carmélites de Blois",
+  "location": "Blois",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "sœur Marthe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 131,
+  "lead": "Lenoncourt (duchesse de)",
+  "role": "duchesse",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "duchesse de Lenoncourt",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 132,
+  "lead": "Vandenesse (monsieur de)",
+  "role": "Charmant jeune homme en 1824.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "vicomte de Vandenesse",
+    "monsieur de Vandenesse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 133,
+  "lead": "Soria (duc de, Grand d'Espagne)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "duc de Soria, Grand d'Espagne",
+  ],
+  "relations": [
+    "@marié à": "127",
+    "@père de": "119,120",
+  ]
+},
+{
+  "id": 134,
+  "lead": "Bemboni (monsignore)",
+  "role": "secrétaire d’état",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "monsignore Bemboni",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 135,
+  "lead": "premier secrétaire de l’ambassade d’Espagne",
+  "role": "Raconte une action sublime de Don Felipe Hénarez, duc de Soria, à Louise de Chaulieu",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 136,
+  "lead": "Espard (Jeanne-Clémentine-Athénaïs, marquise d’)",
+  "role": "Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.",
+  "location": "rue du Faubourg Saint-Honoré, Paris",
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "d’Espard",
+    "madame d’Espard",
+    "marquise d’Espard",
+    "Jeanne-Clémentine-Athénaïs",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 137,
+  "lead": "Beauséant (marquise de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "marquise de Beauséant",
+  ],
+  "relations": [
+    "@mariée à": "523",
+  ]
+},
+{
+  "id": 138,
+  "lead": "Marsay (comte Henri de)",
+  "role": "Comte",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Henri de Marsay",
+    "Monsieur de Marsay",
+    "monsieur de Marsay",
+    "Le comte Henri de Marsay",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 139,
+  "lead": "Esgrignon (Victurnien, comte d’)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+    "comte d’Esgrignon",
+    "Victurnien d'Esgrignon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 140,
+  "lead": "L'Estorade (Athénaïs de)",
+  "role": "Va sur ses 11 ans en 1835",
+  "location": "Provence",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Naïs",
+    "Athénaïs",
+    "Jeanne-Athénaïs",
+    "mademoiselle Athénaïs de l’Estorade",
+  ],
+  "relations": [
+    "@fille de": "95,110",
+    "@soeur de": "142,153",
+  ]
+},
+{
+  "id": 141,
+  "lead": "Chaulieu (mademoiselle de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Mlle de Chaulieu",
+  ],
+  "relations": [
+    "@tante de": "101",
+  ]
+},
+{
+  "id": 142,
+  "lead": "L'Estorade (Armand-Louis de)",
+  "role": "A eu treize ans en 1835.",
+  "location": "Provence",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Armand",
+    "Armand-Louis",
+    "Armand-Louis de l’Estorade",
+  ],
+  "relations": [
+    "@fils de": "95,110",
+    "@frère de": "140,153",
+  ]
+},
+{
+  "id": 143,
+  "lead": "Mortsauf (Madeleine de)",
+  "role": "Héritière du duc de Lenoncourt-Givry dont elle est la petite-fille, originaire d'une riche famille de Touraine.",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Madeleine",
+    "Madeleine de Mortsauf",
+    "Madeleine de Lenoncourt",
+    "mademoiselle de Mortsauf",
+  ],
+  "relations": [
+    "@mariée à": "109",
+    "@petite-fille de": "144",
+    "@belle-soeur de": "101",
+  ]
+},
+{
+  "id": 144,
+  "lead": "Lenoncourt-Givry (duc de)",
+  "role": "duc",
+  "location": null,
+  "type": ,
+  "indexation": "L",
+  "aliases": [
+    "duc de Lenoncourt-Givry",
+  ],
+  "relations": [
+    "@grand-père de": "143",
+  ]
+},
+{
+  "id": 145,
+  "lead": "Lenoncourt-Givry (maison de)",
+  "role": "En 1827, Louise de Chaulieu raconte que le roi permet à son frère, comte de Chaulieu, de prendre ses armes et titres pour ne pas laisser s'éteindre les maisons de Lenoncourt et de Givry, sans autre héritier que Mlle de Mortsauf, avec laquelle le comte se mariera.",
+  "location": null,
+  "type": ,
+  "indexation": "L",
+  "aliases": [
+    "maison de Lenoncourt-Givry",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 146,
+  "lead": "Mary",
+  "role": "bonne anglaise de Renée de l'Estorade",
+  "location": "Provence",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "95",
+  ]
+},
+{
+  "id": 147,
+  "lead": "Gaston (Marie)",
+  "role": "A 23 ans en 1833, poète, fils adultérin de lady Brandon. Mis au collège de Tours par son frère, sorti en 1827, essaya de percer dans les lettres de 1828 jusqu’en 1833.",
+  "location": "La Grenadière, Saint-Cyr",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Marie Gaston",
+    "Marie-Gaston",
+    "Gaston",
+  ],
+  "relations": [
+    "@frère de": "150",
+  ]
+},
+{
+  "id": 148,
+  "lead": "Brandon (lady)",
+  "role": "Femme d’une taille assez élevée, mince et maigre, mais délicatement faite. Loua la Grenadière au printemps d'une des plus belles années de la Restauration avec deux enfants et une femme de charge, sous le nom d'Augusta Willemsens, comtesse de Brandon.",
+  "location": "La Grenadière, Saint-Cyr",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "lady Brandon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 149,
+  "lead": "Dudley (lady Arabelle)",
+  "role": "A fait mourir de chagrin lady Brandon. Eut une liaison avec Félix de Vandenesse.",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "lady Dudley",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 150,
+  "lead": "Gaston (Louis)",
+  "role": "Fils aîné de lady Brandon. Marin, capitaine de vaisseau. Mort à Calcutta, au service d’une compagnie marchande, au moment où il allait revenir en France riche, heureux et marié.",
+  "location": "La Grenadière, Saint-Cyr",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Louis-Gaston",
+  ],
+  "relations": [
+    "@frère de": "147",
+    "@marié à": "159",
+  ]
+},
+{
+  "id": 151,
+  "lead": "Arthez (Daniel d’)",
+  "role": "écrivain",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Daniel",
+    "d’Arthez",
+    "D’Arthez",
+    "Daniel d’Arthez",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 316,
+  "lead": "Bridau (Joseph)",
+  "role": "Peintre. Envoyé par Schinner avec Mistrigris peindre chez le comte de Sérisy. Portera la rosette de la Légion-d’Honneur 14 ans plus tard. Epousa mademoiselle Léger en 1838.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Joseph Bridau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 153,
+  "lead": "L'Estorade (René de)",
+  "role": "A 7 ans en 1835",
+  "location": "Provence",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "René",
+    "René de l'Estorade",
+  ],
+  "relations": [
+    "@fils de": "95,110",
+    "@frère de": "142,140",
+  ]
+},
+{
+  "id": 154,
+  "lead": "Lucas",
+  "role": "Vieux domestique de Louise de l'Estorade, mène le jeune Armand au collège Henri IV.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "95",
+  ]
+},
+{
+  "id": 155,
+  "lead": "répétiteur",
+  "role": "Vieux et savant répétiteur d'Armand de l'Estorade.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "95",
+  ]
+},
+{
+  "id": 156,
+  "lead": "Fedelta",
+  "role": "Jument de Gaston Marie",
+  "location": null,
+  "type": 4,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 214,
+  "lead": "Nathan (Raoul)",
+  "role": "Fils d’un brocanteur juif, mort en banqueroute dans les premiers jours de son mariage ; mais sa mère était catholique. Cache ses origines avec soin. Journaliste et auteur. A des yeux napoléoniens, des yeux bleus dont le regard traverse l’âme ; un nez tourmenté, plein de finesse ; une charmante bouche, embellie par les dents les plus blanches que puisse souhaiter une femme. Il y a du mouvement et du feu dans cette tête, et du génie sur ce front. Raoul appartient au petit nombre d’hommes qui vous frappent au passage, qui dans un salon forment aussitôt un point lumineux où vont tous les regards. Fréquente depuis 10 ans Florine, chez qui il passe la moitié de sa vie.",
+  "location": "Entre la rue Basse-du-Rempart et la rue Neuve-des-Mathurins, Paris",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Nathan",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 158,
+  "lead": "Halmer",
+  "role": "Banquier ayant fait faillite et causé la ruine des Gaston.",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 159,
+  "lead": "Gaston (madame Louis)",
+  "role": "Ruinée après la faillite du banquier Halmer, elle rentre à Paris après la mort de son mari à Calcutta.",
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "madame Louis Gaston",
+    "madame Gaston l'aînée",
+  ],
+  "relations": [
+    "@mariée à": "150",
+  ]
+},
+{
+  "id": 160,
+  "lead": "Bianchon (Horace)",
+  "role": "Célèbre médecin en 1833.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bianchon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 161,
+  "lead": "curé de Sèvres",
+  "role": "Présent à la mort de Mme Marie Gaston",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}

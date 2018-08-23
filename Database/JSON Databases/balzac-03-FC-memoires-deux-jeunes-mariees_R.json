@@ -1,0 +1,1296 @@
+{
+  "id": 89,
+  "lead": "Danaïde",
+  "role": "fille du roi Danaos, personnage mythologique grec",
+  "location": "Grèce",
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Louis XIV",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 91,
+  "lead": "Montespan (marquise de)",
+  "role": "marquise,favorite de Louis XIV",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Madame de Montespan",
+    "de Montespan",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 92,
+  "lead": "La Vallière",
+  "role": "maîtresse de Louis XIV",
+  "location": "France",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Louise de La Vallière",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 86,
+  "lead": "Louis XV",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 94,
+  "lead": "Saxe (maréchal de)",
+  "role": "maréchal",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "maréchal de Saxe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 95,
+  "lead": "Pierrard (Victorine)",
+  "role": "Célèbre couturière.",
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "Victorine",
+    "Victorine Pierrard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 96,
+  "lead": "Janssen (Jacques)",
+  "role": "Bottier, cordonnier de l’Opéra.",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "Janssen",
+    "Jacques Janssen",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 97,
+  "lead": "Richelieu (duc de)",
+  "role": "Maréchal de France, duc de Fronsac puis duc de Richelieu.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "maréchal de Richelieu",
+    "Louis-François-Armand de Vignerot du Plessis de Richelieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 98,
+  "lead": "Lomellini",
+  "role": "famille établie à Gênes",
+  "location": "Gênes",
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 612,
+  "lead": "Adolphe",
+  "role": "Personnage titre d'un ouvrage de Benjamin Constant.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 99,
+  "lead": "Talleyrand (prince de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "prince de Talleyrand",
+    "Monsieur de Talleyrand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 100,
+  "lead": "Staël (madame de)",
+  "role": "romancière",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame de Staël",
+    "Germaine de Staël",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Ève",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 102,
+  "lead": "Buonaparte",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "sieur de Buonaparte",
+    "Napoléon Ier",
+    "Bonaparte",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 103,
+  "lead": "Abencerrage",
+  "role": "tribu arabe",
+  "location": null,
+  "type": 3,
+  "indexation": "A",
+  "aliases": [
+    "les Abencerrages",
+    "Abencerrages",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 104,
+  "lead": "Valdez",
+  "role": "amiral espagnol",
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Cayetano Valdés y Flores",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 105,
+  "lead": "Ferdinand",
+  "role": "roi d'Espagne",
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Ferdinand VII",
+    "Ferdinand de Bourbon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 106,
+  "lead": "Riégo (Rafael del)",
+  "role": "général et homme politique espagnol",
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Riégo",
+    "Rafael del Riego y Nuñez",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 107,
+  "lead": "Angoulême (duc d’)",
+  "role": "duc",
+  "location": "France",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "duc d’Angoulême",
+    "Louis-Antoine de Bourbon, duc d'Angoulême",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 108,
+  "lead": "Galignani",
+  "role": "libraire anglais établi en France",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 109,
+  "lead": "Charles-Quint",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Charles de Habsbourg dit Charles Quint",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 111,
+  "lead": "Jésus-Christ",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 112,
+  "lead": "Garcia",
+  "role": "chanteur italien (ténor) qu'entend Louise de Chaulieu dans l'Otello de Rossini",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 113,
+  "lead": "Pellegrini (Felice)",
+  "role": "chanteur italien (basse) qu'entend Louise de Chaulieu dans l'Otello de Rossini",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Pellegrini",
+    "Felice Pellegrini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 114,
+  "lead": "Rossini (Gioachino)",
+  "role": "compositeur italien",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rossini",
+    "Gioachino Rossini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 115,
+  "lead": "Shakespeare",
+  "role": "Écrivain et dramaturge anglais.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Shakspeare",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 116,
+  "lead": "Othello",
+  "role": "personnage de Shakespeare",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 117,
+  "lead": "Desdémone",
+  "role": "personnage de Shakespeare",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 118,
+  "lead": "Antigone",
+  "role": "fille de Jocaste et d'Œdipe",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 119,
+  "lead": "Chimène",
+  "role": "personnage de Pierre Corneille",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 120,
+  "lead": "le Cid",
+  "role": "personnage de Pierre Corneille",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cid",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 234,
+  "lead": "Don Quichotte",
+  "role": "Personnage de Cervantès",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 265,
+  "lead": "Roméo",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 266,
+  "lead": "Juliette",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 121,
+  "lead": "Gonzalve de Cordoue",
+  "role": "militaire espagnol",
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 122,
+  "lead": "Ximenès (cardinal de)",
+  "role": "religieux espagnol",
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "X",
+  "aliases": [
+    "cardinal de Ximenès",
+    "Francisco Jiménez de Cisneros",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 123,
+  "lead": "Rousseau (Jean-Jacques)",
+  "role": "philosphe et écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Jean-Jacques",
+    "Jean-Jacques Rousseau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 124,
+  "lead": "Richardson (Samuel)",
+  "role": "Écrivain anglais.",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Samuel Richardson",
+    "Richardson",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 126,
+  "lead": "Marius (Caius)",
+  "role": "général romain",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Marius",
+    "Caius Marius",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 127,
+  "lead": "Sylla",
+  "role": "général romain",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 38,
+  "lead": "Louis XVI",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 129,
+  "lead": "Jeanne d’Arc",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 130,
+  "lead": "la Fodor",
+  "role": "cantatrice française",
+  "location": "France",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "Joséphine Fodor",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 131,
+  "lead": "Bossuet (Jacques-Bénigne)",
+  "role": "écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bossuet",
+    "Jacques-Bénigne Bossuet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 1,
+  "lead": "Corneille (Pierre)",
+  "role": "dramaturge français",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Corneille",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 133,
+  "lead": "Étanges (Julie d’)",
+  "role": "pesonnage de Jean-Jacques Rousseau",
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "Julie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 134,
+  "lead": "roi de Sardaigne",
+  "role": null,
+  "location": "Sardaigne",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 135,
+  "lead": "Lovelace",
+  "role": "Personnage de Samuel Richardson.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 83,
+  "lead": "Saint-Preux",
+  "role": "personnage de Julie ou la Nouvelle Héloïse de J.-J. Rousseau",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 137,
+  "lead": "Harlowe (Clarisse)",
+  "role": "Personnage de Samuel Richardson.",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+    "Clarisse Harlowe",
+    "Clarisse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 138,
+  "lead": "Philippe II",
+  "role": "roi d'Espagne",
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 139,
+  "lead": "Bonald (Louis-Gabriel-Ambroise)",
+  "role": "écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bonald",
+    "Louis-Gabriel-Ambroise, vicomte de Bonald",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 140,
+  "lead": "Corinne",
+  "role": "Héroïne de Madame de Staël.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 141,
+  "lead": "Mirbel (Lizinska de)",
+  "role": "peintre miniaturiste française",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Madame de Mirbel",
+    "Lizinska de Mirbel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 142,
+  "lead": "ambassadeur de Sardaigne",
+  "role": "Ambassadeur.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 297,
+  "lead": "Henri IV",
+  "role": "Roi de Navarre",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 143,
+  "lead": "Mahomet",
+  "role": "Prophète.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 144,
+  "lead": "Racine (Jean)",
+  "role": "écrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Racine",
+    "Jean Racine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 624,
+  "lead": "Bérénice",
+  "role": "Personnage titre d'une tragédie de Racine.",
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 273,
+  "lead": "Homère",
+  "role": "Aède",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 594,
+  "lead": "La Fontaine (Jean de)",
+  "role": "Poète français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "La Fontaine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 145,
+  "lead": "Figaro",
+  "role": "personnage de monsieur de Beaumarchais",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 146,
+  "lead": "César",
+  "role": "général romain",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Caius Julius Caesar",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 147,
+  "lead": "Rabelais (François)",
+  "role": "Humaniste et écrivain français.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rabelais",
+    "François Rabelais",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 148,
+  "lead": "Westmoreland (comte de)",
+  "role": "comte anglais",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "W",
+  "aliases": [
+    "comte de Westmorland",
+    "comte de Westmoreland",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 226,
+  "lead": "Oberman",
+  "role": "Personnage-titre d'Étienne Pivert de Senancour",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 150,
+  "lead": "Médée",
+  "role": "personnage mythologique",
+  "location": "Grèce",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 151,
+  "lead": "Lucine",
+  "role": "personnage mythologique (déesse) invoqué lors de l'accouchement",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 152,
+  "lead": "Vierge Marie",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "la Vierge",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 69,
+  "lead": "Célimène",
+  "role": "Personnage féminin (coquette) chez Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 2,
+  "lead": "Molière (Jean-Baptiste Poquelin, dit)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Molière",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 63,
+  "lead": "Louis XVIII",
+  "role": "roi",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 153,
+  "lead": "Rivarol (Antoine de)",
+  "role": "écrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rivarol",
+    "Antoine de Rivarol",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 70,
+  "lead": "Charles X",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 128,
+  "lead": "Florian (Jean-Pierre Claris de)",
+  "role": "poète et romancier français",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Florian",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 132,
+  "lead": "Gessner (Solomon)",
+  "role": "poète suisse",
+  "location": "Suisse",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Gessner",
+    "Salomon Gessner",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 155,
+  "lead": "Numa",
+  "role": "roi romain",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Numa Pompilius",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 156,
+  "lead": "Martignac (vicomte de)",
+  "role": "homme d'Etat français",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Martignac",
+    "Jean-Baptiste Sylvère Gaye, vicomte de Martignac",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 157,
+  "lead": "Bourmont (Louis de)",
+  "role": "maréchal de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "de Bourmont",
+    "Louis Auguste Victor de Ghaisne de Bourmont",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 158,
+  "lead": "Polignac (Jules de)",
+  "role": "homme politique français",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "de Polignac",
+    "Jules Auguste Armand Marie de Polignac",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 159,
+  "lead": "Stuarts",
+  "role": "dynastie anglaise et écossaise",
+  "location": null,
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 160,
+  "lead": "Cassandre",
+  "role": "personnage mythologique",
+  "location": "Grèce",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 161,
+  "lead": "Joséphine",
+  "role": "épouse de Napoléon",
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+    "Joséphine de Beauharnais",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 162,
+  "lead": "Rembrandt",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 163,
+  "lead": "Rubens",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 164,
+  "lead": "Hobbéma",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 55,
+  "lead": "Titien",
+  "role": "peintre",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Raphaël",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Raffaello Sanzio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 166,
+  "lead": "Décius",
+  "role": "empereur romain",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 167,
+  "lead": "Louis-Philippe",
+  "role": "duc d'Orléans",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Louis-Philippe d'Orléans",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 168,
+  "lead": "Cornélie",
+  "role": "fille de Scipion l'Africain",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 169,
+  "lead": "Louis XIII",
+  "role": "roi de France",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 170,
+  "lead": "Dante",
+  "role": "poète et écrivain florentin",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Dante Alighieri",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 171,
+  "lead": "Sully (duchesse de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "duchesse de Sully",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 172,
+  "lead": "Sully (Maximilien de Béthune, duc de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Sully",
+    "Maximilien de Béthune, duc de Sully",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 173,
+  "lead": "Thérèse (sainte)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+    "sainte Thérèse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 174,
+  "lead": "Héloïse",
+  "role": "chanoine et abesse du Paraclet",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 175,
+  "lead": "Verdier",
+  "role": "marchand chez qui Gaston Marie achète une cravache",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 67,
+  "lead": "Lafayette",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Gilbert du Motier de La Fayette",
+    "La Fayette",
+  ],
+  "relations": [
+  ]
+}

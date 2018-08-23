@@ -1,0 +1,2309 @@
+{
+  "id": 184,
+  "lead": "Minotaure",
+  "role": "monstre de la mythologie grecque",
+  "location": null,
+  "type": 3,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 185,
+  "lead": "Méphistophélès",
+  "role": "Démon",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 186,
+  "lead": "Scott (Walter)",
+  "role": "écrivain anglais",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Walter Scott",
+    "Walter-Scott",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 187,
+  "lead": "Niobé",
+  "role": "fille de Tantale",
+  "location": null,
+  "type": 2,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 188,
+  "lead": "Mirevelt",
+  "role": "peintre hollandais",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Mierevelt",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 189,
+  "lead": "Catulle",
+  "role": "poète romain",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 553,
+  "lead": "Tobie (capitaine)",
+  "role": "Personnage de Sterne.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "capitaine Tobie",
+    "oncle Tobie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Ève",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Raphaël",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Raffaello Sanzio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 56,
+  "lead": "Vinci (Léonard de)",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Léonard de Vinci",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 190,
+  "lead": "Mignon (cardinal)",
+  "role": "archidiacre ayant fait bâtir l'hôtel Mignon, à Paris.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "cardinal Mignon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 191,
+  "lead": "Antinoüs",
+  "role": "Favori et amant de l'empereur Hadrien.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 192,
+  "lead": "Hadrien",
+  "role": "Empereur romain.",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Adrien",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 193,
+  "lead": "Scævola (Publius Mucius)",
+  "role": "consul romain",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Scévola",
+    "Publius Mucius Scævola",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 195,
+  "lead": "Dürer (Albrecht)",
+  "role": "Peintre, graveur et dessinateur allemand",
+  "location": "Allemagne",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Albert Durer",
+    "Albrecht Dürer",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 196,
+  "lead": "Hugo (Victor)",
+  "role": "écrivain français",
+  "location": "France",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hugo",
+    "Victor Hugo",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 197,
+  "lead": "Lamartine",
+  "role": "Poète et écrivian français.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Alphonse Marie Louis de Prat de Lamartine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 74,
+  "lead": "Byron (lord)",
+  "role": "poète",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Byron",
+    "lord Byron",
+    "Lord Byron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 198,
+  "lead": "Child-Harold",
+  "role": "Personnage de Lord Byron",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Childe Harold",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 199,
+  "lead": "Ducray-Duminil (François Guillaume)",
+  "role": "Poète et chansonnier français",
+  "location": "France",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Ducray-Duminil",
+    "François Guillaume Ducray-Duminil",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 201,
+  "lead": "Werther",
+  "role": "Héros de Goethe",
+  "location": null,
+  "type": 1,
+  "indexation": "W",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 202,
+  "lead": "Schiller (Friedrich von)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Schiller",
+    "Friedrich von Schiller",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 178,
+  "lead": "Le Brun (Charles)",
+  "role": "peintre",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Lebrun",
+    "Charles Le Brun",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 55,
+  "lead": "Titien",
+  "role": "peintre",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 163,
+  "lead": "Rubens",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 162,
+  "lead": "Rembrandt",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 203,
+  "lead": "Murillo (Bartolomé Esteban)",
+  "role": "peintre espagnol",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Murillo",
+    "Bartolomé Esteban Murillo",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 204,
+  "lead": "Holbein (Hans)",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Holbein",
+    "Hans Holbein le Jeune",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 205,
+  "lead": "Bartholo",
+  "role": "personnage du Barbier de Séville",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Ève",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 647,
+  "lead": "Mamonov (Alexandre Matveïevitch)",
+  "role": "Favori de Catherine II de Russie.",
+  "location": "Russie",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Momonoff",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 648,
+  "lead": "Boniface (Joseph-Xavier, dit Saintine)",
+  "role": "Romancier français.",
+  "location": "F",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 42,
+  "lead": "Colomb (Christophe)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Christophe Colomb",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 207,
+  "lead": "Catherine (sainte)",
+  "role": "Sainte",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "sainte Catherine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 37,
+  "lead": "Catherine II",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Sémiramis du Nord",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 11,
+  "lead": "Goethe (Johann Wolfgang von)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Goethe",
+    "Gœthe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 126,
+  "lead": "Marius (Caius)",
+  "role": "général romain",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Marius",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 208,
+  "lead": "Moore (Thomas)",
+  "role": "Poète irlandais",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Moore",
+    "Thomas Moore",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 209,
+  "lead": "Crabbe (George)",
+  "role": "poète britannique",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Crabbe",
+    "George Crabbe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 210,
+  "lead": "Lescaut (Manon)",
+  "role": "Personnage de l'abbé François Prévost",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Manon Lescaut",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 211,
+  "lead": "Montaigne (Michel de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Montaigne",
+    "Michel de Montaigne",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 212,
+  "lead": "Diderot",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 109,
+  "lead": "Charles-Quint",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 213,
+  "lead": "Blas (Gil)",
+  "role": "personnage d'Alain-René Lesage",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Gil Blas",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 214,
+  "lead": "Malibran (Maria)",
+  "role": "artiste lyrique",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Malibran",
+    "Maria Malibran",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 215,
+  "lead": "Pasta (Giuditta)",
+  "role": "cantatrice italienne",
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "la Pasta",
+    "La Pasta",
+    "Pasta",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 111,
+  "lead": "Jésus-Christ",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 216,
+  "lead": "Tasso (Torquato)",
+  "role": "Poète italien",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Tasse",
+    "Le Tasse",
+    "le Tasse",
+    "Torquato Tasso",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 123,
+  "lead": "Rousseau (Jean-Jacques)",
+  "role": "philosphe et écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rousseau",
+    "Jean-Jacques",
+    "Jean-Jacques Rousseau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 217,
+  "lead": "Milton (John)",
+  "role": "poète anglais",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Milton",
+    "John Milton",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 218,
+  "lead": "Murat (Joachim)",
+  "role": "personnage politique italien",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Murat",
+    "Joachim Murat",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 219,
+  "lead": "Manfred",
+  "role": "Personnage-titre de Lord Byron",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 2,
+  "lead": "Molière (Jean-Baptiste Poquelin, dit)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Molière",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 220,
+  "lead": "Lara",
+  "role": "Personnage-titre de Lord Byron",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 221,
+  "lead": "Gulnare",
+  "role": "Personnage de Lord Byron",
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 222,
+  "lead": "Crébillon fils",
+  "role": "écrivain et chansonnier français",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Claude-Prosper Jolyot de Crébillon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 223,
+  "lead": "Sterne (Laurence)",
+  "role": "écrivain britannique",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Sterne",
+    "Laurence Sterne",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 224,
+  "lead": "Draper (Éliza)",
+  "role": "Née Elizabeth Sclater, muse de Laurence Sterne",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "Éliza",
+    "Éliza Draper",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 225,
+  "lead": "Nodier (Charles)",
+  "role": "Ecrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Nodier",
+    "Charles Nodier",
+    "Jean-Charles-Emmanuel Nodier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 226,
+  "lead": "Oberman",
+  "role": "Personnage-titre d'Étienne Pivert de Senancour",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 227,
+  "lead": "Maturin (Charles Robert)",
+  "role": "Romancier irlandais",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Maturin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 639,
+  "lead": "Goldsmith (Olivier)",
+  "role": "Écrivain irlandais.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Goldsmith",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 228,
+  "lead": "Spinoza (Baruch)",
+  "role": "Penseur",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Spinosa",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 229,
+  "lead": "Bayle (Pierre)",
+  "role": "Ecrivain",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bayle",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 230,
+  "lead": "Montesquieu",
+  "role": "Ecrivain et philosophe",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Charles de Secondat, baron de Montesquieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 70,
+  "lead": "Charles X",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 231,
+  "lead": "Didot",
+  "role": "Imprimeur parisien",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 232,
+  "lead": "Bernardin de Saint-Pierre",
+  "role": "Ecrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Jacques-Henri Bernardin de Saint-Pierre",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 233,
+  "lead": "René",
+  "role": "Personnage de Chateaubriand.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 640,
+  "lead": "Odiot",
+  "role": "Orfèvre français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 641,
+  "lead": "Colla (Luigi)",
+  "role": "Homme d'état italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Colla",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 234,
+  "lead": "Don Quichotte",
+  "role": "Personnage de Cervantès",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "don Quichotte",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 235,
+  "lead": "Frédéric II de Prusse",
+  "role": "roi de Prusse",
+  "location": "1",
+  "type": ,
+  "indexation": "F",
+  "aliases": [
+    "le grand Frédéric",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 236,
+  "lead": "Colla (Luigi Aloysius)",
+  "role": "Homme politique et botaniste italien",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Luigi Aloysius Colla",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 237,
+  "lead": "Jussieu (Antoine-Laurent de)",
+  "role": "Botaniste français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "Jussieu",
+    "Antoine-Laurent de Jussieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 238,
+  "lead": "Canning (George)",
+  "role": "Homme d'État britannique.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Canning",
+    "George Canning",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 239,
+  "lead": "Chateaubriand (François-René de)",
+  "role": "Homme politique et écrivain français.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Chateaubriand",
+    "Châteaubriand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 324,
+  "lead": "Valois (les)",
+  "role": "Famille royale française, branche cadette des capétiens.",
+  "location": "France",
+  "type": 3,
+  "indexation": "V",
+  "aliases": [
+    "Valois",
+    "les Valois",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 240,
+  "lead": "Gautier (Théophile)",
+  "role": "Ecrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Théophile Gautier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 241,
+  "lead": "Vigny (Alfred de)",
+  "role": "Ecrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "de Vigny",
+    "Alfred de Vigny",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 144,
+  "lead": "Racine (Jean)",
+  "role": "écrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Racine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 143,
+  "lead": "Mahomet",
+  "role": "Prophète.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 242,
+  "lead": "Voltaire",
+  "role": "Ecrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "François-Marie Arouet, dit Voltaire",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 147,
+  "lead": "Rabelais (François)",
+  "role": "Humaniste et écrivain français.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rabelais",
+    "François Rabelais",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 243,
+  "lead": "Ali",
+  "role": "Gendre de Mahommet.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Ali ibn Abi Talib",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 244,
+  "lead": "Menneval (Claude François de)",
+  "role": "Secrétaire de Napoléon Ier.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Menneval",
+    "Claude François de Méneval",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 245,
+  "lead": "Virgile",
+  "role": "Poète latin.",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Publius Vergilius Maro",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 53,
+  "lead": "Michel-Ange",
+  "role": "peintre",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 246,
+  "lead": "Marmontel (Jean-François)",
+  "role": "Ecrivain",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Marmontel",
+    "Jean-François Marmontel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 247,
+  "lead": "Béranger (Pierre-Jean de)",
+  "role": "Chansonnier français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Béranger",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 248,
+  "lead": "Calypso",
+  "role": "Nymphe.",
+  "location": "Grèce",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Calypso",
+    "nymphe Calypso",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 73,
+  "lead": "Alexandre",
+  "role": "roi de Macédoine",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Alexandre le Grand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 281,
+  "lead": "Pylade",
+  "role": "Personnage mythologique.",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 282,
+  "lead": "Linné (Carl von)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Linné",
+    "Carl von Linné",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 283,
+  "lead": "Saint-Hilaire (Geoffroy)",
+  "role": "Naturaliste français.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Geoffroy Saint-Hilaire",
+    "Étienne Geoffroy Saint-Hilaire",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 284,
+  "lead": "Beethoven (Ludwig van)",
+  "role": "Compositeur et musicien allemand.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Beethoven",
+    "Beethowen",
+    "Ludwig van Beethoven",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 114,
+  "lead": "Rossini (Gioachino)",
+  "role": "compositeur italien",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rossini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 285,
+  "lead": "Galien (Claude)",
+  "role": "Médecin grec",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Galien",
+    "Claude Galien",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 645,
+  "lead": "Volland (Sophie)",
+  "role": "Amie et maîtresse de Diderot.",
+  "location": "France",
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "Sophie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 646,
+  "lead": "Bade (grand-duc de)",
+  "role": "Grand-duc.",
+  "location": "Allemagne",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "grand-duc de Bade",
+    "Louis Ier de Bade",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 286,
+  "lead": "Broussais (François)",
+  "role": "Médecin français",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Broussais",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 287,
+  "lead": "Rasori (Giovanni)",
+  "role": "Médecin italien",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rasori",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 288,
+  "lead": "Hippocrate",
+  "role": "Médecin grec",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 289,
+  "lead": "Moschelès (Ignaz)",
+  "role": "Compositeur tchèque",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Ignaz Moschelès",
+    "Moschelès",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 290,
+  "lead": "Paganini (Niccolò)",
+  "role": "Violoniste et compositeur italien",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Paganini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 291,
+  "lead": "Farinelli",
+  "role": "Castrat italien",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 292,
+  "lead": "Catalani (Angelica)",
+  "role": "Soprano italienne",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "la Catalani",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 293,
+  "lead": "Boiron (Michel, dit Baron)",
+  "role": "Comédien français",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Michel Boiron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 294,
+  "lead": "Parmentier (Antoine Augustin)",
+  "role": "Pharmacien militaire",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Parmentier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 295,
+  "lead": "Jacquart (Joseph-Marie)",
+  "role": "Inventeur d'un métier à tisser.",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "Jacquart",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 296,
+  "lead": "Papin (Denis)",
+  "role": "Inventeur de l'ancêtre de l'autoclave, le "digesteur".",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Papin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 297,
+  "lead": "Henri IV",
+  "role": "Roi de Navarre",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 116,
+  "lead": "Othello",
+  "role": "personnage de Shakespeare",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 298,
+  "lead": "Robert Ier de Normandie",
+  "role": "Duc de Normandie",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Robert de Normandie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 299,
+  "lead": "Nicodème",
+  "role": "Disciple de Jésus.",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 300,
+  "lead": "Ostade (Adriaen van)",
+  "role": "Peintre et graveur néerlandais.",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+    "Van Ostade",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 301,
+  "lead": "Coysevox (Antoine)",
+  "role": "Sculpteur français.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Antoine Coysevox",
+    "Coysevox",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 302,
+  "lead": "Stuart (Marie)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "Marie Stuart",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 303,
+  "lead": "Michel (archange)",
+  "role": "Archange",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "archange Michel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 304,
+  "lead": "Faust",
+  "role": "Héros d'un conte populaire allemand",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 305,
+  "lead": "Egmont (Lamoral, comte d’)",
+  "role": "Général",
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+    "comte d’Egmont",
+    "Lamoral, comte d’Egmont, prince de Gavres",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 306,
+  "lead": "Jupiter",
+  "role": "Dieu romain.",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 307,
+  "lead": "Meulen (Adam Frans van der)",
+  "role": "Peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Van der Meulen",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 552,
+  "lead": "Rigaudin",
+  "role": "Personnage de Picard et Radet.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Trigaudin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 554,
+  "lead": "Charlet (Nicolas-Toussaint)",
+  "role": "Peintre et graveur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Charlet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 249,
+  "lead": "Télémaque",
+  "role": "Personnage mythologique, fils d'Ulysse.",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 250,
+  "lead": "Madeleine (Sainte Marie)",
+  "role": "Disciple de Jésus.",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Marie-Madeleine",
+    "Marie Magdeleine",
+    "Sainte Marie-Madeleine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 251,
+  "lead": "Alceste",
+  "role": "Personnage de Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 252,
+  "lead": "Léonore",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Leonora d'Este",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 137,
+  "lead": "Harlowe (Clarisse)",
+  "role": "Personnage de Samuel Richardson.",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+    "Clarisse",
+    "Clarisses",
+    "Clarisse Harlowe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 135,
+  "lead": "Lovelace",
+  "role": "Personnage de Samuel Richardson.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 100,
+  "lead": "Staël (madame de)",
+  "role": "romancière",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame de Staël",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 140,
+  "lead": "Corinne",
+  "role": "Héroïne de Madame de Staël.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 253,
+  "lead": "Gœthe (madame)",
+  "role": "Femme de Johann Wolfgang von Goethe.",
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Madame Gœthe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 254,
+  "lead": "Bolingbroke (lord)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "lord Bolingbroke",
+    "Henry St John, Ier vicomte Bolingbroke",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 255,
+  "lead": "Bélise",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 256,
+  "lead": "Chrysale",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 642,
+  "lead": "Henriette",
+  "role": "Personnage de Molière.",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 115,
+  "lead": "Shakespeare",
+  "role": "Écrivain et dramaturge anglais.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Shakspeare",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 574,
+  "lead": "Béatrix",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 264,
+  "lead": "Hamlet",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 265,
+  "lead": "Roméo",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 266,
+  "lead": "Juliette",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 267,
+  "lead": "Oronte",
+  "role": "Personnage de Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 170,
+  "lead": "Dante",
+  "role": "poète et écrivain florentin",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Dante Alighieri",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 268,
+  "lead": "Argante",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 269,
+  "lead": "Anselme",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 3,
+  "lead": "Cuvier (Jean Léopold Nicolas Frédéric)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cuvier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 133,
+  "lead": "Étanges (Julie d’)",
+  "role": "pesonnage de Jean-Jacques Rousseau",
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "Julie",
+    "Julie d’Étanges",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 169,
+  "lead": "Louis XIII",
+  "role": "roi de France",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 270,
+  "lead": "Narcisse",
+  "role": "Personnage mythologique.",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 271,
+  "lead": "Grammont (chevalier de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Philibert de Gramont",
+    "chevalier de Grammont",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 643,
+  "lead": "Mazarin",
+  "role": "Homme politique français.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 272,
+  "lead": "Léon X",
+  "role": "Pape",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 273,
+  "lead": "Homère",
+  "role": "Aède",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 99,
+  "lead": "Talleyrand (prince de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Monsieur de Talleyrand",
+    "prince de Talleyrand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 274,
+  "lead": "Orgon",
+  "role": "Personnage de Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Louis XIV",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 38,
+  "lead": "Louis XVI",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 86,
+  "lead": "Louis XV",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 644,
+  "lead": "don Juan",
+  "role": "Personnage de Tirso de Molina.",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 275,
+  "lead": "Aristote",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 276,
+  "lead": "Horace",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 63,
+  "lead": "Louis XVIII",
+  "role": "roi",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 277,
+  "lead": "Pompadour (madame de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "madame de Pompadour",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 278,
+  "lead": "Alcibiade",
+  "role": "Homme d'état athénien.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 279,
+  "lead": "Mars (mademoiselle)",
+  "role": "Comédienne française.",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "mademoiselle Mars",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 280,
+  "lead": "Ephestion",
+  "role": "Général d'Alexandre le Grand.",
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+    "Héphestion",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 75,
+  "lead": "Apollon",
+  "role": "dieu grec des arts, de la musique, de la poésie",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 257,
+  "lead": "Gournay (mademoiselle de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Marie de Gournay",
+    "mademoiselle de Gournay",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 258,
+  "lead": "Sismondi (Jean Charles Léonard Simonde de)",
+  "role": "Historien",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Sismonde de Sismondi",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 327,
+  "lead": "Margherita Doni",
+  "role": "Riche Florentine portrayée par Raphaël.",
+  "location": "Florence",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 259,
+  "lead": "Pescaire (marquis de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "marquis de Pescaire ",
+    "Marquis de Pescaire",
+    "Fernando de &#00C1;valos",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 260,
+  "lead": "Pescaire (marquise de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "marquise de Pescaire",
+    "Marquise de Pescaire",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 261,
+  "lead": "Arnim (Bettina von)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+    "Bettina d'Arnim",
+    "madame d’Arnim",
+    "Bettina von Arnim",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 262,
+  "lead": "Géronte",
+  "role": "Personnage de Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 263,
+  "lead": "Léandre",
+  "role": "Personnage de Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}
