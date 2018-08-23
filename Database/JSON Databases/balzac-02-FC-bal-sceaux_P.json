@@ -1,0 +1,561 @@
+{
+  "id": 60,
+  "lead": "Fontaine (comte de)",
+  "role": "Comte originaire du Poitou, maréchal-de-camp, vendéen, décoré de la croix de l'ordre de la Légion-d'Honneur et celle de Saint-Louis, grand-prévôt puis député, a trois fils et trois filles. Deviendra pair de France. Obtient une commande de plafonds au Louvre pour le peintre Schinner.",
+  "location": "France",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "comte de Fontaine",
+    "monsieur de Fontaine",
+    "monsieur le comte de Fontaine",
+    "chef de la famille de Fontaine",
+  ],
+  "relations": [
+    "@père de": "62,66,73",
+    "@beau-père de": "61,64,65,74",
+    "@marié à": "63",
+    "@emploie": "67",
+    "@neveu de": "79",
+  ]
+},
+{
+  "id": 61,
+  "lead": "Planat de Baudry",
+  "role": "receveur-général sous Louis XVIII",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+    "@gendre de": "60",
+    "@marié à": "73",
+  ]
+},
+{
+  "id": 568,
+  "lead": "Durand",
+  "role": "Nom-type d'un prétendant d'Émilie de Fontaine",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 62,
+  "lead": "Fontaine (Émilie de)",
+  "role": "Troisième fille du comte de Fontaine, deviendra comtesse en épousant son grand-oncle en 1827. Riche et veuve, elle épousa en 1836 Charles de Vandenesse.",
+  "location": "France",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "Émilie",
+    "Émilie de Fontaine",
+    "mademoiselle de Fontaine",
+    "mademoiselle Émilie de Fontaine",
+  ],
+  "relations": [
+    "@fille de": "60,63",
+    "@belle-soeur de": "64,65",
+    "@soeur de": "73",
+    "@petite-nièce de": "79",
+    "@mariée à": "79",
+    "@courtisée par": "72",
+  ]
+},
+{
+  "id": 63,
+  "lead": "Fontaine (comtesse de)",
+  "role": "Comtesse, appartient aux Rohan par sa mère.",
+  "location": "France",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "La comtesse",
+    "la comtesse",
+    "madame de Fontaine",
+    "comtesse de Fontaine",
+  ],
+  "relations": [
+    "@mariée à": "60",
+    "@mère de": "62,66,73,74",
+    "@belle-mère de": "64,61,65",
+  ]
+},
+{
+  "id": 64,
+  "lead": "Fontaine (baronne de)",
+  "role": "Née Mongenod. Fille d'un riche banquier et de Charlotte Mongenod, mariée au deuxième fils du comte de Fontaine, lieutenant-général, devenue baronne puis vicomtesse, se croit tout aussi noble qu’une Kergarouët.",
+  "location": "France",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "baronne de Fontaine",
+    "mademoiselle Mongenod",
+    "madame la baronne de Fontaine",
+  ],
+  "relations": [
+    "@bru de": "60,63",
+    "@belle-soeur de": "65,62",
+    "@mariée à": "66",
+  ]
+},
+{
+  "id": 65,
+  "lead": "Grossetête (mademoiselle)",
+  "role": "fille unique du receveur-général de Bourges, mariée au troisième fils de comte de Fontaine",
+  "location": "France",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "mademoiselle Grossetête",
+  ],
+  "relations": [
+    "@bru de": "60,63",
+    "@belle-soeur de": "64,62",
+  ]
+},
+{
+  "id": 66,
+  "lead": "Fontaine (baron de)",
+  "role": "deuxième fils du comte de Fontaine, simple capitaine avant la Restauration, obtint une légion immédiatement après son retour de Gand, passe dans la garde royale après 1815, devient lieutenant-général après l’affaire du Trocadéro, baron puis vicomte",
+  "location": "France",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "baron de Fontaine",
+  ],
+  "relations": [
+    "@marié à": "64",
+    "@fils de": "63,60",
+  ]
+},
+{
+  "id": 67,
+  "lead": "Joseph",
+  "role": "valet de chambre du comte de Fontaine",
+  "location": "France",
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "60",
+  ]
+},
+{
+  "id": 68,
+  "lead": "Manerville (monsieur de)",
+  "role": "prétendant blond d'Émilie de Fontaine, comte, repoussé par Émilie",
+  "location": "France",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Paul de Manerville",
+    "monsieur de Manerville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 69,
+  "lead": "Beaudenord (monsieur de)",
+  "role": "prétendant brun d'Émilie de Fontaine, repoussé par Émilie car mal fait, gros, pas noble",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "monsieur de Beaudenord",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 70,
+  "lead": "Rastignac (Eugène-Louis de)",
+  "role": "Banquier, proposé à Émilie de Fontaine par son père.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "monsieur de Rastignac",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 71,
+  "lead": "Nucingen (madame de)",
+  "role": "Née Delphine Goriot.",
+  "location": "rue Saint-Lazare, Paris",
+  "type": 2,
+  "indexation": "N",
+  "aliases": [
+    "madame de Nucingen",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 72,
+  "lead": "Portenduère (vicomte de)",
+  "role": "vicomte, parent du comte de Fontaine, proposé à Émilie de Fontaine par son père, repoussé car jugé sans fortune, amoureux d'Émilie",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "vicomte de Portenduère",
+  ],
+  "relations": [
+    "@amoureux de": "62",
+  ]
+},
+{
+  "id": 73,
+  "lead": "Planat (madame)",
+  "role": "femme du receveur-général et aînée d’Émilie de Fontaine",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "madame Planat",
+  ],
+  "relations": [
+    "@mariée à": "61",
+    "@soeur de": "62",
+    "@fille de": "60,63",
+  ]
+},
+{
+  "id": 74,
+  "lead": "Villaine (baron de)",
+  "role": " mari de la seconde sœur d'Émilie de Fontaine, baron",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "baron de Villaine",
+  ],
+  "relations": [
+    "@genre de": "60,63",
+  ]
+},
+{
+  "id": 138,
+  "lead": "Marsay (comte Henri de)",
+  "role": "Comte",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "monsieur de Marsay",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 76,
+  "lead": "Longueville (Clara de)",
+  "role": null,
+  "location": "France",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Clara",
+    "Clara Longueville",
+    "Clara de Longueville",
+    "mademoiselle Longueville",
+  ],
+  "relations": [
+    "@soeur de": "80,84",
+    "@fille de": "83",
+  ]
+},
+{
+  "id": 569,
+  "lead": "Rostein-Limbourg (duc de)",
+  "role": "Dernier membre de la famille Longueville, mort sur l'échafaud en 1793.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rostein-Limbourg",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 149,
+  "lead": "Dudley (lady Arabelle)",
+  "role": "A fait mourir de chagrin lady Brandon. Eut une liaison avec Félix de Vandenesse.",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "lady Dudley",
+    "Lady Dudley",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 132,
+  "lead": "Vandenesse (monsieur de)",
+  "role": "Charmant jeune homme en 1824.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "monsieur de Vandenesse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 79,
+  "lead": "Kergarouët (comte de)",
+  "role": "vice-amiral, comte, vieux marin, noble Breton âgé de 73 ans en 1825, il épousera à 72 ans sa petite-nièce",
+  "location": "France",
+  "type": 1,
+  "indexation": "K",
+  "aliases": [
+    "comte de Kergarouët",
+    "comte de Kergaroüet",
+  ],
+  "relations": [
+    "@grand-oncle de": "62",
+    "@oncle de": "60",
+  ]
+},
+{
+  "id": 80,
+  "lead": "Longueville (Maximilien)",
+  "role": "possède une maison de campagne à Chevreuse, réside au 5 rue du Sentier, à fait l’École Polytechnique, associé à une maison de banque, s'est sacrifié pour son frère et sa soeur en renonçant à la fortune de son père. Deviendra riche vicomte et pair de France à la mort de son père et frère.",
+  "location": "France, Paris, rue du Sentier",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Maximilien",
+    "Longueville",
+    "monsieur Longueville",
+    "le jeune Longueville",
+    "Maximilien Longueville",
+    "vicomte de Longueville",
+    "Monsieur de Longueville",
+  ],
+  "relations": [
+    "@frère de": "76,84",
+    "@fils de": "83",
+  ]
+},
+{
+  "id": 81,
+  "lead": "Longueville (famille)",
+  "role": "famille éteinte en la personne du vieux duc de Rostein-Limbourg, qui a péri sur l’échafaud en 1793",
+  "location": "Paris",
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "famille Longueville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 51,
+  "lead": "Palma",
+  "role": "commerçant de mousselines, calicots et toiles peintes en gros",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 82,
+  "lead": "Werbrust",
+  "role": "commerçant de mousselines, calicots et toiles peintes en gros",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "W",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 83,
+  "lead": "Longueville (Guiraudin)",
+  "role": "député, procureur avant la Révolution, a pris la particule depuis la Restauration, nommé pair de France et vicomte",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Guiraudin Longueville",
+    "Guiraudin de Longueville",
+    "monsieur Guiraudin de Longueville",
+  ],
+  "relations": [
+    "@père de": "80,76",
+  ]
+},
+{
+  "id": 84,
+  "lead": "Longueville (Auguste)",
+  "role": "secrétaire d’ambassade en Allemagne, envoyé en Russie grâce au comte de Fontaine où il mourra, tué par l’inclémence du climat de Pétersbourg.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Auguste Longueville",
+  ],
+  "relations": [
+    "@frère de": "76,80",
+    "@fils de": "83",
+  ]
+},
+{
+  "id": 85,
+  "lead": "Maufrigneuse (duchesses de)",
+  "role": "duchesse",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "de Maufrigneuse",
+    "duchesses de Maufrigneuse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 86,
+  "lead": "Chaulieu (duchesse de)",
+  "role": "duchesse",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "de Chaulieu",
+    "duchesse de Chaulieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 136,
+  "lead": "Espard (Jeanne-Clémentine-Athénaïs, marquise d’)",
+  "role": "Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.",
+  "location": "rue du Faubourg Saint-Honoré, Paris",
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "d’Espard",
+    "marquise d’Espard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 88,
+  "lead": "Aiglemont (marquise d')",
+  "role": "marquise",
+  "location": "France",
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+    "d’Aiglemont",
+    "marquise d’Aiglemont",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 89,
+  "lead": "Féraud (comtesse)",
+  "role": "comtesse",
+  "location": "France",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "Féraud",
+    "comtesse Féraud",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Montcornet (comtesse de)",
+  "role": "Charmante petite femme qui recevait les artistes illustres, les sommités de la finance, les écrivains distingués, mais après les avoir soumis à un si sévère examen, que les plus difficiles en fait de bonne compagnie n’avaient pas à craindre d’y rencontrer qui que ce soit de la société secondaire.",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "de Montcornet",
+    "comtesse de Montcornet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 91,
+  "lead": "Restaud (comtesse de)",
+  "role": "comtesse",
+  "location": "France",
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+    "de Restaud",
+    "comtesse de Restaud",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 490,
+  "lead": "Firmiani (madame)",
+  "role": " Possède un grand hôtel situé rue du Bac, des salons bien meublés, de beaux tableaux, cent bonnes mille livres de rente. Reçoit le mercredi. Nièce du vieux prince de Cadignan et cousine par conséquent du duc de Maufrigneuse. Mariée en 1813, à l’âge de seize ans, elle devait avoir au moins vingt-huit ans en 1825. Mariée à Octave de Camps à Greatna-Green, elle lui donna un acte qui constate le décès de Firmiani et le supplia d'accepter sa fortune. Beaucoup d'opinions sont répandues sur elle en 1824, à tel point qu'il y a autant de madame Firmiani que de classes dans la société, que de sectes dans le catholicisme.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "madame de Camps",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 93,
+  "lead": "Touches (Félicité des)",
+  "role": null,
+  "location": "France",
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+    "mademoiselle Des Touches",
+    "mademosielle des Touches",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 94,
+  "lead": "Persépolis (monsieur de)",
+  "role": "évêque",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "évêque de Persépolis",
+    "monsieur de Persépolis",
+  ],
+  "relations": [
+  ]
+}
