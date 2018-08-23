@@ -5,10 +5,12 @@ TXT2JSON is a script that converts the txt databases of eBalzac into pretty JSON
 
 TO BE USED ON WINDOWS - IF YOU USE LINUX YOU'RE GOOD :]
 
-1. Put the txt database you want to convert into the same folder, whatever it is, than txt2json.
+1. Put the txt database you want to convert into the same folder,
+ whatever it is, than txt2json.
 
 2. Open GitBash on that folder.
 
-3. Write awk -f txt2json.awk < Nameofthetxtdatabase.txt  > Nameofthetxtdatabase.json
+3. Write awk -f txt2json.awk < Nameofthetxtdatabase.txt  > 
+.Nameofthetxtdatabase.json
 
 4. Your file will be created instantly!
