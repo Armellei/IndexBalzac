@@ -1,0 +1,378 @@
+{
+  "id": 1,
+  "lead": "Mortsauf (comtesse de)",
+  "role": "Le marquis de Listomère apprend son décès dans la Gazette de France en 1828.",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "madame de Mortsauf",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 2,
+  "lead": "Birotteau (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "Birotteau",
+    "les Birotteau",
+    "les deux Birotteau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 3,
+  "lead": "Fosseuse (la)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "la Fosseuse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 4,
+  "lead": "Graslin (madame)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "madame Graslin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 5,
+  "lead": "Lorrain (Pierrette)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Pierrette Lorrain",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 6,
+  "lead": "Mirouët (Ursule)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Ursule Mirouët",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 40,
+  "lead": "Birotteau (madame César)",
+  "role": null,
+  "location": "Paris",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "Constance Birotteau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 8,
+  "lead": "Grandet (Eugénie)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Eugénie Grandet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 9,
+  "lead": "Claës (Marguerite)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Marguerite Claës",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 10,
+  "lead": "Villenoix (Pauline de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "Pauline de Villenoix",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 11,
+  "lead": "Jules (madame)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+    "madame Jules",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 12,
+  "lead": "La Chanterie (madame de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "madame de La Chanterie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 13,
+  "lead": "Chardon (Ève)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Ève Chardon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 14,
+  "lead": "Esgrignon (mademoiselle d')",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "mademoiselle d’Esgrignon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 15,
+  "lead": "Firmiani (madame)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "madame Firmiani",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 16,
+  "lead": "Rouget (Agathe)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+    "Agathe Rouget",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 95,
+  "lead": "Maucombe (Renée de)",
+  "role": "Sort du couvent des Carmélites de Blois. Âgée de 17 ans en 1823 - 1824.",
+  "location": "Bastide de La Crampade, vallée de Gémenos, Provence",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Renée de Maucombe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 18,
+  "lead": "Lebas (Joseph)",
+  "role": "premier commis de monsieur Guillaume, orphelin, sans fortune",
+  "location": "Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Joseph Lebas",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 19,
+  "lead": "Genestas (Pierre-Joseph)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Genestas",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 20,
+  "lead": "Benassis (docteur)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Benassis",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 21,
+  "lead": "Bonnet (curé)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "le curé Bonnet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 22,
+  "lead": "Minoret (Denis)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "le médecin Minoret",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 23,
+  "lead": "Pillerault (Claude-Joseph)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "Pillerault",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 289,
+  "lead": "Séchard (David)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "David Séchard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 26,
+  "lead": "Chaperon (curé)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "le curé Chaperon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 27,
+  "lead": "Popinot (Jean-Jules)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "le juge Popinot",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Bourgeat",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 29,
+  "lead": "Sauviat (les)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+    "les Sauviat",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 30,
+  "lead": "Tascheron (les)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "T",
+  "aliases": [
+    "les Tascheron",
+  ],
+  "relations": [
+  ]
+}
