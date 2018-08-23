@@ -1,0 +1,417 @@
+{
+  "id": 31,
+  "lead": "Guillaume (monsieur)",
+  "role": "successeur du sieur Chevrel, maître drapier",
+  "location": "Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Guillaume",
+    "monsieur Guillaume",
+    "le père Guillaume",
+  ],
+  "relations": [
+    "@père de": "32,35",
+    "@marié à": "34",
+  ]
+},
+{
+  "id": 32,
+  "lead": "Guillaume (Augustine)",
+  "role": "fille cadette de Guillaume, meurt à 27 ans",
+  "location": "Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Augustine",
+    "Augustine Guillaume",
+    "mademoiselle Augustine",
+    "mademoiselle Guillaume",
+    "madame de Sommervieux",
+    "mademoiselle Augustine Guillaume",
+  ],
+  "relations": [
+    "@soeur de": "35",
+    "@fille de": "31,34",
+    "@cousine de": "37",
+    "@mariée à": "44",
+  ]
+},
+{
+  "id": 33,
+  "lead": "Chevrel",
+  "role": null,
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "le vieux Chevrel",
+    "sieur Chevrel",
+    "père Chevrel",
+    "Chevrel",
+  ],
+  "relations": [
+    "@père de": "34",
+  ]
+},
+{
+  "id": 34,
+  "lead": "Guillaume (madame)",
+  "role": null,
+  "location": "Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "madame Guillaume",
+    "mademoiselle Chevrel",
+    "Mademoiselle Chevrel",
+  ],
+  "relations": [
+    "@mère de": "32,35",
+    "@mariée à": "31",
+    "@fille de": "33",
+    "@cousine de": "37",
+  ]
+},
+{
+  "id": 35,
+  "lead": "Guillaume (Virginie)",
+  "role": "fille aînée de Guillaume",
+  "location": "Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Virginie",
+    "Madame Lebas",
+    "Virginie Guillaume",
+    "mademoiselle Virginie",
+  ],
+  "relations": [
+    "@soeur de": "32",
+    "@fille de": "31,34",
+    "@cousine de": "37",
+    "@mariée à": "36",
+  ]
+},
+{
+  "id": 18,
+  "lead": "Lebas (Joseph)",
+  "role": "premier commis de monsieur Guillaume, orphelin, sans fortune",
+  "location": "Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Lebas",
+    "Joseph",
+    "Joseph Lebas",
+    "monsieur Joseph",
+  ],
+  "relations": [
+    "@employé par": "31",
+    "@marié à": "35",
+  ]
+},
+{
+  "id": 37,
+  "lead": "Roguin (madame)",
+  "role": "Demoiselle Chevrel. Envoie sa fille Mathilde chez le peintre Servin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "madame Roguin",
+  ],
+  "relations": [
+    "@cousine de": "34,35,32",
+  ]
+},
+{
+  "id": 38,
+  "lead": "Rabourdin",
+  "role": "sous-chef aux Finances",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 39,
+  "lead": "Birotteau (César)",
+  "role": "riche parfumeur",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "monsieur César Birotteau",
+  ],
+  "relations": [
+    "@marié à": "40",
+  ]
+},
+{
+  "id": 40,
+  "lead": "Birotteau (madame César)",
+  "role": null,
+  "location": "Paris",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "madame César",
+    "Constance Birotteau",
+  ],
+  "relations": [
+    "@mariée à": "39",
+  ]
+},
+{
+  "id": 41,
+  "lead": "Camusot (monsieur)",
+  "role": "Riche négociant en soieries. Successeur et genre de monsieur Cardot.",
+  "location": "Paris, rue des Bourdonnais",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "monsieur Camusot",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 42,
+  "lead": "Cardot (monsieur)",
+  "role": "Paris",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "monsieur Cardot",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 43,
+  "lead": "Roguin (monsieur)",
+  "role": "notaire",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Roguin",
+    "monsieur Roguin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 44,
+  "lead": "Sommervieux (Théodore de)",
+  "role": "peintre, nommé chevalier de la Légion-d’Honneur par l’empereur",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Théodore",
+    "Sommervieux",
+    "de Sommervieux",
+    "De Sommervieux",
+    "Théodore de Sommervieux",
+    "monsieur de Sommervieux",
+  ],
+  "relations": [
+    "@marié à": "32",
+    "@fils de": "53",
+  ]
+},
+{
+  "id": 45,
+  "lead": "Étienne et compagnie",
+  "role": "négociants traitant avec M. Guillaume",
+  "location": "Paris",
+  "type": 3,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 46,
+  "lead": "Lecocq",
+  "role": "maison ou négociant ayant fait faillite",
+  "location": "Paris",
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Lourdois (monsieur)",
+  "role": "maître peintre en bâtiment",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "monsieur Lourdois",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 48,
+  "lead": "Vernet (Joseph)",
+  "role": "décédé, ancien client de M. Guillaume",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "monsieur Joseph Vernet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 49,
+  "lead": "Lekain (monsieur)",
+  "role": "décédé, ancien client de M. Guillaume",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "monsieur Lekain",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 50,
+  "lead": "Noverre (monsieur)",
+  "role": "décédé, ancien client de M. Guillaume",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "monsieur Noverre",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 52,
+  "lead": "Philidor (monsieur)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "monsieur Philidor",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 53,
+  "lead": "Sommervieux (chevalier de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "chevalier de Sommervieux",
+  ],
+  "relations": [
+    "@père de": "44",
+  ]
+},
+{
+  "id": 54,
+  "lead": "Carigliano (duchesse de)",
+  "role": "duchesse",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "duchesse de Carigliano",
+    "madame la duchesse de Carigliano",
+  ],
+  "relations": [
+    "@mariée à": "59",
+  ]
+},
+{
+  "id": 55,
+  "lead": "Guillaume (les)",
+  "role": null,
+  "location": "Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote",
+  "type": 3,
+  "indexation": "G",
+  "aliases": [
+    "les Guillaume",
+    "monsieur et madame Guillaume",
+  ],
+  "relations": [
+    "@famille de": "31,34,32,35",
+  ]
+},
+{
+  "id": 56,
+  "lead": "Lebas (monsieur et madame)",
+  "role": "négociants",
+  "location": "Paris, rue Saint-Denis, à l'enseigne du Chat-qui-pelote",
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "monsieur et madame Lebas",
+  ],
+  "relations": [
+    "@famille de": "35,36",
+  ]
+},
+{
+  "id": 57,
+  "lead": "Loraux (monsieur)",
+  "role": "vicaire de Saint-Sulpice. En 1824, était curé des Blancs-Manteaux à Paris depuis 5 ans, et présenta à son neveu Maurice de l'Hostal le comte Octave de Bauvan.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "monsieur Loraux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 58,
+  "lead": "Aiglemont (Victor d’)",
+  "role": "Colonel, marquis.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "d’Aiglemont",
+    "Victor d'Aiglemont",
+    "marquis d’Aiglemont",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 59,
+  "lead": "Carigliano (duc de)",
+  "role": "duc",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "duc de Carigliano",
+  ],
+  "relations": [
+    "@marié à": "54",
+  ]
+}
