@@ -1,0 +1,278 @@
+{
+  "id": 49,
+  "lead": "David (Jacques-Louis)",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "David",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 50,
+  "lead": "Caracalla",
+  "role": "empereur",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Raphaël",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Raffaello Sanzio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 51,
+  "lead": "Humboldt (Alexander von)",
+  "role": "nauraliste",
+  "location": "Allemagne",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Humboldt",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 3,
+  "lead": "Cuvier (Jean Léopold Nicolas Frédéric)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cuvier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 52,
+  "lead": "Mercure",
+  "role": "dieu romain",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 53,
+  "lead": "Michel-Ange",
+  "role": "peintre",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 54,
+  "lead": "Girodet",
+  "role": "peintre d'histoire",
+  "location": "France",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 55,
+  "lead": "Titien",
+  "role": "peintre",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 56,
+  "lead": "Vinci (Léonard de)",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Léonard de Vinci",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 79,
+  "lead": "Argus",
+  "role": "Personnage mythologique.",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 58,
+  "lead": "Dupont (Jean)",
+  "role": "comte de l'empire, sénateur",
+  "location": "France",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "monsieur Dupont",
+    "Jean Dupont",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 59,
+  "lead": "Adam",
+  "role": "Personnage biblique.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 60,
+  "lead": "La Hontan (baron de)",
+  "role": "baron",
+  "location": "écrivain",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "baron de La Hontan",
+    "Louis Armand de Lom d'Arce, baron de Lahontan",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 61,
+  "lead": "Messaline",
+  "role": "épouse de l'empereur romain Claude",
+  "location": "Rome",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 62,
+  "lead": "Claude",
+  "role": "empereur romain",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 84,
+  "lead": "Saint-Georges (chevalier de)",
+  "role": "escrimeur, musicien, militaire français",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "monsieur le chevalier de Saint-Georges",
+    "Joseph Boulogne, chevalier de Saint-Georges",
+    "chevalier de Saint-George",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 619,
+  "lead": "Le Ragois (Claude)",
+  "role": "Pédagogue français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Le Ragois",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 620,
+  "lead": "Hippolyte",
+  "role": "Héros du roman Hippolyte comte de Douglas de Marie-Catherine Le Jumel de Barneville, baronne d'Aulnoy.",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hippolyte comte de Douglas",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 621,
+  "lead": "Cendrillon",
+  "role": "Personnage de conte.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 622,
+  "lead": "Noé",
+  "role": "Personnage biblique.",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}
