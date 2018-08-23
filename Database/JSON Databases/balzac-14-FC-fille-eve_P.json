@@ -1,0 +1,815 @@
+{
+  "id": 464,
+  "lead": "Granville (comte Roger de)",
+  "role": "Jeune avocat, son père lui proposa d'épouser son amie d'enfance Angélique Bontems, que Roger nommait sa petite femme. Devenu pair de France après la révolution de juillet et l'un des plus célèbres noms de la magistratire française. Marié en avril 1805, il est nommé la même année Avocat-Général près la cour impériale de la Seine et prend un appartement avec sa femme au rez-de-chaussée d’un hôtel qui faisait le coin de la Vieille-Rue-du-Temple et de la rue Neuve-Saint-François, s'enterrant dans le Marais. Son mariage fut malheureux à cause de la bigoterie de sa femme. Triste en ménage entre 1806 et 1821, riche de cent mille livres de rente, appartenant à l’une des meilleures maisons de la Normandie. Âgé d'environ quarante ans en 1815, grand, mince, pâle et vêtu de noir, surnommé par madame Crochard et sa fille "le monsieur noir". A eu 2 enfants hors mariage avec Caroline Crochard, à qui il avoua au bout de sept ans l'existence de sa double famille. A eu deux fils et deux filles avec sa femme Angélique. S'est réservé l'éducation de ses fils, confiant celle de ses filles à sa femme. Marie en 1831 sa dernière fille à Ferdinand Du Tillet. Âgé de 57 ans en 1833.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "comte de Granville",
+  ],
+  "relations": [
+    "@beau-père de": "541,380",
+    "@emploie": " 464",
+  ]
+},
+{
+  "id": 541,
+  "lead": "du Tillet (Ferdinand)",
+  "role": "L'un des plus riches banquiers de Paris. A épousé en 1831 la dernière fille du comte de Granville",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "du Tillet",
+    "Du Tillet",
+    "Ferdinand",
+    "Ferdinand du Tillet",
+    "sieur Ferdinand dit du Tillet",
+  ],
+  "relations": [
+    "@gendre de": "464",
+  ]
+},
+{
+  "id": 542,
+  "lead": "Du Tillet (madame Ferdinand)",
+  "role": "Née Marie-Eugénie de Granville. Jeunesse triste et solitaire sous l'oeil avisé de sa mère. Décidée avec sa soeur à prendre pour mari le premier homme venu afin de quitter la maison. Se maria à 17 ans en 1831 avec Ferdinand du Tillet.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "Eugénie",
+    "Marie-Eugénie",
+    "madame du Tillet",
+    "Marie-Eugénie de Granville",
+    "Marie-Angélique de Granville",
+  ],
+  "relations": [
+    "@mariée à": "541",
+    "@soeur de": "482,483,484",
+    "@fille de": "464,473",
+    "@emploie": "561",
+  ]
+},
+{
+  "id": 561,
+  "lead": "Virginie",
+  "role": "Femme de chambre de Marie-Eugénie du Tillet.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "542",
+  ]
+},
+{
+  "id": 379,
+  "lead": "Vandenesse (Charles de)",
+  "role": "Ambassadeur en 1825. La même année, en procès contre son frère Félix-Amédée.",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Charles de Vandenesse",
+  ],
+  "relations": [
+    "@marié à": "62",
+  ]
+},
+{
+  "id": 62,
+  "lead": "Fontaine (Émilie de)",
+  "role": "Troisième fille du comte de Fontaine, deviendra comtesse en épousant son grand-oncle en 1827. Riche et veuve, elle épousa en 1836 Charles de Vandenesse.",
+  "location": "France",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "madame Charles de Vandenesse",
+    "marquise Charles de Vandenesse",
+  ],
+  "relations": [
+    "@mariée à": "379",
+    "@belle-soeur de": "482",
+  ]
+},
+{
+  "id": 473,
+  "lead": "Granville (comtesse Angélique de)",
+  "role": "Née Angélique Bontems. Amie d'enfance de Roger de Granville, qu'elle épousa en avril 1805. Très dévote. Triste en ménage entre 1806 et 1821. Apprend l'infidélité de son mari avec Caroline Crochard par l'abbé Fontanon. A eu 4 enfants, deux fils et deux filles, avec son mari. S'est réservée l'éducation de ses filles, confiant celle de ses fils à son mari. Élève ses filles de manière stricte, sans les mener à aucun spectacle jusqu'à leur mariage. Quelques temps après le mariage de ses filles, elle se retira à Bayeux dans une de ses terres, économisant et priant, achevant ses jours entre des prêtres et des sacs d’écus, froide jusqu’au dernier moment.",
+  "location": "Bayeux, Paris",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "madame de Granville",
+    "comtesse de Granville",
+  ],
+  "relations": [
+    "@emploie": "543,544",
+  ]
+},
+{
+  "id": 543,
+  "lead": "demoiselle à lunettes",
+  "role": "Demoiselle chargée d'apprendre la musique (solfège et piano) à Marie-Angélique et Marie-Eugénie de Granville.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "473",
+  ]
+},
+{
+  "id": 544,
+  "lead": "Schmuke",
+  "role": "Ancien maître de chapelle du margrave d’Anspach. Allemand catholique. Chargé par le comte et la comtesse de granville d'apprendre la musique à leurs filles Marie-Angélique et Marie-Eugénie lorsque l'aînée atteint 10 ans. Les deux filles se prennent d'amitié pour lui et après leur mariage, chacune lui constitua trois cents francs de rente viagère, somme qui suffisait pour son logement, sa bière, sa pipe et ses vêtements.",
+  "location": "à l'angle du Quai de Conti, près de la rue de Nevers, Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "473,464",
+  ]
+},
+{
+  "id": 149,
+  "lead": "Dudley (lady Arabelle)",
+  "role": "A fait mourir de chagrin lady Brandon. Eut une liaison avec Félix de Vandenesse.",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "lady Dudley",
+    "Lady Dudley",
+  ],
+  "relations": [
+    "@courtisée par": "380",
+  ]
+},
+{
+  "id": 545,
+  "lead": "Manerville (madame de)",
+  "role": "Dernière conquête de Félix de Vandenesse.",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "de Manerville",
+    "madame de Manerville",
+  ],
+  "relations": [
+    "@courtisée par": "380",
+  ]
+},
+{
+  "id": 516,
+  "lead": "Listomère (marquise de)",
+  "role": "Née Vandenesse. Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.",
+  "location": "Rue Saint-Dominique, Paris",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "de Listomère",
+    "madame de Listomère",
+    "marquise de Listomère",
+  ],
+  "relations": [
+    "@belle-soeur de": "482",
+    "@soeur de": "380",
+  ]
+},
+{
+  "id": 136,
+  "lead": "Espard (Jeanne-Clémentine-Athénaïs, marquise d’)",
+  "role": "Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.",
+  "location": "rue du Faubourg Saint-Honoré, Paris",
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "d’Espard",
+    "madame d’Espard",
+    "marquise d’Espard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 482,
+  "lead": "Vandenesse (comtesse Félix de)",
+  "role": "Prénommée Marie-Angélique. Fille aînée d'Angélique et de Robert de Granville. Jeunesse triste et solitaire sous l'oeil avisé de sa mère. Décidée avec sa soeur à prendre pour mari le premier homme venu afin de quitter la maison. Se maria à 20 ans avec Félix de Granville en 1828.",
+  "location": "rue du Rocher, Paris",
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "Marie",
+    "Angélique",
+    "comtesse Marie",
+    "Marie-Angélique",
+    "madame de Vandenesse",
+    "madame Félix de Vandenesse",
+    "comtesse de Vandenesse",
+    "comtesse Marie de Vandenesse",
+  ],
+  "relations": [
+    "@mariée à": "380",
+    "@courtisée par": "214",
+    "@amoureuse de": "214",
+    "@belle-soeur de": "62,516",
+  ]
+},
+{
+  "id": 380,
+  "lead": "Vandenesse (Félix-Amédée de)",
+  "role": "Se maria avec Marie-Angélique de Granville en 1828. Lui apprit alors les choses de la vie. Eut avant elle de nombreuses conquêtes, dont Lady Dudley qui le forma et Madame de Manerville.",
+  "location": "rue du Rocher, Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Félix",
+    "Vandenesse",
+    "le comte Félix",
+    "Félix de Vandenesse",
+    "comte de Vandenesse",
+    "comte Félix de Vandenesse",
+  ],
+  "relations": [
+    "@marié à": "482",
+    "@frère de": "516",
+    "@beau-frère de": "541",
+    "@gendre de": "464",
+    "@courtise": "149,545",
+  ]
+},
+{
+  "id": 93,
+  "lead": "Touches (Félicité des)",
+  "role": null,
+  "location": "France",
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+    "mademoiselle Des Touches",
+    "mademosielle des Touches",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 250,
+  "lead": "Rochefide (marquise Béatrix-Maximilienne-Rose de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+    "madame de Rochefide",
+    "marquise de Rochefide",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 546,
+  "lead": "Aiglemont (Moïna)",
+  "role": null,
+  "location": "Paris",
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+    "Moïna de Saint-Héréen",
+    "Moïna de Saint-Héeren",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 547,
+  "lead": "Galathionne (princesse)",
+  "role": null,
+  "location": "Paris",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "princesse Galathionne",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Montcornet (comtesse de)",
+  "role": "Charmante petite femme qui recevait les artistes illustres, les sommités de la finance, les écrivains distingués, mais après les avoir soumis à un si sévère examen, que les plus difficiles en fait de bonne compagnie n’avaient pas à craindre d’y rencontrer qui que ce soit de la société secondaire.",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "de Montcornet",
+    "madame de Montcornet",
+    "comtesse de Montcornet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 78,
+  "lead": "Grandlieu (vicomtesse de)",
+  "role": null,
+  "location": "Paris",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "vicomtesse de Grandlieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 548,
+  "lead": "Grandlieu (duchesse Ferdinand de)",
+  "role": "Née d'Ajuda.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "duchesse de Grandlieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 214,
+  "lead": "Nathan (Raoul)",
+  "role": "Fils d’un brocanteur juif, mort en banqueroute dans les premiers jours de son mariage ; mais sa mère était catholique. Cache ses origines avec soin. Journaliste et auteur. A des yeux napoléoniens, des yeux bleus dont le regard traverse l’âme ; un nez tourmenté, plein de finesse ; une charmante bouche, embellie par les dents les plus blanches que puisse souhaiter une femme. Il y a du mouvement et du feu dans cette tête, et du génie sur ce front. Raoul appartient au petit nombre d’hommes qui vous frappent au passage, qui dans un salon forment aussitôt un point lumineux où vont tous les regards. Fréquente depuis 10 ans Florine, chez qui il passe la moitié de sa vie.",
+  "location": "Entre la rue Basse-du-Rempart et la rue Neuve-des-Mathurins, Paris",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Raoul",
+    "Nathan",
+    "Raoul Nathan",
+  ],
+  "relations": [
+    "@ami de": "549,70,551,552,390,553,173",
+    "@courtise": "210,482",
+    "@emploie": "559",
+  ]
+},
+{
+  "id": 138,
+  "lead": "Marsay (comte Henri de)",
+  "role": "Comte",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "de Marsay",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 550,
+  "lead": "Vandenesse (marquise de)",
+  "role": "Née Listomère. A deux enfants, Charles et Félix-Amédée de Vandenesse.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "marquise de Vandenesse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 391,
+  "lead": "du Bruel",
+  "role": "Auteur et vaudevilliste.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 210,
+  "lead": "Florine (Sophie Grignoux dite)",
+  "role": "Artiste lyrique, une des plus charmantes actrices de Paris. Vendit tout ses meubles pour avancer des fonds à Raoul Nathan.",
+  "location": "rue Pigalle, Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "Florine",
+    "Sophie Grignoult",
+    "mademoiselle Florine",
+  ],
+  "relations": [
+    "@courtisée par": "214",
+  ]
+},
+{
+  "id": 70,
+  "lead": "Rastignac (Eugène-Louis de)",
+  "role": "Banquier, proposé à Émilie de Fontaine par son père.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rastignac",
+    "baron de Rastignac",
+    "monsieur de Rastignac",
+  ],
+  "relations": [
+    "@ami de": "549,214",
+    "@beau-frère de": "213",
+  ]
+},
+{
+  "id": 213,
+  "lead": "La Roche-Hugon (comte Martial de)",
+  "role": "Ministre.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "La Roche-Hugon",
+    "Martial de la Roche-Hugon",
+  ],
+  "relations": [
+    "@beau-frère de": "70561",
+    "@ami de": "138,77",
+  ]
+},
+{
+  "id": 490,
+  "lead": "Firmiani (madame)",
+  "role": " Possède un grand hôtel situé rue du Bac, des salons bien meublés, de beaux tableaux, cent bonnes mille livres de rente. Reçoit le mercredi. Nièce du vieux prince de Cadignan et cousine par conséquent du duc de Maufrigneuse. Mariée en 1813, à l’âge de seize ans, elle devait avoir au moins vingt-huit ans en 1825. Mariée à Octave de Camps à Greatna-Green, elle lui donna un acte qui constate le décès de Firmiani et le supplia d'accepter sa fortune. Beaucoup d'opinions sont répandues sur elle en 1824, à tel point qu'il y a autant de madame Firmiani que de classes dans la société, que de sectes dans le catholicisme.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "madame Octave de Camps",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 344,
+  "lead": "Coralie",
+  "role": "Comédienne.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 287,
+  "lead": "Gobseck (Esther van)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "la Torpille",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 129,
+  "lead": "Tullia",
+  "role": "danseuse à l'Opéra",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 92,
+  "lead": "Euphrasie",
+  "role": "Danseuse",
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 75,
+  "lead": "Aquilina",
+  "role": "Courtisane.",
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 350,
+  "lead": "Mariette",
+  "role": "Danseuse parisienne, premier Sujet de l’Académie royale de musique et de danse.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 392,
+  "lead": "Val-Noble (madame du)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "madame du Val-Noble",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 390,
+  "lead": "Finot",
+  "role": "Journaliste.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+    "@ami de": "552,551,553,214,173",
+  ]
+},
+{
+  "id": 551,
+  "lead": "Lousteau (Étienne)",
+  "role": "Amant de Florine.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Lousteau",
+    "Étienne Lousteau",
+  ],
+  "relations": [
+    "@amant de": "210",
+    "@ami de": "552,551,553,214,390,173",
+  ]
+},
+{
+  "id": 552,
+  "lead": "Vernou (Félicien)",
+  "role": "feuilletoniste",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Vernou",
+    "Félicien Vernou",
+  ],
+  "relations": [
+    "@ami de": "390,551,553,214,173",
+  ]
+},
+{
+  "id": 553,
+  "lead": "Couture",
+  "role": null,
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@ami de": "551,552,390,214,390,173",
+  ]
+},
+{
+  "id": 173,
+  "lead": "Bixiou",
+  "role": "Faiseur de caricatures.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+    "@ami de": "551,552,390,214,390,553",
+  ]
+},
+{
+  "id": 554,
+  "lead": "Vignon (Claude)",
+  "role": "Critique.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Claude Vignon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 530,
+  "lead": "Nucingen (baron Frédéric de)",
+  "role": "Banquier.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Nucingen",
+    "baron de Nucingen",
+    "monsieur de Nucingen",
+    "Nucingen le banquier",
+  ],
+  "relations": [
+    "@marié à": "71",
+    "@emploie": "560",
+  ]
+},
+{
+  "id": 71,
+  "lead": "Nucingen (madame de)",
+  "role": "Née Delphine Goriot.",
+  "location": "rue Saint-Lazare, Paris",
+  "type": 2,
+  "indexation": "N",
+  "aliases": [
+    "Delphine",
+    "madame Nucingen",
+    "madame de Nucingen",
+    "baronne Delphine de Nucingen",
+  ],
+  "relations": [
+    "@mariée à": "530",
+    "@emploie": "601,560",
+  ]
+},
+{
+  "id": 601,
+  "lead": "Thérèse",
+  "role": "Femme de chambre de la baronne Delphine de Nucingen.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "71",
+  ]
+},
+{
+  "id": 560,
+  "lead": "caissier",
+  "role": "Caissier employé par les Nucingen.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "71,530",
+  ]
+},
+{
+  "id": 555,
+  "lead": "Conti (Gennaro)",
+  "role": "Compositeur.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Conti le compositeur",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 556,
+  "lead": "Massol (Léon)",
+  "role": "Avocat.",
+  "location": "France",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Massol",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 549,
+  "lead": "Blondet (Émile)",
+  "role": null,
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Blondet",
+    "Émile Blondet",
+  ],
+  "relations": [
+    "@ami de": "70,77,214,557",
+  ]
+},
+{
+  "id": 557,
+  "lead": "Plantin",
+  "role": "En 1834, trempe dans une revue et veut être maître des requêtes, selon Blondet.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Plantin",
+  ],
+  "relations": [
+    "@ami de": "549",
+  ]
+},
+{
+  "id": 558,
+  "lead": "Saint-Just (Louis-Antoine de)",
+  "role": "Homme politique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Saint-Just",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 458,
+  "lead": "Gigonnet",
+  "role": "Usurier.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "vieux Gigonnet",
+    "monsieur Gigonnet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 559,
+  "lead": "Quillet (François)",
+  "role": "Garçon de bureau travaillant pour Raoul Nathan.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "Q",
+  "aliases": [
+    "Quillet",
+    "François Quillet",
+    "monsieur Quillet",
+  ],
+  "relations": [
+    "@employé par": "214",
+  ]
+},
+{
+  "id": 561,
+  "lead": "Virginie",
+  "role": "Femme de chambre de Marie-Eugénie du Tillet.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 237,
+  "lead": "Nucingen (famille de)",
+  "role": "Maison Nucingen : établissement bancaire.",
+  "location": null,
+  "type": 3,
+  "indexation": "N",
+  "aliases": [
+    "maison Nucingen",
+  ],
+  "relations": [
+  ]
+}

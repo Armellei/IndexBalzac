@@ -1,0 +1,134 @@
+{
+  "id": 516,
+  "lead": "Listomère (marquise de)",
+  "role": "Née Vandenesse. Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.",
+  "location": "Rue Saint-Dominique, Paris",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "La marquise",
+    "marquise de Listomère",
+    "madame de Listomère",
+    "madame la marquise de Listomère",
+  ],
+  "relations": [
+    "@marié à": "520",
+    "@emploie": "522",
+  ]
+},
+{
+  "id": 520,
+  "lead": "Listomère (marquis de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "monsieur le marquis",
+    "marquis de Listomère",
+    "monsieur de Listomère",
+  ],
+  "relations": [
+    "@marié à": "516",
+  ]
+},
+{
+  "id": 70,
+  "lead": "Rastignac (Eugène-Louis de)",
+  "role": "Banquier, proposé à Émilie de Fontaine par son père.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Eugène",
+    "Rastignac",
+    "Le jeune baron",
+    "monsieur Eugène",
+    "Eugène de Rastignac",
+    "monsieur de Rastignac",
+    "monsieur le baron de Rastignac",
+  ],
+  "relations": [
+    "@emploie": "521",
+  ]
+},
+{
+  "id": 521,
+  "lead": "Joseph",
+  "role": "Domestique d'Eugène de Rastignac.",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "70",
+  ]
+},
+{
+  "id": 160,
+  "lead": "Bianchon (Horace)",
+  "role": "Célèbre médecin en 1833.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Horace",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 522,
+  "lead": "Caroline",
+  "role": "Femme de chambre de la marquise de Listomère.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "516",
+  ]
+},
+{
+  "id": 523,
+  "lead": "Beauséant (marquis de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "marquis de Beauséant",
+  ],
+  "relations": [
+    "@marié à": "137",
+  ]
+},
+{
+  "id": 71,
+  "lead": "Nucingen (madame de)",
+  "role": "Née Delphine Goriot.",
+  "location": "rue Saint-Lazare, Paris",
+  "type": 2,
+  "indexation": "N",
+  "aliases": [
+    "madame de Nucingen",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 1,
+  "lead": "Mortsauf (comtesse de)",
+  "role": "Le marquis de Listomère apprend son décès dans la Gazette de France en 1828.",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "madame de Mortsauf",
+    "comtesse de Mortsauf",
+  ],
+  "relations": [
+  ]
+}

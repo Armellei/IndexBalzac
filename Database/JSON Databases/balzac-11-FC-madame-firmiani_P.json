@@ -1,0 +1,454 @@
+{
+  "id": 490,
+  "lead": "Firmiani (madame)",
+  "role": " Possède un grand hôtel situé rue du Bac, des salons bien meublés, de beaux tableaux, cent bonnes mille livres de rente. Reçoit le mercredi. Nièce du vieux prince de Cadignan et cousine par conséquent du duc de Maufrigneuse. Mariée en 1813, à l’âge de seize ans, elle devait avoir au moins vingt-huit ans en 1825. Mariée à Octave de Camps à Greatna-Green, elle lui donna un acte qui constate le décès de Firmiani et le supplia d'accepter sa fortune. Beaucoup d'opinions sont répandues sur elle en 1824, à tel point qu'il y a autant de madame Firmiani que de classes dans la société, que de sectes dans le catholicisme.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "madame Firmiani ",
+  ],
+  "relations": [
+    "@mariée à": "491,512",
+    "@nièce de": "247",
+    "@cousine de": "264,105",
+    "@courtisée par": "512",
+    "@amie de": "101",
+  ]
+},
+{
+  "id": 491,
+  "lead": "Firmiani (monsieur)",
+  "role": "Jadis receveur-général dans le département de Montenotte. Sa position sociale consiste à gérer des biens en Italie. Quadragénaire très-respectable en 1813, il n’avait pu, disait-on, offrir à sa femme que son nom et sa fortune. Parti en Grèce en 1820, il y est probablement décédé sans que l'on ait la preuve légale de sa mort. un internonce d’Autriche à Constantinople dressera tout de même un avis de décès que madame Firmiani donna à son mari Octave de Camps. C'est selon un vieillard observateur un personnage tout à fait fantastique que l'on n'aperçoit jamais.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "monsieur Firmiani",
+  ],
+  "relations": [
+    "@marié à": "490",
+  ]
+},
+{
+  "id": 492,
+  "lead": "Positif (le)",
+  "role": "Type d'homme gros et rond, presque toujours vêtu de noir, qui explique tout par des chiffres, par des rentes ou par les biens au soleil.",
+  "location": null,
+  "type": 0,
+  "indexation": "P",
+  "aliases": [
+    "Positifs",
+    "le Positif",
+    "Les Positifs",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 493,
+  "lead": "Flâneur (le)",
+  "role": "Type d'homme sec, à sourire agréable, disant de jolis riens, ayant toujours plus d’esprit acquis que d’esprit naturel et allant aux soirées de madame Firmiani.",
+  "location": null,
+  "type": 0,
+  "indexation": "F",
+  "aliases": [
+    "Flâneurs",
+    "le Flâneur",
+    "les Flâneurs",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 494,
+  "lead": "Personnel (le)",
+  "role": "Type de gens qui voudraient tenir l’univers sous clef et n’y rien laisser faire sans leur permission. Ils sont malheureux de tout le bonheur des autres, ne pardonnent qu’aux vices, aux chutes, aux infirmités, et ne veulent que des protégés. Aristocrates par inclination, ils se font républicains par dépit, uniquement pour trouver beaucoup d’inférieurs parmi leurs égaux",
+  "location": null,
+  "type": 0,
+  "indexation": "P",
+  "aliases": [
+    "les Personnels",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 495,
+  "lead": "Lycéen (le)",
+  "role": "Type d'homme connu pour sa grande hardiesse entre hommes et sa grande timidité à huis-clos.",
+  "location": null,
+  "type": ,
+  "indexation": "L",
+  "aliases": [
+    "Lycéen",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 496,
+  "lead": "Fat (le)",
+  "role": "Type de sujet qui vient de déjeuner, ne pèse plus ses paroles et va monter à cheval. En ces moments, les Fats sont impitoyables.",
+  "location": null,
+  "type": 0,
+  "indexation": "F",
+  "aliases": [
+    "Fat ",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 497,
+  "lead": "Amateur (l')",
+  "role": "Type d'homme qui vous quitte pour aller chez Pérignon ou chez Tripet.",
+  "location": null,
+  "type": 0,
+  "indexation": "A",
+  "aliases": [
+    "Amateur",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 498,
+  "lead": "Tracassiers (les)",
+  "role": "Type de personnages qui consière madame Mirmiani comme une femme dangereuse, causant des insomnies à toutes les femmes.",
+  "location": null,
+  "type": 0,
+  "indexation": "T",
+  "aliases": [
+    "Tracassiers",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 499,
+  "lead": "Attaché (l')",
+  "role": "Type de personnage qui a la manie de dire des mots à la Talleyrand. Leur esprit est souvent si fin, que leurs aperçus sont imperceptibles ; ils ressemblent à ces joueurs de billard qui évitent les billes avec une adresse infinie. Ces individus sont généralement peu parleurs ; mais quand ils parlent, ils ne s’occupent que de l’Espagne, de Vienne, de l’Italie ou de Pétersbourg. Les noms de pays sont chez eux comme des ressorts ; pressez-les, la sonnerie vous dira tous ses airs",
+  "location": null,
+  "type": 0,
+  "indexation": "A",
+  "aliases": [
+    "attaché",
+    "attaché d’ambassade",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 500,
+  "lead": "Distingué (le)",
+  "role": "Type de personnage qui donne le "de" à tout le monde, à monsieur Dupin l’aîné, à monsieur Lafayette ; elle le jette à tort et à travers, elle en déshonore les gens. Elle passe sa vie à s’inquiéter de ce qui est "bien".",
+  "location": null,
+  "type": 0,
+  "indexation": "D",
+  "aliases": [
+    "Distingué",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 501,
+  "lead": "Ducs (les)",
+  "role": "Type de personnage qui n’avoue connaître que les femmes présentées, et ne connais pas madame Firminani.",
+  "location": null,
+  "type": 0,
+  "indexation": "D",
+  "aliases": [
+    "Ducs",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 502,
+  "lead": "Niais (le)",
+  "role": "Type d'homme qui veut avoir réponse à tout. Il calomnie plutôt que de se taire.",
+  "location": null,
+  "type": 0,
+  "indexation": "N",
+  "aliases": [
+    "Niais",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 503,
+  "lead": "vieille dame ridée",
+  "role": "Femme d'ancien magistrat commentant madame Firmiani. A un bonnet à coques, sa figure est ridée, son nez est pointu, elle tient un Paroissien, voix dure.",
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "La première",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 504,
+  "lead": "vieille dame rouge",
+  "role": "Femme d'ancien magistrat commentant madame Firmiani. Sa petite figure rouge ressemble à une vieille pomme d’api, sa voix est douce.",
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "La seconde",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 505,
+  "lead": "original (un)",
+  "role": "Considère que l'on peut aller chez madame Firmiani sans se compromettre.",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+    "Un original",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 506,
+  "lead": "vieillard observateur",
+  "role": "Considère madame Firmiani comme une belle femme fort gracieuse et monsieur son mari comme un personnage fantastique que l'on n'aperçoit jamais.",
+  "location": null,
+  "type": 0,
+  "indexation": "V",
+  "aliases": [
+    "Vieillard appartenant au genre des Observateurs",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 507,
+  "lead": "observateur (l')",
+  "role": "Type de personnage parlant en prophète. Il faut accepter ses paroles, ses anecdotes, ses citations comme des vérités, sous peine de passer pour un homme sans instruction, sans moyens. Il vous calomniera gaiement dans vingt salons où il est essentiel comme une première pièce sur l’affiche, ces pièces si souvent jouées pour les banquettes et qui ont eu du succès autrefois. L’Observateur a quarante ans, ne dîne jamais chez lui, se dit peu dangereux près des femmes ; il est poudré, porte un habit marron, a toujours une place dans plusieurs loges aux Bouffons ; il est quelquefois confondu parmi les Parasites, mais il a rempli de trop hautes fonctions pour être soupçonné d’être un pique-assiette et possède d’ailleurs une terre dans un département dont le nom ne lui est jamais échappé.",
+  "location": null,
+  "type": 0,
+  "indexation": "O",
+  "aliases": [
+    "L’Observateur",
+    "Observateurs",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 508,
+  "lead": "contradicteur (le)",
+  "role": "Type de personnage qui fait les errata de tous les mémoires, rectifie tous les faits, parie toujours cent contre un, est sûr de tout. Vous le surprenez dans la même soirée en flagrant délit d’ubiquité : il dit avoir été arrêté à Paris lors de la conspiration Mallet, en oubliant qu’il venait, une demi-heure auparavant, de passer la Bérésina. Presque tous les Contradicteurs sont chevaliers de la Légion-d’Honneur, parlent très-haut, ont un front fuyant et jouent gros jeu.",
+  "location": null,
+  "type": 0,
+  "indexation": "C",
+  "aliases": [
+    "Contradicteurs",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 509,
+  "lead": "envieux (l')",
+  "role": "Espèce de personnage. L’espèce est aussi connue que peut l’être celle des felis domestiques.",
+  "location": null,
+  "type": 0,
+  "indexation": "E",
+  "aliases": [
+    "Envieux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 510,
+  "lead": "Bourbonne (monsieur de)",
+  "role": "Vieux propriétaire occupé de madame Firmiani pendant l’hiver 1824. Ancien mousquetaire, homme de haute compagnie qui avait eu jadis des bonnes fortunes. Curieux, venu de Touraine, gentilhomme très-honorable qui jouissait, pour seul et unique héritier, d’un neveu pour lequel il plantait ses peupliers, Octave de Camps. Apprend la ruine de son neveu et monte à Paris se renseigner. Appartient à la catégorie de personnages des Planteurs de province, gens habitués à se rendre compte de tout et à faire des marchés avec les paysans, et des Fossiles.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "le vieux Bourbonne",
+    "monsieur de Bourbonne",
+    "monsieur de Rouxellay",
+  ],
+  "relations": [
+    "@oncle de": "512",
+  ]
+},
+{
+  "id": 511,
+  "lead": "Planteur de province",
+  "role": "Gens habitués à se rendre compte de tout et à faire des marchés avec les paysans",
+  "location": null,
+  "type": 0,
+  "indexation": "P",
+  "aliases": [
+    "Planteurs de province",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 512,
+  "lead": "Camps (Octave de)",
+  "role": "Neveu chéri de monsieur de Bourbonne et descendant du fameux abbé de Camp. A dissipé sa fortune pour madame Firmiani et fut réduit à se faire répétiteur de mathématiques, en attendant l’héritage de son oncle, auquel il n’ose venir avouer ses fautes. Marié à madame Firmiani à Greatna-Green, elle lui donna un acte qui constate le décès de Firmiani et le suppliera d'accepter sa fortune.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Octave",
+    "Octave de Camps",
+    "monsieur de Camps",
+    "monsieur Octave de Camps",
+  ],
+  "relations": [
+    "@neveu de": "510",
+    "@courtise": "490",
+    "@marié à": "490",
+  ]
+},
+{
+  "id": 513,
+  "lead": "Listomère (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "Listomère",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 514,
+  "lead": "Lenoncourt (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "Lenoncourt",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 515,
+  "lead": "Vandenesse (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "V",
+  "aliases": [
+    "Vandenesse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 516,
+  "lead": "Listomère (marquise de)",
+  "role": "Née Vandenesse. Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite.",
+  "location": "Rue Saint-Dominique, Paris",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "marquise de Listomère",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 517,
+  "lead": "Blamont-Chauvry (princesse de)",
+  "role": "Reçoit ",
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "madame la princesse de Blamont-Chauvry",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 105,
+  "lead": "Cadignan (duchesse Diane de Maufrigneuse, princesse de)",
+  "role": "Duchesse, rivale et amie de la duchesse de Maufrigneuse sa cousine.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Diane de Maufrigneuse",
+    "madame de Maufrigneuse",
+    "duchesse de Maufrigneuse",
+  ],
+  "relations": [
+    "@cousine de": "490",
+  ]
+},
+{
+  "id": 136,
+  "lead": "Espard (Jeanne-Clémentine-Athénaïs, marquise d’)",
+  "role": "Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.",
+  "location": "rue du Faubourg Saint-Honoré, Paris",
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "marquise d’Espard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 518,
+  "lead": "Macumer (madame de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "madame de Macumer",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Chaulieu (Louise de)",
+  "role": "Sort du couvent des Carmélites de Blois après y avoir passé 8 ans.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "madame de Macumer",
+  ],
+  "relations": [
+    "@amie de": "490",
+  ]
+},
+{
+  "id": 519,
+  "lead": "Bourgneuf (les)",
+  "role": "Famille vivant à Saint-Germain dans une misérable maison. Se sont brouillés avec le père d'Octave de Camps.",
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "les Bourgneuf",
+  ],
+  "relations": [
+  ]
+}

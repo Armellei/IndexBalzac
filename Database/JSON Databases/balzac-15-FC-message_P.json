@@ -1,0 +1,84 @@
+{
+  "id": 87,
+  "lead": "Montpersan (comtesse de)",
+  "role": "Petite femme à taille plate et gracieuse, ayant une tournure ravissante ; mignonne et si délicate, que vous eussiez eu peur de lui briser les os en la touchant.",
+  "location": "Château de Montpersan",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "la comtesse",
+    "madame la comtesse",
+    "comtesse de Montpersan",
+  ],
+  "relations": [
+    "@mariée à": "157",
+    "@mère de": "561",
+    "@emploie": "564",
+  ]
+},
+{
+  "id": 157,
+  "lead": "Montpersan (comte de)",
+  "role": null,
+  "location": "Château de Montpersan",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "le comte",
+    "Le comte",
+    "monsieur le comte",
+    "comte de Montpersan",
+    "monsieur de Montpersan",
+  ],
+  "relations": [
+    "@marié à": "87",
+    "@père de": "561",
+    "@neveu de": "565",
+  ]
+},
+{
+  "id": 566,
+  "lead": "Montpersan (mademoiselle de)",
+  "role": "Jolie petite fille du comte et de la comtesse de Montpersan annonçant l'arrivée du narrateur à sa mère.",
+  "location": "Château de Montpersan",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "petite fille",
+  ],
+  "relations": [
+    "@fille de": "87,157",
+  ]
+},
+{
+  "id": 563,
+  "lead": "B. (marquise de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "marquise de B",
+    " ",
+    "564>femme de chambre>Femme de chambre de madame de Montpersan.>Château de Montpersan>2>F",
+    "femme de chambre",
+  ],
+  "relations": [
+    "@mariée à": "564",
+    "@employée par": "87",
+  ]
+},
+{
+  "id": 565,
+  "lead": "chanoine de Saint-Denis",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "chanoine",
+  ],
+  "relations": [
+    "@oncle de": "157",
+  ]
+}

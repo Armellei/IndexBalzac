@@ -1,0 +1,126 @@
+{
+  "id": 148,
+  "lead": "Brandon (lady)",
+  "role": "Femme d’une taille assez élevée, mince et maigre, mais délicatement faite. Loua la Grenadière au printemps d'une des plus belles années de la Restauration avec deux enfants et une femme de charge, sous le nom d'Augusta Willemsens, comtesse de Brandon.",
+  "location": "La Grenadière, Saint-Cyr",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "augusta",
+    "lady Brandon",
+    "Marie Willemsens",
+    "madame Willemsens",
+    "Augusta Willemsens, comtesse de Brandon",
+  ],
+  "relations": [
+    "@emploie": "570",
+    "@mère de": "150,147",
+    "@mariée à": "571",
+  ]
+},
+{
+  "id": 150,
+  "lead": "Gaston (Louis)",
+  "role": "Fils aîné de lady Brandon. Marin, capitaine de vaisseau. Mort à Calcutta, au service d’une compagnie marchande, au moment où il allait revenir en France riche, heureux et marié.",
+  "location": "La Grenadière, Saint-Cyr",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Louis",
+    "Louis",
+    "Louis-Gaston",
+    "le jeune Gaston",
+  ],
+  "relations": [
+    "@fils de": "148,571",
+    "@ami de": "573,574",
+  ]
+},
+{
+  "id": 147,
+  "lead": "Gaston (Marie)",
+  "role": "A 23 ans en 1833, poète, fils adultérin de lady Brandon. Mis au collège de Tours par son frère, sorti en 1827, essaya de percer dans les lettres de 1828 jusqu’en 1833.",
+  "location": "La Grenadière, Saint-Cyr",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Marie",
+    "Marie",
+    "Marie-Gaston",
+  ],
+  "relations": [
+    "@fils de": "148,571",
+  ]
+},
+{
+  "id": 570,
+  "lead": "Annette",
+  "role": null,
+  "location": "La Grenadière, Saint-Cyr",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "femme de charge",
+    "Annette ",
+    "la vieille Annette",
+    "pauvre vieille Annette",
+    "vieille femme de charge",
+  ],
+  "relations": [
+    "@employée par": "148",
+  ]
+},
+{
+  "id": 571,
+  "lead": "Brandon (lord)",
+  "role": "Mari de lady Brandon vivant à Londres.",
+  "location": "Londres",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "lord Brandon",
+    "Monsieur le comte",
+  ],
+  "relations": [
+    "@marié à": "148",
+    "@père de": "150,147",
+  ]
+},
+{
+  "id": 572,
+  "lead": "closier",
+  "role": "Propriétaire de la Grenadière, à Saint-Cyr, près de Tours. Loua la villa à lady Brandon sous la Restauration.",
+  "location": "Tours",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 573,
+  "lead": "lieutenant de vaisseau",
+  "role": "Marin pris d'amitié pour Louis-Gaston Willemsens.",
+  "location": "Tours",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+    "@ami de": "574,150",
+  ]
+},
+{
+  "id": 574,
+  "lead": "colonel d’infanterie",
+  "role": "Ami du lieutenant de vaisseau pris d'amitié pour Louis-Gaston Willemsens.",
+  "location": "Tours",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@ami de": "573,150",
+  ]
+}

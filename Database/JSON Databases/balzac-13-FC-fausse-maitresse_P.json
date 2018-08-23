@@ -1,0 +1,453 @@
+{
+  "id": 268,
+  "lead": "Du Rouvre (mademoiselle)",
+  "role": "Fille unique du marquis du Rouvre, épousa en décembre 1835 le comte Adam Mitgislas Laginski, jeune polonais proscrit.",
+  "location": "rue de la Pépinière, Paris",
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "Clémentine",
+    "comtesse Ladislas",
+    "comtesse Laginska",
+    "Madame de Laginska",
+    "Clémentine Laginska",
+    "Clémentine du Rouvre",
+    "mademoiselle du Rouvre",
+  ],
+  "relations": [
+    "@fille de": "294",
+    "@nièce de": "291,292,525",
+    "@mariée à": "398",
+    "@courtisée par": "531,540",
+  ]
+},
+{
+  "id": 294,
+  "lead": "Du Rouvre (marquis)",
+  "role": "Fut nommé comte et chambellan par l'Empereur. A presque entièrement dissipé l’une des plus belles fortunes de la noblesse en 1835 pour Florine.",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "marquis du Rouvre",
+  ],
+  "relations": [
+    "@père de": "268",
+  ]
+},
+{
+  "id": 524,
+  "lead": "Ronquerolles (mademoiselle de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+    "demoiselle de Ronquerolles",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 291,
+  "lead": "Ronquerolles (marquis de)",
+  "role": "A perdu ses deux enfants à l’invasion du choléra. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Ronquerolles",
+    "oncle Ronquerolles",
+    "marquis de Ronquerolles",
+    "vieil oncle Ronquerolles",
+    "le vieux diplomate Ronquerolles",
+  ],
+  "relations": [
+    "@oncle de": "268",
+    "@frère de": "292",
+  ]
+},
+{
+  "id": 292,
+  "lead": "Sérisy (comtesse Hugret de)",
+  "role": "Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.",
+  "location": "Presles, Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame de Sérizy",
+    "tante de Sérizy",
+  ],
+  "relations": [
+    "@tante de": "268",
+    "@soeur de": "291",
+  ]
+},
+{
+  "id": 525,
+  "lead": "Du Rouvre (chevalier)",
+  "role": "A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.",
+  "location": "France",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "chevalier du Rouvre",
+  ],
+  "relations": [
+    "@oncle de": "268",
+  ]
+},
+{
+  "id": 210,
+  "lead": "Florine (Sophie Grignoux dite)",
+  "role": "Artiste lyrique, une des plus charmantes actrices de Paris. Vendit tout ses meubles pour avancer des fonds à Raoul Nathan.",
+  "location": "rue Pigalle, Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "Florine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 526,
+  "lead": "Laginski (les)",
+  "role": "Famille polonaise. Dès l’an neuf cent, les Laginski se comptaient parmi les familles illustres du Nord.",
+  "location": "Pologne",
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "les Laginski",
+  ],
+  "relations": [
+    "@composée de": "398",
+  ]
+},
+{
+  "id": 70,
+  "lead": "Rastignac (Eugène-Louis de)",
+  "role": "Banquier, proposé à Émilie de Fontaine par son père.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rastignac",
+    "monsieur de Rastignac",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 527,
+  "lead": "Trailles (comte Maxime de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Maxime de Trailles",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 136,
+  "lead": "Espard (Jeanne-Clémentine-Athénaïs, marquise d’)",
+  "role": "Donna le signal des louanges au mariage du comte de Laginski et de Clémentine du Rouvre en 1834. Ancienne conquête de Félix de Vandenesse. Apprend a Raoul Nathan que la comtesse de Vandenesse est tombée folle amoureuse de lui. L'une des femmes les plus impertinentes de son temps.",
+  "location": "rue du Faubourg Saint-Honoré, Paris",
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "madame d’Espard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 482,
+  "lead": "Vandenesse (comtesse Félix de)",
+  "role": "Prénommée Marie-Angélique. Fille aînée d'Angélique et de Robert de Granville. Jeunesse triste et solitaire sous l'oeil avisé de sa mère. Décidée avec sa soeur à prendre pour mari le premier homme venu afin de quitter la maison. Se maria à 20 ans avec Félix de Granville en 1828.",
+  "location": "rue du Rocher, Paris",
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "Marie de Vandenesse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 6,
+  "lead": "Mirouët (Ursule)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Ursule Mirouët",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 259,
+  "lead": "Du Guénic (Sabine)",
+  "role": null,
+  "location": "France",
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "Sabine du Guénic",
+    "du Guénic",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 528,
+  "lead": "Cinq-Cigne (Berthe de)",
+  "role": "Femme de Georges de Maufrigneuse.",
+  "location": "France",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "de Maufrigneuse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 165,
+  "lead": "Schinner (Hippolyte)",
+  "role": "Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Schinner",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 529,
+  "lead": "Steinbock (comte Weceslas)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Steinbock",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 530,
+  "lead": "Nucingen (baron Frédéric de)",
+  "role": "Banquier.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "baron de Nucingen",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 531,
+  "lead": "Paz (comte Thaddée)",
+  "role": "Ami du comte Laginski, issu de la noblesse.A vingt-deux ans, riche de soixante et quelques mille francs de rentes, sans compter les restes d’une somme provenant des diamants et des tableaux de famille vendus par sa mère.",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Paz",
+    "Thad",
+    "Thaddée",
+    "Comte Paz",
+    "le comte Paz",
+    "capitaine Paz",
+    "monsieur le capitaine Paz",
+  ],
+  "relations": [
+    "@ami de": "398",
+    "@amoureux de": "268",
+    "@courtise": "536",
+  ]
+},
+{
+  "id": 398,
+  "lead": "Laginski (comte)",
+  "role": "Jeune polonais fort riche. Sa petite figure, assez aigre de ton, semble avoir été pressée dans un étau. Son nez court, ses cheveux blonds, ses moustaches et sa barbe rousses lui donnent d’autant plus l’air d’une chèvre qu’il est petit, maigre, et que ses yeux d’un jaune sale vous saisissent par ce regard oblique si célèbre par le vers de Virgile. Acheta en 1834 un hôtel rue de la Pépinière à Paris. Épousa en décembre 1835 mademoiselle du Rouvre. Appartient à l’une des plus vieilles et des plus illustres familles de la Pologne. Nommé capitaine dans un régiment destiné à l’expédition de Khiva par l'empereur Nicolas.",
+  "location": "rue de la Pépinière, Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Adam",
+    "Laginski",
+    "Mitgislas",
+    "comte Adam",
+    "le comte Adam",
+    "comte Laginski",
+    "comte Adam Laginski",
+    "Adam Mitgislas Laginski",
+  ],
+  "relations": [
+    "@ami de": "531",
+    "@marié à": "268",
+    "@courtise": "536",
+  ]
+},
+{
+  "id": 532,
+  "lead": "Constantin",
+  "role": "Valet d'écurie du ménage Laginski. Formé par le comte Thaddée Paz.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 533,
+  "lead": "valet de chambre (habillé comme un ministre)",
+  "role": "Valet de chambre habillé comme un ministre du ménage Laginski.",
+  "location": "rue de la Pépinière, Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 534,
+  "lead": "Cora",
+  "role": "Jument de madame Laginski.",
+  "location": "Paris",
+  "type": 4,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 535,
+  "lead": "Boleslas",
+  "role": "Chasseur de l'hôtel Laginski.",
+  "location": "rue de la Pépinière, Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Boleslas le chasseur",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 138,
+  "lead": "Marsay (comte Henri de)",
+  "role": "Comte",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "de Marsay",
+    "De Marsay",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 536,
+  "lead": "Malaga",
+  "role": "Nommée Marguerite Turquet. Circassienne sachant descendre et remonter sur un cheval au grandissime galop et voltige comme un feu follet blanc autour de l’animal le plus fougueux. Écuyère de la famille Bouthor, à Saint-Cloud. Déesse de la gymnastique selon le comte Thaddée Paz.",
+  "location": "rue Saint-Lazare, Paris",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Marguerite Turquet",
+    "mademoiselle Turquet",
+  ],
+  "relations": [
+    "@courtisée par": "531,398",
+  ]
+},
+{
+  "id": 537,
+  "lead": "Chapuzot (monsieur)",
+  "role": "Concierge de Malaga.",
+  "location": "rue Saint-Lazare, Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Chapuzot",
+  ],
+  "relations": [
+    "@marié à": "538",
+  ]
+},
+{
+  "id": 538,
+  "lead": "Chapuzot (madame)",
+  "role": "Concierge de Malaga.",
+  "location": "rue Saint-Lazare, Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "la Chapuzot",
+    "mame Chapuzot",
+    "madame Chapuzot",
+  ],
+  "relations": [
+    "@mariée à": "537",
+  ]
+},
+{
+  "id": 539,
+  "lead": "Chapuzot (famille)",
+  "role": "Portiers de Malaga, devenus ses confidents et ses domestiques.",
+  "location": "Paris",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "les Chapuzot",
+    "le ménage Chapuzot",
+  ],
+  "relations": [
+    "@composée de": "538,537",
+  ]
+},
+{
+  "id": 160,
+  "lead": "Bianchon (Horace)",
+  "role": "Célèbre médecin en 1833.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bianchon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 540,
+  "lead": "La Palférine (Gabriel-Jean-Anne-Victor-Benjamin-Gerorges-Ferdinand-Charles-Édouard Rusticoli, comte de)",
+  "role": null,
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "La Palférine",
+  ],
+  "relations": [
+    "@courtise": "268",
+  ]
+}

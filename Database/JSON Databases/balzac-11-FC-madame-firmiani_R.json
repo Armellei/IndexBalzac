@@ -1,0 +1,235 @@
+{
+  "id": 128,
+  "lead": "Florian (Jean-Pierre Claris de)",
+  "role": "poète et romancier français",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Florian",
+    "Jean-Pierre Claris de Florian",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 497,
+  "lead": "Camps (François de)",
+  "role": "Ecclésiastique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "François de Camps",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 498,
+  "lead": "Moor (Charles)",
+  "role": "Héros de Friedrich von Schiller.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Charles Moor",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 82,
+  "lead": "Bourbon (maison de)",
+  "role": "Famille noble.",
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "Bourbons",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 242,
+  "lead": "Voltaire",
+  "role": "Ecrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "François-Marie Arouet, dit Voltaire",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 8,
+  "lead": "Buffon (Georges-Louis Leclerc, comte de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Buffon",
+    "monsieur le comte de Buffon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 499,
+  "lead": "Peyronnet (Charles-Ignace)",
+  "role": "Homme politique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Peyronnet",
+    "Charles-Ignace Peyronnet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 500,
+  "lead": "Christoph Willibald von Gluck",
+  "role": "Compositeur allemand.",
+  "location": "Allemagne",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "chevalier Gluck",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 501,
+  "lead": "Ingres (Jean-Auguste-Dominique)",
+  "role": "Peintre et dessinateur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "I",
+  "aliases": [
+    "Ingres",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 129,
+  "lead": "Jeanne d’Arc",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 502,
+  "lead": "Sorel (Agnès)",
+  "role": "Maîtresse de Charles VII.",
+  "location": "France",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "Agnès Sorel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Ève",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 503,
+  "lead": "Julia (Dona)",
+  "role": "Personnage de Lord Byron.",
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+    "Dona Julia",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 504,
+  "lead": "Haïdée",
+  "role": "Personnage de Lord Byron.",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 74,
+  "lead": "Byron (lord)",
+  "role": "poète",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Byron",
+    "lord Byron",
+    "Lord Byron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 69,
+  "lead": "Célimène",
+  "role": "Personnage féminin (coquette) chez Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 239,
+  "lead": "Chateaubriand (François-René de)",
+  "role": "Homme politique et écrivain français.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Chateaubriand",
+    "Châteaubriand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 505,
+  "lead": "internonce d’Autriche à Constantinople",
+  "role": "Dresse un avis de décès concernant monsieur Firmiani.",
+  "location": null,
+  "type": 1,
+  "indexation": "I",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}

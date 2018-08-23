@@ -1,0 +1,89 @@
+{
+  "id": 97,
+  "lead": "Richelieu (duc de)",
+  "role": "Maréchal de France, duc de Fronsac puis duc de Richelieu.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "maréchal de Richelieu",
+    "Louis-François-Armand de Vignerot du Plessis de Richelieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 86,
+  "lead": "Louis XV",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 63,
+  "lead": "Louis XVIII",
+  "role": "roi",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 652,
+  "lead": "Talon (Zoé, comtesse du Cayla)",
+  "role": "Amie et favorite de Louis XVIII.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "madame du Cayla",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 653,
+  "lead": "Ulysse",
+  "role": "Héros de la mythologie grecque.",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "U",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Ève",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "ÈVE",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 654,
+  "lead": "Hérold (Louis-Joseph Ferdinand)",
+  "role": "Compositeur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hérold",
+  ],
+  "relations": [
+  ]
+}

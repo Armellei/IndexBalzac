@@ -1,0 +1,78 @@
+{
+  "id": 506,
+  "lead": "Maintenon (Françoise d'Aubigné, marquise de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Maintenon",
+    "Madame de Maintenon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Louis XIV",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 507,
+  "lead": "Tell (Guillaume)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Guillaume Tell",
+    "Guillaume-Tell",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 508,
+  "lead": "Charles VI",
+  "role": "Roi de France.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 509,
+  "lead": "Beyle (Henri, dit Stendhal)",
+  "role": "Ecrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Stendalh",
+    "Stendhal",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Ève",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}

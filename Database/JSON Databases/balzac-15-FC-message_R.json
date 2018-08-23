@@ -1,0 +1,38 @@
+{
+  "id": 266,
+  "lead": "Juliette",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 40,
+  "lead": "Lignolles (comtesse de)",
+  "role": "Personnage de Louvet de Couvray.",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "comtesse de Lignolles",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 603,
+  "lead": "Louvet de Couvray (Jean-Baptiste)",
+  "role": "Écrivain français.",
+  "location": "France",
+  "type": ,
+  "indexation": "L",
+  "aliases": [
+    "Louvet",
+  ],
+  "relations": [
+  ]
+}

@@ -1,0 +1,1175 @@
+{
+  "id": 3,
+  "lead": "Cuvier (Jean Léopold Nicolas Frédéric)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cuvier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 555,
+  "lead": "Noël (François)",
+  "role": "Auteur des Leçons françaises de littérature.",
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Noël",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 416,
+  "lead": "Fénelon (François de Salignac de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Fénelon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 249,
+  "lead": "Télémaque",
+  "role": "Personnage mythologique, fils d'Ulysse.",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 556,
+  "lead": "Marguerite-Marie Alacoque",
+  "role": "Religieuse",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Marie Alacoque",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 557,
+  "lead": "Hoffmann (Ernst Theodor Amadeus)",
+  "role": "Musicien, poète, écrivain allemand.",
+  "location": "Allemagne",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hoffmann",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 558,
+  "lead": "Mozart (Wolfgang Amadeus)",
+  "role": "Compositeur.",
+  "location": "Autriche",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Mozart",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 284,
+  "lead": "Beethoven (Ludwig van)",
+  "role": "Compositeur et musicien allemand.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Beethoven",
+    "Ludwig van Beethoven",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 559,
+  "lead": "Haydn (Joseph)",
+  "role": "Compositeur autrichien.",
+  "location": "Autriche",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Haydn",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 560,
+  "lead": "Paisiello(Giovanni)",
+  "role": "Compositeur italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Paësiello",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 561,
+  "lead": "Cimarosa (Domenico)",
+  "role": "Compositeur italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cimarosa",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 562,
+  "lead": "Hummel (Johann Nepomuk)",
+  "role": "Compositeur et pianiste autrichien.",
+  "location": "Autriche",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hummel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 563,
+  "lead": "Jérémie",
+  "role": "Prophète.",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 564,
+  "lead": "Parodi (Rita-Christina)",
+  "role": "Soeur siamoises nées en 1829.",
+  "location": null,
+  "type": 3,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 335,
+  "lead": "Arnolphe",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 379,
+  "lead": "Agnès",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 69,
+  "lead": "Célimène",
+  "role": "Personnage féminin (coquette) chez Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 565,
+  "lead": "Léonarde",
+  "role": "Personnage de La Caverne des brigands, de Lesage",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Léonarde",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 161,
+  "lead": "Joséphine",
+  "role": "épouse de Napoléon",
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+    "Joséphine de Beauharnais",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 156,
+  "lead": "Martignac (vicomte de)",
+  "role": "homme d'Etat français",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Martignac",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 70,
+  "lead": "Charles X",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 566,
+  "lead": "Épictète",
+  "role": "Philosophe.",
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 567,
+  "lead": "Spartacus",
+  "role": "Esclave.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 170,
+  "lead": "Dante",
+  "role": "poète et écrivain florentin",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Alighieri",
+    "Dante Alighieri",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 153,
+  "lead": "Rivarol (Antoine de)",
+  "role": "écrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rivarol",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 128,
+  "lead": "Florian (Jean-Pierre Claris de)",
+  "role": "poète et romancier français",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Florian",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Ève",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 568,
+  "lead": "Grisi (Julia)",
+  "role": "Cantatrice italienne.",
+  "location": "Italie",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Giulia Grisi",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 100,
+  "lead": "Staël (madame de)",
+  "role": "romancière",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame de Staël",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 111,
+  "lead": "Jésus-Christ",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "Christ",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 74,
+  "lead": "Byron (lord)",
+  "role": "poète",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Byron",
+    "lord Byron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 2,
+  "lead": "Molière (Jean-Baptiste Poquelin, dit)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Molière",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 569,
+  "lead": "Éliante",
+  "role": "Personnage du Misanthrope de Molière.",
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 54,
+  "lead": "Girodet",
+  "role": "peintre d'histoire",
+  "location": "France",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 239,
+  "lead": "Chateaubriand (François-René de)",
+  "role": "Homme politique et écrivain français.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "monsieur de Chateaubriand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 570,
+  "lead": "Chénier (André Marie de)",
+  "role": "Poète français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "André de Chénier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 571,
+  "lead": "Richelieu (cardinal de)",
+  "role": "Cardinal, duc de Richelieu.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Richelieu",
+    "Armand Jean du Plessis de Richelieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 251,
+  "lead": "Alceste",
+  "role": "Personnage de Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 572,
+  "lead": "Philinte",
+  "role": "Personnage de Molière.",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 573,
+  "lead": "Véry (Jean-Baptiste)",
+  "role": "Restaurateur parisien.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Véry",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 115,
+  "lead": "Shakespeare",
+  "role": "Écrivain et dramaturge anglais.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Shakspeare",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 575,
+  "lead": "Noves (Laure de)",
+  "role": "Parente de Laure de Sade.",
+  "location": null,
+  "type": 2,
+  "indexation": "N",
+  "aliases": [
+    "Laure",
+    "Laure de Noves",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 576,
+  "lead": "Moïse",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 290,
+  "lead": "Paganini (Niccolò)",
+  "role": "Violoniste et compositeur italien",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Paganini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 523,
+  "lead": "Georges IV",
+  "role": "Fils de Georges III.",
+  "location": "Grande-Bretagne.",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 86,
+  "lead": "Louis XV",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Raphaël",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 99,
+  "lead": "Talleyrand (prince de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Talleyrand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 577,
+  "lead": "Barbe-Bleue",
+  "role": "Personna de Charles Perrault.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "la Barbe-Bleue",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 578,
+  "lead": "Perrault (Charles)",
+  "role": "Homme de lettres français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Perrault",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 579,
+  "lead": "Ivanhoë",
+  "role": "Personnage de Walter Scott.",
+  "location": null,
+  "type": 1,
+  "indexation": "I",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 580,
+  "lead": "Rebecca",
+  "role": "Personnage de Walter Scott.",
+  "location": null,
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 345,
+  "lead": "Talma (François-Joseph)",
+  "role": "Acteur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Talma",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 581,
+  "lead": "Moine (Antonin)",
+  "role": "Sculpteur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Antonin Moine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 582,
+  "lead": "Devéria (Eugène)",
+  "role": "Peintre français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Eugène Devéria",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 583,
+  "lead": "Boulanger (Louis-Candide)",
+  "role": "Peintre français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Louis Boulanger",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 524,
+  "lead": "Elschoët (Carl)",
+  "role": "Sculpteur.",
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+    "Elschoët",
+    "Elschoet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 53,
+  "lead": "Michel-Ange",
+  "role": "peintre",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 584,
+  "lead": "Boulle (Charles-André)",
+  "role": "Maître ébéniste.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Boulle",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 548,
+  "lead": "Rothschild (les)",
+  "role": "Financiers.",
+  "location": "Europe",
+  "type": 3,
+  "indexation": "R",
+  "aliases": [
+    "les Rothschild",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 585,
+  "lead": "Poppée",
+  "role": "Deuxième femme de l'mpereur romain Néron.",
+  "location": "Italie",
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 152,
+  "lead": "Vierge Marie",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "la Vierge",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 586,
+  "lead": "Genest (saint)",
+  "role": "Comédien.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "saint Genest",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 587,
+  "lead": "Caïen (Henri-Louis, dit Le Kain)",
+  "role": "Tragédien français.",
+  "location": "1",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Lekain",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 293,
+  "lead": "Boiron (Michel, dit Baron)",
+  "role": "Comédien français",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Michel Boiron",
+    "Baron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 588,
+  "lead": "Contat (Louise",
+  "role": "Actrice française.",
+  "location": "France",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Contat",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 589,
+  "lead": "Clairon (Claire-Josèphe Léris, dite mademoiselle)",
+  "role": "Actrice française.",
+  "location": "France",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Clairon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 590,
+  "lead": "Champmeslé (Marie Desmares, dite la)",
+  "role": "Actrice française.",
+  "location": "France",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Champmeslé",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 144,
+  "lead": "Racine (Jean)",
+  "role": "écrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Jean Racine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 591,
+  "lead": "Monvel (Jacques-Marie Boutet de)",
+  "role": "Acteur et dramaturge français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Monvel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 332,
+  "lead": "Andrieux (François)",
+  "role": "Poète et auteur dramatique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 279,
+  "lead": "Mars (mademoiselle)",
+  "role": "Comédienne française.",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Mars",
+    "mademoiselle Mars",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 277,
+  "lead": "Pompadour (madame de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "madame Pompadour",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 592,
+  "lead": "David",
+  "role": "Dans la Bible, roi d'Israël.",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 593,
+  "lead": "Lecouvreur (Adrienne, dite la)",
+  "role": "Tragédienne française.",
+  "location": "2",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "la Lecouvreur",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 594,
+  "lead": "La Fontaine (Jean de)",
+  "role": "Poète français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "La Fontaine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 595,
+  "lead": "Roland",
+  "role": "Neveu de Charlemagne.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 596,
+  "lead": "Chamfort (Sébastien-Roch Nicolas de)",
+  "role": "Poète et journaliste français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Champfort",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Louis XIV",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 597,
+  "lead": "Téniers (les)",
+  "role": "Peintres flamands.",
+  "location": null,
+  "type": 3,
+  "indexation": "T",
+  "aliases": [
+    "les Téniers",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 598,
+  "lead": "Beaumarchais (Pierre-Augustin Caron de)",
+  "role": "Écrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Beaumarchais",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 147,
+  "lead": "Rabelais (François)",
+  "role": "Humaniste et écrivain français.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rabelais",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 358,
+  "lead": "Fieschi (Giuseppe)",
+  "role": "Conspirateur.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Fieschi",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 167,
+  "lead": "Louis-Philippe",
+  "role": "duc d'Orléans",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Louis-Philippe d'Orléans",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 150,
+  "lead": "Médée",
+  "role": "personnage mythologique",
+  "location": "Grèce",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 177,
+  "lead": "Réveillon (Jean-Baptiste)",
+  "role": "Propriétaire d'une manufacture de papiers peints",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Jean-Baptiste Réveillon",
+    "Réveillon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 599,
+  "lead": "Diogène de Sinope",
+  "role": "Philosophe grec.",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Diogène ",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 600,
+  "lead": "Cérès",
+  "role": "Déesse de l'agriculture dan la mythologie romaine.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Raphaël",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Raffaello Sanzio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 602,
+  "lead": "Shylock",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 601,
+  "lead": "Portinari (Beatrice)",
+  "role": "Muse de Dante.",
+  "location": "Italie",
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "Béatrix",
+  ],
+  "relations": [
+  ]
+}

@@ -1,0 +1,723 @@
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 510,
+  "lead": "Sapiéha (famille)",
+  "role": "Famille polonaise.",
+  "location": "Pologne",
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+    "Sapiéha",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 511,
+  "lead": "Radzivill (famille)",
+  "role": "Famille lituano-polonaise.",
+  "location": "Lituanie, Pologne",
+  "type": 3,
+  "indexation": "R",
+  "aliases": [
+    "Radzivill",
+    "Radziwiłł",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 512,
+  "lead": "Rzewuski (famille)",
+  "role": "Famille noble polonaise.",
+  "location": "Pologne",
+  "type": 3,
+  "indexation": "R",
+  "aliases": [
+    "Rzewuski",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 513,
+  "lead": "Cartoriski (famille)",
+  "role": "Famille noble polonaise.",
+  "location": "Pologne",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "Cartoriski",
+    "Czartoryski",
+    " ",
+    "514>Leczinski>Famille royale polonaise.>Pologne>3>L",
+    "Leczinski",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 515,
+  "lead": "Iablonoski",
+  "role": "Famille noble polonaise.",
+  "location": "Pologne",
+  "type": 3,
+  "indexation": "I",
+  "aliases": [
+    "Iablonoski",
+    "Jablonnowski",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 516,
+  "lead": "Lubermiski",
+  "role": "Famille noble polonaise.",
+  "location": "Pologne",
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "Lubermiski",
+    "Lubomirski ",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 167,
+  "lead": "Louis-Philippe",
+  "role": "duc d'Orléans",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Louis-Philippe d'Orléans",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 517,
+  "lead": "Nicolas Ier",
+  "role": "Empereur de Russie.",
+  "location": "Russie",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "l’empereur Nicolas",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 518,
+  "lead": "Stanislas II",
+  "role": "Roi de Pologne",
+  "location": "Pologne",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Poniatowski",
+    "Stanisław Antoni Poniatowski",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 519,
+  "lead": "Lelewel (Joachim)",
+  "role": "Historien polonais.",
+  "location": "Pologne",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Lelewel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 520,
+  "lead": "Czartoryski (Adam Jerzy)",
+  "role": "Noble polonais, fils du prince Casimir Czartoryski et d'Izabela Flemming.",
+  "location": "Pologne",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "le prince Cartoriski",
+    "Adam Jerzy Czartoryski",
+    "prince Adam Cartoriski",
+    "prince Adam Cartoriski",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 521,
+  "lead": "César de boutique",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 522,
+  "lead": "Alexandre de la patente",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 245,
+  "lead": "Virgile",
+  "role": "Poète latin.",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Publius Vergilius Maro",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 523,
+  "lead": "Georges IV",
+  "role": "Fils de Georges III.",
+  "location": "Grande-Bretagne.",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "George Augustus Frederick",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 524,
+  "lead": "Elschoët (Carl)",
+  "role": "Sculpteur.",
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+    "Elschoët",
+    "Elschoet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 525,
+  "lead": "Klagmann (Jean-Baptiste-Jules)",
+  "role": "Sculpteur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "K",
+  "aliases": [
+    "Klagmann",
+    "Jean-Baptiste-Jules Klagmann",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 526,
+  "lead": "Crésus",
+  "role": "Roi de Lydie.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 527,
+  "lead": "Fauveau (Félicie de)",
+  "role": "Sculpteur français.",
+  "location": "France",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 528,
+  "lead": "Héraclès",
+  "role": "Fils de Jupiter.",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hercule",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 529,
+  "lead": "Pazzi (famille)",
+  "role": "Famille italienne.",
+  "location": "Italie",
+  "type": 3,
+  "indexation": "P",
+  "aliases": [
+    "Pazzi",
+    "les Pazzi",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 530,
+  "lead": "Pavlovitch (Constantin)",
+  "role": "Grand-duc de Russie.",
+  "location": "Russie",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Constantin Pavlovitch de Russie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 170,
+  "lead": "Dante",
+  "role": "poète et écrivain florentin",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Alighieri",
+    "Dante Alighieri",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 53,
+  "lead": "Michel-Ange",
+  "role": "peintre",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 531,
+  "lead": "Duprez (Gilbert-Louis)",
+  "role": "Ténor français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Duprez",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 507,
+  "lead": "Tell (Guillaume)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Guillaume Tell",
+    "Guillaume-Tell",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 532,
+  "lead": "Tartuffe",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 533,
+  "lead": "Newton (Isaac)",
+  "role": "Physicien et mathématicien britannique.",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Newton",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 534,
+  "lead": "Laplace (Pierre-Simon de)",
+  "role": "Physicien et mathématicien français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Laplace",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 535,
+  "lead": "Kepler (Johannes)",
+  "role": "Astronome.",
+  "location": "Allemagne",
+  "type": 1,
+  "indexation": "K",
+  "aliases": [
+    "Kepler",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 536,
+  "lead": "Descartes (René)",
+  "role": "Philosophe français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Descartes",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 537,
+  "lead": "Spinosa (Antonio)",
+  "role": "Philosophe néerlandais.",
+  "location": "Pays-bas",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Spinosa",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 8,
+  "lead": "Buffon (Georges-Louis Leclerc, comte de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Buffon",
+    "monsieur le comte de Buffon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 173,
+  "lead": "Thérèse (sainte)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+    "sainte Thérèse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 538,
+  "lead": "Malebranche (Nicolas)",
+  "role": "Philosophe français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Malebranche",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 99,
+  "lead": "Talleyrand (prince de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Monsieur de Talleyrand",
+    "prince de Talleyrand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 539,
+  "lead": "Bouthor (famille)",
+  "role": "Circassiens.",
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "famille Bouthor",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 540,
+  "lead": "Franconi (Antonio)",
+  "role": "Circassien.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Franconi",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 214,
+  "lead": "Malibran (Maria)",
+  "role": "artiste lyrique",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Malibran",
+    "Maria Malibran",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 417,
+  "lead": "Taglioni (Maria)",
+  "role": "Danseuse.",
+  "location": null,
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+    "la Taglioni",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 215,
+  "lead": "Pasta (Giuditta)",
+  "role": "cantatrice italienne",
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "la Pasta",
+    "La Pasta",
+    "Pasta",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 541,
+  "lead": "Grisi (Carlotta)",
+  "role": "Danseuse italienne.",
+  "location": "Italie",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "la Grisi ",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 542,
+  "lead": "Montalant (Laure-Cinthie)",
+  "role": "Cantatrice",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "la Cinti",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 543,
+  "lead": "Elssler (Fanny)",
+  "role": "Danseuse autrichienne.",
+  "location": "Autriche",
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "l'Elssler",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 544,
+  "lead": "Colombine",
+  "role": "Personnage de la commedia dell'arte.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 115,
+  "lead": "Shakespeare",
+  "role": "Écrivain et dramaturge anglais.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Shakspeare",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 545,
+  "lead": "Cassandre",
+  "role": "Personnage de la commedia dell'arte.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 546,
+  "lead": "Pétrarque",
+  "role": "Poète florentin.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 547,
+  "lead": "Sade (Laure de)",
+  "role": "Muse de Pétrarque.",
+  "location": "Italie",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 548,
+  "lead": "Rothschild (les)",
+  "role": "Financiers.",
+  "location": "Europe",
+  "type": 3,
+  "indexation": "R",
+  "aliases": [
+    "Rothschild",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 549,
+  "lead": "Musard (Philippe)",
+  "role": "Compositeur et chef d'orchestre français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 550,
+  "lead": "Auber (Daniel-François-Esprit)",
+  "role": "Compositeur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Auber",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 551,
+  "lead": "Macaire (Robert)",
+  "role": "Personnage de Benjamin Antier.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Robert-Macaire",
+  ],
+  "relations": [
+  ]
+}
