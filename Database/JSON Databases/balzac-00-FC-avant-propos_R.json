@@ -1,0 +1,990 @@
+{
+  "id": 1,
+  "lead": "Corneille (Pierre)",
+  "role": "dramaturge français",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Pierre Corneille",
+    "Corneille",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 2,
+  "lead": "Molière (Jean-Baptiste Poquelin, dit)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Molière",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 3,
+  "lead": "Cuvier (Jean Léopold Nicolas Frédéric)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cuvier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 4,
+  "lead": "Geoffroi-Saint-Hilaire (Étienne)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Étienne Geoffroy-Saint-Hilaire",
+    "Geoffroi Saint-Hilaire",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 5,
+  "lead": "Swedenborg (Emanuel)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Emanuel Swedenborg",
+    "Swedenborg",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 6,
+  "lead": "Saint-Martin (Louis-Claude de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Saint-Martin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 7,
+  "lead": "Leibniz (Gottfried Wilhelm)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Leibnitz",
+    "Leibniz",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 8,
+  "lead": "Buffon (Georges-Louis Leclerc, comte de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Buffon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 9,
+  "lead": "Bonnet (Charles)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Charles Bonnet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 10,
+  "lead": "Needham (John Turberville)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Needham",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 11,
+  "lead": "Goethe (Johann Wolfgang von)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Goethe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 12,
+  "lead": "Leeuwenhoek (Antoni van)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Leuwenhoëk",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 13,
+  "lead": "Swammerdam (Jan)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Swammerdam",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 14,
+  "lead": "Spallanzani (Lazzaro)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Spallanzani",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 15,
+  "lead": "Réaumur (René-Antoine Ferchault de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Réaumur",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 16,
+  "lead": "Müller (Othon-Frederick)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Muller",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 17,
+  "lead": "Haller (Albrecht von)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Haller",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 18,
+  "lead": "Barthélemy (abbé)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "abbé Barthélemy",
+    "Jean-Jacques Barthélémy",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 186,
+  "lead": "Scott (Walter)",
+  "role": "écrivain anglais",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Sir Walter Scott",
+    "Walter Scott",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 20,
+  "lead": "Monteil (Amans-Alexis)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Monteil",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 21,
+  "lead": "Machiavel (Nicolas)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Machiavel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 22,
+  "lead": "Hobbes (Thomas)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hobbes",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 131,
+  "lead": "Bossuet (Jacques-Bénigne)",
+  "role": "écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bossuet",
+    "Jacques-Bénigne Bossuet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 24,
+  "lead": "Kant (Emmanuel)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "K",
+  "aliases": [
+    "Kant",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 230,
+  "lead": "Montesquieu",
+  "role": "Ecrivain et philosophe",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Charles Louis de Secondat, baron de La Brède et de Montesquieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 139,
+  "lead": "Bonald (Louis-Gabriel-Ambroise)",
+  "role": "écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bonald",
+    "Louis-Gabriel-Ambroise, vicomte de Bonald",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 123,
+  "lead": "Rousseau (Jean-Jacques)",
+  "role": "philosphe et écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rousseau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 29,
+  "lead": "Socrate",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 111,
+  "lead": "Jésus-Christ",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 31,
+  "lead": "Luther (Martin)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Luther",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 32,
+  "lead": "Calvin (Jean)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Calvin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 33,
+  "lead": "Cromwell (Thomas)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cromwell",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 34,
+  "lead": "Orange (Guillaume d')",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+    "Guillaume d’Orange",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 35,
+  "lead": "Capet (Hugues)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Hugues Capet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 36,
+  "lead": "Charles Ier",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Charles I",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 37,
+  "lead": "Catherine II",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 38,
+  "lead": "Louis XVI",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 605,
+  "lead": "Pétrone",
+  "role": "Auteur de la Rome Antique.",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 606,
+  "lead": "Anacharsis",
+  "role": "Philosophe",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 39,
+  "lead": "Necker (madame)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "N",
+  "aliases": [
+    "madame Necker",
+    "Suzanne Curchod, devenue Mme Necker",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 152,
+  "lead": "Vierge Marie",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "Vierge Marie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 41,
+  "lead": "Bouddha",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 42,
+  "lead": "Colomb (Christophe)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Christophe Colomb",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 43,
+  "lead": "Galilée",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Galileo Galilei",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 44,
+  "lead": "Gall (Franz Joseph)",
+  "role": "médecin allemand",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Gall",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 45,
+  "lead": "Lavater (Johann-Caspar)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Lavater",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 124,
+  "lead": "Richardson (Samuel)",
+  "role": "Écrivain anglais.",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Richardson",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Raphaël",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Raffaello Sanzio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 48,
+  "lead": "Davin (Félix)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Félix Davin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 234,
+  "lead": "Don Quichotte",
+  "role": "Personnage de Cervantès",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 135,
+  "lead": "Lovelace",
+  "role": "Personnage de Samuel Richardson.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 579,
+  "lead": "Ivanhoë",
+  "role": "Personnage de Walter Scott.",
+  "location": null,
+  "type": 1,
+  "indexation": "I",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 607,
+  "lead": "Daphnis",
+  "role": "Personnage de Daphnis et Chloé, de Longus.",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 608,
+  "lead": "Chloé",
+  "role": "Personnage de Daphnis et Chloé, de Longus.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Chloë",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 609,
+  "lead": "Amadis",
+  "role": "Héros du roman Amadis de Gaule, par Garci Rodrigez de Montalvo.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 610,
+  "lead": "Panurge",
+  "role": "Personnage de François Rabelais.",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 210,
+  "lead": "Lescaut (Manon)",
+  "role": "Personnage de l'abbé François Prévost",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Manon Lescaut",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 137,
+  "lead": "Harlowe (Clarisse)",
+  "role": "Personnage de Samuel Richardson.",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+    "Clarisse",
+    "Clarisse Harlowe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 611,
+  "lead": "Robinson Crusoë",
+  "role": "Personnage de Daniel Defoe.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 213,
+  "lead": "Blas (Gil)",
+  "role": "personnage d'Alain-René Lesage",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Gilblas",
+    "Gil Blas",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 595,
+  "lead": "Roland",
+  "role": "Neveu de Charlemagne.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 76,
+  "lead": "Ossian",
+  "role": "personnage de James Macpherson (barde écossais)",
+  "location": null,
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 133,
+  "lead": "Étanges (Julie d’)",
+  "role": "pesonnage de Jean-Jacques Rousseau",
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+    "Jule d’Étanges",
+    "Julie d’Étanges",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 553,
+  "lead": "Tobie (capitaine)",
+  "role": "Personnage de Sterne.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "capitaine Tobie",
+    "oncle Tobie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 201,
+  "lead": "Werther",
+  "role": "Héros de Goethe",
+  "location": null,
+  "type": 1,
+  "indexation": "W",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 233,
+  "lead": "René",
+  "role": "Personnage de Chateaubriand.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 140,
+  "lead": "Corinne",
+  "role": "Héroïne de Madame de Staël.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 612,
+  "lead": "Adolphe",
+  "role": "Personnage titre d'un ouvrage de Benjamin Constant.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 613,
+  "lead": "Paul",
+  "role": "Personnage de Paul et Virginie, par Jacques-Henri Bernardin de Saint-Pierre",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 614,
+  "lead": "Virginie",
+  "role": "Personnage de Paul et Virginie, par Jacques-Henri Bernardin de Saint-Pierre",
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 615,
+  "lead": "Deans (Janie)",
+  "role": "Personnage de Walter Scott.",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "Jeanie Dean",
+    "Jeanie Deans",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 616,
+  "lead": "Claverhouse (John Graham of)",
+  "role": "Vicomte de Dundee.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "John Graham",
+    "Claverhouse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 219,
+  "lead": "Manfred",
+  "role": "Personnage-titre de Lord Byron",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 617,
+  "lead": "Mignon",
+  "role": "Personnage du roman Années d’apprentissage de Wilhelm Meister, de Goethe",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 297,
+  "lead": "Henri IV",
+  "role": "Roi de Navarre",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 618,
+  "lead": "Jean (saint)",
+  "role": "Apôtre.",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "apôtre saint Jean",
+  ],
+  "relations": [
+  ]
+}
