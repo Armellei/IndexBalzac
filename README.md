@@ -1,5 +1,8 @@
 # IndexBalzac
 
+IndexBalzac allows you to semi-automatically index every single character's name found in Balzac's books. You'll find five programs helping you to do the work, and html/css illustrated index, some engravings from 1842-46 and 1874 and a report helping you understand it all.
+The indexing process used Python and Awk, and you can start working with the help of 5 scripts easy to manipulate, even though you don't understand anything about coding : read the report, install the files and start indexing!
+
 ### Indexing process :
 Manually create your databases in txt > Use **Dutocq** to tag the XML-TEI file > Use **Colleville** to highlight your work in the HTML preview of the book and make adjustments in the databases if needed > Use **Rabourdin** to generate the index in HTML > Use **Bixiou** to sort the names properly > Once you're done with all these debugging steps, use **txt2json** to export the txt databases into JSON files. > Congrats, you're done!
 
