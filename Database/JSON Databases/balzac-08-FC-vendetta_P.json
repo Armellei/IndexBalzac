@@ -1,0 +1,317 @@
+{
+  "id": 172,
+  "lead": "Piombo (baron Bartholoméo di)",
+  "role": "Baron italien. Fidèle ami de Napoléon Bonaparte. Âgé de 77 ans en 1815.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "emploie:454,456",
+    "Piombo",
+    "Bartholoméo",
+    "baron de Piombo",
+    "Bartholoméo di Piombo",
+  ],
+  "relations": [
+    "@père de": "443,444",
+    "@marié à": "453",
+  ]
+},
+{
+  "id": 442,
+  "lead": "Barbanti",
+  "role": "Famille corse.",
+  "location": "Corse",
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "les Barbanti",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 443,
+  "lead": "Piombo (Grégorio di)",
+  "role": null,
+  "location": "Corse",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Grégorio",
+  ],
+  "relations": [
+    "@fils de": "172",
+    "@frère de": "444",
+  ]
+},
+{
+  "id": 445,
+  "lead": "Vanni (Élisa)",
+  "role": "Sauve le petit Luigi Porta des flammes lors de la vendetta des Piombo contre les Porta.",
+  "location": "Corse",
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "Élisa Vanni",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 447,
+  "lead": "Servin (monsieur)",
+  "role": "Artiste peintre âgé d'une quarantaine d'années en 1815. Il ne donne des leçons de peinture qu'à des écolières ou demoiselles appartenant à des familles riches ou considérées.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Servin",
+    "monsieur Servin",
+  ],
+  "relations": [
+    "@marié à": "451",
+  ]
+},
+{
+  "id": 448,
+  "lead": "Thirion (Amélie)",
+  "role": "En 1815, jeune élève du peintre Servin.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+    "Amélie",
+    "Amélie Thirion",
+    "mademoiselle Thirion",
+    "mademoiselle Amélie Thirion",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 449,
+  "lead": "Roguin (Mathilde)",
+  "role": "En 1815, jeune élève du peintre Servin.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+    "Mathilde",
+    "Mathilde Roguin",
+    "mademoiselle Roguin",
+    "mademoiselle Mathilde Roguin",
+    " ",
+    "450>Laure>En 1815, jeune élève du peintre Servin.>Paris>2>L",
+    "mademoiselle Laure",
+  ],
+  "relations": [
+    "@fille de": "452",
+  ]
+},
+{
+  "id": 451,
+  "lead": "Servin (madame)",
+  "role": "Femme du peintre parisien Servin.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame Servin",
+  ],
+  "relations": [
+    "@mariée à": "447",
+  ]
+},
+{
+  "id": 444,
+  "lead": "Piombo (Ginevra di)",
+  "role": "En 1815, âgée de 25 ans, l'une des premières et la plus fort élève du peintre Servin, jalousée de ses camarades.",
+  "location": "Corse",
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "Ginevra",
+    "Ginevrina",
+    "Ginevrola",
+    "Ginevretta",
+    "Ginevrettina",
+    "Madame Porta",
+    "Ginevra bella",
+    "Ginevra Piombo",
+    "Signora Piombellina",
+    "mademoiselle Piombo",
+    "mademoiselle Ginevra",
+    "mademoiselle de Piombo",
+    "mademoiselle Ginevra Piombo",
+  ],
+  "relations": [
+    "@fille de": "172",
+    "@soeur de": "443",
+    "@amoureuse de": "446",
+    "@mariée à": "446",
+    "@mère de": "460",
+  ]
+},
+{
+  "id": 37,
+  "lead": "Roguin (madame)",
+  "role": "Demoiselle Chevrel. Envoie sa fille Mathilde chez le peintre Servin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "madame Roguin",
+  ],
+  "relations": [
+    "@mère de": "449",
+  ]
+},
+{
+  "id": 453,
+  "lead": "Piombo (baronne Élisa de)",
+  "role": "Femme de Bartholoméo di Piombo. Septuagénaire en 1815, grande, sèche, pâle et ridée.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "emploie:454,456",
+    "Élisa",
+    "Élisa Piombo",
+    "madame Piombo",
+  ],
+  "relations": [
+    "@mariée à": "172",
+  ]
+},
+{
+  "id": 454,
+  "lead": "Jean",
+  "role": "Domestique du baron et de la baronne di Piombo.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "employé par:453,172",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 446,
+  "lead": "Porta (Luigi)",
+  "role": "Seul survivant de la vendetta des Piombo contre les Porta lorqu'il était enfant, dont il fut sauvé par Élisa Vanni. Il fut emmené à 6 ans à Gênes chez un vieillard nommé Colonna qui lui servit de père. Corse, dévoué à Napoléon, il s'engagea ensuite comme soldat. Décoré de la Légion-d'Honneur, colonel en 1815.",
+  "location": "Corse",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Louis",
+    "Luigi",
+    "Luigi Porta",
+    "colonel Louis",
+    "Luigi da Porta",
+    "monsieur Louis",
+    "Le fils des Porta",
+  ],
+  "relations": [
+    "@amoureux de": "444",
+    "@marié à": "444",
+    "@frère de": "455",
+    "@père de": "460",
+  ]
+},
+{
+  "id": 455,
+  "lead": "Porta (Nina)",
+  "role": "Soeur défunte de Luigi Porta, tuée par les di Piombo.",
+  "location": "Corse",
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "Nina Porta",
+  ],
+  "relations": [
+    "@soeur de": "446",
+  ]
+},
+{
+  "id": 456,
+  "lead": "Piétro",
+  "role": "Domestique du baron et de la baronne di Piombo.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "employé par:453,172",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 43,
+  "lead": "Roguin (monsieur)",
+  "role": "notaire",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "maître Roguin",
+    "monsieur Roguin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 457,
+  "lead": "Vergniaud (Louis)",
+  "role": "Témoin de mariage de Luigi Porta.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Vergniaud",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 458,
+  "lead": "Gigonnet",
+  "role": "Usurier.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 459,
+  "lead": "Magus (Élie)",
+  "role": "Marchand de tableaux. Donne une entreprise de coloriage de gravures à GInevra Piombo en 1819.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Élie Magus",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 460,
+  "lead": "Porta (Bartholoméo)",
+  "role": "Fils de Ginevra et de Luigi Porta.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Barthélemy",
+    "petit Bartholoméo",
+    "Bartholoméo Porta",
+  ],
+  "relations": [
+    "@fils de": "446,444",
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": 407,
+  "lead": "Angoulême (duc d')",
+  "role": "Dauphin de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Louis de France",
+    "duc d’Angoulême",
+    "Louis-Antoine de Bourbon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 408,
+  "lead": "Adonis",
+  "role": "Personnage de la mythologie grecque.",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 45,
+  "lead": "Lavater (Johann-Caspar)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Lavater",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 409,
+  "lead": "Beauharnais (Hortense de)",
+  "role": "Duchesse.",
+  "location": "France",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "la reine Hortense",
+    "Hortense de Beauharnais, duchesse de Saint-Leu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 385,
+  "lead": "Bonaparte",
+  "role": "Premier consul.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Napoléon",
+  ],
+  "relations": [
+    "@frère de": "386",
+  ]
+},
+{
+  "id": 410,
+  "lead": "Plaisir (Louis-Noël)",
+  "role": "Coiffeur parisien.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Plaisir",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 411,
+  "lead": "Cambacérès (Jean-Jacques Régis de)",
+  "role": "Homme politique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cambacérès",
+    "Jean-Jacques Régis de Cambacérès",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 412,
+  "lead": "Dominiquin",
+  "role": "Peintre italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 413,
+  "lead": "Le Corrége",
+  "role": "Peintre italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Corrége",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 414,
+  "lead": "Sarto (André del)",
+  "role": "Peintre italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "André del Sarto",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 49,
+  "lead": "David (Jacques-Louis)",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "David",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 86,
+  "lead": "Louis XV",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 93,
+  "lead": "Boucher (François)",
+  "role": "Peintre.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Boucher",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 277,
+  "lead": "Pompadour (madame de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "madame de Pompadour",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 415,
+  "lead": "Pie VII",
+  "role": "Pape.",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Barnaba Niccolò Maria Luigi Chiaramonti",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 416,
+  "lead": "Fénelon (François de Salignac de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Fénelon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 417,
+  "lead": "Taglioni (Maria)",
+  "role": "Danseuse.",
+  "location": null,
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+    "la Taglioni",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 345,
+  "lead": "Talma (François-Joseph)",
+  "role": "Acteur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Talma",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 418,
+  "lead": "Charlet (Nicolas-Toussaint)",
+  "role": "Artiste.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Charlet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 419,
+  "lead": "Callot (Jacques)",
+  "role": "Dessinateur et graveur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Callot",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 420,
+  "lead": "Téniers (David)",
+  "role": "Peintre flammand.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Téniers ",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 162,
+  "lead": "Rembrandt",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}

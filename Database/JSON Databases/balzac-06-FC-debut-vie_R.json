@@ -1,0 +1,1000 @@
+{
+  "id": 3,
+  "lead": "Cuvier (Jean Léopold Nicolas Frédéric)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cuvier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 27,
+  "lead": "Toulouse (Henry-Jude)",
+  "role": "Entrepreneur de messageries.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Toulouse",
+    "Henry-Jude Toulouse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 30,
+  "lead": "Bourbon-Conti (les)",
+  "role": "Famille noble.",
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "Bourbon-Conti",
+    "princes de Conti",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 57,
+  "lead": "François Ier",
+  "role": "Roi de France",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "François I<sup class="sup">er</sup>",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Premier Consul",
+    "l’Empereur",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 63,
+  "lead": "Louis XVIII",
+  "role": "roi",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 82,
+  "lead": "Bourbon (maison de)",
+  "role": "Famille noble.",
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "Bourbons",
+    "maison de Bourbon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 125,
+  "lead": "Danton",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 149,
+  "lead": "Roberspierre",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 165,
+  "lead": "Conti (prince de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "prince de Conti",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 200,
+  "lead": "Aspasie",
+  "role": "Compagne de Périclès.",
+  "location": "Grèce",
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 123,
+  "lead": "Rousseau (Jean-Jacques)",
+  "role": "philosphe et écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rousseau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 308,
+  "lead": "Venture",
+  "role": "Ami de Rousseau",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 309,
+  "lead": "Bacle",
+  "role": "Ami de Rousseau",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 242,
+  "lead": "Voltaire",
+  "role": "Ecrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "François-Marie Arouet, dit Voltaire",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 145,
+  "lead": "Figaro",
+  "role": "personnage de monsieur de Beaumarchais",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 297,
+  "lead": "Henri IV",
+  "role": "Roi de Navarre",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 649,
+  "lead": "Grâces (les trois)",
+  "role": "Personnages de la mythologie romaine.",
+  "location": null,
+  "type": 3,
+  "indexation": "G",
+  "aliases": [
+    "Grâces",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 247,
+  "lead": "Béranger (Pierre-Jean de)",
+  "role": "Chansonnier français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Béranger",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 311,
+  "lead": "Ney (Michel)",
+  "role": "Duc d'Elchingen, maréchal d'Empire.",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "maréchal Ney",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 312,
+  "lead": "Alexandre Ier",
+  "role": "Empereur de Russie",
+  "location": "Russie",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "l’empereur Alexandre",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 313,
+  "lead": "Cousin (Victor)",
+  "role": "Professeur de philosophie.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 74,
+  "lead": "Byron (lord)",
+  "role": "poète",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "lord Byron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 314,
+  "lead": "Ali (Pacha de Janina)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Ali",
+    "Tébélen",
+    "Ali-Pacha",
+    "Ali de Tébélen",
+    "Pacha de Janina",
+    "monsieur de Tébélen",
+    "Ali, Pacha de Janina",
+    "Ali pacha de Janina",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 315,
+  "lead": "Soult (Nicolas-Jean-de-Dieu)",
+  "role": "Militaire français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "maréchal Soult",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 651,
+  "lead": "Lisette",
+  "role": "Personnage du chansonnier Béranger.",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 316,
+  "lead": "Vernet (Horace)",
+  "role": "Peintre.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 317,
+  "lead": "Seve (Joseph)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Selves",
+    "Soliman Pacha, né Joseph Seve",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 318,
+  "lead": "Besson (Nicolas)",
+  "role": "Amiral.S",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 319,
+  "lead": "Mohammed (Ali Pacha)",
+  "role": "Vice Roi d'Égypte",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "pacha Mohammed",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 320,
+  "lead": "Czerni-Georges",
+  "role": "Militaire serbe.",
+  "location": "Serbie",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "#U+00D0;orde Petrovic, dit Karadorde",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 322,
+  "lead": "Chosrew-Pacha",
+  "role": "Turc.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Chosrew",
+    "Chaureff",
+    "Cossereu",
+    "Capitan-Pacha",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 650,
+  "lead": "Mina (Francisco Espoz y)",
+  "role": "Chef de guerre espagnol.",
+  "location": "Espagne",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Mina",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 218,
+  "lead": "Murat (Joachim)",
+  "role": "personnage politique italien",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Murat",
+    "Joachim Murat",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 323,
+  "lead": "Rivière (duc de)",
+  "role": "Duc et ambassadeur.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "monsieur de Rivière",
+    "Charles François Riffardeau de Rivière",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 325,
+  "lead": "Mahmoud II",
+  "role": "Sultan de l'empire ottoman.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Padischa",
+    "Padischah Mahmoud",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 164,
+  "lead": "Hobbéma",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 326,
+  "lead": "Lorrain (Claude)",
+  "role": "Peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Claude Lorrain",
+    "Claude Gellée, dit le Lorrain",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 328,
+  "lead": "Ruysdaël (Jacob van)",
+  "role": "Peintre néerlandais",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Ruysdaël",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 329,
+  "lead": "Poussin (Nicolas)",
+  "role": "Peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Poussin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Raphaël",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Raffaello Sanzio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 49,
+  "lead": "David (Jacques-Louis)",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "David",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 330,
+  "lead": "Diafoirus",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 331,
+  "lead": "Allah",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 332,
+  "lead": "Andrieux (François)",
+  "role": "Poète et auteur dramatique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "François Andrieux",
+    "monsieur Andrieux de l'Académie française",
+    "François-Guillaume-Jean-Stanislas Andrieux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 333,
+  "lead": "Royer-Collard (Pierre-Paul)",
+  "role": "Homme politique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "monsieur Royer-Collard",
+    "Pierre-Paul Royer-Collard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 334,
+  "lead": "Alibert (Jean-Louis)",
+  "role": "Médecin français",
+  "location": "France",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "docteur Alibert",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 230,
+  "lead": "Montesquieu",
+  "role": "Ecrivain et philosophe",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Charles de Secondat, baron de Montesquieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 335,
+  "lead": "Arnolphe",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 336,
+  "lead": "Bergeret de Grancourt",
+  "role": "Père du fermier général François Bergeret",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Pierre-Jacques-Onésime Bergeret de Grandcourt",
+    "Bergeret",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 337,
+  "lead": "Baudard (Claude)",
+  "role": "Fermier général",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bodard",
+    "Claude Baudard de Vaudésir",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 338,
+  "lead": "Bouret (Étienne-Michel)",
+  "role": "Fermier-général",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bouret",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 339,
+  "lead": "Pâris",
+  "role": "Frères, financiers français.",
+  "location": "France",
+  "type": 3,
+  "indexation": "P",
+  "aliases": [
+    "les Pâris",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 86,
+  "lead": "Louis XV",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 340,
+  "lead": "Nattier (madame)",
+  "role": "Plumassière et fleuriste parisienne.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 341,
+  "lead": "Laforêt",
+  "role": "Servante de Molière",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 101,
+  "lead": "Ève",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 234,
+  "lead": "Don Quichotte",
+  "role": "Personnage de Cervantès",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 342,
+  "lead": "Piron (Alexis)",
+  "role": "Auteur.",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Piron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 343,
+  "lead": "Vadé (Jean-Joseph)",
+  "role": "Chansonnier français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Vadé",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 344,
+  "lead": "Collé (Charles)",
+  "role": "Chansonnier français.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Collé",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 310,
+  "lead": "Gaudichon (mère)",
+  "role": "Personnage de chanson populaire française.",
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "mère Godichon",
+    "Mère Godichon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 345,
+  "lead": "Talma (François-Joseph)",
+  "role": "Acteur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Talma",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 346,
+  "lead": "Terrasse (Nicolas François)",
+  "role": "Archiviste français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Terrasse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 347,
+  "lead": "Duclos (Charles-Louis-Antoine Jacquet)",
+  "role": "Sous-chef de section aux archives, entré dans l'étude de Guillonet-Merville. A rencontré Balzac.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Duclos",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 348,
+  "lead": "Jacques II",
+  "role": "Roi d'Angleterre.",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "James Stuart",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 353,
+  "lead": "Coulon",
+  "role": "Professeur de danse.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 354,
+  "lead": "Vestris",
+  "role": "Danseur à l'opéra de Paris.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 355,
+  "lead": "Judas",
+  "role": "Apôtre",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 349,
+  "lead": "Borrel",
+  "role": "Restaurateur parisien.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 350,
+  "lead": "Balaine",
+  "role": "Restaurateur parisien.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 351,
+  "lead": "Dundas (Henry)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Dundas",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 352,
+  "lead": "Pitt (William)",
+  "role": "Homme d'état anglais.",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Pitt",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 356,
+  "lead": "Armide",
+  "role": "Personnage de Torquato Tasso.",
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 393,
+  "lead": "Chevet (Germain-Charles)",
+  "role": "Marchand de comestibles et restaurateur parisien.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Chevet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 67,
+  "lead": "Lafayette",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "La Fayette",
+    "Gilbert du Motier de La Fayette",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 358,
+  "lead": "Fieschi (Giuseppe)",
+  "role": "Conspirateur.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Fieschi",
+  ],
+  "relations": [
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 86,
+  "lead": "Louis XV",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 218,
+  "lead": "Murat (Joachim)",
+  "role": "personnage politique italien",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Murat",
+    "Joachim Murat",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 23,
+  "lead": "Lucullus",
+  "role": "Homme d'état romain.",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 25,
+  "lead": "Ravrio (André-Antoine)",
+  "role": "Sculpteur.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Ravrio",
+    "André-Antoine Ravrio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 26,
+  "lead": "Isabey (Jean-Baptiste)",
+  "role": "Peintre, lithographe et aquarelliste français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "I",
+  "aliases": [
+    "Isabey",
+    "Jean-Baptiste Isabey",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 135,
+  "lead": "Lovelace",
+  "role": "Personnage de Samuel Richardson.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 110,
+  "lead": "Tantale",
+  "role": "Personnage mythologique, fils de Zeus.",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 46,
+  "lead": "Charlemagne",
+  "role": "Fils de pépin de Bref.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 242,
+  "lead": "Voltaire",
+  "role": "Ecrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "François-Marie Arouet, dit Voltaire",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 136,
+  "lead": "Albe (duc d')",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "duc d’Albe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 154,
+  "lead": "François II",
+  "role": "Roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 357,
+  "lead": "ambassadeur d’Autriche",
+  "role": "Ambassadeur.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}

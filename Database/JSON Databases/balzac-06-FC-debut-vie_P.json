@@ -1,0 +1,2046 @@
+{
+  "id": 403,
+  "lead": "Touchard (père)",
+  "role": "Messager.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Touchard père",
+  ],
+  "relations": [
+    "@père de": "36",
+    "@collègue de": "267",
+  ]
+},
+{
+  "id": 36,
+  "lead": "Touchard (fils)",
+  "role": "Messager.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Touchard fils",
+  ],
+  "relations": [
+    "@fils de": "403",
+  ]
+},
+{
+  "id": 267,
+  "lead": "Pierrotin",
+  "role": "Ce nom devrait être un surnom. Messager, successeur de son père, règnant de Paris à l'Isle-Adam. Fume du tabac dans un brûle-gueule. Intelligent, brave, leste et décidé, possède une figure rougeaude et une expression narquoise. Sorti de la cavalerie à l’époque du licenciement de 1815, il épousa la fille d'un petit aubergiste et devint père de famille. Deviendra entrepreneur des Messageries de l’Oise.",
+  "location": "Paris, l'Isle-Adam",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+    "@collègue de": "403",
+    "@emploie": "270",
+    "@père de": "402",
+    "@beau-père de": "304",
+  ]
+},
+{
+  "id": 402,
+  "lead": "Pierrotin (Georgette)",
+  "role": "Epousa en 1838 Oscar Husson avec une dot de cent cinquante mille francs.",
+  "location": "Oise",
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "Georgette Pierrotin",
+    "mademoiselle Georgette Pierrotin",
+  ],
+  "relations": [
+    "@fille de": "267",
+    "@mariée à": "304",
+  ]
+},
+{
+  "id": 269,
+  "lead": "Dammartin",
+  "role": "Propriétaire de diligences (messager).",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 270,
+  "lead": "garçon d'écurie",
+  "role": "Facteur et valet d'écurie de Pierrotin. Gros auvergnat aux pattes blanches et larges comme des amandes.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "facteur",
+  ],
+  "relations": [
+    "@employé par": "267",
+  ]
+},
+{
+  "id": 271,
+  "lead": "Rougeot",
+  "role": "Gros cheval hors d'âge de Pierrotin.",
+  "location": null,
+  "type": 4,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 272,
+  "lead": "Bichette",
+  "role": "Jument, petite et infatigable, de Pierrotin. Vaut son pesant d'or.",
+  "location": null,
+  "type": 4,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 273,
+  "lead": "Farry, Breilmann et compagnie",
+  "role": "Carossiers. Ont substitué les ressorts carrés des Anglais aux cols de cygne français. Fabricants sages et méfiants.",
+  "location": null,
+  "type": 0,
+  "indexation": "F",
+  "aliases": [
+    "Farry, Breilmann et Compagnie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 274,
+  "lead": "Touchard (les)",
+  "role": "Propriétaire de diligences (messagers)",
+  "location": null,
+  "type": 3,
+  "indexation": "T",
+  "aliases": [
+    "les Touchard",
+  ],
+  "relations": [
+    "@composé de": "403,36",
+    "@emploie": "317",
+  ]
+},
+{
+  "id": 276,
+  "lead": "Moreau (monsieur)",
+  "role": "Régisseur, intendant de la ville de Presle. Condamné à mort, fut grâcié en 1804 grâce à monsieur de Sérisy pour lequel il devint secrétaire chargé de ses affaires privées. Tombera amoureux d'une femme de chambre de la comtesse de Sérisy qu'il épousera. Homme dévoué au comte, il possède la clef de ses affaires, habite un joli pavillon au bout des communs et reçoit mille francs d'appointements fixes. Administra Presles consciencieusement pendant huit ans, jusqu'à la naissance de son troisième enfant. Fera ensuite un placement au nom de madame Moreau en conluant un bail d'exploitation des bois de Presles pour 25 000 francs, sans l'avis du comte de Serizy. Possède, selon madame de Reybert, 250 000 francs de fortune. Sera jeté dehors par le comte de Sérisy qui aura découvert la supercherie. Devenu député de l'Oise quatorze ans plus tard, il acheta la terre de Pointel, entre Presles et Beaumont.",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Moreau",
+    "Moreau fils",
+    "le père Moreau",
+    "monsieur Moreau",
+  ],
+  "relations": [
+    "@marié à": "283",
+    "@fils de": "299",
+    "@emploie": "325",
+    "@père de": "328,323,399",
+  ]
+},
+{
+  "id": 275,
+  "lead": "valet de pied",
+  "role": "Valet de pied du comte de Sérisy.",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "278",
+  ]
+},
+{
+  "id": 277,
+  "lead": "Augustin",
+  "role": "Premier valet de chambre du comte de Sérisy.",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "278",
+  ]
+},
+{
+  "id": 278,
+  "lead": "Sérisy (comte Hugret de)",
+  "role": "Comte, pair de France. Travailleur dévoué ayant fait une brillante carrière, levé dès quatre heures du matin et couché à neuf, très amoureux de sa femme vis à vis de laquelle il a l'indulgence d'une mère pour un enfant gâté. Était déjà Conseiller d’État au Grand-Conseil, en 1787, à l’âge de vingt-deux ans, où il se fit remarquer par de très beaux rapports sur des affaires délicates. Élu vers 1794 au Conseil des Cinq-Cents, placé dans le Conseil-d’État au Dix-Huit Brumaire par le Premier Consul, rejoindra ensuite un Ministère. Créé comte et sénateur par l’Empereur, il eut successivement le proconsulat de deux différents royaumes. Se marie en 1806 à quarante ans avec une veuve, Clara-Léontine de Ronquerolles. En 1814, fatigué et ayant besoin de repos, il rejoint son père et s'occupe de lui au château de Sérisy. Deviendra ensuite pair de France et sera nommé par Louis XVIII Ministre d'État, chargé des affaires privées du souverain. Après la seconde chute de l’Empereur, fut nommé Vice président du Conseil d’État et liquidateur, pour le compte de la France, dans le règlement des indemnités demandées par les puissances étrangères. A la fin de sa carrière, aura été fait chevalier des Ordres du roi de France, Grand’Croix de la Légion-d’Honneur, aura l’ordre de la Toison-d’Or, l’ordre de Saint-André de Russie, celui de l’Aigle de Prusse, enfin presque tous les ordres des cours d’Europe. Avant sa mort, obtint pour Oscar la recette de Pontoise.",
+  "location": "Sérisy, Paris, Presle",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Lecomte",
+    "Sa Seigneurie",
+    "Son Excellence",
+    "comte de Sérisy",
+    "monsieur Lecomte",
+    "monsieur le comte",
+    "monsieur de Sérisy",
+    "monsieur Hugret de Sérisy",
+    "monsieur le comte de Sérisy",
+    "Sa Seigneurie le comte de Sérisy",
+  ],
+  "relations": [
+    "@fils de": "24",
+    "@marié à": "292",
+    "@père de": "396",
+    "@beau-frère de": "294",
+    "@emploie": "331,332,333,275,277",
+  ]
+},
+{
+  "id": 279,
+  "lead": "second valet de chambre",
+  "role": "Second valet de chambre du comte de Sérisy.",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 281,
+  "lead": "Léger (monsieur)",
+  "role": "Riche fermier des Molineaux à Beaumont-sur-Oise, exploitant une ferme appartenant à Margueron, bourgeois de Beaumont-sur-Oise, qui fait enclave dans les terres du comte et gâte sa propriété de Presles. Gros homme du poids de cent vingt kilogrammes, au moins. Devenu deux fois millionnaire. Veuf, il épousa Mlle de Reybert sans dot.",
+  "location": "Beaumont-sur-Oise",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Léger",
+    "père Léger",
+    "Père Léger",
+    "monsieur Léger",
+  ],
+  "relations": [
+    "@père de": "400",
+    "@beau-père de": "316",
+    "@marié à": "401",
+  ]
+},
+{
+  "id": 282,
+  "lead": "Moreau (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "M",
+  "aliases": [
+    "les Moreau",
+  ],
+  "relations": [
+    "@composé de": "276,283,299,328,399",
+  ]
+},
+{
+  "id": 283,
+  "lead": "Moreau (Estelle)",
+  "role": "Femme de chambre de la comtesse de Sérisy. Femme du régisseur de Presles. Femme blonde, éclatante et fraîche, restée fluette malgré ses trois enfants.",
+  "location": "Presles et Paris, faubourg du Roule",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Estelle",
+    "madame Moreau",
+    "madame Moreau de l’Oise",
+  ],
+  "relations": [
+    "@mariée à": "276",
+    "@employée par": "292",
+    "@emploie": "324,329",
+    "@mère de": "328,323,399",
+  ]
+},
+{
+  "id": 24,
+  "lead": "Sérisy (Hugret de)",
+  "role": "Premier Président d’un Parlement avant la Révolution. Décédé en 1794.",
+  "location": "Sérisy",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Sérisy père",
+    "président de Sérisy",
+    "monsieur de Sérisy le père",
+  ],
+  "relations": [
+    "@père de": "278",
+  ]
+},
+{
+  "id": 600,
+  "lead": "Hugret",
+  "role": "Président d'une cour anobli sous François Ier.",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "président Hugret",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 291,
+  "lead": "Ronquerolles (marquis de)",
+  "role": "A perdu ses deux enfants à l’invasion du choléra. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "marquis de Ronquerolles",
+  ],
+  "relations": [
+    "@frère de": "292",
+  ]
+},
+{
+  "id": 292,
+  "lead": "Sérisy (comtesse Hugret de)",
+  "role": "Veuve à vingt ans de Gaubert, devenue son héritière, elle épousa le comte de Sérisy en secondes noces. Jeune, jolie, reçoit le tout Paris chez elle et fait ce qu'elle veut de ce second mari, en personne ingrate mais charmante. Perdra son fils mort à Toulon des suites de ses blessures. A 54 ans, reste belle femme, toujours élégante selon monsieur de Reybert, et rend visite une fois par mois  à Presles à son mari. A promis d'assurer 10 000 francs de rente à sa nièce Caroline du Rouvre le jour de son mariage.",
+  "location": "Presles, Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame de Sérizy",
+    "madame de Sérisy",
+    "comtesse de Sérisy",
+    "Clara-Léontine de Ronquerolles",
+  ],
+  "relations": [
+    "@soeur de": "291",
+    "@mariée à": "293,278",
+    "@mère de": "396",
+    "@emploie": "283",
+    "@tante de": "268",
+  ]
+},
+{
+  "id": 293,
+  "lead": "Gaubert",
+  "role": "Un des plus illustres généraux, décédé.",
+  "location": "France",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+    "@marié à": "292",
+  ]
+},
+{
+  "id": 294,
+  "lead": "Du Rouvre (marquis)",
+  "role": "Fut nommé comte et chambellan par l'Empereur. A presque entièrement dissipé l’une des plus belles fortunes de la noblesse en 1835 pour Florine.",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "marquis de Rouvre",
+  ],
+  "relations": [
+    "@beau-frère de": "278",
+  ]
+},
+{
+  "id": 295,
+  "lead": "Margueron (monsieur)",
+  "role": "Bourgeois de Beaumont-sur-Oise dont la ferme, exploitée par le fermier Léger, fait enclave sur les terres du comte de Sérisy. Veut faire nommer son fils unique receveur particulier des finances à Senlis.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Margueron",
+    "monsieur Margueron",
+    "le père Margueron",
+  ],
+  "relations": [
+    "@emploie": "281",
+    "@père de": "296",
+  ]
+},
+{
+  "id": 296,
+  "lead": "Margueron (fils)",
+  "role": "Fils d'un bourgeois de Beaumont-sur-Oise, simple précepteur.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Margueron fils",
+    "fils de monsieur Margueron",
+  ],
+  "relations": [
+    "@fils de ": "295",
+  ]
+},
+{
+  "id": 297,
+  "lead": "Crottat (Alexandre)",
+  "role": "Notaire du comte de Sérisy",
+  "location": "Beaumont",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Crottat",
+    "maître Crottat",
+    "Alexandre Crottat",
+    "maître Alexandre Crottat",
+  ],
+  "relations": [
+    "@employé par": "278",
+    "@emploie": "311",
+  ]
+},
+{
+  "id": 298,
+  "lead": "Derville",
+  "role": "Avoué",
+  "location": null,
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "278",
+  ]
+},
+{
+  "id": 229,
+  "lead": "Grindot",
+  "role": "Architecte parisien à la mode.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "monsieur Grindot",
+  ],
+  "relations": [
+    "@employé par": " 278",
+  ]
+},
+{
+  "id": 299,
+  "lead": "Moreau (père)",
+  "role": "Procureur de province, devenu à la Révolution procureur-syndic à Versailles. A sauvé presque tous les biens et la la vie de messieurs de Sérisy père et fils.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Moreau père",
+  ],
+  "relations": [
+    "@père de": "276",
+    "@grand-père de": "323,328,399",
+  ]
+},
+{
+  "id": 300,
+  "lead": "marchand de bois",
+  "role": "Vends pour 25 000 francs un bail d'exploitation des bois dépendant de la terre de Presles à monsieur Moreau, régisseur des terres.",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 280,
+  "lead": "Reybert (monsieur de)",
+  "role": "Officier en retraite depuis 1816, ancien capitaine d'artillerie ayant servi pendant 20 ans. Cherche à se venger du régisseur Moreau qui l'a froissé. Quoique noble, n'a que 600 francs de retraite. Devenu régisseur de Presles à la place de Moreau.",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Reybert",
+    "papa Reybert",
+    "monsieur de Reybert",
+  ],
+  "relations": [
+    "@marié à": "301",
+    "@grand-père de": "400",
+    "@père de": "401",
+  ]
+},
+{
+  "id": 301,
+  "lead": "Reybert (madame de)",
+  "role": "Née de Corroy, une famille noble du pays Messin. Sa figure est trouée comme une écumoire par la petite vérole, sa taille est plate et sèche, ses yeux ardents et clairs, et ses boucles blondes aplaties sur un front soucieux. Femme d'un officier en retraite.",
+  "location": "Presles",
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+    "madame de Reybert",
+    "Madame de Reybert, née de Corroy",
+  ],
+  "relations": [
+    "@mariée à": "280",
+    "@mère de": "401",
+  ]
+},
+{
+  "id": 302,
+  "lead": "Reybert (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "R",
+  "aliases": [
+    "les Reybert",
+  ],
+  "relations": [
+    "@composée de": "280,301",
+  ]
+},
+{
+  "id": 401,
+  "lead": "Léger (madame)",
+  "role": "Fille de monsieur et madame Reybert, épousa le père Léger sans dot avec lequel elle a eu une fille.",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Mademoiselle de Reybert",
+  ],
+  "relations": [
+    "@fille de": "301,280",
+  ]
+},
+{
+  "id": 303,
+  "lead": "Clapart (madame)",
+  "role": "Veuve Husson. Femme célèbre sous le Directoire par ses liaisons avec 5 rois du moment. Épousa Husson, un fournisseur, qui fit fortune puit faillite et se jeta dans la Seine, laissant sa femme enceinte. Elle épousa Clapart à 22 ans dans sa détresse. Moreau la plaça ensuite comme première femme de chambre chez la femme de l'empereur.",
+  "location": "7 rue de la Cerisaie, quartier de l'Arsenal, Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "madame Clapart",
+    "madame Husson",
+  ],
+  "relations": [
+    "@mère de": "304",
+    "@mariée à": "309,305",
+    "@courtisée par": "276",
+  ]
+},
+{
+  "id": 304,
+  "lead": "Husson (Oscar)",
+  "role": "Enfant de Husson, décédé, et de madame Clapart. Placé au collége Henri IV grâce à monsieur Moreau qui lui obtint une bourse de la Ville de Paris. Jeune homme doué de sottise. Tenu sévèrement au logis paternel. Provoquera l'ire de Moreau qui perdra par sa faute sa place de régisseur de Presles. Placé par Moreau dans l'étude de maître Desroches, sera troisième clerc à 20 ans. Se fait soldat à sa majorité, après une faute grave à l'étude. A 25 ans, en 1830, il était maréchal-des-logis-chef dans la compagnie du vicomte de Sérisy. Dans la bataille de 1830, passera au peuple, attirera l'attention publique et obtiendra la croix de la Légion-d'Honneur. Fut attaché comme aide de camp à La Fayette qui lui fit avoir le grade de capitaine en 1832. Fut envoyé en Afrique où il sauva le vicomte de Sérisy blessé et où il fut récompensé par la croix d’officier de la Légion-d’Honneur et par sa promotion au grade de lieutenant-colonel. Perdra un bras gauche, amputé. Epousa mademoiselle Gergette Pierrotin en 1838.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Oscar",
+    "Oscar Husson",
+    "le petit Husson",
+    "monsieur Husson",
+  ],
+  "relations": [
+    "@fils de": "303",
+    "@neveu de": "310",
+    "@marié à": "402",
+  ]
+},
+{
+  "id": 305,
+  "lead": "Clapart (monsieur)",
+  "role": "A toujours des lunettes vertes aux yeux. Homme au teint blafard, aux pantoufles ignobles, paraissant craintif et tyrannique. Employé au Bureau des Finances, doué d'une beauté vulgaire et d'aucune intelligence, il épousa à 27 ans la veuve Husson. Mort en 1835 lors de l'attentat de Fieschi.",
+  "location": "7 rue de la Cerisaie, quartier de l'Arsenal, Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Clapart",
+    "monsieur Clapart",
+  ],
+  "relations": [
+    "@marié à": "303",
+    "@beau-père de": "304",
+    "@ami de": "334",
+  ]
+},
+{
+  "id": 306,
+  "lead": "portière",
+  "role": "Portière du 7, rue de la Cerisaie",
+  "location": "7 rue de la Cerisaie, quartier de l'Arsenal, Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 307,
+  "lead": "femme de ménage",
+  "role": "Fait quelques heures de ménage le matin chez les Clapart, à Paris.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+    "@amployée par": "308",
+  ]
+},
+{
+  "id": 308,
+  "lead": "Clapart (famille)",
+  "role": "Famille résidant à Paris.",
+  "location": "7 rue de la Cerisaie, quartier de l'Arsenal, Paris",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "les Clapart",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 311,
+  "lead": "Marest (Georges)",
+  "role": "Second clerc de Maître Crottat. Fils d’un riche quincaillier en gros de la rue Saint-Martin, alors beau jeune homme. Est en 1824 le maître-clerc de maître Hannequin. En 1838, quasimment chauve, devenu presque ignoble de tournure et de maintien. Employé de l'Espérance comme inspecteur-général, institution donnant des dots au jeunes filles après 10 ans, des rentes viagères aux vieillards et payant l'éducation des enfants.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Georges",
+    "Georges Marest",
+    "le colonel Georges",
+  ],
+  "relations": [
+    "@ami de": "312",
+    "@employé par": "297,372",
+    "@cousin germain de ": "353",
+  ]
+},
+{
+  "id": 312,
+  "lead": "Amaury",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+    "@ami de": "311",
+  ]
+},
+{
+  "id": 313,
+  "lead": "Lora (Léon de)",
+  "role": "Rapin (élève en peinture).",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Mistigris",
+    "Léon de Lora",
+    "monsieur Mistigris",
+  ],
+  "relations": [
+    "@ami de": "316",
+  ]
+},
+{
+  "id": 79,
+  "lead": "Kergarouët (comte de)",
+  "role": "vice-amiral, comte, vieux marin, noble Breton âgé de 73 ans en 1825, il épousera à 72 ans sa petite-nièce",
+  "location": "France",
+  "type": 1,
+  "indexation": "K",
+  "aliases": [
+    "amiral de Kergarouet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 315,
+  "lead": "Yung (monsieur)",
+  "role": "Beau-père inventé par Georges Marest ayant prétenduement épousé sa mère en 1799. Fournisseur chinois.",
+  "location": null,
+  "type": 1,
+  "indexation": "Y",
+  "aliases": [
+    "monsieur Yung",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 165,
+  "lead": "Schinner (Hippolyte)",
+  "role": "Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Schinner",
+    "Monsieur Schinner",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 163,
+  "lead": "Leseigneur (Adélaïde)",
+  "role": null,
+  "location": "Paris, rue de Suresne",
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "Adélaïde de Rouville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 60,
+  "lead": "Fontaine (comte de)",
+  "role": "Comte originaire du Poitou, maréchal-de-camp, vendéen, décoré de la croix de l'ordre de la Légion-d'Honneur et celle de Saint-Louis, grand-prévôt puis député, a trois fils et trois filles. Deviendra pair de France. Obtient une commande de plafonds au Louvre pour le peintre Schinner.",
+  "location": "France",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "comte de Fontaine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 314,
+  "lead": "Zéna",
+  "role": "Femme Grecque. Très belle, mariée à un vieil homme laid et jaloux de 67 ans ayant donné 300 000 francs aux parents pour l'épouser.",
+  "location": null,
+  "type": 2,
+  "indexation": "Z",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 316,
+  "lead": "Bridau (Joseph)",
+  "role": "Peintre. Envoyé par Schinner avec Mistrigris peindre chez le comte de Sérisy. Portera la rosette de la Légion-d’Honneur 14 ans plus tard. Epousa mademoiselle Léger en 1838.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bridau",
+    "Joseph",
+    "Joseph Bridau",
+    "le faux Schinner",
+  ],
+  "relations": [
+    "@ami de": "313",
+    "@gendre de": "281",
+    "@marié à": "400",
+  ]
+},
+{
+  "id": 317,
+  "lead": "duègne",
+  "role": "Vieille duègne inventée par Joseph Bridau, laide comme un vieux portier, accompagnant Zéna lors d'une promenade tout aussi inventée sur les remparts.",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 330,
+  "lead": "François",
+  "role": "Conducteur de la diligence de six heures des Touchard.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "274",
+  ]
+},
+{
+  "id": 318,
+  "lead": "aubergiste",
+  "role": "Propriétaire du Lion-d'Argent, à Paris",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 319,
+  "lead": "aubergiste",
+  "role": "Aubergiste de Saint-Denis vendant de célèbres talmouses et où tous les voyageurs à diligence descendent.",
+  "location": "Saint-Denis",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 320,
+  "lead": "aubergiste",
+  "role": "Aubergiste de Saint-Brice, cherche à vendre un cheval au père Léger.",
+  "location": "Saint-Brice",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 57,
+  "lead": "Loraux (monsieur)",
+  "role": "vicaire de Saint-Sulpice. En 1824, était curé des Blancs-Manteaux à Paris depuis 5 ans, et présenta à son neveu Maurice de l'Hostal le comte Octave de Bauvan.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "monsieur Loraux",
+    "abbé Loraux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 321,
+  "lead": "Frayssinous (abbé)",
+  "role": "Abbé",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "abbé Frayssinous",
+    "Denis-Antoine-Luc, comte Frayssinous",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 322,
+  "lead": "Husson de la Cerisaie (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+    "@composé de": "309,303,304,335",
+  ]
+},
+{
+  "id": 323,
+  "lead": "Moreau (fils)",
+  "role": "Fils cadet de Moreau",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "le petit Moreau",
+  ],
+  "relations": [
+    "@fils de": "283,276",
+    "@frère de": "328,399",
+  ]
+},
+{
+  "id": 324,
+  "lead": "fille de basse-cour",
+  "role": "Chargée de la laiterie, aide au ménage pour madame Moreau",
+  "location": "Presles",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "283,276",
+  ]
+},
+{
+  "id": 325,
+  "lead": "Brochon",
+  "role": "Soldat réformé employé par monsieur Moreau pour panser les chevaux et faire les gros ouvrages. Valet d'écurie.",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "276",
+  ]
+},
+{
+  "id": 326,
+  "lead": "curé de Presles",
+  "role": "Se rend chez monsieur et madame Moreau tous les soirs pour jouer.",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 327,
+  "lead": "maire de Presles",
+  "role": "Se rend chez monsieur et madame Moreau tous les soirs pour jouer.",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 328,
+  "lead": "Moreau (Jacques)",
+  "role": "Fils aîné des Moreau",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "fils de:283,276",
+  ],
+  "relations": [
+    "@frère de": "323,399",
+  ]
+},
+{
+  "id": 329,
+  "lead": "Rosalie",
+  "role": "femme de chambre de madame Moreau",
+  "location": "Presles",
+  "type": 2,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "276,283",
+  ]
+},
+{
+  "id": 331,
+  "lead": "jardinier",
+  "role": "Jardinier du comte de Sérisy",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "278",
+  ]
+},
+{
+  "id": 332,
+  "lead": "concierge",
+  "role": "Concierge du comte de Serizy",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "278",
+  ]
+},
+{
+  "id": 333,
+  "lead": "garde",
+  "role": "Garde de la propriété du comte de Serizy",
+  "location": "Presles",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "278",
+  ]
+},
+{
+  "id": 334,
+  "lead": "Poiret",
+  "role": "Ami de monsieur Clapart.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "monsieur Poiret",
+  ],
+  "relations": [
+    "@ami de": "305",
+  ]
+},
+{
+  "id": 309,
+  "lead": "Husson",
+  "role": "Fournisseur sous le Directoire, il gagna des millions puis fu ruiné par Napoléon en 1802. Se suicida en se jetant dans la Seine en laissant sa femme enceinte.",
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "feu Husson",
+  ],
+  "relations": [
+    "@marié à": "303",
+    "@frère de": "335",
+    "@beau-frère de": "309",
+  ]
+},
+{
+  "id": 335,
+  "lead": "Cardot (feu madame)",
+  "role": "Défunte de Jean-Jérôme-Séverin Cardot. Grande femme sèche et rousse.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "feu madame Cardot",
+    "mademoiselle Husson",
+    "feu la respectable madame Cardot",
+  ],
+  "relations": [
+    "@mariée à": "310",
+    "@soeur de": "309",
+  ]
+},
+{
+  "id": 41,
+  "lead": "Camusot (monsieur)",
+  "role": "Riche négociant en soieries. Successeur et genre de monsieur Cardot.",
+  "location": "Paris, rue des Bourdonnais",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Camusot",
+    "monsieur Camusot",
+  ],
+  "relations": [
+    "@gendre de": "310",
+  ]
+},
+{
+  "id": 336,
+  "lead": "Camusot (madame)",
+  "role": "Femme d'un riche négociant en soieries à laquelle son père, monsieur Cardot, a donné son établissement du Cocon-d'Or comme dot.",
+  "location": "Paris, rue des Bourdonnais",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "madame Camusot",
+  ],
+  "relations": [
+    "@fille de": "310",
+    "@soeur de": "337,339,340",
+  ]
+},
+{
+  "id": 337,
+  "lead": "Protez (Marianne)",
+  "role": "Née Cardot.Seconde fille de monsieur Cardot.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "Marianne",
+    "madame Protez",
+  ],
+  "relations": [
+    "@mariée à": "338",
+    "@fille de": "310",
+    "@soeur de": "336,339,340",
+  ]
+},
+{
+  "id": 338,
+  "lead": "Protez (monsieur)",
+  "role": "De la maison Protez et Chiffreville.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+    "@gendre de": "310",
+  ]
+},
+{
+  "id": 339,
+  "lead": "Cardot (fils aîné)",
+  "role": "Fils ainé de monsieur Cardot. Notaire.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@fils de": "310",
+    "@frère de": "340,337,336",
+  ]
+},
+{
+  "id": 340,
+  "lead": "Cardot (Joseph)",
+  "role": "Second fils de monsieur Cardot, associé par son père à la maison de droguerie Matifat.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@fils de": "310",
+    "@frère de": "336,337,339",
+  ]
+},
+{
+  "id": 602,
+  "lead": "Matifat",
+  "role": "Drogiste parisien.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 310,
+  "lead": "Cardot (Jean-Jérôme-Séverin)",
+  "role": "A fait une grande fortune dans la soierie en se mariant avec mademoiselle Husson. A quatre enfants de deux lits différents. D'abord premier commis de la maison du Cocon-d'Or, il acheta l'établissement en 1793. Occupe le premier étage d'un appartement de Belleville, au dessus de la Courtille.",
+  "location": "Belleville, Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Cardot",
+    "père Cardot",
+    "oncle Cardot",
+    "le père Cardot",
+    "le vieux Cardot",
+    "le bonhomme Cardot",
+    "Monsieur Jean-Jérôme-Séverin Cardot",
+  ],
+  "relations": [
+    "@marié à": "335",
+    "@beau-frère de": "309",
+    "@père de": "336,337,339,340",
+    "@beau-père de": "338,41",
+  ]
+},
+{
+  "id": 341,
+  "lead": "Cardot (famille)",
+  "role": "Famille parisienne. Le père Cardot a fait fortune dans le négoce de soieries.",
+  "location": "Paris",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "les Cardot",
+  ],
+  "relations": [
+    "@composée de": "310,335,336,337,339,340",
+  ]
+},
+{
+  "id": 342,
+  "lead": "cuisinière (vieille)",
+  "role": "Vieille cuisinière de monsieur et madame Cardot.",
+  "location": "Belleville, Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "310",
+  ]
+},
+{
+  "id": 343,
+  "lead": "femme de chambre",
+  "role": "Femme de chambre de madame Cardot.",
+  "location": "Belleville, Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "310",
+  ]
+},
+{
+  "id": 344,
+  "lead": "Coralie",
+  "role": "Comédienne.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "feu Coralie",
+  ],
+  "relations": [
+    "@amie de": "345",
+  ]
+},
+{
+  "id": 346,
+  "lead": "Camusot (famille)",
+  "role": "Famille établie à Paris, propriétaire du Cocon-d'Or.",
+  "location": "Paris",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "les Camusot",
+    "famille Camusot",
+  ],
+  "relations": [
+    "@composée de": "41,336",
+  ]
+},
+{
+  "id": 347,
+  "lead": "Protez (famille)",
+  "role": null,
+  "location": "Paris",
+  "type": 3,
+  "indexation": "P",
+  "aliases": [
+    "les Protez",
+  ],
+  "relations": [
+    "@composée de": "337,338",
+  ]
+},
+{
+  "id": 348,
+  "lead": "Desroches (maître)",
+  "role": "Jeune homme de vingt-six ans, élevé durement par un père d’une excessive sévérité, dur comme une barre de fer, sec et maigre, âpre à l’ouvrage. Avoué faisant travailler 5 clercs dans son étude de la rue de Béthisy. ",
+  "location": "Paris, rue de Béthisy",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Desroches",
+    "monsieur Desroches",
+  ],
+  "relations": [
+    "@emploie": "349,304,356,371,372,373,374,375",
+  ]
+},
+{
+  "id": 349,
+  "lead": "Godeschal (François-Claude-Marie)",
+  "role": "Premier clerc de maître Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "employé par:348",
+    "Godeschal",
+    "monsieur Godeschal",
+    "François-Claude-Marie Godeschal",
+  ],
+  "relations": [
+    "@frère de": "350",
+  ]
+},
+{
+  "id": 350,
+  "lead": "Mariette",
+  "role": "Danseuse parisienne, premier Sujet de l’Académie royale de musique et de danse.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Marie Godeschal",
+  ],
+  "relations": [
+    "@soeur de": "349",
+  ]
+},
+{
+  "id": 351,
+  "lead": "Derville (maître)",
+  "role": "Confrère de maître Desroches qui lui a pris le clerc Godeschal.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Derville",
+    "maître Derville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 352,
+  "lead": "Gaudet",
+  "role": "Second clerc de maître Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 353,
+  "lead": "Marest (Frédéric)",
+  "role": "Quatrième clerc de maître Desroches à 23 ans.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Frédéric",
+    "Frédéric Marest",
+  ],
+  "relations": [
+    "@fils de": "354",
+    "@cousin germain de": "311",
+  ]
+},
+{
+  "id": 354,
+  "lead": "Marest (madame)",
+  "role": "Veuve d’un riche marchand de bois.",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "madame Marest",
+  ],
+  "relations": [
+    "@mère de": "353",
+  ]
+},
+{
+  "id": 355,
+  "lead": "Bordin (Jérosme-Sébastien Bordin)",
+  "role": "Procureur au Châtelet, prédecesseur médiat de Sauvagnest. ",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bordin",
+    "maître Bordin",
+    "maistre Jérosme-Sébastien Bordin",
+  ],
+  "relations": [
+    "@emploie": "358,359,360,361,362,363,364,365,366,367,368,369",
+  ]
+},
+{
+  "id": 356,
+  "lead": "Sauvagnest",
+  "role": "Avoué de Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "348",
+  ]
+},
+{
+  "id": 357,
+  "lead": "Guerbet (monsieur)",
+  "role": "Procureur au Châtelet, Paris.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 358,
+  "lead": "Malin",
+  "role": "En 1787, principal clerc dans l'étude de maître Bordin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 359,
+  "lead": "Grevin",
+  "role": "En 1787, second clerc dans l'étude de maître Bordin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 360,
+  "lead": "Feret (Athanase)",
+  "role": "En 1787, clerc dans l'étude de maître Bordin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Athanase Feret",
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 361,
+  "lead": "Huet (Jacques)",
+  "role": "En 1787, clerc dans l'étude de maître Bordin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Jacques Huet",
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 362,
+  "lead": "Saint-Jean-d’Angély (Regnauld de)",
+  "role": "En 1787, clerc dans l'étude de maître Bordin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Regnauld de Saint-Jean-d’Angély",
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 363,
+  "lead": "Bedeau",
+  "role": "En 1787, petit clerc saute-ruisseau dans l'étude de maître Bordin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 364,
+  "lead": "Oignard",
+  "role": "En 1806, premier clerc de maître Bordin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "O",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 365,
+  "lead": "Poidevin",
+  "role": "En 1806, deuxième clerc de maître Bordin",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 366,
+  "lead": "Proust",
+  "role": "En 1806, clerc de maître Bordin",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 367,
+  "lead": "Brignolet",
+  "role": "En 1806, clerc de maître Bordin",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 368,
+  "lead": "Derville",
+  "role": "En 1806, clerc de maître Bordin",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 369,
+  "lead": "Coret (Augustin)",
+  "role": "En 1806, petit-clerc de maître Bordin",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Augustin Coret",
+  ],
+  "relations": [
+    "@employé par": "355",
+  ]
+},
+{
+  "id": 370,
+  "lead": "Rolland",
+  "role": "Restaurateur inventé par Godeschal, établi rue du Hasard, à Paris.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "le sieur Rolland",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 371,
+  "lead": "Doublet",
+  "role": "En 1822, deuxième clerc chez maître Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": " 348",
+  ]
+},
+{
+  "id": 372,
+  "lead": "Vassal",
+  "role": "En 1822, troisième clerc chez maître Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": " 348",
+  ]
+},
+{
+  "id": 373,
+  "lead": "Hérisson",
+  "role": "En 1822, clerc chez maître Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "le sieur Hérisson",
+  ],
+  "relations": [
+    "@employé par": " 348",
+  ]
+},
+{
+  "id": 374,
+  "lead": "Grandemain",
+  "role": "En 1822, clerc chez maître Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": " 348",
+  ]
+},
+{
+  "id": 375,
+  "lead": "Dumets",
+  "role": "En 1822, petit clerc chez maître Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": " 348",
+  ]
+},
+{
+  "id": 376,
+  "lead": "Jacquinaut",
+  "role": "Petit clerc chez maître Desroches.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": " 348",
+  ]
+},
+{
+  "id": 377,
+  "lead": "Hannequin (Léopold)",
+  "role": "Ami d'enfance d'Albert Savarus.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hannequin",
+    "Léopold Hannequin",
+    "maître Léopold Hannequin",
+  ],
+  "relations": [
+    "@emploie": "311",
+  ]
+},
+{
+  "id": 378,
+  "lead": "Florentinas y Cabirolos (marquise de)",
+  "role": "Prétendue marquise inventée par Gerorges Marest, née au Mexique et fille d’un créole, veuve d'un grand d'Espagne.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "marquise de Las Florentinas",
+    "comtesse de Las Florentinas",
+    "marquise de Las Florentinas y Cabirolos",
+    "marquise de las Florentinas y Cabirolos",
+    "la marquise mexicaine de Las Florentinas y Cabirolos",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 379,
+  "lead": "Vandenesse (Charles de)",
+  "role": "Ambassadeur en 1825. La même année, en procès contre son frère Félix-Amédée.",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Charles de Vandenesse",
+  ],
+  "relations": [
+    "@frère de": "380",
+  ]
+},
+{
+  "id": 380,
+  "lead": "Vandenesse (Félix-Amédée de)",
+  "role": "Se maria avec Marie-Angélique de Granville en 1828. Lui apprit alors les choses de la vie. Eut avant elle de nombreuses conquêtes, dont Lady Dudley qui le forma et Madame de Manerville.",
+  "location": "rue du Rocher, Paris",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Félix-Amédée de Vandenesse",
+    "comte Félix de Vandenesse",
+  ],
+  "relations": [
+    "@frère de": "379",
+  ]
+},
+{
+  "id": 381,
+  "lead": "Simon",
+  "role": "Commis-greffier au Palais de Justice de Paris.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 345,
+  "lead": "Florentine (mademoiselle)",
+  "role": "Première danseuse du théâtre de la Gaîté à Paris. Courtisée à l'âge de 13 ans par le père Cardot, veuf depuis un an.",
+  "location": "Paris, rue de Crussol",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "Titine",
+    "Florentine",
+    "mademoiselle Cabirolle",
+    "mademoiselle Florentine",
+    "Agathe-Florentine Cabirolle",
+  ],
+  "relations": [
+    "@fille de": "382",
+    "@amie de": "129,210,344,394",
+    "@courtisée par": "310,311",
+  ]
+},
+{
+  "id": 382,
+  "lead": "Cabirolle (madame)",
+  "role": "Mère de la danseuse Florentine et simple portière.",
+  "location": "Paris, rue de Crussol",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+    "@mère de": "345",
+  ]
+},
+{
+  "id": 129,
+  "lead": "Tullia",
+  "role": "danseuse à l'Opéra",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+    "@amie de": "345,391",
+  ]
+},
+{
+  "id": 210,
+  "lead": "Florine (Sophie Grignoux dite)",
+  "role": "Artiste lyrique, une des plus charmantes actrices de Paris. Vendit tout ses meubles pour avancer des fonds à Raoul Nathan.",
+  "location": "rue Pigalle, Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "Florine",
+  ],
+  "relations": [
+    "@amie de": "345",
+  ]
+},
+{
+  "id": 383,
+  "lead": "Florentinas y Cabirolos (marquis de)",
+  "role": "Personnage inventé par Georges Marest figurant le père de Florentine.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "marquis de Las Florentinas y Cabirolos",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 389,
+  "lead": "Giroudeau",
+  "role": "Vieux capitaine de dragons.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "le général Giroudeau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 390,
+  "lead": "Finot",
+  "role": "Journaliste.",
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 391,
+  "lead": "du Bruel",
+  "role": "Auteur et vaudevilliste.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Du Bruel",
+  ],
+  "relations": [
+    "@ami de": "129",
+  ]
+},
+{
+  "id": 392,
+  "lead": "Val-Noble (madame du)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "madame du Val-Noble",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 214,
+  "lead": "Nathan (Raoul)",
+  "role": "Fils d’un brocanteur juif, mort en banqueroute dans les premiers jours de son mariage ; mais sa mère était catholique. Cache ses origines avec soin. Journaliste et auteur. A des yeux napoléoniens, des yeux bleus dont le regard traverse l’âme ; un nez tourmenté, plein de finesse ; une charmante bouche, embellie par les dents les plus blanches que puisse souhaiter une femme. Il y a du mouvement et du feu dans cette tête, et du génie sur ce front. Raoul appartient au petit nombre d’hommes qui vous frappent au passage, qui dans un salon forment aussitôt un point lumineux où vont tous les regards. Fréquente depuis 10 ans Florine, chez qui il passe la moitié de sa vie.",
+  "location": "Entre la rue Basse-du-Rempart et la rue Neuve-des-Mathurins, Paris",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Nathan",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 393,
+  "lead": "Anglade (marquise d')",
+  "role": "Nom sous lequel Florentine présente Fanny Beaupré à Oscar Husson.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+    "marquise d’Anglade",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 394,
+  "lead": "Beaupré (Fanny)",
+  "role": "Jeune actrice.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "Fanny-Beaupré",
+  ],
+  "relations": [
+    "@courtisée par": "310",
+    "@amie de": "345",
+  ]
+},
+{
+  "id": 264,
+  "lead": "Maufrigneuse (duc de)",
+  "role": "Florentine et Mariette le fréquentent en 1825.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "duc de Maufrigneuse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 395,
+  "lead": "Gaudron (abbé)",
+  "role": "Vicaire de Saint-Paul.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "abbé Gaudron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 603,
+  "lead": "Sérisy",
+  "role": "Famille noble.",
+  "location": null,
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+    "maison de Sérisy",
+  ],
+  "relations": [
+    "@composée de": "396,278,292,24",
+  ]
+},
+{
+  "id": 396,
+  "lead": "Sérisy (vicomte Jules de)",
+  "role": "Fils unique du comte de Sérisy. Jeune officier de la compagnie des Gardes d’Havré. Lieutenant-colonel du régiment du duc de Maufrigneuse, aura Oscar Husson sous ses ordres. Blessé lors de l'affaire de la Macta, sauvé par Oscar Husson, il mourra des suites de ses blessures à Toulon. Enterré dans la chapelle du château de Sérisy.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "vicomte de Sérisy",
+    "vicomte Jules de Sérisy",
+  ],
+  "relations": [
+    "@fils de": "278,292",
+  ]
+},
+{
+  "id": 397,
+  "lead": "Belle-Jambe",
+  "role": "Domestique d'Oscar Husson.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 128,
+  "lead": "Canalis (monsieur de)",
+  "role": "Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Canalis",
+    "monsieur le baron de Canalis",
+  ],
+  "relations": [
+    "@marié à": "399",
+    "@gendre de": "276,283",
+  ]
+},
+{
+  "id": 268,
+  "lead": "Du Rouvre (mademoiselle)",
+  "role": "Fille unique du marquis du Rouvre, épousa en décembre 1835 le comte Adam Mitgislas Laginski, jeune polonais proscrit.",
+  "location": "rue de la Pépinière, Paris",
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+    "mademoiselle du Rouvre",
+  ],
+  "relations": [
+    "@mariée à": "398",
+    "@nièce de": "292",
+  ]
+},
+{
+  "id": 398,
+  "lead": "Laginski (comte)",
+  "role": "Jeune polonais fort riche. Sa petite figure, assez aigre de ton, semble avoir été pressée dans un étau. Son nez court, ses cheveux blonds, ses moustaches et sa barbe rousses lui donnent d’autant plus l’air d’une chèvre qu’il est petit, maigre, et que ses yeux d’un jaune sale vous saisissent par ce regard oblique si célèbre par le vers de Virgile. Acheta en 1834 un hôtel rue de la Pépinière à Paris. Épousa en décembre 1835 mademoiselle du Rouvre. Appartient à l’une des plus vieilles et des plus illustres familles de la Pologne. Nommé capitaine dans un régiment destiné à l’expédition de Khiva par l'empereur Nicolas.",
+  "location": "rue de la Pépinière, Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "comte Laginski",
+  ],
+  "relations": [
+    "@marié à": "268",
+  ]
+},
+{
+  "id": 399,
+  "lead": "Canalis (baronne de)",
+  "role": "Fille de monsieur et madame Moreau. A épousé Canalis avec une dot de deux millions.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "baronne de Canalis",
+    "madame de Canalis",
+  ],
+  "relations": [
+    "@mariée à": "128",
+    "@fille de": "276,283",
+    "@soeur de": "323,328",
+  ]
+},
+{
+  "id": 400,
+  "lead": "Léger (mademoiselle)",
+  "role": "Fille d'un riche fermier, épousa Joseph Bridau en 1838.",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+    "@fille de": "281",
+    "@petite-fille de": "280",
+    "@mariée à": "316",
+  ]
+},
+{
+  "id": 58,
+  "lead": "Aiglemont (Victor d’)",
+  "role": "Colonel, marquis.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "marquis d’Aiglemont",
+  ],
+  "relations": [
+  ]
+}

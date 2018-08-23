@@ -1,0 +1,196 @@
+{
+  "id": 7,
+  "lead": "Gondreville (Malin, comte de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Gondreville",
+    "le citoyen Malin",
+    "comte de Gondreville",
+    " ",
+    "25>Vaudremont (comtesse de)>Fut une des victimes de l’épouvantable incendie qui rendit à jamais célèbre le bal donné par l’ambassadeur d’Autriche, à l’occasion du mariage de l’empereur Napoléon avec la fille de l’empereur François II en 1810.>>2>V",
+    "madame de Vaudremont",
+    "comtesse de Vaudremont",
+  ],
+  "relations": [
+    "@marié à": "487",
+  ]
+},
+{
+  "id": 77,
+  "lead": "Montcornet (comte de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Montcornet",
+    "colonel Montcornet",
+    "général Montcornet",
+  ],
+  "relations": [
+    "@marié à": "78",
+  ]
+},
+{
+  "id": 90,
+  "lead": "Montcornet (comtesse de)",
+  "role": "Charmante petite femme qui recevait les artistes illustres, les sommités de la finance, les écrivains distingués, mais après les avoir soumis à un si sévère examen, que les plus difficiles en fait de bonne compagnie n’avaient pas à craindre d’y rencontrer qui que ce soit de la société secondaire.",
+  "location": "France",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "de Montcornet",
+    "comtesse de Montcornet",
+  ],
+  "relations": [
+    "@mariée à": "77",
+  ]
+},
+{
+  "id": 174,
+  "lead": "Soulanges (maréchal comte Léon de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Léon",
+    "Soulanges",
+    "comte de Soulanges",
+    "monsieur de Soulanges",
+  ],
+  "relations": [
+    "@marié à": "488",
+  ]
+},
+{
+  "id": 213,
+  "lead": "La Roche-Hugon (comte Martial de)",
+  "role": "Ministre.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Martial",
+    "baron de la Roche-Hugon",
+    "Martial de la Roche-Hugon",
+    "monsieur de la Roche-Hugon",
+    "Le baron Martial de la Roche-Hugon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 220,
+  "lead": "Wagram (princesse de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "W",
+  "aliases": [
+    "princesse de Wagram",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 235,
+  "lead": "Isemberg (maréchal duc d')",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "I",
+  "aliases": [
+    "maréchal duc d’Isemberg",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 241,
+  "lead": "Keller (François)",
+  "role": "Banquier célèbre, parent de Gobenheim.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "K",
+  "aliases": [
+    "Keller",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 489,
+  "lead": "Berg (grande-duchesse de)",
+  "role": null,
+  "location": "Paris",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "grande-duchesse de Berg",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 452,
+  "lead": "Lansac (duchesse de)",
+  "role": "Femme maligne comme un vieux singe, qui ne va au bal que pour tout voir en faisant semblant de dormir.",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "madame de Lansac",
+    "duchesse de Lansac",
+  ],
+  "relations": [
+    "@grande-tante de": "488",
+  ]
+},
+{
+  "id": 487,
+  "lead": "Gondreville (comtesse)",
+  "role": "Comtesse.",
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "comtesse de Gondreville",
+  ],
+  "relations": [
+    "@mariée à": "7",
+  ]
+},
+{
+  "id": 215,
+  "lead": "Navarreins (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "N",
+  "aliases": [
+    "les Navarreins",
+    "maison de Navarreins",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 488,
+  "lead": "Soulanges (comtesse Hortense de)",
+  "role": "La comtesse est l'inconnue du bal en 1809 (la Paix du ménage).",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "madame de Soulanges",
+    "comtesse de Soulanges",
+  ],
+  "relations": [
+    "@petite-nièce de": "452",
+    "@mariée à": "174",
+  ]
+}

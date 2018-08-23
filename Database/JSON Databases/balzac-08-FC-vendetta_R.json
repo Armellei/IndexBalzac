@@ -1,0 +1,470 @@
+{
+  "id": 321,
+  "lead": "Médicis (Catherine de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Catherine de Médicis",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 324,
+  "lead": "Valois (les)",
+  "role": "Famille royale française, branche cadette des capétiens.",
+  "location": "France",
+  "type": 3,
+  "indexation": "V",
+  "aliases": [
+    "Valois",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 384,
+  "lead": "Carraches (les)",
+  "role": "Peintres italiens du XVIe siècle.",
+  "location": "Italie",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "Carraches",
+    "Les Carracci",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 385,
+  "lead": "Bonaparte",
+  "role": "Premier consul.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Napoléon",
+  ],
+  "relations": [
+    "@frère de": "386",
+  ]
+},
+{
+  "id": 386,
+  "lead": "Bonaparte (Lucien)",
+  "role": "Ministre de l'intérieur sous Napoléon Bonaparte.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Lucien",
+    "Loucian",
+    "Lucien Bonaparte",
+  ],
+  "relations": [
+    "@frère de": "385",
+  ]
+},
+{
+  "id": 218,
+  "lead": "Murat (Joachim)",
+  "role": "personnage politique italien",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Murat",
+    "Joachim Murat",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 387,
+  "lead": "Lannes (Jean)",
+  "role": "Duc de Montebello.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Lannes",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 388,
+  "lead": "Rapp (Jean)",
+  "role": "Homme politique français. Aide de camp de Napoléon Bonaparte.",
+  "location": "France",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rapp",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 389,
+  "lead": "Porta (les)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "P",
+  "aliases": [
+    "Porta",
+    "les Porta",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 390,
+  "lead": "Piombo (les)",
+  "role": "Famille corse.",
+  "location": null,
+  "type": 3,
+  "indexation": "P",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 391,
+  "lead": "Herbault (madame)",
+  "role": "On se procure chez elle des chapeaux.",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+    "Herbault",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 392,
+  "lead": "Leroy (Pierre-Auguste)",
+  "role": "Marchand de modes",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Leroy",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 393,
+  "lead": "Chevet (Germain-Charles)",
+  "role": "Marchand de comestibles et restaurateur parisien.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Chevet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 394,
+  "lead": "Diane",
+  "role": "Déesse de la chasse chez les romains.",
+  "location": null,
+  "type": 2,
+  "indexation": "D",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 75,
+  "lead": "Apollon",
+  "role": "dieu grec des arts, de la musique, de la poésie",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 395,
+  "lead": "Vénus",
+  "role": "Personnage de la mythologie romaine, déesse de l'amour.",
+  "location": null,
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 176,
+  "lead": "Prud'hon (Pierre-Paul)",
+  "role": "peintre et dessinateur",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Prudhon",
+    "Pierre-Paul Prud'hon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 82,
+  "lead": "Bourbon (maison de)",
+  "role": "Famille noble.",
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "Bourbons",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 396,
+  "lead": "La Bédoyère",
+  "role": "Militaire français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Labédoyère",
+    "Charles Angélique François Huchet de La Bédoyère",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 397,
+  "lead": "Aladin",
+  "role": "Personnage des Mille et Une Nuits.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 186,
+  "lead": "Scott (Walter)",
+  "role": "écrivain anglais",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Walter Scott",
+    "Walter-Scott",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 54,
+  "lead": "Girodet",
+  "role": "peintre d'histoire",
+  "location": "France",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 311,
+  "lead": "Ney (Michel)",
+  "role": "Duc d'Elchingen, maréchal d'Empire.",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "maréchal Ney",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 398,
+  "lead": "Endymion",
+  "role": "Roi d'Élide.",
+  "location": null,
+  "type": 1,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 399,
+  "lead": "Rosa (Salvator)",
+  "role": "Peintre italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Salvator Rosa",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 400,
+  "lead": "Feltre (Henri-Jacques-Guillaume Clarke, duc de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "duc de Feltre",
+    "maréchal Feltre",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 401,
+  "lead": "Vertot (René Aubert de)",
+  "role": "Homme d'église français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "abbé Vertot",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 402,
+  "lead": "Daru (Pierre-Antoine)",
+  "role": "Homme politique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Daru",
+    "Pierre-Antoine-Noël-Mathieu Bruno Daru",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 403,
+  "lead": "Drouot (Antoine)",
+  "role": "Général d'artillerie français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Drouot",
+    "Antoine Drouot",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 404,
+  "lead": "Carnot (Lazare)",
+  "role": "Homme politique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Carnot",
+    "Lazare Carnot",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Louis XIV",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 405,
+  "lead": "Schnetz (Jean-Victor)",
+  "role": "Peintre français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Schnetz",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 406,
+  "lead": "Shandy (madame)",
+  "role": "Personnage de Sterne, femme de Gauthier Shandy.",
+  "location": null,
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 149,
+  "lead": "Roberspierre",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 265,
+  "lead": "Roméo",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 266,
+  "lead": "Juliette",
+  "role": "Personnage de Shakespeare.",
+  "location": null,
+  "type": 2,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}

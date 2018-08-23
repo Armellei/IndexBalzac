@@ -1,0 +1,440 @@
+{
+  "id": 461,
+  "lead": "Crochard (Caroline)",
+  "role": "Jeune femme en 1815, elle brode pour subvenir aux besoin du foyer. Vit avec Robert en 1816. A un fils de quatre ans et demi en 1821, Charles, et une petite fille, Eugénie, alors qu'elle a 24 ans et qu'elle a pris le nom de Caroline de Bellefeuille. Elle apprendra que son compagnon Robert était marié au bout de 7 ans. Âgée d'une trentaine d'années environ, elle vit pauvrement rue de Gaillon, amoureuse de Solvet, un joueur doué de tous les vices possibles qui lui vola toute sa fortune. Horace Bianchon la soigna en décembre 1833. ",
+  "location": "Paris, au coin de la rue du Tourniquet et de la Tixeranderie",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Caroline",
+    "Caroline Crochard",
+    "Caroline de Bellefeuille",
+    "mademoiselle de Bellefeuille",
+    "mademoiselle Caroline de Bellefeuille",
+  ],
+  "relations": [
+    "@fille de": "462,462",
+    "@courtisée par": "464",
+    "@amoureuse de": "485,464",
+    "@mère de": "466,467",
+  ]
+},
+{
+  "id": 462,
+  "lead": "Crochard (madame)",
+  "role": "Mère de Caroline Crochard. Chantait dans les choeurs de l'Opéra avant la Révolution. Sexagénaire en 1815. Meurt en 1822 en disant à l'abbé Fontanon qui est le protecteur de sa fille.",
+  "location": "Paris, au coin de la rue du Tourniquet et de la Tixeranderie",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "madame Crochard",
+    "la veuve Crochard",
+  ],
+  "relations": [
+    "@mère de": "461",
+    "@mariée à": "463",
+    "@amie de": "468",
+  ]
+},
+{
+  "id": 463,
+  "lead": "Crochard (feu monsieur)",
+  "role": "Était danseur à l’Opéra avant la Révolution. Capitaine dans l’armée de Sambre-et-Meuse puis colonel, fut blessé à Lutzen et revint mourir à Paris après un an de maladie.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Crochard",
+  ],
+  "relations": [
+    "@marié à": "462",
+    "@père de": "461",
+  ]
+},
+{
+  "id": 168,
+  "lead": "Molineux (Jean-Baptiste)",
+  "role": "Propriétaire parisien.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "monsieur Molineux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 37,
+  "lead": "Roguin (madame)",
+  "role": "Demoiselle Chevrel. Envoie sa fille Mathilde chez le peintre Servin.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "madame Roguin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 465,
+  "lead": "femme de chambre",
+  "role": "Femme de chambre de Caroline de bellefeuille.",
+  "location": "Paris, rue Taitbout",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 466,
+  "lead": "Crochard (Charles)",
+  "role": "Fils de Caroline et Roger de Bellefeuille. Commet un vol assez considérable en 1833 chez l'un des amis de son demi-frère le baron Eugène de Granville.",
+  "location": "Paris, rue Taitbout",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Charles",
+    "Charles Crochard",
+  ],
+  "relations": [
+    "@fils de": "464,461",
+  ]
+},
+{
+  "id": 467,
+  "lead": "Crochard (Eugénie)",
+  "role": "Fille de Caroline et Roger de Bellefeuille.",
+  "location": "Paris, rue Taitbout",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Eugénie",
+    "Eugénie crochard",
+    "mademoiselle Eugénie de Bellefeuille",
+  ],
+  "relations": [
+    "@fille de": "464,461",
+  ]
+},
+{
+  "id": 468,
+  "lead": "Françoise",
+  "role": "Amie de madame Crochard.",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "F",
+  "aliases": [
+    "la vieille Françoise",
+  ],
+  "relations": [
+    "@amie de": "462",
+  ]
+},
+{
+  "id": 469,
+  "lead": "Fontanon (abbé)",
+  "role": "Abbé dirigeant les consciences de la famille Bontems. Chanoine de la cathédrale de Bayeux en 1808, âgé d'environ 38 ans, il vint à Paris par l’ambition de parvenir à l’une des cures de la capitale, poste qu’il envisageait peut-être comme le marche-pied d’un évêché.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "l’abbé",
+    "Fontanon",
+    "abbé Fontanon",
+    "monsieur Fontanon",
+    "confesseur de la comtesse",
+    "Chanoine de la cathédrale de Bayeux",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 470,
+  "lead": "servante",
+  "role": "Vieille servante de madame Crochard",
+  "location": "Paris",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 471,
+  "lead": "Simeuse (jumeaux de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+    "Ximeuse",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 472,
+  "lead": "Hauteserre (monsieur d')",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "d'Hauteserre",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 473,
+  "lead": "Granville (comtesse Angélique de)",
+  "role": "Née Angélique Bontems. Amie d'enfance de Roger de Granville, qu'elle épousa en avril 1805. Très dévote. Triste en ménage entre 1806 et 1821. Apprend l'infidélité de son mari avec Caroline Crochard par l'abbé Fontanon. A eu 4 enfants, deux fils et deux filles, avec son mari. S'est réservée l'éducation de ses filles, confiant celle de ses fils à son mari. Élève ses filles de manière stricte, sans les mener à aucun spectacle jusqu'à leur mariage. Quelques temps après le mariage de ses filles, elle se retira à Bayeux dans une de ses terres, économisant et priant, achevant ses jours entre des prêtres et des sacs d’écus, froide jusqu’au dernier moment.",
+  "location": "Bayeux, Paris",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Angélique",
+    "madame Granville",
+    "demoiselle Bontems",
+    "madame de Granville",
+    "mademoiselle Bontems",
+    "comtesse de Granville",
+    "Mademoiselle Angélique Bontems",
+  ],
+  "relations": [
+    "@soeur de": "474",
+    "@fille de": "475,476",
+    "@courtisée par": "464",
+    "@mariée à": "464",
+    "@mère de": "482,483,484,542",
+  ]
+},
+{
+  "id": 474,
+  "lead": "Bontems (mademoiselle)",
+  "role": "Soeur décédée d'Angélique Bontems.",
+  "location": "Bayeux",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+    "@soeur de": "473",
+    "@fille de": "475,476",
+  ]
+},
+{
+  "id": 475,
+  "lead": "Bontems (madame)",
+  "role": "Dévote et mère d'Angélique Bontems.",
+  "location": "Bayeux",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "madame Bontems",
+    "la veuve du père Bontems",
+  ],
+  "relations": [
+    "@mère de": "473,474",
+    "@marié à": "476",
+  ]
+},
+{
+  "id": 476,
+  "lead": "Bontems (feu monsieur)",
+  "role": null,
+  "location": "Bayeux",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "père Bontems",
+    "le vieux Bontems",
+    "citoyen Bontems",
+  ],
+  "relations": [
+    "@père de": "473,474",
+    "@marié à": "475",
+  ]
+},
+{
+  "id": 477,
+  "lead": "Granville (comte de)",
+  "role": "Père de Roger de Granville.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "seigneur de Granville",
+  ],
+  "relations": [
+    "@père de": "464",
+  ]
+},
+{
+  "id": 478,
+  "lead": "Bontems (famille)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "les Bontems",
+  ],
+  "relations": [
+    "@composée de": "476,473,474,475,473",
+  ]
+},
+{
+  "id": 479,
+  "lead": "Granville (famille de)",
+  "role": "Famille noble française originaire de Normandie.",
+  "location": null,
+  "type": 3,
+  "indexation": "G",
+  "aliases": [
+    "les Granville",
+  ],
+  "relations": [
+    "@composée de": "477,464",
+  ]
+},
+{
+  "id": 480,
+  "lead": "Gatienne",
+  "role": "Bonne de madame Bontems.",
+  "location": "Bayeux",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "mademoiselle Gatienne",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 464,
+  "lead": "Granville (comte Roger de)",
+  "role": "Jeune avocat, son père lui proposa d'épouser son amie d'enfance Angélique Bontems, que Roger nommait sa petite femme. Devenu pair de France après la révolution de juillet et l'un des plus célèbres noms de la magistratire française. Marié en avril 1805, il est nommé la même année Avocat-Général près la cour impériale de la Seine et prend un appartement avec sa femme au rez-de-chaussée d’un hôtel qui faisait le coin de la Vieille-Rue-du-Temple et de la rue Neuve-Saint-François, s'enterrant dans le Marais. Son mariage fut malheureux à cause de la bigoterie de sa femme. Triste en ménage entre 1806 et 1821, riche de cent mille livres de rente, appartenant à l’une des meilleures maisons de la Normandie. Âgé d'environ quarante ans en 1815, grand, mince, pâle et vêtu de noir, surnommé par madame Crochard et sa fille "le monsieur noir". A eu 2 enfants hors mariage avec Caroline Crochard, à qui il avoua au bout de sept ans l'existence de sa double famille. A eu deux fils et deux filles avec sa femme Angélique. S'est réservé l'éducation de ses fils, confiant celle de ses filles à sa femme. Marie en 1831 sa dernière fille à Ferdinand Du Tillet. Âgé de 57 ans en 1833.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Roger",
+    "Granville",
+    "monsieur Roger",
+    "comte de Granville",
+    "le jeune Granville",
+    "monsieur Granville",
+    "le pauvre Granville",
+    "vicomte de Granville",
+    "monsieur de Granville",
+    "Le jeune de Granville",
+  ],
+  "relations": [
+    "@courtise": "473",
+    "@courtise": "461",
+    "@fils de": "477",
+    "@père de": "482,467,466,483,484,542",
+    "@marié à": "473",
+  ]
+},
+{
+  "id": 481,
+  "lead": "valet de chambre",
+  "role": "Valet de chambre de Robert de Granville, aux moeurs relâchées, favori du comte.",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "valet de chambre de Granville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 160,
+  "lead": "Bianchon (Horace)",
+  "role": "Célèbre médecin en 1833.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bianchon",
+    "Horace Bianchon",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 482,
+  "lead": "Vandenesse (comtesse Félix de)",
+  "role": "Prénommée Marie-Angélique. Fille aînée d'Angélique et de Robert de Granville. Jeunesse triste et solitaire sous l'oeil avisé de sa mère. Décidée avec sa soeur à prendre pour mari le premier homme venu afin de quitter la maison. Se maria à 20 ans avec Félix de Granville en 1828.",
+  "location": "rue du Rocher, Paris",
+  "type": 2,
+  "indexation": "V",
+  "aliases": [
+    "comtesse de Vandenesse",
+  ],
+  "relations": [
+    "@fille de": "464,473",
+    "@soeur de": "483,484,542",
+  ]
+},
+{
+  "id": 483,
+  "lead": "Granville (vicomte de)",
+  "role": "Fils aîné d'Angélique et de Robert de Granville. Procureur-Général à Limoges puis premier président à Orléans.",
+  "location": "Limoges, Orléans.",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+    "@frère de": "482,484,542",
+    "@fils de": "464,473",
+  ]
+},
+{
+  "id": 484,
+  "lead": "Granville (baron Eugène de)",
+  "role": "Fils cadet d'Angélique et de Robert de Granville. Procureur du roi à Paris.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Eugène",
+  ],
+  "relations": [
+    "@frère de": "482, 484",
+    "@fils de": "464,473",
+  ]
+},
+{
+  "id": 485,
+  "lead": "Solvet",
+  "role": "Amant de Caroline Crochard, joueur, dépensier.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 486,
+  "lead": "chiffonnier",
+  "role": "Chiffonnier croisé au coin de la rue Chaussée-D'Antin par Horace Bianchon et de comte de Granville, à qui ce dernier donna un billet de mille francs.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}

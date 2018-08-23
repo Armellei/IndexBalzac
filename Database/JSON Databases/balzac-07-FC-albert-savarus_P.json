@@ -1,0 +1,1015 @@
+{
+  "id": 388,
+  "lead": "archevêque de Besançon",
+  "role": "Se produisait sous la Restauration dans le salon de la baronne de Watteville.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 387,
+  "lead": "Watteville (baronne de)",
+  "role": "Née de Rupt. Epousa en 1815 le baron de Watteville, sa fortune étant considérable. Veut marier sa fille Rosalie à monsieur de Soulas, cette dernière refusant, elle l'épouse elle-même après la mort de son mari et aura deux enfants, un garçon et une fille.",
+  "location": "Besançon, rue de la Préfecture",
+  "type": 2,
+  "indexation": "W",
+  "aliases": [
+    "Clotilde de Rupt",
+    "madame de Soulas",
+    "madame Watteville",
+    "madame de Watteville",
+    "mademoiselle de Rupt",
+    "madame la comtesse de Soulas",
+    "madame la baronne de Watteville",
+  ],
+  "relations": [
+    "@mariée à": "404,409",
+    "@mère de": "405",
+    "@emploie": "421,430",
+  ]
+},
+{
+  "id": 404,
+  "lead": "Watteville (baron de)",
+  "role": "Petit-neveu de l'Abbé de Watteville. Homme sec, maigre et sans esprit jouissant d'une ignorance crasse. Epousa en 1815 mademoiselle de Rupt. En 1834, lui et sa femme sont riches depuis 12 ans de cinquante mille francs de rente, et reçoivent la société de Besançon les lundis et vendredis. Mort de congestion dans sa propriété des Riceys en tombant dans le lac après dîner.",
+  "location": "Besançon, rue de la Préfecture",
+  "type": 1,
+  "indexation": "W",
+  "aliases": [
+    "baron de Watteville",
+    "Le dernier Watteville",
+    "monsieur de Watteville",
+    "monsieur le baron de Watteville",
+  ],
+  "relations": [
+    "@marié à": "387",
+    "@père de": "405",
+    "@emploie": "430",
+  ]
+},
+{
+  "id": 405,
+  "lead": "Watteville (Rosalie de)",
+  "role": "À dix-huit ans, mademoiselle de Watteville était une jeune fille frêle, mince, plate, blonde, blanche, et de la dernière insignifiance. Petite-fille naturelle du maréchal de Saxe et petite-nièce du fameux Watteville. Amoureuse de son voisin qu'elle ne pourra jamais épouser, Albert de Savarus. Fut émancipée avant ses 21 ans. Rejoint Paris avec sa mère qui se marie avec monsieur de Soulas. En février 1838, rencontre la duchesse de Réthoré, ancienne amante d'Albert Savarus, pour lui rendre des lettres interceptés entre la duchesse et son ancien amant Albert. Vit ensuite de manière orginale, seule, sur ses terre des Riceys. Quitta Besançon en 1841 et revient mutilée et défigurée par l'exposion d'une chaudière de bateau à vapeur, suite à quoi elle se consacra uniquement à la religion en entrant à la Chartreuse des Rouxeys.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "W",
+  "aliases": [
+    "Rosalie",
+    "mademoiselle Rosalie",
+    "Rosalie de Watteville",
+    "mademoiselle de Watteville",
+    "mademoiselle Rosalie de Watteville",
+  ],
+  "relations": [
+    "@fille de": "387,404",
+    "@courtisée par": "409",
+    "@emploie": "421",
+    "@amoureuse de": "408",
+  ]
+},
+{
+  "id": 432,
+  "lead": "Watteville (famille)",
+  "role": null,
+  "location": "Besançon",
+  "type": 3,
+  "indexation": "W",
+  "aliases": [
+    "les Watteville",
+  ],
+  "relations": [
+    "@composée de": "405,387,404",
+  ]
+},
+{
+  "id": 406,
+  "lead": "Rupt (famille de)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "R",
+  "aliases": [
+    "les Rupt",
+    "famille de Rupt",
+  ],
+  "relations": [
+    "@composée de": "387",
+  ]
+},
+{
+  "id": 407,
+  "lead": "Grancey (abbé de)",
+  "role": "Vicaire-général du diocèse de Besançon.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "abbé de Grancey",
+    "vicaire-général",
+    "le vicaire-général",
+    "le Vicaire-général",
+    "monsieur de Grancey",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 434,
+  "lead": "Savarus (comte de)",
+  "role": "Père d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "comte de Savarus",
+  ],
+  "relations": [
+    "@père de": "408",
+  ]
+},
+{
+  "id": 408,
+  "lead": "Savarus (Albert)",
+  "role": "Avocat. De taille moyenne, ni maigre ni gras. Avant 1830, il était Maître des requêtes au Conseil d’État, attaché à la présidence du conseil des ministres, bien vu du Dauphin et de la Dauphine. A gagné le procès en faveur de l'archevêque de Besançon. Publie une nouvelle dans sa Revue sous le nom de Rodolphe. Amoureux de la duchesse d'Argaiolo, il attendit la mort de son mari pour l'épouser, mais Rosalie de Watteville sabota en secret leur réunion. Devint frère Albert en 1836 en entrant à la Grande Chartreuse comme novice, près de Grenoble.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "A. S.",
+    "Albert",
+    "Savarus",
+    "Savaron",
+    "Alberto",
+    "Rodolphe",
+    "frère Albert",
+    "Albert Savarus",
+    "Albert Savaron",
+    "monsieur Albert",
+    "monsieur Savaron",
+    "monsieur de Savarus",
+    "monsieur Albert Savaron",
+    "comte Savaron de Savarus",
+    "Albert Savaron de Savarus",
+    "comte Albert Savaron de Savarus",
+  ],
+  "relations": [
+    "@emploie": "417",
+    "@fils de": "434",
+    "@amoureux de": "429",
+    "@ami de": "377",
+  ]
+},
+{
+  "id": 409,
+  "lead": "Soulas (Amédée de)",
+  "role": "Descendant d'une famille espagnole. En 1834, Amédée était un jeune homme de vingt-cinq ans, de taille moyenne, brun, le thorax violemment prononcé, les épaules à l’avenant, les cuisses un peu rondes, le pied déjà gras, la main blanche et potelée, un collier de barbe, des moustaches qui rivalisaient celles de la garnison, une bonne grosse figure rougeaude, le nez écrasé, les yeux bruns et sans expression.",
+  "location": "rue Neuve au coin de la rue Perron, Besançon",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Soulas",
+    "Amédée",
+    "monsieur Amédée",
+    "Amédée de Soulas",
+    "monsieur de Soulas",
+    "comte Amédée de Souleyaz",
+    "Amédée-Sylvain-Jacques de Soulas",
+  ],
+  "relations": [
+    "@emploie": "413",
+    "@courtise": "405",
+    "@marié à": "387",
+  ]
+},
+{
+  "id": 410,
+  "lead": "Savaron de Savarus (famille)",
+  "role": "L'une des plus vieilles, plus nobles et plus riches familles de Belgique.",
+  "location": "Belgique",
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+    "composée de:415",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 411,
+  "lead": "Chavoncourt (madame de)",
+  "role": "Mère de quatre enfants et femme de monsieur de Chavoncourt. L'une des belles femmes de Besançon à 40 ans.",
+  "location": "Besançon",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "madame de Chavoncourt",
+  ],
+  "relations": [
+    "@mère de": "426,427",
+    "@mariée à": "433",
+  ]
+},
+{
+  "id": 433,
+  "lead": "Chavoncourt (monsieur de)",
+  "role": "Homme très-estimé dans Besançon, représentant une vieille famille parlementaire ; sa fortune, d’environ quinze mille francs de rente, ne choquait personne, d’autant plus qu’il avait un fils et trois filles.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "monsieur de Chavoncourt",
+  ],
+  "relations": [
+    "@marié à": "411",
+    "@père de": "426,427",
+  ]
+},
+{
+  "id": 435,
+  "lead": "Chavoncourt (fils)",
+  "role": null,
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Le jeune Chavoncourt",
+  ],
+  "relations": [
+    "@fils de": "433,411",
+    "@frère de": "426,427",
+  ]
+},
+{
+  "id": 412,
+  "lead": "Soulas (famille de)",
+  "role": "Famille d'origine espagnole.",
+  "location": null,
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+    "Les Soulas",
+  ],
+  "relations": [
+    "@composée de": "409",
+  ]
+},
+{
+  "id": 413,
+  "lead": "Babylas",
+  "role": "Fils de fermier, trapu, petit domestique d'Amédée de Soulas.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "le tigre Babylas",
+  ],
+  "relations": [
+    "@employé par": "409",
+  ]
+},
+{
+  "id": 414,
+  "lead": "Galard (mademoiselle)",
+  "role": "Loue le premier étage de sa maison à Albert Savarus en 1829.",
+  "location": "rue du Perron, Besançon",
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "mademoiselle Galard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 415,
+  "lead": "Savarus (mademoiselle)",
+  "role": "Riche et unique héritière de la famille Savaron de Savarus.",
+  "location": "Province de Brabant, Belgique",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 416,
+  "lead": "Galard (monsieur)",
+  "role": null,
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "bonhomme Galard",
+    "feu monsieur Galard",
+  ],
+  "relations": [
+    "@emploie": "417",
+  ]
+},
+{
+  "id": 417,
+  "lead": "Jérôme",
+  "role": "Ancien valet de chambre de feu monsieur Galard, sachant faire un peu de cuisine. Employé par Albert Savarus lorsqu'il arrive à Besançon.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "416,408",
+  ]
+},
+{
+  "id": 418,
+  "lead": "Garceneault (monsieur de)",
+  "role": "Conseille de prendre Albert Savaron comme avocat à l'archevêque de Besançon.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "monsieur de Garceneault",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 419,
+  "lead": "Giradet (monsieur)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Girardet",
+    "monsieur Girardet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 420,
+  "lead": "Giroud (abbé)",
+  "role": "Confessa mademoiselle de Watteville.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "abbé Giroud",
+    "monsieur Giroud",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 421,
+  "lead": "Mariette",
+  "role": "Femme de chambre de madame et de mademoiselle de Watteville.",
+  "location": "Besançon",
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+    "@employée par": "387,405",
+  ]
+},
+{
+  "id": 422,
+  "lead": "Berquet",
+  "role": "Maçon mandaté par monsieur de Watteville pour creuser une cave dans son jardon.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 423,
+  "lead": "Boucher (monsieur)",
+  "role": "Premier client d'Albert Savarus.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "monsieur Boucher",
+    "monsieur Boucher le père",
+  ],
+  "relations": [
+    "@marié à": "424",
+    "@père de": "425",
+  ]
+},
+{
+  "id": 424,
+  "lead": "Boucher (madame)",
+  "role": null,
+  "location": "Besançon",
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "madame Boucher",
+  ],
+  "relations": [
+    "@mariée à": "423",
+    "@mère de": "425",
+  ]
+},
+{
+  "id": 425,
+  "lead": "Boucher (Alfred)",
+  "role": "Jeune homme de 22 ans, très avide de gloire, à qui Alfred Savarus fit désirer la direction de sa Revue.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Alfred",
+    "Alfred Boucher",
+    "le jeune Boucher",
+  ],
+  "relations": [
+    "@fils de": "423,424",
+  ]
+},
+{
+  "id": 377,
+  "lead": "Hannequin (Léopold)",
+  "role": "Ami d'enfance d'Albert Savarus.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Léopold",
+    "Hannequin",
+    "Léopold Hannequin",
+    "maître Léopold Hannequin",
+  ],
+  "relations": [
+    "@ami de": "408",
+  ]
+},
+{
+  "id": 598,
+  "lead": "Chavoncourt (les petites de)",
+  "role": "Soeurs Chavoncourt.",
+  "location": "Besançon",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "petites Chavoncourt",
+    "les petites Chavoncourt",
+    "les petites de Chavoncourt",
+    "les deux demoiselles de Chavoncourt",
+  ],
+  "relations": [
+    "@composé de": "426,427",
+  ]
+},
+{
+  "id": 426,
+  "lead": "Chavoncourt (Sidonie de)",
+  "role": "Soeur cadette de Victoire de Chavoncourt.",
+  "location": "Besançon",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Sidonie",
+    "Sidonie de Chavoncourt",
+    "mademoiselle de Chavoncourt",
+    "mademoiselle Sidonie de Chavoncourt",
+  ],
+  "relations": [
+    "@fille de": "411,433",
+    "@soeur de": "435,427",
+  ]
+},
+{
+  "id": 427,
+  "lead": "Chavoncourt (Victoire de)",
+  "role": "Soeur aînée de Sidonie de Chavoncourt.",
+  "location": "Besançon",
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Victoire",
+    "Victoire de Chavoncourt",
+  ],
+  "relations": [
+    "@fille de": "411,433",
+    "@soeur de": "435,426",
+  ]
+},
+{
+  "id": 428,
+  "lead": "Argaiolo (duc d')",
+  "role": "Vieil homme marié à Francesca, princesse Soderini.",
+  "location": null,
+  "type": 1,
+  "indexation": "A",
+  "aliases": [
+    "Argaiolo",
+    "duc d’Argaiolo",
+  ],
+  "relations": [
+    "@marié à": "381",
+  ]
+},
+{
+  "id": 429,
+  "lead": "Argaiolo (duchesse Francesca d')",
+  "role": "Née princesse Soderini. Mariée à un vieil homme, le duc d'Argaiolo, elle épousera  en secondes noces, alors que sa fortune était l'une des plus considérables d'Italie, Alphonse de Chaulieu, duc de Réthoré.",
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+    "Francesca Soderini",
+    "duchesse d’Argaiolo",
+    "duchesse de Rhétoré",
+    "princesse Soderini",
+    "madame la duchesse d’Argaiolo",
+  ],
+  "relations": [
+    "@mariée à": "380,429",
+    "@fille de": "441",
+    "@courtisée par": "408",
+  ]
+},
+{
+  "id": 17,
+  "lead": "Chaulieu (Alphonse de, duc de Réthoré)",
+  "role": "Peu aimable. Épousera la duchesse d'Argaiolo à Florence.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Alphonse",
+    "duc de Rhétoré",
+    "monsieur le duc de Rhétoré",
+    "Alphonse de Chaulieu, duc de Réthoré",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 107,
+  "lead": "Chaulieu (monsieur de)",
+  "role": "Noble diplomate, duc. A cinquante ans en 1823, blond, bien fait, il possède une taille jeune et a une tournure et des grâces exquises. Refuse un ministère la même année, préférant une ambassade.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "duc de Chaulieu",
+    "monsieur le duc de Chaulieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 441,
+  "lead": "Soderini (prince)",
+  "role": "Père de Francesca, duchesse d'Argaiolo.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "prince Soderini",
+  ],
+  "relations": [
+    "@père de": "429",
+  ]
+},
+{
+  "id": 128,
+  "lead": "Canalis (monsieur de)",
+  "role": "Né en 1800, mesure cinq pieds quatre pouces. Membre de l'Académie française, Maître des Requêtes au Conseil-d’État, et attaché au Ministère des Affaires Étrangères. Jeune homme en 1823 cultivant la société de Madame de Chaulieu. A résidé rue de Paradis-Poissonnière, à Paris, au numéro 29.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Canalis",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 430,
+  "lead": "Modinier",
+  "role": "Espèce de maître Jacques, vieux domestique de la maison Watteville, gouvernant la terre des Rouxey pour eux.",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+  ],
+  "relations": [
+    "@employé par": "387,404",
+  ]
+},
+{
+  "id": 431,
+  "lead": "Chantonnit (monsieur)",
+  "role": "Maire des Riceys originaire de Neufchâtel.",
+  "location": "Les Riceys",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Chantonnit",
+    "monsieur Chantonnit",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 436,
+  "lead": "Vauchelles (monsieur de)",
+  "role": null,
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Vauchelles",
+    "monsieur de Vauchelles",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 437,
+  "lead": "Granet (monsieur)",
+  "role": "Homme influent à qui Savarus avaot rendu service.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Granet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 438,
+  "lead": "Godenars (abbé de)",
+  "role": "Vicaire général.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Godenars",
+    "abbé de Godenars",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 439,
+  "lead": "Gentillet",
+  "role": "A vendu la vieille calèche de madame de Saint-Vier à Albert Savarus.",
+  "location": "Besançon",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "monsieur Gentillet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 440,
+  "lead": "Saint-Vier (feu madame)",
+  "role": "Dame décédée de Besançon.",
+  "location": "Besançon",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "feu madame Saint-Vier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 577,
+  "lead": "Stopfer (époux)",
+  "role": "Anciens tonneliers à Neufchâtel dans la nouvelle d'Albert Savarus.",
+  "location": "Neufchâtel",
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+    "les époux Stopfer",
+    "la maison Stopfer",
+    "monsieur et madame Stopfer",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 580,
+  "lead": "Colonna (les)",
+  "role": "Prince et princesse venus de Rome ayant séjourné à Neuchâtel dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "famille Colonna",
+    "Le prince et la princesse Colonna",
+  ],
+  "relations": [
+    "@composé de": "585,588",
+  ]
+},
+{
+  "id": 585,
+  "lead": "Colonna (prince)",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "prince Colonne",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 588,
+  "lead": "Colonna (princesse)",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 2,
+  "indexation": "C",
+  "aliases": [
+    "Francesca Colonne",
+    "princesse Colonne",
+    "la princesse Colonna",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 578,
+  "lead": "Gina",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 579,
+  "lead": "Tito",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 587,
+  "lead": "Beauséant (vicomtesse de)",
+  "role": "Née Claire de Bourgogne. Apparaît dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "Claire de Bourgogne",
+    "vicomtesse de Beauséant",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 586,
+  "lead": "Gandolphini (les)",
+  "role": "Personnages dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 3,
+  "indexation": "G",
+  "aliases": [
+    "les Gandolphini",
+  ],
+  "relations": [
+    "@composé de": "584,581",
+  ]
+},
+{
+  "id": 581,
+  "lead": "Gandolphini (prince)",
+  "role": "Prince napolitain dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Emilio",
+    "Lamporani",
+    "prince Gandolphini",
+    "le prince Gandolphini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 584,
+  "lead": "Gandolphini (Francesca, princesse)",
+  "role": "Princesse napolitaine dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 2,
+  "indexation": "G",
+  "aliases": [
+    "Francesca",
+    "signora Lamporani",
+    "princesse Rodolphini",
+    "princesse Gandolphini",
+    "la princesse Gandolphini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 582,
+  "lead": "Lafin-De-Dieu (monsieur)",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "monsieur Lafin-De-Dieu",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 583,
+  "lead": "Jeanrenaud",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "monsieur Jeanrenaud",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 589,
+  "lead": "Bergmann (madame)",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "madame Bergmann",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 590,
+  "lead": "Bergmann (monsieur)",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "monsieur Bergmann",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 592,
+  "lead": "Bergmann (les)",
+  "role": "Personnages dans la nouvelle d'Albert Savarus. Anciens jardiniers en chef de Son Excellence le comte Borroméo à l’isola Bella et à l’isola Madre, sur le lac Majeur.",
+  "location": null,
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "Bergmann",
+    "les Bergmann",
+    "monsieur et madame Bergmann",
+  ],
+  "relations": [
+    "@composée de": "589,590",
+  ]
+},
+{
+  "id": 594,
+  "lead": "Lovelace (les)",
+  "role": null,
+  "location": null,
+  "type": 3,
+  "indexation": "L",
+  "aliases": [
+    "Lovelace",
+    "les Lovelace",
+  ],
+  "relations": [
+    "@composée de": "591,593",
+  ]
+},
+{
+  "id": 591,
+  "lead": "Lovelace (miss Fanny)",
+  "role": "Personnage dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 2,
+  "indexation": "L",
+  "aliases": [
+    "miss Fanny",
+    "Miss Lovelace",
+    "miss Lovelace",
+    "Fanny Lovelace",
+    "miss Fanny Lovelace",
+  ],
+  "relations": [
+    "@fille de": "593",
+  ]
+},
+{
+  "id": 593,
+  "lead": "Lovelace (monsieur)",
+  "role": "Personnage nonagénaire dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Le vieux Lovelace",
+  ],
+  "relations": [
+    "@père de": "591",
+  ]
+},
+{
+  "id": 595,
+  "lead": "Tinti (Clara)",
+  "role": "Cantatrice.",
+  "location": null,
+  "type": 2,
+  "indexation": "T",
+  "aliases": [
+    "Tinti",
+    "la Tinti",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 596,
+  "lead": "Génovèse",
+  "role": "Ténor.",
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 575,
+  "lead": "Nueil (baron Gaston de)",
+  "role": "Vint en à Bayeux en 1822. Devient l'amant de Claire de Bourgogne pendant 9 neuf ans, puis il se maria avant de se tuer d'un coup de fusil de chasse quelques temps plus tard.",
+  "location": "Bayeux",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Gaston de Nueil",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 165,
+  "lead": "Schinner (Hippolyte)",
+  "role": "Possède un appartement rue des Champs-Élysées, a installé son atelier dans les combles d'une maison sise à l’endroit le plus obscur, partant le plus boueux, de la rue de Suresne, presque devant l’église de la Madeleine. Commence à devenir célèbre à 25 ans, à reçu la croix de la Légion-d’Honneur lors d'une exposition.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 597,
+  "lead": "Sormano",
+  "role": "Farouche personnage (Gina) dans la nouvelle d'Albert Savarus.",
+  "location": null,
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+}

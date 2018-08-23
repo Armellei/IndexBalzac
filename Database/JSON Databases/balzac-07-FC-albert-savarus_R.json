@@ -1,0 +1,796 @@
+{
+  "id": 359,
+  "lead": "Watteville (Jean de)",
+  "role": "Abbé français né à Besançon.",
+  "location": null,
+  "type": 1,
+  "indexation": "W",
+  "aliases": [
+    "abbé Watteville",
+    "fameux Watteville",
+    "abbé de Watteville",
+    "Jean de Watteville",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 90,
+  "lead": "Louis XIV",
+  "role": "Roi de France.",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 360,
+  "lead": "Lulli",
+  "role": "Compositeur italien.",
+  "location": null,
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Jean-Baptiste Lully",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 361,
+  "lead": "Athalie",
+  "role": "Personnage-titre de Racine.",
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 362,
+  "lead": "Esther",
+  "role": "Personnage-titre de Racine.",
+  "location": null,
+  "type": 2,
+  "indexation": "E",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 363,
+  "lead": "Portsmouth (duchesse de)",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "P",
+  "aliases": [
+    "duchesse de Portsmouth",
+    "Louise Renée de Penancoët de Keroual",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 364,
+  "lead": "Musset (Alfred de)",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Alfred de Musset",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 365,
+  "lead": "Potier (Charles-Gabriel)",
+  "role": "Acteur français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Pothier",
+    "Charles-Gabriel Potier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 366,
+  "lead": "Brunet",
+  "role": "Acteur français.",
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Jean-Joseph Mira, dit Brunet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 367,
+  "lead": "Granvelle (cardinal)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "cardinal Granvelle",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 74,
+  "lead": "Byron (lord)",
+  "role": "poète",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Byron",
+    "lord Byron",
+    "Lord Byron",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 368,
+  "lead": "Clermont-Mont-Saint-Jean (famille)",
+  "role": "Famille noble originaire de Franche-Comté.",
+  "location": "Franche-Comté",
+  "type": 3,
+  "indexation": "C",
+  "aliases": [
+    "Clermont-Mont-Saint-Jean",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 369,
+  "lead": "Bauffremont (famille)",
+  "role": "Famille noble française.",
+  "location": "France",
+  "type": 3,
+  "indexation": "B",
+  "aliases": [
+    "Beauffremont",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 370,
+  "lead": "Scey (famille de)",
+  "role": "Famille noble française.",
+  "location": "France",
+  "type": 3,
+  "indexation": "S",
+  "aliases": [
+    "de Scey",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 371,
+  "lead": "Grammont (famille)",
+  "role": "Famille noble originaire de Franche-Comté.",
+  "location": "France",
+  "type": 3,
+  "indexation": "G",
+  "aliases": [
+    "Gramont",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 196,
+  "lead": "Hugo (Victor)",
+  "role": "écrivain français",
+  "location": "France",
+  "type": 1,
+  "indexation": "H",
+  "aliases": [
+    "Hugo",
+    "Victor Hugo",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 225,
+  "lead": "Nodier (Charles)",
+  "role": "Ecrivain français",
+  "location": null,
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+    "Nodier",
+    "Charles Nodier",
+    "Jean-Charles-Emmanuel Nodier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 372,
+  "lead": "Fourier (Charles)",
+  "role": "Utopiste et philosophe français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Fourier",
+    "Charles Fourier",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 99,
+  "lead": "Talleyrand (prince de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+    "Monsieur de Talleyrand",
+    "prince de Talleyrand",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 373,
+  "lead": "Caton",
+  "role": "Sénateur romain.",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 374,
+  "lead": "Guthrie (William)",
+  "role": "Écrivain écossais.",
+  "location": "Écosse",
+  "type": 1,
+  "indexation": "G",
+  "aliases": [
+    "Guthrie",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 195,
+  "lead": "Dürer (Albrecht)",
+  "role": "Peintre, graveur et dessinateur allemand",
+  "location": "Allemagne",
+  "type": 1,
+  "indexation": "D",
+  "aliases": [
+    "Albert Durer",
+    "Albert Dürer",
+    "Albrecht Dürer",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 375,
+  "lead": "Pérugin (Le)",
+  "role": "Peintre italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "P",
+  "aliases": [
+    "Pérugin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 376,
+  "lead": "Sand (George)",
+  "role": "Femme de lettres française.",
+  "location": "France",
+  "type": 2,
+  "indexation": "S",
+  "aliases": [
+    "George Sand",
+    "Amantine Aurore Lucile Dupin",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 94,
+  "lead": "Saxe (maréchal de)",
+  "role": "maréchal",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "maréchal de Saxe",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 377,
+  "lead": "Belzébuth",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 378,
+  "lead": "Berryer (Pierre-Antoine)",
+  "role": "Avocat français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Berryer",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 379,
+  "lead": "Agnès",
+  "role": "Personnage de Molière",
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 28,
+  "lead": "Napoléon",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "N",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 38,
+  "lead": "Louis XVI",
+  "role": "roi de France",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 110,
+  "lead": "Tantale",
+  "role": "Personnage mythologique, fils de Zeus.",
+  "location": "Grèce",
+  "type": 1,
+  "indexation": "T",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 380,
+  "lead": "Balthazar",
+  "role": null,
+  "location": "Babylone",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bêl-Shana-Usur",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 381,
+  "lead": "Sixte-Quint",
+  "role": "Pape.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 167,
+  "lead": "Louis-Philippe",
+  "role": "duc d'Orléans",
+  "location": "France",
+  "type": 1,
+  "indexation": "L",
+  "aliases": [
+    "Louis-Philippe d'Orléans",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 382,
+  "lead": "Mirabeau",
+  "role": null,
+  "location": "France",
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "Honoré-Gabriel Riqueti de Mirabeau",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 303,
+  "lead": "Michel (archange)",
+  "role": "Archange",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "archange Michel",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 383,
+  "lead": "Fitz-James (Édouard de )",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "F",
+  "aliases": [
+    "Fitz-James",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 174,
+  "lead": "Héloïse",
+  "role": "chanoine et abesse du Paraclet",
+  "location": null,
+  "type": 2,
+  "indexation": "H",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 626,
+  "lead": "Borroméo (Arese)",
+  "role": "Comte italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Son Excellence le comte Borroméo",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 56,
+  "lead": "Vinci (Léonard de)",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "le grand Léonard",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 627,
+  "lead": "Joconde (la)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "J",
+  "aliases": [
+    "Joconde",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 47,
+  "lead": "Raphaël",
+  "role": "peintre",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Raffaello Sanzio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 124,
+  "lead": "Richardson (Samuel)",
+  "role": "Écrivain anglais.",
+  "location": "Angleterre",
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Samuel Richardson",
+    "Richardson",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 628,
+  "lead": "Canova (Antonio)",
+  "role": "Sculpteur italien.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "Canova",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 629,
+  "lead": "Sforza (famille)",
+  "role": "Famille noble italienne.",
+  "location": "Italie",
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Sforza",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 630,
+  "lead": "Visconti (famille)",
+  "role": "Famille noble italienne.",
+  "location": null,
+  "type": 3,
+  "indexation": "V",
+  "aliases": [
+    "Visconti",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 631,
+  "lead": "Trivulzio (famille)",
+  "role": "Famille noble italienne.",
+  "location": null,
+  "type": 3,
+  "indexation": "T",
+  "aliases": [
+    "Trivulzio",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 632,
+  "lead": "Ursini (famille)",
+  "role": "Famille noble romaine.",
+  "location": null,
+  "type": 3,
+  "indexation": "U",
+  "aliases": [
+    "Ursini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 633,
+  "lead": "Archinto (famille)",
+  "role": "Famille noble italienne.",
+  "location": null,
+  "type": 3,
+  "indexation": "A",
+  "aliases": [
+    "Archinto",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 146,
+  "lead": "César",
+  "role": "général romain",
+  "location": "Rome",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 634,
+  "lead": "Bourrienne (Louis Antoine Fauvelet de)",
+  "role": null,
+  "location": null,
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bourrienne",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 635,
+  "lead": "Bonaparte (Caroline)",
+  "role": "Devenue madame Murat.",
+  "location": null,
+  "type": 2,
+  "indexation": "B",
+  "aliases": [
+    "madame Murat",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 636,
+  "lead": "Abrantès",
+  "role": null,
+  "location": null,
+  "type": 2,
+  "indexation": "A",
+  "aliases": [
+    "madame d’Abrantès",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 218,
+  "lead": "Murat (Joachim)",
+  "role": "personnage politique italien",
+  "location": null,
+  "type": 1,
+  "indexation": "M",
+  "aliases": [
+    "roi Murat",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 114,
+  "lead": "Rossini (Gioachino)",
+  "role": "compositeur italien",
+  "location": null,
+  "type": 1,
+  "indexation": "R",
+  "aliases": [
+    "Rossini",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 131,
+  "lead": "Bossuet (Jacques-Bénigne)",
+  "role": "écrivain",
+  "location": "France",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Bossuet",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 623,
+  "lead": "Villèle (Jean-Baptiste)",
+  "role": "Homme politique français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+    "Villèle",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 380,
+  "lead": "Balthazar",
+  "role": null,
+  "location": "Babylone",
+  "type": 1,
+  "indexation": "B",
+  "aliases": [
+    "Balthasar",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 242,
+  "lead": "Voltaire",
+  "role": "Ecrivain français.",
+  "location": "France",
+  "type": 1,
+  "indexation": "V",
+  "aliases": [
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 250,
+  "lead": "Madeleine (Sainte Marie)",
+  "role": "Disciple de Jésus.",
+  "location": null,
+  "type": 2,
+  "indexation": "M",
+  "aliases": [
+    "Magdeleine",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 637,
+  "lead": "Satan",
+  "role": "Personnage biblique.",
+  "location": null,
+  "type": 1,
+  "indexation": "S",
+  "aliases": [
+    "Bêl-Shana-Usur",
+  ],
+  "relations": [
+  ]
+}
