@@ -11,8 +11,8 @@
     "le père Guillaume",
   ],
   "relations": [
-    "@père de": "32,35",
-    "@marié à": "34",
+    ["@père de", [32,35]],
+    ["@marié à", [34]],
   ]
 },
 {
@@ -31,10 +31,10 @@
     "mademoiselle Augustine Guillaume",
   ],
   "relations": [
-    "@soeur de": "35",
-    "@fille de": "31,34",
-    "@cousine de": "37",
-    "@mariée à": "44",
+    ["@soeur de", [35]],
+    ["@fille de", [31,34]],
+    ["@cousine de", [37]],
+    ["@mariée à", [44]],
   ]
 },
 {
@@ -51,7 +51,7 @@
     "Chevrel",
   ],
   "relations": [
-    "@père de": "34",
+    ["@père de", [34]],
   ]
 },
 {
@@ -67,10 +67,10 @@
     "Mademoiselle Chevrel",
   ],
   "relations": [
-    "@mère de": "32,35",
-    "@mariée à": "31",
-    "@fille de": "33",
-    "@cousine de": "37",
+    ["@mère de", [32,35]],
+    ["@mariée à", [31]],
+    ["@fille de", [33]],
+    ["@cousine de", [37]],
   ]
 },
 {
@@ -87,10 +87,10 @@
     "mademoiselle Virginie",
   ],
   "relations": [
-    "@soeur de": "32",
-    "@fille de": "31,34",
-    "@cousine de": "37",
-    "@mariée à": "36",
+    ["@soeur de", [32]],
+    ["@fille de", [31,34]],
+    ["@cousine de", [37]],
+    ["@mariée à", [36]],
   ]
 },
 {
@@ -107,8 +107,8 @@
     "monsieur Joseph",
   ],
   "relations": [
-    "@employé par": "31",
-    "@marié à": "35",
+    ["@employé par", [31]],
+    ["@marié à", [35]],
   ]
 },
 {
@@ -122,7 +122,7 @@
     "madame Roguin",
   ],
   "relations": [
-    "@cousine de": "34,35,32",
+    ["@cousine de", [34,35,32]],
   ]
 },
 {
@@ -148,7 +148,7 @@
     "monsieur César Birotteau",
   ],
   "relations": [
-    "@marié à": "40",
+    ["@marié à", [40]],
   ]
 },
 {
@@ -163,7 +163,7 @@
     "Constance Birotteau",
   ],
   "relations": [
-    "@mariée à": "39",
+    ["@mariée à", [39]],
   ]
 },
 {
@@ -222,8 +222,8 @@
     "monsieur de Sommervieux",
   ],
   "relations": [
-    "@marié à": "32",
-    "@fils de": "53",
+    ["@marié à", [32]],
+    ["@fils de", [53]],
   ]
 },
 {
@@ -326,7 +326,7 @@
     "chevalier de Sommervieux",
   ],
   "relations": [
-    "@père de": "44",
+    ["@père de", [44]],
   ]
 },
 {
@@ -341,7 +341,7 @@
     "madame la duchesse de Carigliano",
   ],
   "relations": [
-    "@mariée à": "59",
+    ["@mariée à", [59]],
   ]
 },
 {
@@ -356,7 +356,7 @@
     "monsieur et madame Guillaume",
   ],
   "relations": [
-    "@famille de": "31,34,32,35",
+    ["@famille de", [31,34,32,35]],
   ]
 },
 {
@@ -370,7 +370,7 @@
     "monsieur et madame Lebas",
   ],
   "relations": [
-    "@famille de": "35,36",
+    ["@famille de", [35,36]],
   ]
 },
 {
@@ -412,6 +412,31 @@
     "duc de Carigliano",
   ],
   "relations": [
-    "@marié à": "54",
+    ["@marié à", [54]],
+  ]
+},
+{
+  "id": 650,
+  "lead": "commis (second)",
+  "role": "Second commis de M. Guillaume, à l'enseigne du Chat-qui-pelote.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+    "second commis",
+  ],
+  "relations": [
+  ]
+},
+{
+  "id": 651,
+  "lead": "commis (troisième)",
+  "role": "Troisième commis de M. Guillaume, à l'enseigne du Chat-qui-pelote.",
+  "location": "Paris",
+  "type": 1,
+  "indexation": "C",
+  "aliases": [
+  ],
+  "relations": [
   ]
 }
