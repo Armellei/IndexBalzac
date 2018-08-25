@@ -1,5 +1,5 @@
 {
-  "id": 95,
+  "id": ﻿95,
   "lead": "Maucombe (Renée de)",
   "role": "Sort du couvent des Carmélites de Blois. Âgée de 17 ans en 1823 - 1824.",
   "location": "Bastide de La Crampade, vallée de Gémenos, Provence",
@@ -17,13 +17,13 @@
     "Renée",
   ],
   "relations": [
-    "@amie de": "101",
-    "@soeur de": "114",
-    "@fille de": "115",
-    "@bru de": "113",
-    "@mariée à": "110",
-    "@mère de": "142,140,153",
-    "@emploie": "146,154,155",
+    ["@amie de", [101]],
+    ["@soeur de", [114]],
+    ["@fille de", [115]],
+    ["@bru de", [113]],
+    ["@mariée à", [110]],
+    ["@mère de", [142,140,153]],
+    ["@emploie", [146,154,155]],
   ]
 },
 {
@@ -49,7 +49,7 @@
   "aliases": [
   ],
   "relations": [
-    "@composée de": "100,101,104,107",
+    ["@composée de", [100,101,104,107]],
   ]
 },
 {
@@ -96,9 +96,9 @@
     "Alphonse de Chaulieu, duc de Réthoré",
   ],
   "relations": [
-    "@marié à": "429",
-    "@frère de": "101,109",
-    "@fils de": "104,107",
+    ["@marié à", [429]],
+    ["@frère de", [101,109]],
+    ["@fils de", [104,107]],
   ]
 },
 {
@@ -126,13 +126,13 @@
     "mademoiselle Armande-Louise-Marie de Chaulieu",
   ],
   "relations": [
-    "@amie de": "95",
-    "@fille de": "104,107",
-    "@petite-fille de": "102",
-    "@soeur de": "100,109",
-    "@belle-soeur de": "140,143",
-    "@nièce de": "141",
-    "@emploie": "103,99,98",
+    ["@amie de", [95]],
+    ["@fille de", [104,107]],
+    ["@petite-fille de", [102]],
+    ["@soeur de", [100,109]],
+    ["@belle-soeur de", [140,143]],
+    ["@nièce de", [141]],
+    ["@emploie", [103,99,98]],
   ]
 },
 {
@@ -146,7 +146,7 @@
     "princesse de Vaurémont",
   ],
   "relations": [
-    "@grand-mère de": "101",
+    ["@grand-mère de", [101]],
   ]
 },
 {
@@ -159,7 +159,7 @@
   "aliases": [
   ],
   "relations": [
-    "@employée par": "101",
+    ["@employée par", [101]],
   ]
 },
 {
@@ -220,8 +220,8 @@
     "duc de Chaulieu",
   ],
   "relations": [
-    "@marié à": "104",
-    "@père de": "101,100,109",
+    ["@marié à", [104]],
+    ["@père de", [101,100,109]],
   ]
 },
 {
@@ -251,9 +251,9 @@
     "duc de Lenoncourt-Chaulieu",
   ],
   "relations": [
-    "@frère de": "101,100",
-    "@fils de": "104,107",
-    "@marié à": "143",
+    ["@frère de", [101,100]],
+    ["@fils de", [104,107]],
+    ["@marié à", [143]],
   ]
 },
 {
@@ -270,9 +270,9 @@
     "chevalier de l’Estorade",
   ],
   "relations": [
-    "@fils de": "112,113",
-    "@marié à": "95",
-    "@père de": "142,140,153",
+    ["@fils de", [112,113]],
+    ["@marié à", [95]],
+    ["@père de", [142,140,153]],
   ]
 },
 {
@@ -299,7 +299,7 @@
     "baronne de l’Estorade",
   ],
   "relations": [
-    "@mère de": "110",
+    ["@mère de", [110]],
   ]
 },
 {
@@ -319,8 +319,8 @@
     "Monsieur de l’Estorade le père",
   ],
   "relations": [
-    "@père de": "110",
-    "@beau-père de": "95",
+    ["@père de", [110]],
+    ["@beau-père de", [95]],
   ]
 },
 {
@@ -334,7 +334,7 @@
     "Jean de Maucombe",
   ],
   "relations": [
-    "@frère de": "95",
+    ["@frère de", [95]],
   ]
 },
 {
@@ -348,8 +348,8 @@
     "comte de Maucombe",
   ],
   "relations": [
-    "@père de": "95,114",
-    "@marié à": "116",
+    ["@père de", [95,114]],
+    ["@marié à", [116]],
   ]
 },
 {
@@ -413,9 +413,9 @@
     "Monsieur le baron de Macumer",
   ],
   "relations": [
-    "@frère de": "120",
-    "@fils de": "127,133",
-    "@promis à": "124",
+    ["@frère de", [120]],
+    ["@fils de", [127,133]],
+    ["@promis à", [124]],
   ]
 },
 {
@@ -432,9 +432,9 @@
     "Don Fernand Henarez",
   ],
   "relations": [
-    "@frère de": "119",
-    "@fils de": "127,133",
-    "@marié à": "124",
+    ["@frère de", [119]],
+    ["@fils de", [127,133]],
+    ["@marié à", [124]],
   ]
 },
 {
@@ -460,7 +460,7 @@
     "famille de Soria",
   ],
   "relations": [
-    "@composée de": "127,133,119,120",
+    ["@composée de", [127,133,119,120]],
   ]
 },
 {
@@ -490,9 +490,9 @@
     "duchesse de Soria",
   ],
   "relations": [
-    "@mariée à": "120",
-    "@promise à": "119",
-    "@belle-soeur de": "101",
+    ["@mariée à", [120]],
+    ["@promise à", [119]],
+    ["@belle-soeur de", [101]],
   ]
 },
 {
@@ -531,8 +531,8 @@
     "Clara de Soria",
   ],
   "relations": [
-    "@mère de": "119,120",
-    "@mariée à": "133",
+    ["@mère de", [119,120]],
+    ["@mariée à", [133]],
   ]
 },
 {
@@ -550,7 +550,7 @@
     "Constant Cyr Melchior",
   ],
   "relations": [
-    "@amant de": "104",
+    ["@amant de", [104]],
   ]
 },
 {
@@ -616,8 +616,8 @@
     "duc de Soria, Grand d'Espagne",
   ],
   "relations": [
-    "@marié à": "127",
-    "@père de": "119,120",
+    ["@marié à", [127]],
+    ["@père de", [119,120]],
   ]
 },
 {
@@ -672,7 +672,7 @@
     "marquise de Beauséant",
   ],
   "relations": [
-    "@mariée à": "523",
+    ["@mariée à", [523]],
   ]
 },
 {
@@ -719,8 +719,8 @@
     "mademoiselle Athénaïs de l’Estorade",
   ],
   "relations": [
-    "@fille de": "95,110",
-    "@soeur de": "142,153",
+    ["@fille de", [95,110]],
+    ["@soeur de", [142,153]],
   ]
 },
 {
@@ -734,7 +734,7 @@
     "Mlle de Chaulieu",
   ],
   "relations": [
-    "@tante de": "101",
+    ["@tante de", [101]],
   ]
 },
 {
@@ -750,8 +750,8 @@
     "Armand-Louis de l’Estorade",
   ],
   "relations": [
-    "@fils de": "95,110",
-    "@frère de": "140,153",
+    ["@fils de", [95,110]],
+    ["@frère de", [140,153]],
   ]
 },
 {
@@ -768,9 +768,9 @@
     "mademoiselle de Mortsauf",
   ],
   "relations": [
-    "@mariée à": "109",
-    "@petite-fille de": "144",
-    "@belle-soeur de": "101",
+    ["@mariée à", [109]],
+    ["@petite-fille de", [144]],
+    ["@belle-soeur de", [101]],
   ]
 },
 {
@@ -784,7 +784,7 @@
     "duc de Lenoncourt-Givry",
   ],
   "relations": [
-    "@grand-père de": "143",
+    ["@grand-père de", [143]],
   ]
 },
 {
@@ -810,7 +810,7 @@
   "aliases": [
   ],
   "relations": [
-    "@employée par": "95",
+    ["@employée par", [95]],
   ]
 },
 {
@@ -826,7 +826,7 @@
     "Gaston",
   ],
   "relations": [
-    "@frère de": "150",
+    ["@frère de", [150]],
   ]
 },
 {
@@ -866,8 +866,8 @@
     "Louis-Gaston",
   ],
   "relations": [
-    "@frère de": "147",
-    "@marié à": "159",
+    ["@frère de", [147]],
+    ["@marié à", [159]],
   ]
 },
 {
@@ -911,8 +911,8 @@
     "René de l'Estorade",
   ],
   "relations": [
-    "@fils de": "95,110",
-    "@frère de": "142,140",
+    ["@fils de", [95,110]],
+    ["@frère de", [142,140]],
   ]
 },
 {
@@ -925,7 +925,7 @@
   "aliases": [
   ],
   "relations": [
-    "@employé par": "95",
+    ["@employé par", [95]],
   ]
 },
 {
@@ -938,7 +938,7 @@
   "aliases": [
   ],
   "relations": [
-    "@employé par": "95",
+    ["@employé par", [95]],
   ]
 },
 {
@@ -990,7 +990,7 @@
     "madame Gaston l'aînée",
   ],
   "relations": [
-    "@mariée à": "150",
+    ["@mariée à", [150]],
   ]
 },
 {
