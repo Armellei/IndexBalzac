@@ -134,3 +134,8 @@ marquis d’Aiglemont
 59>Carigliano (duc de)>duc>Paris>1>C
 @marié à:54
 duc de Carigliano
+
+650>commis (second)>Second commis de M. Guillaume, à l'enseigne du Chat-qui-pelote.>Paris>1>C
+second commis
+
+651>commis (troisième)>Troisième commis de M. Guillaume, à l'enseigne du Chat-qui-pelote.>Paris>1>C
