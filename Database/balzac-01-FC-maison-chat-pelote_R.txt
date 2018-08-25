@@ -55,3 +55,6 @@ Hippolyte comte de Douglas
 621>Cendrillon>Personnage de conte.>>2>C
 
 622>Noé>Personnage biblique.>>1>N
+
+700>Philidor>Compositeur, joueur d'échecs français.>France>2>P
+monsieur Philidor
